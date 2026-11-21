@@ -1,0 +1,557 @@
+{
+  "date": "2026-11-22",
+  "part": 1,
+  "generatedAt": "2026-11-22T05:30:00+09:00",
+  "sections": [
+    {
+      "id": "asia-pacific",
+      "part": "2. 권역별 뉴스",
+      "name": "1) 아시아-태평양",
+      "note": "",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "필리핀, 트럼프의 '맥아더식 황금 지휘봉' 요청 정중히 거절",
+              "title_orig": "Baton rogue: Trump asks Philippines for MacArthur-style honour, gets polite no",
+              "summary": "트럼프 대통령이 맥아더 장군에게 수여됐던 것과 같은 황금 지휘봉을 요청했으나 필리핀 군은 이를 사양했다. 군 측은 해당 지휘봉이 일회성 역사적 상징일 뿐 현재 군 계급 체계에는 없다고 설명했다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/week-asia/politics/article/3375228/philippine-military-rejects-trumps-request-macarthur-style-gold-baton",
+                  "title": "Baton rogue: Trump asks Philippines for MacArthur-style honour, gets polite no"
+                }
+              ]
+            },
+            {
+              "title_ko": "트럼프 '푸대접' 뒤 김정은, 학용품 공장 연쇄 시찰",
+              "title_orig": "North Korea's Kim Jong-un visits school gear factories after apparent Trump snub",
+              "summary": "SCMP에 따르면 김정은 국무위원장이 트럼프 대통령에게 외면당한 것으로 보이는 상황 직후 학용품·학교용품 생산 공장들을 잇따라 찾았다. 대외 메시지보다 내부 민생 행보를 부각하려는 움직임으로 읽힌다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/asia/east-asia/article/3375305/north-koreas-kim-jong-un-visits-school-gear-factories-after-apparent-trump-snub",
+                  "title": "North Korea's Kim Jong-un visits school gear factories after apparent Trump snub"
+                }
+              ]
+            },
+            {
+              "title_ko": "필리핀, 방공·로켓 전력 보강 위해 인도로 시선",
+              "title_orig": "Layered defence: why Philippines is looking to India for more weapons",
+              "summary": "필리핀이 이미 도입한 브라모스 미사일에 더해 인도의 아카시 방공체계와 피나카 다연장로켓 도입을 추진 중인 것으로 알려졌다. 기사는 마닐라가 왜 인도를 새 무기 공급처로 주목하는지 분석한다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/week-asia/politics/article/3375245/why-philippines-turning-india-boost-defence-capabilities",
+                  "title": "Layered defence: why Philippines is looking to India for more weapons"
+                }
+              ]
+            },
+            {
+              "title_ko": "다카이치 정부, 음모론 유튜버 기용한 안보 홍보에 비판",
+              "title_orig": "Japan government criticised over conspiracy-theory YouTuber in security PR push",
+              "summary": "다카이치 사나에 총리 정부가 젊은 층에 국가안보를 알리려고 음모론 콘텐츠로 알려진 크리에이터를 기용해 비판을 받고 있다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/asia/east-asia/article/3375304/japan-government-criticised-over-conspiracy-theory-youtuber-security-pr-push",
+                  "title": "Japan government criticised over conspiracy-theory YouTuber in security PR push"
+                }
+              ]
+            },
+            {
+              "title_ko": "말레이시아 느그리슴빌란 궁정, 주총리 유임 요청설 부인",
+              "title_orig": "Negeri Sembilan palace denies asking chief minister to stay in office",
+              "summary": "느그리슴빌란주 왕실은 이스마일 라심 주총리에게 자리를 유지해 달라고 요청한 적이 없다고 밝혔다. 라심 주총리는 사직서를 제출하거나 통수권자에게 보내는 데 동의한 적이 없다고 말했다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/week-asia/politics/article/3375217/malaysias-negeri-sembilan-palace-denies-asking-chief-minister-stay-office",
+                  "title": "Negeri Sembilan palace denies asking chief minister to stay in office"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [
+            {
+              "title_ko": "일본, '아시아판 IEA' 구상 제안…역내 호응 얻을까",
+              "title_orig": "Japan wants an Asian energy agency. Will the region buy in?",
+              "summary": "다카이치 총리가 마닐라에서 열린 아시아 제로에미션 공동체 회의에서 아시아 지역 에너지 기구(‘아시아판 IEA’) 설립을 제안했다. 기사는 역내 각국 정부가 이 구상을 지지할지를 짚는다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/week-asia/economics/article/3375246/japan-wants-asian-energy-agency-will-region-buy",
+                  "title": "Japan wants an Asian energy agency. Will the region buy in?"
+                }
+              ]
+            },
+            {
+              "title_ko": "인도네시아-EU, '야심찬' 무역협정 서명",
+              "title_orig": "Indonesia, EU sign ‘ambitious’ trade deal",
+              "summary": "SCMP는 인도네시아와 유럽연합이 무역협정에 서명했고 이를 '야심찬' 합의로 평가했다고 전했다. 세부 관세·투자 조항은 본 점검에서 확인하지 못했다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/asia/southeast-asia/article/3375341/indonesia-eu-sign-ambitious-trade-deal",
+                  "title": "Indonesia, EU sign ‘ambitious’ trade deal"
+                }
+              ]
+            },
+            {
+              "title_ko": "EU의 동남아 공략, 자금난에 막히고 중국이 격차 확대",
+              "title_orig": "EU’s Southeast Asia push hits funding crunch as China widens lead",
+              "summary": "제목 기준으로, EU의 동남아 진출 노력이 재원 부족에 부딪힌 사이 중국이 영향력 격차를 넓히고 있다는 분석이다. 정확한 게시일은 확인하지 못했으며 최근 1주 안팎의 기사로 보인다.",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/week-asia/politics/article/3373510/eus-southeast-asia-push-hits-funding-crunch-china-widens-lead",
+                  "title": "EU’s Southeast Asia push hits funding crunch as China widens lead"
+                }
+              ]
+            }
+          ],
+          "note": "경제 기사는 3건뿐이며, 지정 매체 직접 열람이 제한돼 SCMP 위주로 구성함"
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [
+            {
+              "title_ko": "일본 '토끼 섬', 귀여운 토끼와 어두운 전쟁사로 관광객 끌어",
+              "title_orig": "Japan's 'Rabbit Island' draws tourists with fluffy bunnies and dark wartime past",
+              "summary": "오쿠노시마는 연 20만 명가량의 관광객을 끄는 토끼 섬으로 유명하지만, 전쟁 중 일본 제국 육군의 비밀 화학무기 공장이 있던 곳이기도 하다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/asia/east-asia/article/3375307/japans-rabbit-island-draws-tourists-fluffy-bunnies-and-dark-wartime-past",
+                  "title": "Japan's 'Rabbit Island' draws tourists with fluffy bunnies and dark wartime past"
+                }
+              ]
+            },
+            {
+              "title_ko": "싱가포르 법원, 닭 피하려 급제동한 운전기사 상대 소송 기각",
+              "title_orig": "Fowl play? Singapore passenger gets US$11,625 bill after driver spares chicken",
+              "summary": "싱가포르 지방법원 판사는 수탉을 피하려고 운전기사가 급제동해 다쳤다는 승객의 과실 주장을 기각하며 '삶에서 있을 수 있는 일'이라고 판단했다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/week-asia/people/article/3375178/no-fowl-play-singapore-judge-throws-out-passenger-lawsuit-after-driver-stops-chicken",
+                  "title": "Fowl play? Singapore passenger gets US$11,625 bill after driver spares chicken"
+                }
+              ]
+            },
+            {
+              "title_ko": "필리핀 대사 \"머스크, 필리핀 섬 한두 곳 개발 중\"",
+              "title_orig": "Elon Musk quietly developing '1 or 2' Philippine islands, Manila envoy says",
+              "summary": "호세 마누엘 로무알데스 주미 필리핀 대사는 일론 머스크가 조용히 자주 방문하며 섬 한두 곳을 개발하고 있다고 말했다. 머스크 측은 이에 대해 입장을 내지 않았다고 SCMP는 전했다.",
+              "published": "2026-11-19",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/week-asia/people/article/3375057/elon-musk-quietly-developing-one-or-two-philippine-islands-manila-envoy-says",
+                  "title": "Elon Musk quietly developing '1 or 2' Philippine islands, Manila envoy says"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사건사고",
+          "items": [
+            {
+              "title_ko": "말레이시아 공군기지 의심 가방에서 마약 적발…안와르 \"단속 강화\"",
+              "title_orig": "Anwar vows action after suspect bags at Malaysian airbase lead to US$1.2m bust",
+              "summary": "말레이시아 공군기지에서 발견된 수상한 가방을 계기로 약 120만 달러 규모의 마약이 적발됐다. 당국은 군 인력과 시설을 이용해 필리핀·인도네시아로 마약을 밀반출한 조직과 연관됐다고 보고 있으며, 안와르 총리가 강력 대응을 다짐했다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/week-asia/health-environment/article/3375162/anwar-vows-crackdown-after-suspicious-bags-malaysian-airbase-lead-us12m-drug-bust",
+                  "title": "Anwar vows action after suspect bags at Malaysian airbase lead to US$1.2m bust"
+                }
+              ]
+            },
+            {
+              "title_ko": "쿠알라룸푸르 경찰 \"의심되면 쏴라\" 지시 논란",
+              "title_orig": "'If there is doubt, shoot': why a Malaysian police order has critics on edge",
+              "summary": "쿠알라룸푸르 경찰 수장의 발언 음성이 무력 사용 기준을 낮춘다는 전문가 우려가 나온다. 비판자들은 바디캠 미비와 10년간 327건의 사망 사례를 근거로 든다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/week-asia/people/article/3375203/if-there-doubt-shoot-why-malaysian-police-order-has-critics-edge",
+                  "title": "'If there is doubt, shoot': why a Malaysian police order has critics on edge"
+                }
+              ]
+            },
+            {
+              "title_ko": "베트남, 마약 밀매 사형 폐지",
+              "title_orig": "Vietnam scraps death sentence for drug trafficking",
+              "summary": "베트남은 사형 적용 범죄를 반역·살인·테러·불법 마약 제조 등 4개로 줄이고, 마약 밀매는 사형 대상에서 제외하기로 했다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/asia/southeast-asia/article/3375257/vietnam-scraps-death-sentence-drug-trafficking",
+                  "title": "Vietnam scraps death sentence for drug trafficking"
+                }
+              ]
+            },
+            {
+              "title_ko": "말레이시아, 로힝야 1만 명 튀르키예 이주 구상 게시물 삭제",
+              "title_orig": "Malaysia scrubs post announcing Rohingya repatriation plan to Turkey",
+              "summary": "말레이시아 부총리가 튀르키예와의 합의로 로힝야 난민 1만 명을 이주시킨다고 SNS에 올렸다가 삭제했다. 삭제 이유는 기사에서 확인되지 않는다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/asia/southeast-asia/article/3375243/malaysia-plans-resettle-10000-rohingya-turkey",
+                  "title": "Malaysia scrubs post announcing Rohingya repatriation plan to Turkey"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "china",
+      "part": "2. 권역별 뉴스",
+      "name": "2) 중국",
+      "note": "",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "미·중·러 선전 정상회의, '평화 선언' 발표…핵 위험 대화 합의",
+              "title_orig": "Concrete aims or just symbolism? Trump, Xi and Putin pledge nuclear risk talks",
+              "summary": "트럼프·시진핑·푸틴이 선전 APEC 계기 첫 3자 회동 후 공동 '평화 선언'을 내놨다. 선언에는 핵 위험 관련 대화, 유엔 개혁, 연료 공급 확대 등이 담겼으나, SCMP는 핵 관련 문구가 모호해 구체적 성과보다 상징에 가깝다는 전문가 평가를 소개했다.",
+              "published": "2026-11-20",
+              "event_date": "2026-11-19",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/china/military/article/3375268/concrete-aims-or-just-symbolism-trump-xi-and-putin-talk-nuclear-risk-controls-stall",
+                  "title": "Concrete aims or just symbolism? Trump, Xi and Putin pledge nuclear risk talks"
+                },
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/china/diplomacy/article/3375130/xi-trump-and-putin-peace-declaration-suggests-summit-more-photo-op",
+                  "title": "Xi, Trump and Putin peace declaration suggests summit more photo op"
+                }
+              ]
+            },
+            {
+              "title_ko": "시진핑·트럼프, 군사 AI 판단에 '사람 개입' 합의…베선트 전언",
+              "title_orig": "Xi, Trump agree military AI decisions must involve humans, Bessent says",
+              "summary": "스콧 베선트 미 재무장관은 시진핑 주석과 트럼프 대통령이 군사 분야 AI의 의사결정에 사람이 관여해야 한다는 데 의견을 같이했다고 밝혔다. 당사자 발표가 아니라 미국 측 인사의 전언이라는 점에 유의해야 한다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/china/diplomacy/article/3375321/xi-trump-agree-military-ai-decisions-must-involve-humans-bessent-says",
+                  "title": "Xi, Trump agree military AI decisions must involve humans, Bessent says"
+                }
+              ]
+            },
+            {
+              "title_ko": "시진핑, 트럼프에 대만 문제 압박…미국 무기판매는 어떻게 되나",
+              "title_orig": "Xi presses Trump on Taiwan. Where does that leave US arms sales?",
+              "summary": "시 주석이 트럼프 대통령에게 대만 문제에서 올바르게 대처하라고 요구했다. 한 분석가는 중국이 무기 판매 중단보다는 기존 방어용 무기 유형 안에서의 제한을 원할 가능성을 거론했다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/china/diplomacy/article/3375260/xi-presses-trump-do-right-thing-taiwan-where-does-leave-us-arms-sales",
+                  "title": "Xi presses Trump on Taiwan. Where does that leave US arms sales?"
+                }
+              ]
+            },
+            {
+              "title_ko": "미·중, 정상회담과 병행해 상하이서 해상안보 협의",
+              "title_orig": "US and China hold maritime security talks in parallel with Xi-Trump meetings",
+              "summary": "미 태평양사령부는 상하이에서 열린 협의에서 비안전·비전문적 해상 조우의 위험을 줄이는 방안을 논의했다고 밝혔다. 협의는 정상 간 회동과 병행해 진행됐다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/china/military/article/3375274/us-and-china-hold-maritime-security-talks-parallel-trump-xi-meetings",
+                  "title": "US and China hold maritime security talks in parallel with Xi-Trump meetings"
+                }
+              ]
+            },
+            {
+              "title_ko": "중국 국가안전부 \"타국 희생 위에 절대 안보 없다\"…정상회의 뒤 논평",
+              "title_orig": "China's intelligence agency touts 'common international security' after summit",
+              "summary": "국가안전부는 어느 나라도 다른 나라의 안보를 희생해 '절대적 안보'를 얻을 수 없다고 강조했다. 선전에서 열린 미·중·러 3자 정상회의 이후 나온 논평이다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/china/politics/article/3375207/chinas-top-intelligence-agency-touts-common-international-security-after-summit",
+                  "title": "China's intelligence agency touts 'common international security' after summit"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [
+            {
+              "title_ko": "중국 10월 경제지표 부진…소매판매 둔화",
+              "title_orig": "China’s economic activity falters in October amid sluggish retail sales",
+              "summary": "중국의 10월 경기 지표가 소매판매 부진 속에 전반적으로 힘이 빠졌다고 SCMP가 전했다. 세부 수치는 원문 확인이 필요하며 본 점검에서는 확인하지 못했다.",
+              "published": "2026-11-16",
+              "source": "중국 국가통계국(10월 활동지표, SCMP 인용)",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/economy/economic-indicators/article/3374531/chinas-economic-activity-falters-october-amid-sluggish-retail-sales",
+                  "title": "China’s economic activity falters in October amid sluggish retail sales"
+                }
+              ]
+            },
+            {
+              "title_ko": "이번 주 중국 경제 일정: 10월 지표 부진, 오토 광저우, 샤오미·쉬인 실적",
+              "title_orig": "China-US-Russia talks, economy disappoints, Auto Guangzhou",
+              "summary": "주간 요약은 미·중·러 3자 회담에서 연료 생산 확대에 합의한 점과 10월 경제지표가 예상에 못 미친 점을 짚었다. 다음 주에는 EU와의 통화 협의, 쉬인·샤오미 실적, BYD의 오토 광저우 참가가 예정돼 있다. SCMP+ 구독 기사일 수 있다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/plus/economy/china-economy/article/3375227/china-us-russia-talks-economy-concerns-auto-guangzhou",
+                  "title": "China-US-Russia talks, economy disappoints, Auto Guangzhou"
+                }
+              ]
+            },
+            {
+              "title_ko": "중국, APEC 협력 구상 속에 '선전의 기적' 부각",
+              "title_orig": "How China showcased the 'Shenzhen miracle' in Apec cooperation push",
+              "summary": "제목 기준으로, 중국이 선전 APEC 정상회의에서 선전의 발전 사례를 협력 구상의 홍보 소재로 내세웠다는 분석이다. 본문 세부는 확인하지 못했다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/china/diplomacy/article/3375335/how-china-showcased-shenzhen-miracle-apec-cooperation-push",
+                  "title": "How China showcased the ‘Shenzhen miracle’ in Apec cooperation push"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [
+            {
+              "title_ko": "중국 열대우림서 발견된 호모 에렉투스 치아, 인류 진화 이론에 의문",
+              "title_orig": "Homo erectus teeth found in China's rainforest topple theory of human evolution",
+              "summary": "약 32만4천~18만4천 년 전으로 추정되는 호모 에렉투스 치아가 중국 열대우림 지역 나시안 동굴에서 발견됐다. 이 발견은 기존의 인류 진화 이론에 이의를 제기하는 것으로 소개됐다.",
+              "published": "2026-11-19",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/china/science/article/3374985/homo-erectus-teeth-found-chinas-rainforest-topple-theory-human-evolution",
+                  "title": "Homo erectus teeth found in China's rainforest topple theory of human evolution"
+                }
+              ]
+            },
+            {
+              "title_ko": "멕시코 대통령의 21시간 이코노미석 비행, 중국서 호평",
+              "title_orig": "Mexican president's economy-class journey to Apec summit draws praise in China",
+              "summary": "클라우디아 셰인바움 멕시코 대통령이 이코노미석으로 21시간을 날아 선전에 도착한 뒤 공항 셔틀버스를 탄 모습이 중국 네티즌 사이에서 호평을 받았다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/china/diplomacy/article/3375244/mexican-leader-sheinbaums-21-hour-economy-class-journey-draws-praise-china",
+                  "title": "Mexican president's economy-class journey to Apec summit draws praise in China"
+                }
+              ]
+            },
+            {
+              "title_ko": "APEC 정상들이 두른 실크 스카프에 담긴 상징",
+              "title_orig": "The subtle symbolism behind the silk scarves worn by the Apec leaders",
+              "summary": "선전 APEC 정상들이 착용한 실크 스카프는 전통 기법과 문양을 결합해 '단결'의 메시지를 담았다고 SCMP는 소개했다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/china/diplomacy/article/3375195/subtle-symbolism-behind-silk-scarves-worn-apec-leaders-shenzhen-summit",
+                  "title": "The subtle symbolism behind the silk scarves worn by the Apec leaders"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사건사고",
+          "items": [
+            {
+              "title_ko": "프린스턴대 중국인 박사과정생, 학술회의 뒤 이민세관단속국에 구금",
+              "title_orig": "Princeton PhD student from China detained by ICE after US academic conference",
+              "summary": "프린스턴대 신경과학 박사과정 3년차 이 이 시에(Eva Yi Xie)가 워싱턴 레이건 공항에서 이민세관단속국(ICE)에 구금됐다고 SCMP가 전했다. 구금 사유 등 세부 내용은 확인되지 않았다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/china/diplomacy/article/3375301/princeton-phd-student-china-detained-ice-after-academic-conference",
+                  "title": "Princeton PhD student from China detained by ICE after US academic conference"
+                }
+              ]
+            },
+            {
+              "title_ko": "美 대사관, 멕시코 카르텔 마약 원료 공급 두고 중국 비판",
+              "title_orig": "US embassy targets China over cartel meth as Mexico signs Beijing deals",
+              "summary": "미국 대사관은 중국에서 나온 필로폰 원료가 멕시코 시날로아 카르텔로 흘러간다는 취지로 중국을 비판했다(미국 측 주장). 셰인바움 대통령은 APEC에서 시 주석과 만났지만 자유무역협정은 배제했다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/us/article/3375300/us-embassy-steps-attack-china-over-cartel-meth-mexico-signs-deals-beijing",
+                  "title": "US embassy targets China over cartel meth as Mexico signs Beijing deals"
+                }
+              ]
+            }
+          ],
+          "note": "24시간 내 본토 대형 사고 보도 미확인. 중국 관련 단속·수사 사안 2건만 수록"
+        }
+      ]
+    },
+    {
+      "id": "usa",
+      "part": "2. 권역별 뉴스",
+      "name": "3) 미국",
+      "note": "이 권역은 지정 매체 열람 제한으로 직전 24시간 기사를 충분히 확인하지 못해 항목이 적음",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "미·중·러 정상, 유엔 개혁·연료 공급·핵 대화에 공감 표명",
+              "title_orig": "China and Russia say they and US agree on UN reforms, boosting fuel supplies, dialogue on nuclear",
+              "summary": "AP 보도에 따르면 중국과 러시아는 자신들과 미국이 유엔 개혁, 연료 공급 확대, 핵 관련 대화에 의견이 같다고 밝혔다. 이는 트럼프·시진핑·푸틴의 첫 3자 회동 직후 나온 중·러 측 설명이다.",
+              "published": "2026-11-19",
+              "event_date": "2026-11-19",
+              "links": [
+                {
+                  "outlet": "AP (재게재: ABC13)",
+                  "url": "https://abc13.com/story/nuclear-arms-ending-wars-iran-ukraine-set-top-agenda-trump-xi-putin-meeting/20054435/",
+                  "title": "China and Russia say they and US agree on UN reforms, boosting fuel supplies, dialogue on nuclear"
+                }
+              ]
+            },
+            {
+              "title_ko": "트럼프 \"중국, 마지못해 3자 회담 동의…핵전력 격차 있어\"",
+              "title_orig": "Trump says China agreed to trilateral despite reluctance, notes nuclear gap",
+              "summary": "트럼프 대통령은 중국이 미·러에 비해 핵무기 규모가 훨씬 작아 3자 회담을 꺼렸으나 결국 동의했다고 말했다. 이는 트럼프의 발언을 SCMP가 전한 것으로, 중국 측 입장은 별도로 확인되지 않았다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/us/diplomacy/article/3375296/trump-says-china-agreed-trilateral-despite-reluctance-notes-nuclear-gap",
+                  "title": "Trump says China agreed to trilateral despite reluctance, notes nuclear gap"
+                }
+              ]
+            },
+            {
+              "title_ko": "공화당 중간선거 참패 뒤 의회 복귀…연말 예산·인준 과제",
+              "title_orig": "Congress returns to a changed Washington after GOP's election wipeout",
+              "summary": "AP는 중간선거에서 공화당이 크게 패한 뒤 달라진 워싱턴 정치 지형 속에서 의회가 복귀했다고 전했다. 연말 정부 예산 시한 등 레임덕 회기 과제가 거론된다. 며칠 전 기사로, 최근 정치 지형의 배경으로 포함했다.",
+              "published": "2026-11-09",
+              "links": [
+                {
+                  "outlet": "AP (재게재: WCAX)",
+                  "url": "https://www.wcax.com/2026/11/09/congress-returns-changed-washington-after-gops-election-wipeout/",
+                  "title": "Congress returns to a changed Washington after GOP's election wipeout"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [
+            {
+              "title_ko": "美 10월 일자리 16만5천 개 증가…채용 반등",
+              "title_orig": "U.S. adds 165,000 jobs in October as hiring rebounds",
+              "summary": "AP에 따르면 미국 고용은 10월에 16만5천 개 늘어 채용이 반등했다. 9월에는 증가폭이 2만9천 개에 그쳤다는 보도가 있었다.",
+              "published": "2026-11-06",
+              "figure": "비농업 고용 +165,000명 (2026년 10월, 전월비)",
+              "source": "미 노동통계국(BLS), AP 인용",
+              "links": [
+                {
+                  "outlet": "AP (재게재: WSMV)",
+                  "url": "https://www.wsmv.com/2026/11/06/us-adds-165000-jobs-october-hiring-rebounds/?outputType=amp",
+                  "title": "U.S. adds 165,000 jobs in October as hiring rebounds"
+                }
+              ]
+            },
+            {
+              "title_ko": "뉴욕증시, 변동성 큰 한 주 뒤 주간 기준 상승 마감",
+              "title_orig": "Stocks fall but Wall Street notches a winning week after several turbulent days",
+              "summary": "AP는 11월 13일 뉴욕증시가 당일 하락했지만 며칠간 이어진 변동성에도 주간 기준으로는 상승했다고 전했다. 지수 수치는 확인하지 못했다.",
+              "published": "2026-11-13",
+              "links": [
+                {
+                  "outlet": "AP (재게재: AJC)",
+                  "url": "https://www.ajc.com/news/2026/11/stocks-fall-but-wall-street-notches-a-winning-week-after-several-turbulent-days/",
+                  "title": "Stocks fall but Wall Street notches a winning week after several turbulent days"
+                }
+              ]
+            }
+          ],
+          "note": "직전 24시간 경제 기사를 확인하지 못해 최근 주요 지표·시황 기사로 대체(2건)"
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [],
+          "note": "특이사항 없음 (확인 범위: 웹 검색 결과에서 2026-11-20~22 사회·문화 기사를 확인하지 못함)"
+        },
+        {
+          "name": "사건사고",
+          "items": [
+            {
+              "title_ko": "뉴욕 시크교 지도자 암살 모의 인도인 징역형",
+              "title_orig": "Indian man jailed over US murder plot against Sikh separatist",
+              "summary": "인도 국적 니킬 굽타가 뉴욕에서 시크교 분리주의 인사 암살을 모의한 혐의로 미국 법원에서 징역형을 선고받았다. SCMP는 19년 이상이라고 전했으나 일부 인도 매체는 24년으로 보도해 형량 표기가 엇갈린다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/world/united-states-canada/article/3375297/indian-man-jailed-over-us-murder-plot-against-sikh-separatist",
+                  "title": "Indian man jailed over US murder plot against Sikh separatist"
+                }
+              ]
+            }
+          ],
+          "note": "1건만 확인(미국 내 대형 사건사고 최신 기사는 검색에서 확인하지 못함)"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Reuters·AP·WSJ·Economist·POLITICO·Euronews 원문 열람이 권한 시간초과로 대부분 실패했고 웹 검색 결과는 제목·URL 위주라 SCMP 중심으로 구성",
+    "SCMP 일부 기사는 목록 요지·제목만 보고 요약했으며 '2시간 전' 같은 상대시각 기사는 게시일을 2026-11-21로 추정"
+  ]
+}

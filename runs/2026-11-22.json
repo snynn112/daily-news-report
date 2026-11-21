@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-22",
+  "part1": {
+    "status": "partial",
+    "startedAt": "2026-11-22T04:43:54+09:00",
+    "finishedAt": "2026-11-22T04:53:26+09:00",
+    "notes": [
+      "3개 섹션 12개 그룹, 기사 34건, 빈 그룹 1 (미국 사회 및 문화), 3건 미만 그룹 3 (중국 사건사고 2, 미국 경제 2, 미국 사건사고 1)",
+      "Reuters·AP·WSJ·Economist·POLITICO·Euronews 사이트 직접 열람이 권한 시간초과(PROVENANCE_REQUIRED)로 실패, 웹 검색은 제목·URL 위주라 SCMP 중심(약 30건)으로 구성",
+      "AP 기사는 재게재본(ABC13, WSMV, AJC, WCAX) 링크 사용; 일부는 직전 24시간 밖의 최근 기사(11/6, 11/9, 11/13)로 대체",
+      "SCMP 일부는 목록 요지·제목만으로 요약, 상대시각 기사는 게시일을 11/21로 추정",
+      "미국 권역 보강 필요 시 part3에서 보완 권장"
+    ]
+  },
+  "part2": {
+    "status": "",
+    "startedAt": "",
+    "finishedAt": "",
+    "notes": []
+  },
+  "part3": {
+    "status": "",
+    "startedAt": "",
+    "finishedAt": "",
+    "notes": []
+  }
+}

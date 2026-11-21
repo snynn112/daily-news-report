@@ -1600,95 +1600,6 @@
           "note": ""
         },
         {
-          "name": "한국 및 미국 주요 거시경제 지표",
-          "items": [
-            {
-              "title_ko": "한국 10월 소비자물가 2.8% 상승…석유류가 상방 압력",
-              "title_orig": "2026년 10월 소비자물가동향",
-              "summary": "10월 소비자물가는 전년 동월보다 2.8% 올라 9월(2.9%)보다 둔화됐고 전월 대비로는 0.2% 올랐다. 석유류가 14.9% 뛰어 물가를 끌어올렸으며 근원물가(식료품·에너지 제외)도 2.8%였다.",
-              "published": "2026-11-03",
-              "figure": "소비자물가지수 전년동월비 +2.8%, 전월비 +0.2% (2026년 10월)",
-              "source": "국가데이터처(통계청), 정책브리핑",
-              "links": [
-                {
-                  "outlet": "뉴스핌",
-                  "url": "https://www.newspim.com/news/view/20261103000090",
-                  "title": "10월 소비자물가 전년비 2.8%↑…석유류 14.9% 급등"
-                },
-                {
-                  "outlet": "대한민국 정책브리핑",
-                  "url": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156787698",
-                  "title": "2026년 10월 소비자물가동향"
-                }
-              ]
-            },
-            {
-              "title_ko": "한국은행 기준금리 연 3.00% 동결 기조…다음 금통위 11월 26일",
-              "title_orig": "금통위 10월 22일 기준금리 3.00% 동결",
-              "summary": "한국은행 금융통화위원회는 10월 22일 만장일치로 기준금리를 연 3.00%로 유지했고, 7·8월 인상 이후 동결 국면이 이어지고 있다. 3분기 성장률은 전기 대비 1.0%로 한은 전망치를 웃돌았으며 다음 금통위는 이달 26일로 보도됐다.",
-              "published": "2026-11-08",
-              "event_date": "2026-10-22",
-              "figure": "기준금리 3.00%, 3분기 GDP 전기비 +1.0% (2026년 10월 22일 결정 / 2026년 3분기)",
-              "source": "한국은행(비즈워치 인용)",
-              "links": [
-                {
-                  "outlet": "비즈워치",
-                  "url": "https://news.bizwatch.co.kr/article/finance/2026/11/06/0021",
-                  "title": "한국은행 금통위 관련 기사 (2026-11-06)"
-                }
-              ]
-            },
-            {
-              "title_ko": "미국 10월 CPI 전월비 0.4%↑…연준 12월 인상 전망 강화",
-              "title_orig": "美 10월 소비자물가 예상 상회…12월 금리인상 가능성 확대",
-              "summary": "미국 10월 소비자물가는 전월보다 0.4% 올라 시장 예상(0.3%)을 웃돌았고 근원은 0.3% 상승했다. 지난해 정부 셧다운 여파로 이번 달 전체 지수의 전년비 수치는 발표되지 않았으며, 시장은 12월 8~9일 FOMC에서 0.25%p 인상을 예상한다.",
-              "published": "2026-11-11",
-              "event_date": "2026-11-10",
-              "figure": "CPI 전월비 +0.4%, 근원 +0.3% (2026년 10월, 계절조정)",
-              "source": "미 노동통계국(BLS), 블로터 인용",
-              "links": [
-                {
-                  "outlet": "블로터",
-                  "url": "https://www.bloter.net/news/articleView.html?idxno=678274",
-                  "title": "美 10월 소비자물가 예상 상회…12월 금리인상 가능성 확대"
-                }
-              ]
-            },
-            {
-              "title_ko": "연준, 10월 FOMC에서 기준금리 3.75~4.00% 동결",
-              "title_orig": "Fed holds interest rates steady despite stubborn inflation",
-              "summary": "연준은 10월 28일 금리를 3.75~4.00%로 유지했으며 9월에 3년여 만의 첫 인상을 단행한 바 있다. 리사 쿡과 베스 해맥 총재가 25bp 인상을 주장하며 반대표를 던졌고, 성명은 물가가 여전히 높다고 평가했다.",
-              "published": "2026-10-28",
-              "event_date": "2026-10-28",
-              "figure": "연방기금금리 목표 3.75~4.00% (2026-10-28 FOMC)",
-              "source": "연방준비제도, NPR/OPB 인용",
-              "links": [
-                {
-                  "outlet": "OPB(NPR)",
-                  "url": "https://www.opb.org/article/2026/10/28/fed-holds-interest-rates-steady-despite-stubborn-inflation/",
-                  "title": "Fed holds interest rates steady despite stubborn inflation"
-                }
-              ]
-            },
-            {
-              "title_ko": "미국 10월 비농업 고용 16만5천 명 증가…채용 반등",
-              "title_orig": "U.S. adds 165,000 jobs in October as hiring rebounds",
-              "summary": "AP에 따르면 미국 고용은 10월에 16만5천 개 늘어 채용이 반등했다. 9월 증가폭이 2만9천 개에 그쳤다는 보도와 비교하면 개선된 수치다.",
-              "published": "2026-11-06",
-              "figure": "비농업 고용 +165,000명 (2026년 10월, 전월비)",
-              "source": "미 노동통계국(BLS), AP 인용",
-              "links": [
-                {
-                  "outlet": "AP (재게재: WSMV)",
-                  "url": "https://www.wsmv.com/2026/11/06/us-adds-165000-jobs-october-hiring-rebounds/?outputType=amp",
-                  "title": "U.S. adds 165,000 jobs in October as hiring rebounds"
-                }
-              ]
-            }
-          ],
-          "note": ""
-        },
-        {
           "name": "한국 주식시장",
           "items": [
             {
@@ -1997,7 +1908,287 @@
           "note": ""
         }
       ],
-      "note": ""
+      "note": "",
+      "dashboard": [
+        {
+          "id": "kr",
+          "name": "한국",
+          "en": "KOREA",
+          "tables": [
+            {
+              "name": "주요 거시경제 지표",
+              "rows": [
+                {
+                  "name": "기준금리",
+                  "value": "연 3.00%",
+                  "change": "직전 3.00%",
+                  "period": "2026-10-22 동결",
+                  "source": "한국은행",
+                  "url": "https://eiec.kdi.re.kr/policy/materialView.do?num=288401"
+                },
+                {
+                  "name": "소비자물가 상승률(전년동월비)",
+                  "value": "2.8%",
+                  "change": "전월 2.9%",
+                  "period": "2026년 10월",
+                  "source": "국가데이터처",
+                  "url": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156787698"
+                },
+                {
+                  "name": "근원물가(농산물·석유류 제외)",
+                  "value": "2.8%",
+                  "change": "전월 2.7%",
+                  "period": "2026년 10월",
+                  "source": "아이뉴스24",
+                  "url": "https://www.inews24.com/view/2021841"
+                },
+                {
+                  "name": "실질 GDP 성장률(전기비)",
+                  "value": "1.0%",
+                  "change": "2분기 0.6%",
+                  "period": "2026년 3분기 속보",
+                  "source": "한국은행",
+                  "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148974354"
+                },
+                {
+                  "name": "실업률(계절조정)",
+                  "value": "2.5%",
+                  "change": "전월비 -0.1%p",
+                  "period": "2026년 10월",
+                  "source": "국가데이터처",
+                  "url": "https://m.korea.kr/briefing/pressReleaseView.do?newsId=156788661"
+                },
+                {
+                  "name": "취업자 증감(전년동월비)",
+                  "value": "+13.9만 명",
+                  "change": "9월 +11.3만 명",
+                  "period": "2026년 10월",
+                  "source": "국가데이터처",
+                  "url": "https://m.korea.kr/briefing/pressReleaseView.do?newsId=156788661"
+                },
+                {
+                  "name": "수출(전년동월비)",
+                  "value": "1,153억 달러 (+93.7%)",
+                  "change": "9월 +83.5%",
+                  "period": "2026년 10월",
+                  "source": "산업통상부",
+                  "url": "https://eiec.kdi.re.kr/policy/materialView.do?num=288880"
+                },
+                {
+                  "name": "무역수지",
+                  "value": "+425.0억 달러",
+                  "change": "9월 +498.5억 달러",
+                  "period": "2026년 10월",
+                  "source": "산업통상부",
+                  "url": "https://eiec.kdi.re.kr/policy/materialView.do?num=288880"
+                }
+              ]
+            },
+            {
+              "name": "주식시장·환율",
+              "rows": [
+                {
+                  "name": "코스피",
+                  "value": "4,869.96",
+                  "change": "-5.21% (-267.93)",
+                  "period": "2026-11-20 종가",
+                  "source": "노컷뉴스",
+                  "url": "https://www.nocutnews.co.kr/news/6610444"
+                },
+                {
+                  "name": "코스닥",
+                  "value": "645.68",
+                  "change": "-5.71% (-39.13)",
+                  "period": "2026-11-20 종가",
+                  "source": "베타뉴스",
+                  "url": "https://www.betanews.net/article/view/beta202611200165"
+                },
+                {
+                  "name": "원/달러 환율",
+                  "value": "1,336.2원",
+                  "change": "+6.2원",
+                  "period": "2026-11-20 15:30",
+                  "source": "뉴스1",
+                  "url": "https://www.news1.kr/finance/market-exr/6361215"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "us",
+          "name": "미국",
+          "en": "UNITED STATES",
+          "tables": [
+            {
+              "name": "주요 거시경제 지표",
+              "rows": [
+                {
+                  "name": "기준금리(연방기금금리 목표)",
+                  "value": "3.75~4.00%",
+                  "change": "9월 0.25%p 인상",
+                  "period": "2026-10-28 FOMC",
+                  "source": "연준",
+                  "url": "https://www.federalreserve.gov/monetarypolicy/files/monetary20261028a1.pdf"
+                },
+                {
+                  "name": "소비자물가(CPI, 전월비)",
+                  "value": "+0.4%",
+                  "change": "9월 +0.6%",
+                  "period": "2026년 10월",
+                  "source": "BLS",
+                  "url": "https://www.bls.gov/news.release/archives/cpi_11102026.htm"
+                },
+                {
+                  "name": "근원 CPI(전월비)",
+                  "value": "+0.3%",
+                  "change": "9월 +0.3%",
+                  "period": "2026년 10월",
+                  "source": "CBS News",
+                  "url": "https://cbsnews.com/news/october-cpi-report-elevated-inflation"
+                },
+                {
+                  "name": "실질 GDP 성장률(전기비 연율)",
+                  "value": "3.4%",
+                  "change": "2분기 2.2%",
+                  "period": "2026년 3분기 속보",
+                  "source": "BEA",
+                  "url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026/"
+                },
+                {
+                  "name": "실업률",
+                  "value": "4.1%",
+                  "change": "9월 4.2%",
+                  "period": "2026년 10월",
+                  "source": "Fox Business",
+                  "url": "https://foxbusiness.com/economy/us-jobs-report-october-2026"
+                },
+                {
+                  "name": "비농업 고용 증감",
+                  "value": "+16.5만 명",
+                  "change": "9월 +6.0만 명",
+                  "period": "2026년 10월",
+                  "source": "Fox Business",
+                  "url": "https://foxbusiness.com/economy/us-jobs-report-october-2026"
+                }
+              ]
+            },
+            {
+              "name": "주식시장",
+              "rows": [
+                {
+                  "name": "S&P 500",
+                  "value": "6,910.39",
+                  "change": "-3.70% (-265.44)",
+                  "period": "2026-11-20 종가",
+                  "source": "Market Digest",
+                  "url": "https://stockmarketwatch.com/digest/2026-11-20"
+                },
+                {
+                  "name": "다우존스 산업평균",
+                  "value": "48,147.33",
+                  "change": "-1.93% (-949.73)",
+                  "period": "2026-11-20 종가",
+                  "source": "Market Digest",
+                  "url": "https://stockmarketwatch.com/digest/2026-11-20"
+                },
+                {
+                  "name": "나스닥 종합",
+                  "value": "22,617.73",
+                  "change": "-5.28% (-1,261.47)",
+                  "period": "2026-11-20 종가",
+                  "source": "Market Digest",
+                  "url": "https://stockmarketwatch.com/digest/2026-11-20"
+                },
+                {
+                  "name": "러셀 2000",
+                  "value": "2,581.79",
+                  "change": "-2.76%",
+                  "period": "2026-11-20 종가",
+                  "source": "Market Digest",
+                  "url": "https://stockmarketwatch.com/digest/2026-11-20"
+                },
+                {
+                  "name": "VIX(변동성 지수)",
+                  "value": "35.89",
+                  "change": "+26.20%",
+                  "period": "2026-11-20 종가",
+                  "source": "Market Digest",
+                  "url": "https://stockmarketwatch.com/digest/2026-11-20"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "world",
+          "name": "세계",
+          "en": "WORLD",
+          "tables": [
+            {
+              "name": "주요 거시경제 지표",
+              "rows": [
+                {
+                  "name": "유로존 물가(HICP, 속보)",
+                  "value": "4.0%",
+                  "change": "9월 3.8%",
+                  "period": "2026년 10월",
+                  "source": "Eurostat·Reuters",
+                  "url": "https://theedgemalaysia.com/node/824550"
+                },
+                {
+                  "name": "ECB 예금금리",
+                  "value": "2.50%",
+                  "change": "10-29 동결",
+                  "period": "2026-10-29 결정",
+                  "source": "Eurostat·Reuters",
+                  "url": "https://theedgemalaysia.com/node/824550"
+                },
+                {
+                  "name": "중국 GDP 성장률(전년동기비)",
+                  "value": "4.5%",
+                  "change": "2분기 4.3%",
+                  "period": "2026년 3분기",
+                  "source": "중국 국가통계국",
+                  "url": "https://www.stats.gov.cn/english/PressRelease/202610/t20261021_1965671.html"
+                },
+                {
+                  "name": "중국 CPI(전년동월비)",
+                  "value": "0.7%",
+                  "change": "9월 0.9%",
+                  "period": "2026년 10월",
+                  "source": "중국 국가통계국",
+                  "url": "https://www.stats.gov.cn/english/PressRelease//202611/t20261116_1965843.html"
+                },
+                {
+                  "name": "일본은행 정책금리",
+                  "value": "1.25%",
+                  "change": "10-30 동결",
+                  "period": "2026-10-30 결정",
+                  "source": "Trading Economics",
+                  "url": "https://tradingeconomics.com/japan/interest-rate/news/596555"
+                },
+                {
+                  "name": "일본 근원 CPI(신선식품 제외)",
+                  "value": "2.1%",
+                  "change": "8월 1.7%",
+                  "period": "2026년 9월",
+                  "source": "investingLive",
+                  "url": "https://investinglive.com/forex/japan-core-inflation-tops-boj-s-2-target-for-first-time-since-december-yen-firms/"
+                },
+                {
+                  "name": "브렌트유",
+                  "value": "배럴당 91.98달러",
+                  "change": "+0.03달러",
+                  "period": "2026-11-19 결제",
+                  "source": "카타르 통신(QNA)",
+                  "url": "https://qna.org.qa/en/News-Area/News/2026-11/20/oil-prices-end-largely-unchanged-as-brent-edges-higher-and-us-crude-slips"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "tech",

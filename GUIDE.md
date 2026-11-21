@@ -42,15 +42,19 @@ part3 추가 절차:
 | TLDR | tldr.tech | 기술과학 (우선) |
 | WIRED | wired.com | 기술과학 (보완) |
 
-- 그룹마다 **핵심 매체를 먼저** 찾는다. 웹 검색 도구의 `allowed_domains`에 위 도메인을 넣어 검색하면 핵심 매체 기사만 나온다. 권역에 맞는 매체를 우선한다:
+- **접근 제한(2026-11-22 확인):** AP News, POLITICO, 연합뉴스는 Claude의 검색·열람 도구에서 차단되어 있다(`allowed_domains`에 넣으면 검색 요청 전체가 거부되고, 페이지 열람도 막힘). 일반 검색 결과에 이들 원문 주소가 직접 나오면 쓰되, **차단된 매체를 재게재 사이트·캐시·미러로 우회해서 쓰지 않는다.** 이 세 매체가 맡던 영역은 2-2의 지정 대체 매체로 바로 채운다.
+- 그룹마다 **핵심 매체를 먼저** 찾는다. 웹 검색 도구의 `allowed_domains`에는 접근 가능한 도메인(`euronews.com`, `scmp.com`, `bloomberg.com`, `aljazeera.com`, `wired.com`, `tldr.tech`)만 넣는다. 권역에 맞는 매체를 우선한다:
   아시아-태평양 = AP·연합뉴스·SCMP·Bloomberg / 중국 = SCMP·AP·Bloomberg·Al Jazeera / 미국 = AP·POLITICO·Bloomberg / 동·서유럽 = Euronews·POLITICO·AP / 중동·아프리카 = Al Jazeera·AP / 경제 = Bloomberg·연합뉴스·AP / 기술과학 = TLDR·WIRED.
 - **한 매체 쏠림 금지:** 한 매체가 리포트 전체 링크의 30%를 넘지 않게 하고, 한 그룹(3~5건)의 기사가 모두 같은 매체에서 나오지 않게 한다.
 - 유료 기사(Bloomberg 등)는 공개된 제목·요약만 이용하고 구독 제한을 우회하지 않는다. 링크는 원문 주소.
 
 ### 2-2. 다른 매체는 꼭 필요할 때만
 
-- 핵심 매체에서 그 그룹을 3건 채울 만한 최신 보도가 없을 때만 다른 매체를 쓴다. 이때도 **신뢰도 높은 주요 언론과 공식 기관**만 쓴다:
-  Reuters, BBC, The New York Times, The Washington Post, The Wall Street Journal, Financial Times, The Economist, The Guardian, Nikkei Asia, NHK, Kyodo, Le Monde, DW, CNBC(시장 수치), Ars Technica·The Verge(기술), 각국 정부·중앙은행·통계기관·기업 공식 발표.
+- 핵심 매체에서 그 그룹을 3건 채울 만한 최신 보도가 없을 때만 다른 매체를 쓴다. 이때도 **신뢰도 높은 주요 언론과 공식 기관**만 쓴다.
+- **차단된 핵심 매체의 지정 대체 매체:**
+  - AP·POLITICO(미국 정치·사회·사건) → NPR, PBS NewsHour, ABC News, CBS News, NBC News, The Hill
+  - 연합뉴스(한국 관련·한국 경제·증시) → Korea JoongAng Daily, The Korea Herald, The Korea Times, KBS, 한국 주요 일간지(조선·중앙·동아·한겨레·경향·한국경제·매일경제), 정부 정책브리핑(korea.kr)
+- **그 밖의 신뢰 매체:** Reuters, BBC, The New York Times, The Washington Post, The Wall Street Journal, Financial Times, The Economist, The Guardian, Nikkei Asia, NHK, Kyodo, Le Monde, DW, CNBC(시장 수치), Ars Technica·The Verge(기술), 각국 정부·중앙은행·통계기관·기업 공식 발표.
 - **쓰지 않는 출처:** 투자 정보·주식 홍보 사이트(The Motley Fool, StockTitan, The Closing Print, Investing.com, FXStreet, InvestmentNews 등), 지역 TV·라디오 계열사(ABC13, WSMV, WCAX 등), 뉴스 요약·다이제스트·재게재(Yahoo News 재게재, The Neuron, SingularityHub 주간 모음 등), 블로그·보도자료 배포 사이트, 단독 출처의 미확인 의혹 보도.
 - 경제 지표·시장 수치는 공식 기관 발표나 Bloomberg·연합뉴스·AP·Reuters 보도를 기준으로 하고, 기준 시점·단위·출처를 적는다.
 

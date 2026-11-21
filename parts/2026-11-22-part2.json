@@ -1,0 +1,804 @@
+{
+  "date": "2026-11-22",
+  "part": 2,
+  "generatedAt": "2026-11-22T05:28:08+09:00",
+  "sections": [
+    {
+      "id": "eu-east",
+      "part": "2. 권역별 뉴스",
+      "name": "4) 유럽 (1) 동유럽",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "헝가리, 우크라이나 EU 가입협상 남은 분야 거부권 철회 전망",
+              "title_orig": "Hungary to drop veto on Ukraine's remaining EU accession clusters",
+              "summary": "외교 소식통에 따르면 헝가리가 20일 EU 대사회의에서 우크라이나 가입협상의 마지막 두 개 분야에 대한 거부권을 거둘 예정이다. 오르반 총리를 몰아낸 마자르 정부 출범 이후 입장이 바뀐 것으로, 이렇게 되면 우크라이나와 몰도바 모두 모든 협상 분야를 열 수 있다. 농업은 폴란드·프랑스 압박 속에 여전히 가장 민감한 쟁점이다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/20/hungary-to-drop-veto-on-ukraines-remaining-eu-accession-clusters",
+                  "title": "Hungary to drop veto on Ukraine's remaining EU accession clusters"
+                }
+              ]
+            },
+            {
+              "title_ko": "폴란드 외교차관 \"유럽 없는 우크라이나 평화합의는 불가능\"",
+              "title_orig": "Ukraine peace deal 'not feasible' without Europe, Polish minister warns",
+              "summary": "폴란드의 니엠치츠키 외교차관은 유럽을 배제한 우크라이나 평화합의는 실현 가능하지 않으며 유럽 안보 구조에 관한 결정도 유럽 없이 이뤄져선 안 된다고 말했다. 베를린에서 '의지의 연합'이 회동한 시점에 나온 발언으로, 더 구체적인 군사적 공약이 나올 수 있음을 시사했다. 러시아가 국경에 가까워지면 폴란드의 국방비 부담이 커진다고도 지적했다.",
+              "published": "2026-11-19",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/19/ukraine-peace-deal-not-feasible-without-europe-polish-minister-warns",
+                  "title": "Ukraine peace deal 'not feasible' without Europe, Polish minister warns"
+                }
+              ]
+            },
+            {
+              "title_ko": "미국 중재 러시아·우크라이나 협상, 2월 이후 처음 재개",
+              "title_orig": "Russia, Ukraine hold US-backed talks, first time since February",
+              "summary": "러시아와 우크라이나 관계자들이 2월 이후 처음으로 미국 중재 회담에 마주 앉았고, 위트코프·쿠슈너 특사가 중재를 맡았다. 트럼프 대통령은 포괄적 합의 가능성을 언급했지만 양측의 조건 격차는 여전히 크다고 보도됐다. 본문 일부만 확인되어 회담 날짜(11월 10일경)는 추정이다.",
+              "published": "2026-11-10",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/world/russia-central-asia/article/3373976/russia-ukraine-hold-us-backed-talks-first-time-february",
+                  "title": "Russia, Ukraine hold US-backed talks, first time since February"
+                }
+              ]
+            },
+            {
+              "title_ko": "폴란드 헌법재판소 판사 임명 둘러싼 총리·대통령 충돌",
+              "title_orig": "Polish PM Donald Tusk urges president to confirm judges amid constitutional crisis",
+              "summary": "투스크 총리가 나브로츠키 대통령에게 하원이 선출한 헌법재판소 판사들을 인정하라고 촉구하며 대통령이 정면충돌을 택했다고 비판했다. 유럽연합 집행위는 판사 8명을 임명할 헌법상 권한이 하원에 있다는 입장이다. 11월 2일 보도이지만 사태가 진행 중이어서 포함했다.",
+              "published": "2026-11-02",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/02/donald-tusk-calls-on-polish-president-to-confirm-judges-as-constitutional-court-crisis-rum",
+                  "title": "Polish PM Donald Tusk urges president to confirm judges amid constitutional crisis"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [
+            {
+              "title_ko": "EU 집행위, 헝가리 복구기금 100억 유로 지급 일부 승인",
+              "title_orig": "EU Commission partially clears Hungary's €10bn recovery fund payment after rule of law reforms",
+              "summary": "유럽연합 집행위원회가 법치 개혁 이행을 근거로 헝가리의 약 100억 유로 규모 코로나 복구기금 지급을 부분적으로 승인했다. 마자르 정부 출범 후 풀리고 있는 EU 자금 흐름의 연장선이다. 제목과 검색 결과만 확인해 세부 조건은 적지 않았다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/20/eu-commission-partially-clears-hungarys-10bn-recovery-fund-payment-after-rule-of-law-refor",
+                  "title": "EU Commission partially clears Hungary's €10bn recovery fund payment after rule of law reforms"
+                }
+              ]
+            }
+          ],
+          "note": "동유럽 경제 관련 지정 매체 기사 중 직전 24시간 보도는 확인하지 못해 1건만 수록 (확인 범위: Euronews 검색, SCMP, 기타 지정 매체 검색 도메인 접근 제한)"
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [
+            {
+              "title_ko": "에스토니아-러시아 국경 폐쇄 앞두고 주민들 서둘러 월경",
+              "title_orig": "Estonia-Russia border closure sends residents rushing to cross before deadline",
+              "summary": "에스토니아가 12월 1일부터 러시아와의 육로 국경을 닫기로 하자 국경 주민들이 폐쇄 전에 건너려 몰리고 있다는 보도다. 폐쇄는 GRU 연계 방화 시도 사건에 대한 대응이다. 본문은 열람하지 못하고 제목·검색 결과 기준으로 정리했다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/21/estonia-russia-border-closure-sends-residents-rushing-to-cross-before-deadline",
+                  "title": "Estonia-Russia border closure sends residents rushing to cross before deadline"
+                }
+              ]
+            },
+            {
+              "title_ko": "크라쿠프 총기 난사 희생자 6명, 투스크·나브로츠키 추모",
+              "title_orig": "What we know about the Krakow shooting that left six people dead",
+              "summary": "11월 7일 오후 크라쿠프 중앙광장에서 군복 차림 남성이 차량으로 진입해 총을 쏴 6명이 숨지고 16명이 다쳤다. 용의자는 24세 폴란드 국적자로, 집에서 가족 3명의 시신도 발견됐다. 투스크 총리는 이를 테러로 규정했고 이틀간 국가 애도가 선포됐다.",
+              "published": "2026-11-08",
+              "event_date": "2026-11-07",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/08/what-we-know-about-the-krakow-shooting-that-left-six-people-dead",
+                  "title": "What we know about the Krakow shooting that left six people dead"
+                }
+              ]
+            }
+          ],
+          "note": "3건 미만: 직전 24시간 동유럽 사회·문화 기사가 적어 최근 2주 내 보도로 보강 (확인 범위: Euronews, SCMP)"
+        },
+        {
+          "name": "사건사고",
+          "items": [
+            {
+              "title_ko": "러시아 미사일 2발·드론 1대 폴란드 영토 추락, 투스크 \"도발\"",
+              "title_orig": "Tusk denounces Russian 'provocation' after missiles crash in Poland",
+              "summary": "러시아의 대규모 우크라이나 공습 중 미사일 2발과 제트 드론 1대가 20일 폴란드에 떨어졌고 인명·시설 피해는 보고되지 않았다. Kh-101 순항미사일은 우크라이나 국경에서 약 60km 떨어진 루블린주에 낙하했다. 투스크 총리는 '의지의 연합' 훈련 시점과 맞물린 도발이라며 규탄했다.",
+              "published": "2026-11-20",
+              "event_date": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/20/unidentified-object-falls-in-eastern-poland-amid-major-russian-attack-on-ukraine",
+                  "title": "Tusk denounces Russian 'provocation' after missiles crash in Poland"
+                }
+              ]
+            },
+            {
+              "title_ko": "젤렌스키 고향 크리비리흐 탄도미사일 공격, 어린이 포함 2명 사망",
+              "title_orig": "Ballistic missile attack on Zelenskyy's hometown kills two people",
+              "summary": "러시아 탄도미사일이 크리비리흐를 타격해 7세 소년과 20세 응급 의료요원이 숨지고 어린이 6명을 포함한 60명이 다쳤다. 화재 4건이 났고 아파트 약 25동과 병원·학교 등이 피해를 입었다. 우크라이나군의 크림대교 공격에 대한 푸틴의 '고통스러운 보복' 예고와 연관 지어 보도됐다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/21/ballistic-missile-attack-on-zelenskyys-hometown-kills-two-people",
+                  "title": "Ballistic missile attack on Zelenskyy's hometown kills two people"
+                }
+              ]
+            },
+            {
+              "title_ko": "핀란드만에서 러시아 화물선 드론 피격",
+              "title_orig": "Russian cargo ship struck by drones in Gulf of Finland",
+              "summary": "21일 아침 핀란드 방위군이 수오르사리 서쪽 공해에서 러시아 화물선 스파르타 II가 드론 공격을 받은 것을 포착했고 선내 화재가 났다. 배는 핀란드 영해로 표류했으며 승무원 대피나 환경 피해는 없었다. 오르포 총리는 전쟁이 이웃 지역으로 번지고 있다고 말했다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/21/russian-cargo-ship-struck-by-drone-in-gulf-of-finland-finnish-authorities-say",
+                  "title": "Russian cargo ship struck by drones in Gulf of Finland"
+                }
+              ]
+            },
+            {
+              "title_ko": "에스토니아, 드론업체 방화 시도에 GRU 지목하고 러시아 국경 폐쇄",
+              "title_orig": "Estonia to close Russia border after 'sabotage' bid on drone maker, foreign minister says",
+              "summary": "에스토니아 외무장관은 15일 GRU가 지시한 드론업체 스레오드 시스템스 방화 시도에 대한 '명백한 증거'가 있다며 12월 1일부터 러시아 국경 검문소를 모두 닫겠다고 밝혔다. 라트비아 거주자 8명이 체포됐다. 러시아는 사실 여부를 확인하겠다며 조치가 취해지면 적대적이라고 반발했다.",
+              "published": "2026-11-16",
+              "event_date": "2026-11-14",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/16/estonia-to-close-russia-border-after-sabotage-bid-on-drone-maker-foreign-minister-says",
+                  "title": "Estonia to close Russia border after 'sabotage' bid on drone maker, foreign minister says"
+                }
+              ]
+            },
+            {
+              "title_ko": "중동부 유럽, 10월 이후 비전통적 안보 사건 50건 넘게 발생",
+              "title_orig": "East-Central Europe hit by more than 50 non-traditional security incidents since October",
+              "summary": "부다페스트 코르비누스대 연구팀이 10월 이후 중동부 유럽에서 사이버·드론·인프라 관련 비전통적 안보 사건을 50건 넘게 집계해 공개했다. 슈퍼마켓 냉장고 해킹, 흑해 곡물선 드론 피격 등이 사례이며 절반 이상에 국가 행위자가 관여했다고 연구팀은 분석했다.",
+              "published": "2026-11-18",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/18/east-central-europe-hit-by-more-than-50-non-traditional-security-incidents-since-october",
+                  "title": "East-Central Europe hit by more than 50 non-traditional security incidents since October"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "eu-west",
+      "part": "2. 권역별 뉴스",
+      "name": "4) 유럽 (2) 서유럽",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "EU-영국, 브렉시트 이후 관계 재설정 합의",
+              "title_orig": "Burnham drew a line under Brexit at the EU-UK summit. But where does Britain go next?",
+              "summary": "브뤼셀 정상회의에서 EU와 영국은 농식품 기준 완화, 탄소시장 연계, 청년 이동 프로그램에 합의했지만 대학 등록금과 전력시장 접근은 미뤘다. 버넘 총리는 이번 합의가 현 의회에서 가능한 한계에 가깝다며 1년간 비공식 협의를 제안했다. EU는 단일시장 원칙의 완화는 없다는 신호를 보냈다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/20/burnham-drew-a-line-under-brexit-at-the-eu-uk-summit-but-where-does-britain-go-next",
+                  "title": "Burnham drew a line under Brexit at the EU-UK summit. But where does Britain go next?"
+                },
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/20/europe-tonight-eu-and-uk-strike-post-brexit-reset-deal-as-russian-missiles-hit-poland",
+                  "title": "Europe Tonight: EU and UK strike post-Brexit reset deal as Russian missiles hit Poland"
+                }
+              ]
+            },
+            {
+              "title_ko": "마크롱 \"러시아 침략 '새로운 단계'\" 경고",
+              "title_orig": "French President Macron warns of 'new level' of Russian aggression",
+              "summary": "마크롱 대통령은 20일 24시간 안에 여러 유럽 국가가 심각한 사건을 겪었다며 러시아의 공격성이 새 단계에 들어섰다고 SNS에 적었다. 폴란드 미사일 추락, 에스토니아 국경 폐쇄 결정, 몰도바 영공 폐쇄 등이 언급됐다. 덴마크 정보당국은 9월 우크라이나계 미국인 암살 시도에 러시아 정보기관이 관여했다고 주장했다.",
+              "published": "2026-11-21",
+              "event_date": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/21/french-president-macron-warns-of-new-level-of-russian-aggression",
+                  "title": "French President Macron warns of 'new level' of Russian aggression"
+                }
+              ]
+            },
+            {
+              "title_ko": "라가르드 ECB 총재, 프랑스 대선 변수 될까",
+              "title_orig": "Candidate or kingmaker: could ECB President Lagarde influence France's presidential race?",
+              "summary": "라가르드는 내년 2월 ECB를 떠난다고 10월 29일 발표했고 대선 1차 투표를 약 두 달 앞둔 시점이다. 본인은 후보가 아니라고 했지만 중립을 지키기 어렵다고 말했다. 이프소 여론조사에서는 르펜이 32~34%로 선두이며 멜랑숑이 17~19.5%로 뒤따른다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/20/candidate-or-kingmaker-could-ecb-president-lagarde-influence-frances-presidential-race",
+                  "title": "Candidate or kingmaker: could ECB President Lagarde influence France's presidential race?"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [
+            {
+              "title_ko": "유로존 10월 물가 4%, 2023년 9월 이후 최고",
+              "title_orig": "Eurozone inflation hits 4%: Which countries saw prices jump the most?",
+              "summary": "유로스타트 속보치로 10월 유로존 물가상승률은 4%로 9월(3.8%)보다 올랐고 에너지 가격이 전년 대비 20.8% 상승하며 주도했다. 이탈리아가 5.6%로 크게 뛰었고 독일은 유류세 인하로 2.8%로 내렸다. ECB는 10월 29일 예금금리를 2.5%로 동결했다.",
+              "published": "2026-11-04",
+              "figure": "4.0% (2026년 10월, 전년동월비, 속보치)",
+              "source": "Eurostat",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/04/eurozone-inflation-hits-4-which-countries-saw-prices-jump-the-most",
+                  "title": "Eurozone inflation hits 4%: Which countries saw prices jump the most?"
+                }
+              ]
+            },
+            {
+              "title_ko": "EU, 겨울 가스 사용 7% 감축 필요 경고",
+              "title_orig": "Europe braces for cold winter as polar vortex flips. Can heat pumps help lower energy bills?",
+              "summary": "EU는 가스 재고가 이 시기 기준 사상 최저여서 올겨울 가스 사용을 7% 줄여야 할 수 있다고 경고했다. 극소용돌이 변화로 추위 가능성이 커졌고, 한 연구는 열펌프로 하루 난방비를 약 2.2유로까지 낮출 수 있다고 밝혔다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/21/europe-braces-for-cold-winter-as-polar-vortex-flips-can-heat-pumps-help-lower-energy-bills",
+                  "title": "Europe braces for cold winter as polar vortex flips. Can heat pumps help lower energy bills?"
+                }
+              ]
+            },
+            {
+              "title_ko": "루프트한자, 프랑크푸르트·뮌헨 1,000개 일자리 감축 계획",
+              "title_orig": "Lufthansa plans 1,000 job cuts in Frankfurt and Munich as Iran war slows turnaround",
+              "summary": "루프트한자가 이란 전쟁에 따른 연료비 부담으로 구조조정이 지연되자 프랑크푸르트와 뮌헨에서 약 1,000개 일자리를 줄일 계획이라는 보도다. 앞서 이 회사는 연료비 추가 부담이 20억 유로에 이를 수 있다고 경고했다. 본문은 열람하지 못하고 제목·검색 결과 기준이다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/20/lufthansa-plans-1000-job-cuts-in-frankfurt-and-munich-as-iran-war-slows-turnaround",
+                  "title": "Lufthansa plans 1,000 job cuts in Frankfurt and Munich as Iran war slows turnaround"
+                }
+              ]
+            },
+            {
+              "title_ko": "프랑스 10월 소요 보험 피해 2억700만 유로",
+              "title_orig": "Unrest around French cost-of-living protests could cost insurers €207mn",
+              "summary": "프랑스 보험협회는 10월 17~18일 소요와 약탈로 인한 보험 손해를 5,280건, 2억700만 유로로 추산했다. 95% 이상이 사업장 피해다. 정부는 직원 50명 미만 소기업에 1,000~1만 유로 보조금 신청 규정을 공개했다.",
+              "published": "2026-11-20",
+              "figure": "2억700만 유로 (2026년 10월 17~18일 소요 보험 손해)",
+              "source": "France Assureurs",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/20/unrest-around-french-cost-of-living-protests-could-cost-insurers-207mn",
+                  "title": "Unrest around French cost-of-living protests could cost insurers €207mn"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [
+            {
+              "title_ko": "유럽 25개국 넘게 임금·공공서비스 요구 시위",
+              "title_orig": "Thousands protest across Europe demanding better wages and services",
+              "summary": "20일 유럽 25개국 이상에서 노동자·학생이 임금 인상과 공공서비스 확대를 요구하며 시위했다. 이탈리아에서는 CGIL 24시간 파업으로 100여 곳에서 집회가 열려 교통·학교가 차질을 빚었고, 빈에서는 경찰이 최루성 스프레이를 쓰며 체포가 있었다. 독일에서는 의무복무 부활 가능성에 반대하는 집회가 열렸다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/20/thousands-protest-across-europe-demanding-better-wages-and-services",
+                  "title": "Thousands protest across Europe demanding better wages and services"
+                }
+              ]
+            },
+            {
+              "title_ko": "포르투갈·프랑스·스페인, 생활비 상승 항의 행진",
+              "title_orig": "Thousands take to streets in Portugal, France and Spain over rising living costs",
+              "summary": "리스본에서 수천 명이 임금·연금 인상과 주거 안정을 요구하며 행진했고 노조는 24일 의회 앞 집회를 예고했다. 프랑스 내무부는 전국 8만2,500명 참가(주최 측 15만 명)로 집계했고 리옹에서는 최루탄이 쓰였다. 바르셀로나에서는 주거·공공서비스 문제로 경찰 추산 3,000명이 모였다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/21/thousands-take-to-streets-in-portugal-france-and-spain-over-rising-living-costs",
+                  "title": "Thousands take to streets in Portugal, France and Spain over rising living costs"
+                }
+              ]
+            },
+            {
+              "title_ko": "유럽 8개국의 주택난 대응책",
+              "title_orig": "How eight European countries are tackling the housing crisis",
+              "summary": "유로스타트에 따르면 EU 주택 가격은 2015년 대비 약 70%, 임대료는 25% 올랐다. 스페인은 퇴거·투기 규제 법안을, 네덜란드는 임대료 상한을, 영국은 무과실 퇴거 금지와 사회주택 30만 호 목표를 내세웠다. 스페인은 11월 29일 총선에서 야당이 법 폐지를 공약해 쟁점이 되고 있다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/20/how-eight-european-countries-are-tackling-the-housing-crisis",
+                  "title": "How eight European countries are tackling the housing crisis"
+                }
+              ]
+            },
+            {
+              "title_ko": "EU-영국 청년 경험 프로그램, 양측 10만 명씩",
+              "title_orig": "Young Europeans win a route back to the UK, but not cheaper university fees yet",
+              "summary": "EU와 영국은 양측 청년 각 10만 명이 최대 3년간 상대 지역에서 살 수 있는 프로그램에 합의했고 늦어도 2030년 1월 시행한다. 대학 등록금 합의는 6개월 미뤄졌으며 영국은 2027년 1월 1일 에라스무스+에 복귀한다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/20/young-europeans-win-a-route-back-to-the-uk-but-not-cheaper-university-fees-yet",
+                  "title": "Young Europeans win a route back to the UK, but not cheaper university fees yet"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사건사고",
+          "items": [
+            {
+              "title_ko": "덴마크인 2명, 러시아 후원 우크라이나 래퍼 암살 모의 혐의",
+              "title_orig": "Two Danes suspected of Russian-backed plot to kill Ukrainian rapper",
+              "summary": "덴마크에서 두 명이 러시아의 후원을 받은 우크라이나 래퍼 암살 모의 혐의로 의심받고 있다는 보도다. 덴마크 정보당국(PET)은 9월 우크라이나계 미국인에 대한 암살 시도에 러시아 정보기관이 관여했다고 주장했다. 기사 본문은 열람하지 못했고 마크롱 관련 기사에 인용된 내용을 참고했다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/20/two-danes-suspected-of-russian-backed-plot-to-kill-ukrainian-rapper",
+                  "title": "Two Danes suspected of Russian-backed plot to kill Ukrainian rapper"
+                },
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/21/french-president-macron-warns-of-new-level-of-russian-aggression",
+                  "title": "French President Macron warns of 'new level' of Russian aggression"
+                }
+              ]
+            },
+            {
+              "title_ko": "프랑크푸르트 폭동·약탈, 30명 연행",
+              "title_orig": "Looted shops, burning barricades as riots erupt in Frankfurt",
+              "summary": "10월 31일 청년 시위 뒤 프랑크푸르트에서 상점 약탈과 바리케이드 방화가 벌어져 경찰이 물대포를 쓰고 30명을 연행했다. 쾰른·베를린에서도 충돌이 보고됐다. 직전 24시간 밖의 사건으로, 서유럽 사건사고 보도가 적어 포함했다.",
+              "published": "2026-11-01",
+              "event_date": "2026-10-31",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/video/2026/11/01/looted-shops-burning-barricades-as-riots-erupt-in-frankfurt",
+                  "title": "Looted shops, burning barricades as riots erupt in Frankfurt"
+                }
+              ]
+            },
+            {
+              "title_ko": "파리 소요, 화염병에 경찰관 화상",
+              "title_orig": "Paris riots: France investigates after petrol bomb sets officer on fire",
+              "summary": "파리 소요 중 화염병이 경찰관에게 불을 붙여 프랑스 당국이 수사에 나섰다는 영상 보도다. 제목과 검색 결과만 확인해 세부 사항은 적지 않았다.",
+              "published": "2026-11-02",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/video/2026/11/02/paris-riots-france-investigates-after-petrol-bomb-sets-officer-on-fire",
+                  "title": "Paris riots: France investigates after petrol bomb sets officer on fire"
+                }
+              ]
+            }
+          ],
+          "note": "직전 24시간 서유럽 사건사고 보도는 확인되지 않아 최근 2~3주 내 보도로 구성 (확인 범위: Euronews 검색, 지정 매체 검색 도메인 접근 제한)"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "middle-east",
+      "part": "2. 권역별 뉴스",
+      "name": "5) 중동",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "미국·이란, 새 전면전 위기로 접근",
+              "title_orig": "US and Iran slide closer to fresh all-out war as new exchange of fire increases",
+              "summary": "15일부터 미국과 이란이 공습을 주고받으며 긴장이 커졌다. 미군은 이란 미사일 발사대를 타격했고 이란은 바레인 미군 기지에 드론 공격을 했다고 보도됐다. 혁명수비대는 호르무즈에서 유조선 6척이 불탔다고 주장했지만 독립적으로 확인되지 않았다. 미 항모전단은 3개로 늘었다.",
+              "published": "2026-11-16",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/16/us-and-iran-slide-closer-to-fresh-all-out-war-as-new-exchange-of-fire-increases",
+                  "title": "US and Iran slide closer to fresh all-out war as new exchange of fire increases"
+                }
+              ]
+            },
+            {
+              "title_ko": "이란·미국, 선제공격 위협 맞교환",
+              "title_orig": "Iran, US trade threats over dirty bombs and first strikes as new war wave looms",
+              "summary": "이란 외무차관은 확전이 불가피해 보이면 이란이 먼저 미국을 공격할 수 있다고 경고했고, 미국이 시간을 벌며 새 공격을 준비 중일 수 있다고 주장했다. 지역 중재는 돌파구를 내지 못했고 걸프에서 방공망을 겨냥한 맞공격이 잦아지고 있다. 게재일(18일경)은 추정이다.",
+              "published": "2026-11-18",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/week-asia/politics/article/3374868/iran-us-trade-threats-over-dirty-bombs-and-first-strikes-new-war-wave-looms",
+                  "title": "Iran, US trade threats over dirty bombs and first strikes as new war wave looms"
+                }
+              ]
+            },
+            {
+              "title_ko": "이스라엘군, 휴전 중 가자 중부 새 작전",
+              "title_orig": "Israeli military launches new operation on central Gaza despite ceasefire",
+              "summary": "이스라엘 전차가 누세이라트 난민촌 동쪽으로 진입했고 군은 '정밀 작전'이라고 설명했다. 하마스는 지난해 10월 발효된 휴전의 명백한 위반이라고 비판했다. AFP 집계로 휴전 이후 팔레스타인인 1,600여 명이 숨졌다.",
+              "published": "2026-11-18",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/18/israeli-military-launches-new-operation-on-central-gaza-despite-ceasefire",
+                  "title": "Israeli military launches new operation on central Gaza despite ceasefire"
+                }
+              ]
+            },
+            {
+              "title_ko": "카타르·튀르키예, 상호방위협정 체결",
+              "title_orig": "Qatar and Turkey sign defence agreement for 'unified position' facing external attacks",
+              "summary": "에르도안 대통령과 카타르 국왕은 13일 이스탄불에서 외부 무력 공격에 공동 대응하는 상호방위협정을 채택했다. 무역·에너지 등 다른 협정도 맺었다. 이란 전쟁 이후 지역 방위 재편의 일환으로 소개됐다.",
+              "published": "2026-11-14",
+              "event_date": "2026-11-13",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/14/qatar-and-turkey-sign-defence-agreement-for-unified-position-facing-external-attacks",
+                  "title": "Qatar and Turkey sign defence agreement for 'unified position' facing external attacks"
+                }
+              ]
+            },
+            {
+              "title_ko": "UAE 누세이베 장관, 유엔 사무총장 도전 공약",
+              "title_orig": "UAE's Lana Nusseibeh pledges 'relentless diplomacy' in bid to lead the UN",
+              "summary": "UAE의 라나 누세이베 국무장관은 유엔 최고 중재자 역할을 하겠다며 사무총장 선거 출마 포부를 밝혔다. 현재는 그린스팬 후보가 앞서 있고 상임이사국 5개국 모두의 반대를 피한 후보는 아직 없다고 보도됐다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/20/uaes-lana-nusseibeh-pledges-relentless-diplomacy-in-bid-to-lead-the-un",
+                  "title": "UAE's Lana Nusseibeh pledges 'relentless diplomacy' in bid to lead the UN"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [
+            {
+              "title_ko": "이란, 카르그섬 유조선 호송대로 미국 봉쇄 시험",
+              "title_orig": "Iran readies tanker convoy at Kharg Island to test US oil blockade",
+              "summary": "위성영상과 선박추적 자료상 카르그섬에 유조선 14척 이상이 대기해 며칠 안에 오만해로 호송대가 출발할 것으로 보인다. 카르그는 이란 원유 수출의 85~90%를 맡지만 미국의 봉쇄 이후 선적이 멈춘 상태다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/20/iran-readies-tanker-convoy-at-kharg-island-to-test-us-oil-blockade",
+                  "title": "Iran readies tanker convoy at Kharg Island to test US oil blockade"
+                }
+              ]
+            },
+            {
+              "title_ko": "호르무즈 해운 차질에 유가 상승",
+              "title_orig": "Oil prices rise as investors monitor shipping disruption in the Strait of Hormuz",
+              "summary": "11일 오전 브렌트유는 0.2% 오른 배럴당 91.71달러, 미 원유는 86.12달러였다. 이란군은 유조선이 기뢰에 맞아 불탔다고 밝혔고 미국은 이란 항구를 해상 봉쇄하고 있다.",
+              "published": "2026-11-11",
+              "figure": "브렌트유 91.71달러/배럴, WTI 86.12달러/배럴 (2026-11-11 오전)",
+              "source": "Euronews 보도",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/11/oil-markets-rise-as-investors-monitor-shipping-disruption-in-the-strait-of-hormuz",
+                  "title": "Oil prices rise as investors monitor shipping disruption in the Strait of Hormuz"
+                }
+              ]
+            },
+            {
+              "title_ko": "호르무즈 합의 기대에 유가 하락",
+              "title_orig": "Oil slides on Hormuz deal hopes but Trump keeps Iran strikes on the table",
+              "summary": "호르무즈 해협 합의 기대로 유가가 내렸지만 트럼프 대통령이 이란 공습 카드를 유지해 불확실성이 남았다는 제목의 보도다. 본문은 열람하지 못했고 이후 상황이 악화되어 참고용으로 포함했다.",
+              "published": "2026-11-02",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/02/oil-slides-on-hormuz-deal-hopes-but-trump-keeps-iran-strikes-on-the-table",
+                  "title": "Oil slides on Hormuz deal hopes but Trump keeps Iran strikes on the table"
+                }
+              ]
+            }
+          ],
+          "note": "직전 24시간 보도 외에 최근 2~3주 보도 포함 (확인 범위: Euronews, SCMP)"
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [
+            {
+              "title_ko": "이스라엘 전시 총선, 네타냐후 평가가 핵심",
+              "title_orig": "Why Israel's wartime election isn't just about the battle with Iran and Hamas",
+              "summary": "10월 27일 총선은 2023년 10월 7일 이후 첫 총선으로, 유권자에겐 네타냐후에 대한 평가의 성격이 강했다. 이스라엘민주주의연구소 조사로 유대계 응답자 약 68%가 10·7 관련 견해를 투표의 핵심으로 꼽았고 초정통파 병역 면제도 주요 쟁점이었다. 과반 정당은 나오기 어렵다는 전망이었다.",
+              "published": "2026-10-26",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/10/26/why-israels-wartime-election-isnt-just-about-the-battle-with-iran-and-hamas",
+                  "title": "Why Israel's wartime election isn't just about the battle with Iran and Hamas"
+                }
+              ]
+            },
+            {
+              "title_ko": "가자 폭풍으로 5명 사망, 사암 덩어리가 천막 덮쳐",
+              "title_orig": "Storm killed five in Gaza as sandstone slab collapsed onto tents",
+              "summary": "가자에서 폭풍 중 사암 덩어리가 천막 위로 무너져 5명이 숨졌다는 제목의 보도다. 본문은 열람하지 못했다. 겨울을 앞둔 피난민의 열악한 주거 문제를 보여준다.",
+              "published": "2026-11-09",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/09/storm-killed-five-in-gaza-as-sandstone-slab-collapsed-onto-tents",
+                  "title": "Storm killed five in Gaza as sandstone slab collapsed onto tents"
+                }
+              ]
+            }
+          ],
+          "note": "3건 미만: 직전 24시간 중동 사회·문화 기사 부족, 최근 2~4주 보도로 구성 (확인 범위: Euronews, SCMP)"
+        },
+        {
+          "name": "사건사고",
+          "items": [
+            {
+              "title_ko": "바레인·쿠웨이트, 미국의 이란 섬 타격 뒤 드론 공격 격퇴",
+              "title_orig": "Bahrain and Kuwait repel drone attacks after US strikes Iranian island",
+              "summary": "바레인과 쿠웨이트는 미국이 이란 섬의 혁명수비대 미사일 기지를 타격한 뒤 날아온 공습을 막았다고 밝혔다. 이란군은 쿠웨이트 알살렘 기지의 패트리엇 방공체계를 노렸다고 주장했다. 전쟁이 미군 주둔 걸프국으로 번지고 있다고 SCMP는 전했다. 게재일(18일)은 본문 표현에 따른 추정이다.",
+              "published": "2026-11-18",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/world/middle-east/article/3374869/bahrain-and-kuwait-repel-drone-attacks-after-us-strikes-iranian-island",
+                  "title": "Bahrain and Kuwait repel drone attacks after US strikes Iranian island"
+                }
+              ]
+            },
+            {
+              "title_ko": "이란, 바레인 미군 레이더 겨냥 드론 발사",
+              "title_orig": "Iran fires drones at US military radar system in Bahrain amid Gulf tensions",
+              "summary": "혁명수비대는 미 5함대가 있는 바레인 셰이크 이사 기지의 레이더를 드론으로 공격했다고 밝혔다. 바레인은 요격했고 인명·시설 피해는 없다고 했다. 같은 시기 이란과 오만은 호르무즈 항로 안전 문제를 협의했다. 게재일(17일경)은 추정이다.",
+              "published": "2026-11-17",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/world/middle-east/article/3374775/iran-fires-drones-us-military-radar-system-bahrain-amid-gulf-tensions",
+                  "title": "Iran fires drones at US military radar system in Bahrain amid Gulf tensions"
+                }
+              ]
+            },
+            {
+              "title_ko": "가자 나세르 병원 이스라엘 공습으로 6명 사망",
+              "title_orig": "Gaza: Devastation inside Nasser Hospital after deadly Israeli strike",
+              "summary": "12일 새벽 이스라엘 공습이 칸유니스 나세르 의료단지를 타격해 의사 포함 6명이 숨지고 최소 27명이 다쳤다고 WHO가 밝혔다. 이스라엘군은 하마스 고위 지휘관을 겨냥했다고 했지만 증거는 제시하지 않았다.",
+              "published": "2026-11-12",
+              "event_date": "2026-11-12",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/video/2026/11/12/gaza-devastation-inside-nasser-hospital-after-deadly-israeli-strike",
+                  "title": "Video. Gaza: Devastation inside Nasser Hospital after deadly Israeli strike"
+                }
+              ]
+            }
+          ],
+          "note": "직전 24시간 밖 보도 포함 (확인 범위: Euronews, SCMP)"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "africa",
+      "part": "2. 권역별 뉴스",
+      "name": "6) 아프리카",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "EU 5개국, 르완다 송환 허브 구상 공개",
+              "title_orig": "5 EU countries unveil plans for Rwanda deportation hub",
+              "summary": "EU 5개국이 르완다에 이주민 송환 거점을 두는 구상을 공개했다는 SCMP 보도다. 기사 본문은 열람하지 못해 세부 내용은 적지 않았다.",
+              "published": "2026-11-17",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/world/europe/article/3374648/five-eu-countries-unveil-plans-rwanda-deportation-hub",
+                  "title": "5 EU countries unveil plans for Rwanda deportation hub"
+                }
+              ]
+            },
+            {
+              "title_ko": "에티오피아 드론, 티그라이 반군 지원 혐의 에리트레아군 타격",
+              "title_orig": "Ethiopian drones hit Eritrean forces accused of backing rebels in Tigray",
+              "summary": "에티오피아 드론이 티그라이 반군을 지원한 혐의를 받는 에리트레아군을 공격했다는 보도다. 티그라이 지역 충돌이 재발한 이후 이어지는 긴장 흐름에 속한다. 본문은 열람하지 못했고 10월 보도라 최신 상황은 확인하지 못했다.",
+              "published": "2026-10-08",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/10/08/ethiopian-drones-hit-eritrean-forces-accused-of-backing-rebels-in-tigray",
+                  "title": "Ethiopian drones hit Eritrean forces accused of backing rebels in Tigray"
+                }
+              ]
+            }
+          ],
+          "note": "3건 미만: 직전 24시간 아프리카 정치·외교 기사가 지정 매체에서 확인되지 않음 (확인 범위: Euronews, SCMP, 기타 지정 매체 검색 도메인 접근 제한)"
+        },
+        {
+          "name": "경제",
+          "items": [
+            {
+              "title_ko": "모로코, 2035년까지 국방산업 구축에 3.66억 유로 투입",
+              "title_orig": "Morocco commits €366m to build a national defence industry by 2035",
+              "summary": "모로코가 2035년까지 자국 방위산업 기반을 만들기 위해 3억6,600만 유로를 투입하기로 했다는 보도다. 본문은 열람하지 못했다.",
+              "published": "2026-11-20",
+              "figure": "3억6,600만 유로 (2035년까지)",
+              "source": "Euronews 보도",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/20/morocco-commits-366-million-to-build-a-national-defence-industry-by-2035",
+                  "title": "Morocco commits €366m to build a national defence industry by 2035"
+                }
+              ]
+            },
+            {
+              "title_ko": "이집트, 세계경제포럼에서 개혁·에너지 계획 소개",
+              "title_orig": "Egypt pitches reforms and energy plans at World Economic Forum meeting",
+              "summary": "이집트 정부가 세계경제포럼 회의에서 경제 개혁과 에너지 계획을 투자자에게 소개했다는 보도다. 본문은 열람하지 못했다.",
+              "published": "2026-11-17",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/17/egypt-pitches-reforms-and-energy-plans-at-world-economic-forum-meeting",
+                  "title": "Egypt pitches reforms and energy plans at World Economic Forum meeting"
+                }
+              ]
+            },
+            {
+              "title_ko": "중국, 위안화의 아프리카 접근성 높였지만 정착엔 장벽",
+              "title_orig": "China puts yuan within easier reach of Africa, but adoption faces major hurdles: report",
+              "summary": "중국이 아프리카에서 위안화 이용을 쉽게 하는 조치를 내놨지만 실제 채택에는 큰 장애가 있다는 보고서를 SCMP가 전했다. 본문은 열람하지 못했고 게재일은 11월 중순 전후로 추정된다.",
+              "published": "2026-11-14",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/economy/policy/article/3373817/china-puts-yuan-within-easier-reach-africa-adoption-faces-major-hurdles-report",
+                  "title": "China puts yuan within easier reach of Africa, but adoption faces major hurdles: report"
+                }
+              ]
+            }
+          ],
+          "note": "본문 미열람 기사 포함: 제목·검색 결과 기준 요약 (확인 범위: Euronews, SCMP)"
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [
+            {
+              "title_ko": "콩고민주공화국 에볼라, 사상 최악 1만1천 건 돌파",
+              "title_orig": "Deadliest Ebola outbreak in Congo's history reaches 11,000 cases",
+              "summary": "콩고 정부 자료로 확진 11,042건, 사망 5,387명으로 역대 최악의 에볼라 유행이 됐다. 40일 만에 확진 1,000건을 넘어 2018년(약 235일)보다 훨씬 빠르다. 이투리·북키부의 무력분쟁과 의료진 임금 체불, 주민 불신이 대응을 어렵게 한다.",
+              "published": "2026-11-11",
+              "figure": "확진 11,042건, 사망 5,387명 (2026-11-11 기준)",
+              "source": "콩고 정부 자료(Euronews 인용)",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/11/deadliest-ebola-outbreak-in-congos-history-reaches-11000-cases",
+                  "title": "Deadliest Ebola outbreak in Congo's history reaches 11,000 cases"
+                }
+              ]
+            },
+            {
+              "title_ko": "WHO, 에볼라 신규 백신 2종 임상시험 지지",
+              "title_orig": "WHO backs trials for two new vaccines against Ebola outbreak",
+              "summary": "WHO 전문가 그룹이 옥스퍼드대·세럼인스티튜트 후보와 모더나 후보 등 분디부교 바이러스 백신 2종을 시험에 포함하도록 권고했다. 시험은 콩고 국립생의학연구소가 주도한다. 가나와 미국의 여행 제한에는 WHO와 아프리카 CDC가 반대하고 있다.",
+              "published": "2026-11-04",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/04/who-backs-trials-for-two-new-vaccines-against-ebola-outbreak",
+                  "title": "WHO backs trials for two new vaccines against Ebola outbreak"
+                }
+              ]
+            },
+            {
+              "title_ko": "올해 콜레라 사망 3,000명 넘어, WHO",
+              "title_orig": "Over 3,000 already dead from cholera this year, says WHO",
+              "summary": "WHO가 올해 콜레라로 3,000명 넘게 숨졌다고 밝혔다는 SCMP 보도다. 본문은 열람하지 못했다.",
+              "published": "2026-11-11",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/world/africa/article/3373991/over-3000-already-dead-cholera-year-says-who",
+                  "title": "Over 3,000 already dead from cholera this year, says WHO"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사건사고",
+          "items": [
+            {
+              "title_ko": "세네갈 앞바다 이주민 보트 전복, 수십 명 실종",
+              "title_orig": "At least one dead and dozens missing after migrant boat capsizes off Senegal en route to Spain",
+              "summary": "19일 새벽 약 100명이 탄 이주민 보트가 다카르 남쪽 예네 앞바다에서 뒤집혀 1명이 숨지고 수십 명이 실종됐다. 11월 상반기에만 카나리아 제도에 1만1천 명 넘게 도착했고 세네갈 해군은 48시간 동안 1,400여 명을 구조했다.",
+              "published": "2026-11-19",
+              "event_date": "2026-11-19",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/19/at-least-one-dead-and-dozens-missing-after-migrant-boat-capsizes-off-senegal-en-route-to-s",
+                  "title": "At least one dead and dozens missing after migrant boat capsizes off Senegal en route to Spain"
+                }
+              ]
+            },
+            {
+              "title_ko": "케냐 수도 인근 건물 붕괴로 6명 사망",
+              "title_orig": "6 dead near Kenya's capital after building collapses",
+              "summary": "나이로비 인근에서 건물이 무너져 6명이 숨졌다는 SCMP 보도다. 본문은 열람하지 못했다.",
+              "published": "2026-11-13",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/world/africa/article/3374388/6-dead-near-kenyas-capital-after-building-collapses",
+                  "title": "6 dead near Kenya's capital after building collapses"
+                }
+              ]
+            }
+          ],
+          "note": "3건 미만: 직전 24시간 아프리카 사건사고 보도가 지정 매체에서 적게 확인됨 (확인 범위: Euronews, SCMP)"
+        }
+      ],
+      "note": ""
+    }
+  ],
+  "notes": [
+    "Reuters·AP·WSJ·Economist·POLITICO 도메인은 웹 검색 필터·열람이 막혀 이번 단계 기사는 Euronews와 SCMP 중심이며, 본문 미열람 기사는 제목·검색 결과 기준으로 요약함",
+    "일부 SCMP 기사는 게재일이 본문에 없어 추정함"
+  ]
+}

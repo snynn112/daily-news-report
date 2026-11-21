@@ -31,6 +31,9 @@ part3 추가 절차:
 - 일반 뉴스: AP News, Reuters, Euronews, South China Morning Post(SCMP), POLITICO, The Economist, The Wall Street Journal
 - 기술·과학: **TLDR 웹사이트**를 우선 확인한다. 최신 호 주소는 `https://tldr.tech/tech/YYYY-MM-DD`(평일 발행; 오늘 호가 없으면 직전 발행일 호), 필요하면 `https://tldr.tech/ai/YYYY-MM-DD`도 본다. 호 안의 기사 중 중요한 것을 고르고, 링크는 TLDR 페이지가 아니라 **TLDR이 가리키는 원문 기사 주소**를 쓴다(`outlet`은 원문 매체명). Ars Technica·WIRED로 보완한다. Gmail은 사용하지 않는다.
 - The Economist, WSJ: 공개적으로 볼 수 있는 범위(제목·요약)만 이용한다. 구독 제한을 우회하지 않는다. 원문 링크는 붙인다.
+- **지정 매체만 쓴다.** 권역별 뉴스·헤드라인·경제 기사의 출처는 위 7개 매체로 한정한다. Al Jazeera, CNBC, Axios, 지역 방송, 투자 정보 사이트 등 다른 매체는 쓰지 않는다. 예외: 경제 지표의 공식 출처(통계청, 한국은행, 미 노동통계국(BLS), 미 상무부, 연준 등)와 기술과학의 TLDR·Ars Technica·WIRED.
+- **매체별로 고르게 검색한다.** 그룹마다 `site:reuters.com`, `site:apnews.com`, `site:wsj.com`, `site:economist.com`, `site:politico.com`, `site:scmp.com`, `site:euronews.com` 형태의 검색을 활용해 7개 매체를 모두 훑은 뒤 고른다. 한두 매체에 몰리지 않게 한다.
+- **Reuters·AP 링크:** 원문 페이지가 열리지 않더라도 검색 결과에 나온 **reuters.com / apnews.com 원문 주소**를 그대로 쓴다(검색 결과에 나온 주소는 확인된 것으로 본다). Yahoo·U.S. News·Investing.com 등의 재게재본 주소는 원문 주소를 끝내 찾지 못한 경우에만, `outlet`에 "Reuters (재게재: Yahoo)"처럼 표시해 쓴다.
 
 ## 3. 기사 선정·작성 원칙
 

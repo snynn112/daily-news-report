@@ -26,14 +26,44 @@ part3 추가 절차:
 - 최종 `reports/DATE.json`을 만들고 `index.json`의 `dates` 맨 앞에 DATE를 추가(중복 금지), `latest`와 `updated`를 갱신한다.
 - 마지막 응답(예약 작업 알림에 표시됨)은 한국어 3줄 이내: 상태, 기사 수, 빈 칸 수.
 
-## 2. 참고 매체
+## 2. 참고 매체와 검색 방법
 
-- 일반 뉴스: AP News, Reuters, Euronews, South China Morning Post(SCMP), POLITICO, The Economist, The Wall Street Journal
-- 기술·과학: **TLDR 웹사이트**를 우선 확인한다. 최신 호 주소는 `https://tldr.tech/tech/YYYY-MM-DD`(평일 발행; 오늘 호가 없으면 직전 발행일 호), 필요하면 `https://tldr.tech/ai/YYYY-MM-DD`도 본다. 호 안의 기사 중 중요한 것을 고르고, 링크는 TLDR 페이지가 아니라 **TLDR이 가리키는 원문 기사 주소**를 쓴다(`outlet`은 원문 매체명). Ars Technica·WIRED로 보완한다. Gmail은 사용하지 않는다.
-- The Economist, WSJ: 공개적으로 볼 수 있는 범위(제목·요약)만 이용한다. 구독 제한을 우회하지 않는다. 원문 링크는 붙인다.
-- **지정 매체만 쓴다.** 권역별 뉴스·헤드라인·경제 기사의 출처는 위 7개 매체로 한정한다. Al Jazeera, CNBC, Axios, 지역 방송, 투자 정보 사이트 등 다른 매체는 쓰지 않는다. 예외: 경제 지표의 공식 출처(통계청, 한국은행, 미 노동통계국(BLS), 미 상무부, 연준 등)와 기술과학의 TLDR·Ars Technica·WIRED.
-- **매체별로 고르게 검색한다.** 그룹마다 `site:reuters.com`, `site:apnews.com`, `site:wsj.com`, `site:economist.com`, `site:politico.com`, `site:scmp.com`, `site:euronews.com` 형태의 검색을 활용해 7개 매체를 모두 훑은 뒤 고른다. 한두 매체에 몰리지 않게 한다.
-- **Reuters·AP 링크:** 원문 페이지가 열리지 않더라도 검색 결과에 나온 **reuters.com / apnews.com 원문 주소**를 그대로 쓴다(검색 결과에 나온 주소는 확인된 것으로 본다). Yahoo·U.S. News·Investing.com 등의 재게재본 주소는 원문 주소를 끝내 찾지 못한 경우에만, `outlet`에 "Reuters (재게재: Yahoo)"처럼 표시해 쓴다.
+### 2-1. 핵심 매체 (항상 먼저, 중심으로 검색)
+
+| 매체 | 도메인 | 주로 쓰는 곳 |
+|---|---|---|
+| AP News | apnews.com | 전 권역, 미국, 사건사고 |
+| 연합뉴스 | yna.co.kr, en.yna.co.kr | 한국 관련, 아시아, 한국 경제·증시 |
+| POLITICO | politico.com, politico.eu | 미국·유럽 정치 및 외교 |
+| Euronews | euronews.com | 동유럽·서유럽 |
+| South China Morning Post | scmp.com | 중국, 아시아-태평양 |
+| Bloomberg | bloomberg.com | 경제, 시장, 기업 (전 권역) |
+| Al Jazeera | aljazeera.com | 중동, 아프리카, 전 권역 |
+| TLDR | tldr.tech | 기술과학 (우선) |
+| WIRED | wired.com | 기술과학 (보완) |
+
+- 그룹마다 **핵심 매체를 먼저** 찾는다. 웹 검색 도구의 `allowed_domains`에 위 도메인을 넣어 검색하면 핵심 매체 기사만 나온다. 권역에 맞는 매체를 우선한다:
+  아시아-태평양 = AP·연합뉴스·SCMP·Bloomberg / 중국 = SCMP·AP·Bloomberg·Al Jazeera / 미국 = AP·POLITICO·Bloomberg / 동·서유럽 = Euronews·POLITICO·AP / 중동·아프리카 = Al Jazeera·AP / 경제 = Bloomberg·연합뉴스·AP / 기술과학 = TLDR·WIRED.
+- **한 매체 쏠림 금지:** 한 매체가 리포트 전체 링크의 30%를 넘지 않게 하고, 한 그룹(3~5건)의 기사가 모두 같은 매체에서 나오지 않게 한다.
+- 유료 기사(Bloomberg 등)는 공개된 제목·요약만 이용하고 구독 제한을 우회하지 않는다. 링크는 원문 주소.
+
+### 2-2. 다른 매체는 꼭 필요할 때만
+
+- 핵심 매체에서 그 그룹을 3건 채울 만한 최신 보도가 없을 때만 다른 매체를 쓴다. 이때도 **신뢰도 높은 주요 언론과 공식 기관**만 쓴다:
+  Reuters, BBC, The New York Times, The Washington Post, The Wall Street Journal, Financial Times, The Economist, The Guardian, Nikkei Asia, NHK, Kyodo, Le Monde, DW, CNBC(시장 수치), Ars Technica·The Verge(기술), 각국 정부·중앙은행·통계기관·기업 공식 발표.
+- **쓰지 않는 출처:** 투자 정보·주식 홍보 사이트(The Motley Fool, StockTitan, The Closing Print, Investing.com, FXStreet, InvestmentNews 등), 지역 TV·라디오 계열사(ABC13, WSMV, WCAX 등), 뉴스 요약·다이제스트·재게재(Yahoo News 재게재, The Neuron, SingularityHub 주간 모음 등), 블로그·보도자료 배포 사이트, 단독 출처의 미확인 의혹 보도.
+- 경제 지표·시장 수치는 공식 기관 발표나 Bloomberg·연합뉴스·AP·Reuters 보도를 기준으로 하고, 기준 시점·단위·출처를 적는다.
+
+### 2-3. 기준 기간
+
+- 직전 24시간 보도를 우선하고, 최대 48시간까지만 쓴다. 그보다 오래된 기사는 쓰지 않는다(큰 사건의 최신 후속 보도는 예외). 48시간 안에 3건이 정말 없으면 있는 만큼만 쓰고 `note`에 이유를 적는다.
+
+### 2-4. 웹페이지 여는 방법 (중요)
+
+- **주소를 직접 만들거나 추측해서 열지 않는다.** 자동 실행에서는 권한 확인을 받을 수 없어 실패한다(PROVENANCE_REQUIRED).
+- 웹페이지는 (1) 예약 작업 지시문에 적힌 주소, (2) 웹 검색 결과에 나온 주소, (3) 이미 연 페이지 안의 링크만 연다.
+- 리포트의 기사 링크는 검색 결과나 연 페이지에서 실제로 확인한 원문 주소만 쓴다. 다른 사이트 재게재본 주소는 쓰지 않는다.
+- 기술과학: 지시문에 적힌 TLDR 보관함 페이지(https://tldr.tech/tech/archives, https://tldr.tech/ai/archives)를 열고 그 안의 최신 호 링크를 따라간다(평일 발행, 주말·휴일에는 직전 발행일 호). 링크는 TLDR 페이지가 아니라 TLDR이 소개한 원문 기사 주소를 쓴다(`outlet`은 원문 매체명). WIRED로 보완한다. Gmail은 사용하지 않는다.
 
 ## 3. 기사 선정·작성 원칙
 
@@ -45,7 +75,6 @@ part3 추가 절차:
 - 경제 지표는 기준 날짜·기간, 수치, 단위, 출처를 `figure`와 `source`에 적는다.
 - `title_orig`은 원문 제목 그대로, `title_ko`는 한국어 제목. 링크는 반드시 **기사 페이지로 직접 연결되는 URL**(홈페이지·검색 결과 링크 금지). 링크는 실제로 열어 보거나 검색 결과에서 확인한 것만 쓴다.
 - 요약(`summary`)은 한국어 2~3문장, 자기 말로 쓴다. 원문 문장을 옮겨 적지 않는다(인용은 15단어 미만, 기사당 1회 이내).
-- 기준 기간: 원칙적으로 직전 24시간(전날 06:00 KST 이후) 보도. 큰 사건의 후속 보도는 포함 가능.
 
 ## 4. 파일 형식
 
@@ -86,7 +115,7 @@ part3 추가 절차:
 | middle-east | 2. 권역별 뉴스 | 5) 중동 | (같음) |
 | africa | 2. 권역별 뉴스 | 6) 아프리카 | (같음) |
 | economy | 3. 경제 | 경제 | 헤드라인 · 한국 및 미국 주요 거시경제 지표 · 한국 주식시장 · 미국 주식시장 · 주요 기업 |
-| tech | 4. 기술과학 | 기술과학 | 주요 기사 (TLDR 웹사이트 우선, 5~8개) |
+| tech | 4. 기술과학 | 기술과학 | 주요 기사 (TLDR 우선, WIRED 보완, 5~8개) |
 
 ### parts/DATE-partN.json
 ```json
@@ -126,4 +155,5 @@ part3 추가 절차:
 - JSON이 문법적으로 올바른지 확인한다(`python3 -m json.tool`).
 - 그룹마다 items 3~5개인지, 아니면 `note`에 이유가 있는지 확인한다.
 - 모든 item에 `links`가 1개 이상 있고 URL이 `https://`로 시작하며 기사 페이지 주소인지 확인한다.
+- 링크 도메인 분포를 세어 한 매체가 30%를 넘지 않는지, 2-2의 '쓰지 않는 출처'가 섞이지 않았는지 확인하고, 걸리면 핵심 매체 기사로 바꾼다.
 - `status`는 빈 그룹이 3개 이하이고 모든 섹션이 있으면 `complete`, 그 밖에는 `partial`.

@@ -23,9 +23,14 @@
     ]
   },
   "part3": {
-    "status": "",
-    "startedAt": "",
-    "finishedAt": "",
-    "notes": []
+    "status": "partial",
+    "startedAt": "2026-11-22T06:02:08+09:00",
+    "finishedAt": "2026-11-22T06:02:08+09:00",
+    "notes": [
+      "헤드라인 8·경제 5그룹(24건)·기술과학 6건 작성, 10개 섹션 합쳐 최종 리포트 생성(기사 121건, 빈 그룹 1)",
+      "TLDR 웹사이트(tldr.tech) 직접 열람이 권한 확인 시간 초과(PROVENANCE_REQUIRED)로 실패해 TLDR 호를 확인하지 못함. 우회하지 않고 AI 뉴스 다이제스트(The Neuron)·SingularityHub 주간 모음에 링크된 원문 주소로 기술과학 6건을 구성. Ars Technica·WIRED도 직접 열람 실패",
+      "Reuters·AP·WSJ·Economist·POLITICO 등 지정 매체 열람이 막혀 경제 섹션 시장 수치는 The Closing Print, The Motley Fool, StockTitan(일부는 요약 기반), 뉴스1, Businesskorea 등 지정 외 매체 기준이며 출처 간 수치 차이는 Closing Print 기준으로 통일(예: S&P 500 Fool 본문 -3.82%)",
+      "AMD 관련 공매도 리서치 의혹은 Businesskorea 단독 보도로 원문 미확인. 엔비디아 SEC 조사·CEO 사임 보도의 사유는 보도 인용이며 SEC는 조사 존재 여부를 확인하지 않음"
+    ]
   }
 }

@@ -1,0 +1,2101 @@
+{
+  "date": "2026-11-22",
+  "title": "2026. 11. 22. Daily News Report",
+  "generatedAt": "2026-11-22T06:02:08+09:00",
+  "status": "complete",
+  "counts": {
+    "items": 121,
+    "emptyGroups": 1
+  },
+  "notes": [
+    "TLDR 웹사이트(tldr.tech) 직접 열람이 권한 확인 시간 초과(PROVENANCE_REQUIRED)로 실패해 TLDR 호를 확인하지 못함. 우회하지 않고 AI 뉴스 다이제스트(The Neuron)·SingularityHub 주간 모음에 링크된 원문 주소로 기술과학 6건을 구성. Ars Technica·WIRED도 직접 열람 실패",
+    "Reuters·AP·WSJ·Economist·POLITICO 등 지정 매체 열람이 막혀 경제 섹션 시장 수치는 The Closing Print, The Motley Fool, StockTitan(일부는 요약 기반), 뉴스1, Businesskorea 등 지정 외 매체 기준이며 출처 간 수치 차이는 Closing Print 기준으로 통일(예: S&P 500 Fool 본문 -3.82%)",
+    "AMD 관련 공매도 리서치 의혹은 Businesskorea 단독 보도로 원문 미확인. 엔비디아 SEC 조사·CEO 사임 보도의 사유는 보도 인용이며 SEC는 조사 존재 여부를 확인하지 않음",
+    "기술과학 일부 게재일은 다이제스트 날짜·URL 날짜 기준 추정. 미국 사회 및 문화 그룹은 part1에서 비어 있음",
+    "3건 미만 그룹: 2) 중국 사건사고 2, 3) 미국 경제 2, 3) 미국 사회 및 문화 0, 3) 미국 사건사고 1, 4) 유럽 (1) 동유럽 경제 1, 4) 유럽 (1) 동유럽 사회 및 문화 2, 5) 중동 사회 및 문화 2, 6) 아프리카 정치 및 외교 2, 6) 아프리카 사건사고 2"
+  ],
+  "sections": [
+    {
+      "id": "headline",
+      "part": "1. 헤드라인",
+      "name": "헤드라인",
+      "groups": [
+        {
+          "name": "오늘의 헤드라인",
+          "items": [
+            {
+              "title_ko": "뉴욕증시 폭락: S&P 500 조정장 진입, 엔비디아 14% 급락",
+              "title_orig": "Post-Market & Weekly Summary (Nov. 20, 2026)",
+              "summary": "20일 S&P 500이 3.7%, 나스닥이 5.3% 하락했고 반도체지수는 10.7% 폭락했다. 한 주 낙폭은 S&P 500 기준 8.6%로, AI 투자 수익성 의문과 엔비디아 규제 리스크가 겹쳤다.",
+              "published": "2026-11-20",
+              "event_date": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "The Closing Print",
+                  "url": "https://www.theclosingprint.net/2026/11/post-market-and-weekly-summary-2026-11-20/",
+                  "title": "Post-Market & Weekly Summary"
+                },
+                {
+                  "outlet": "The Motley Fool",
+                  "url": "https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-today-nov-20-nvidia-s-usd2-5-trillion-rout-deepens-as-sec-accounting-probe-adds-to-wall-street-s-ai-sell-off/",
+                  "title": "Stock Market Today, Nov. 20: Nvidia's $2.5 Trillion Rout Deepens as SEC Accounting Probe Adds to Wall Street's AI Sell-Off"
+                }
+              ]
+            },
+            {
+              "title_ko": "코스피 5.21% 급락, 5,000선 붕괴…양 시장 매도 사이드카",
+              "title_orig": "코스피, 5.21% 하락한 4869.96 마감…코스닥 5.71%↓(2보)",
+              "summary": "미국 반도체·AI주 급락이 국내로 번지며 코스피는 4,869.96, 코스닥은 645.68로 마감했다. 외국인과 기관이 약 2조 원어치를 팔았고 삼성전자는 7% 넘게 내렸다.",
+              "published": "2026-11-20",
+              "event_date": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "뉴스1",
+                  "url": "https://www.news1.kr/finance/general-stock/6361112",
+                  "title": "코스피, 5.21% 하락한 4869.96 마감…코스닥 5.71%↓(2보)"
+                },
+                {
+                  "outlet": "Businesskorea",
+                  "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=281841",
+                  "title": "[마감 시황] 코스피, 5.21% 폭락에 4,860선 추락...코스닥도 5.71% 급락"
+                }
+              ]
+            },
+            {
+              "title_ko": "엔비디아 젠슨 황 CEO 사임, SEC 조사 보도…재무장관 '10일 내 답' 요구",
+              "title_orig": "SEC Investigating Whether Nvidia Misled Investors",
+              "summary": "젠슨 황이 CEO에서 물러나고 SEC가 엔비디아 공시 관련 민사 조사를 벌이고 있다는 보도가 나왔으나 SEC는 확인하지 않았다. 베선트 재무장관은 중국 판매 관련 의혹에 대해 이사회와 외부 변호인의 답을 10일 안에 듣겠다고 했다.",
+              "published": "2026-11-18",
+              "event_date": "2026-11-17",
+              "links": [
+                {
+                  "outlet": "PYMNTS",
+                  "url": "https://pymnts.com/legal/2026/sec-investigating-whether-nvidia-misled-investors",
+                  "title": "SEC Investigating Whether Nvidia Misled Investors"
+                },
+                {
+                  "outlet": "InvestmentNews",
+                  "url": "https://www.investmentnews.com/equities/embattled-nvidia-faces-sec-probe-as-california-attorney-general-mulls-action/269054",
+                  "title": "Embattled Nvidia faces SEC probe as California attorney general mulls action"
+                }
+              ]
+            },
+            {
+              "title_ko": "앤트로픽 나스닥 상장, 공모 기준 사상 최대 약 813억 달러",
+              "title_orig": "Anthropic begins trading on Nasdaq in record-breaking IPO",
+              "summary": "앤트로픽은 공모가 83달러로 약 813억 달러를 조달했고 상장 당일 시초가는 111.50달러였다. 대형 IPO 자금 쏠림이 기존 AI·빅테크주 약세 요인 중 하나로 거론된다.",
+              "published": "2026-11-19",
+              "event_date": "2026-11-19",
+              "links": [
+                {
+                  "outlet": "Fox Business",
+                  "url": "https://www.foxbusiness.com/markets/anthropic-begins-trading-nasdaq-record-breaking-ipo",
+                  "title": "Anthropic begins trading on Nasdaq in record-breaking IPO"
+                }
+              ]
+            },
+            {
+              "title_ko": "트럼프·시진핑·푸틴 선전 3자 회동…'평화 선언', 군사 AI에 사람 개입 합의 전언",
+              "title_orig": "Concrete aims or just symbolism? Trump, Xi and Putin pledge nuclear risk talks",
+              "summary": "세 정상이 선전 APEC을 계기로 핵 위험 관련 대화와 유엔 개혁, 연료 공급 등을 담은 공동 선언을 내놨으나 SCMP는 구체성이 부족하다는 평가를 전했다. 베선트 재무장관은 트럼프와 시진핑이 군사 AI 판단에 사람이 개입해야 한다는 데 공감했다고 밝혔으며 이는 미국 측 전언이다.",
+              "published": "2026-11-20",
+              "event_date": "2026-11-19",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/china/military/article/3375268/concrete-aims-or-just-symbolism-trump-xi-and-putin-talk-nuclear-risk-controls-stall",
+                  "title": "Concrete aims or just symbolism? Trump, Xi and Putin pledge nuclear risk talks"
+                },
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/china/diplomacy/article/3375321/xi-trump-agree-military-ai-decisions-must-involve-humans-bessent-says",
+                  "title": "Xi, Trump agree military AI decisions must involve humans, Bessent says"
+                }
+              ]
+            },
+            {
+              "title_ko": "미국·이란 충돌 확대…카르그섬 유조선 호송대로 봉쇄 시험",
+              "title_orig": "Iran readies tanker convoy at Kharg Island to test US oil blockade",
+              "summary": "15일부터 미국과 이란이 공습을 주고받는 가운데, 이란은 카르그섬에 유조선 14척 이상을 모아 미국 봉쇄를 시험할 호송대를 준비하는 것으로 위성·선박 자료에 나타났다. 혁명수비대의 호르무즈 유조선 피격 주장은 독립 확인되지 않았다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/20/iran-readies-tanker-convoy-at-kharg-island-to-test-us-oil-blockade",
+                  "title": "Iran readies tanker convoy at Kharg Island to test US oil blockade"
+                },
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/16/us-and-iran-slide-closer-to-fresh-all-out-war-as-new-exchange-of-fire-increases",
+                  "title": "US and Iran slide closer to fresh all-out war as new exchange of fire increases"
+                }
+              ]
+            },
+            {
+              "title_ko": "러시아 미사일·드론, 폴란드 영토 낙하…투스크 '도발' 규탄",
+              "title_orig": "Tusk denounces Russian 'provocation' after missiles crash in Poland",
+              "summary": "러시아의 대규모 우크라이나 공습 중 미사일 2발과 드론 1대가 20일 폴란드에 떨어졌고 인명 피해는 보고되지 않았다. 투스크 총리는 도발이라며 규탄했다.",
+              "published": "2026-11-20",
+              "event_date": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/20/unidentified-object-falls-in-eastern-poland-amid-major-russian-attack-on-ukraine",
+                  "title": "Tusk denounces Russian 'provocation' after missiles crash in Poland"
+                }
+              ]
+            },
+            {
+              "title_ko": "EU-영국, 브렉시트 이후 관계 재설정 합의",
+              "title_orig": "Burnham drew a line under Brexit at the EU-UK summit. But where does Britain go next?",
+              "summary": "EU와 영국은 정상회의에서 농식품 기준 완화, 탄소시장 연계, 청년 이동 프로그램에 합의했고 대학 등록금과 전력시장 접근은 미뤘다. EU는 단일시장 원칙 완화는 없다는 신호를 보냈다.",
+              "published": "2026-11-20",
+              "event_date": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/20/burnham-drew-a-line-under-brexit-at-the-eu-uk-summit-but-where-does-britain-go-next",
+                  "title": "Burnham drew a line under Brexit at the EU-UK summit. But where does Britain go next?"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "asia-pacific",
+      "part": "2. 권역별 뉴스",
+      "name": "1) 아시아-태평양",
+      "note": "",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "필리핀, 트럼프의 '맥아더식 황금 지휘봉' 요청 정중히 거절",
+              "title_orig": "Baton rogue: Trump asks Philippines for MacArthur-style honour, gets polite no",
+              "summary": "트럼프 대통령이 맥아더 장군에게 수여됐던 것과 같은 황금 지휘봉을 요청했으나 필리핀 군은 이를 사양했다. 군 측은 해당 지휘봉이 일회성 역사적 상징일 뿐 현재 군 계급 체계에는 없다고 설명했다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/week-asia/politics/article/3375228/philippine-military-rejects-trumps-request-macarthur-style-gold-baton",
+                  "title": "Baton rogue: Trump asks Philippines for MacArthur-style honour, gets polite no"
+                }
+              ]
+            },
+            {
+              "title_ko": "트럼프 '푸대접' 뒤 김정은, 학용품 공장 연쇄 시찰",
+              "title_orig": "North Korea's Kim Jong-un visits school gear factories after apparent Trump snub",
+              "summary": "SCMP에 따르면 김정은 국무위원장이 트럼프 대통령에게 외면당한 것으로 보이는 상황 직후 학용품·학교용품 생산 공장들을 잇따라 찾았다. 대외 메시지보다 내부 민생 행보를 부각하려는 움직임으로 읽힌다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/asia/east-asia/article/3375305/north-koreas-kim-jong-un-visits-school-gear-factories-after-apparent-trump-snub",
+                  "title": "North Korea's Kim Jong-un visits school gear factories after apparent Trump snub"
+                }
+              ]
+            },
+            {
+              "title_ko": "필리핀, 방공·로켓 전력 보강 위해 인도로 시선",
+              "title_orig": "Layered defence: why Philippines is looking to India for more weapons",
+              "summary": "필리핀이 이미 도입한 브라모스 미사일에 더해 인도의 아카시 방공체계와 피나카 다연장로켓 도입을 추진 중인 것으로 알려졌다. 기사는 마닐라가 왜 인도를 새 무기 공급처로 주목하는지 분석한다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/week-asia/politics/article/3375245/why-philippines-turning-india-boost-defence-capabilities",
+                  "title": "Layered defence: why Philippines is looking to India for more weapons"
+                }
+              ]
+            },
+            {
+              "title_ko": "다카이치 정부, 음모론 유튜버 기용한 안보 홍보에 비판",
+              "title_orig": "Japan government criticised over conspiracy-theory YouTuber in security PR push",
+              "summary": "다카이치 사나에 총리 정부가 젊은 층에 국가안보를 알리려고 음모론 콘텐츠로 알려진 크리에이터를 기용해 비판을 받고 있다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/asia/east-asia/article/3375304/japan-government-criticised-over-conspiracy-theory-youtuber-security-pr-push",
+                  "title": "Japan government criticised over conspiracy-theory YouTuber in security PR push"
+                }
+              ]
+            },
+            {
+              "title_ko": "말레이시아 느그리슴빌란 궁정, 주총리 유임 요청설 부인",
+              "title_orig": "Negeri Sembilan palace denies asking chief minister to stay in office",
+              "summary": "느그리슴빌란주 왕실은 이스마일 라심 주총리에게 자리를 유지해 달라고 요청한 적이 없다고 밝혔다. 라심 주총리는 사직서를 제출하거나 통수권자에게 보내는 데 동의한 적이 없다고 말했다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/week-asia/politics/article/3375217/malaysias-negeri-sembilan-palace-denies-asking-chief-minister-stay-office",
+                  "title": "Negeri Sembilan palace denies asking chief minister to stay in office"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [
+            {
+              "title_ko": "일본, '아시아판 IEA' 구상 제안…역내 호응 얻을까",
+              "title_orig": "Japan wants an Asian energy agency. Will the region buy in?",
+              "summary": "다카이치 총리가 마닐라에서 열린 아시아 제로에미션 공동체 회의에서 아시아 지역 에너지 기구(‘아시아판 IEA’) 설립을 제안했다. 기사는 역내 각국 정부가 이 구상을 지지할지를 짚는다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/week-asia/economics/article/3375246/japan-wants-asian-energy-agency-will-region-buy",
+                  "title": "Japan wants an Asian energy agency. Will the region buy in?"
+                }
+              ]
+            },
+            {
+              "title_ko": "인도네시아-EU, '야심찬' 무역협정 서명",
+              "title_orig": "Indonesia, EU sign ‘ambitious’ trade deal",
+              "summary": "SCMP는 인도네시아와 유럽연합이 무역협정에 서명했고 이를 '야심찬' 합의로 평가했다고 전했다. 세부 관세·투자 조항은 본 점검에서 확인하지 못했다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/asia/southeast-asia/article/3375341/indonesia-eu-sign-ambitious-trade-deal",
+                  "title": "Indonesia, EU sign ‘ambitious’ trade deal"
+                }
+              ]
+            },
+            {
+              "title_ko": "EU의 동남아 공략, 자금난에 막히고 중국이 격차 확대",
+              "title_orig": "EU’s Southeast Asia push hits funding crunch as China widens lead",
+              "summary": "제목 기준으로, EU의 동남아 진출 노력이 재원 부족에 부딪힌 사이 중국이 영향력 격차를 넓히고 있다는 분석이다. 정확한 게시일은 확인하지 못했으며 최근 1주 안팎의 기사로 보인다.",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/week-asia/politics/article/3373510/eus-southeast-asia-push-hits-funding-crunch-china-widens-lead",
+                  "title": "EU’s Southeast Asia push hits funding crunch as China widens lead"
+                }
+              ]
+            }
+          ],
+          "note": "경제 기사는 3건뿐이며, 지정 매체 직접 열람이 제한돼 SCMP 위주로 구성함"
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [
+            {
+              "title_ko": "일본 '토끼 섬', 귀여운 토끼와 어두운 전쟁사로 관광객 끌어",
+              "title_orig": "Japan's 'Rabbit Island' draws tourists with fluffy bunnies and dark wartime past",
+              "summary": "오쿠노시마는 연 20만 명가량의 관광객을 끄는 토끼 섬으로 유명하지만, 전쟁 중 일본 제국 육군의 비밀 화학무기 공장이 있던 곳이기도 하다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/asia/east-asia/article/3375307/japans-rabbit-island-draws-tourists-fluffy-bunnies-and-dark-wartime-past",
+                  "title": "Japan's 'Rabbit Island' draws tourists with fluffy bunnies and dark wartime past"
+                }
+              ]
+            },
+            {
+              "title_ko": "싱가포르 법원, 닭 피하려 급제동한 운전기사 상대 소송 기각",
+              "title_orig": "Fowl play? Singapore passenger gets US$11,625 bill after driver spares chicken",
+              "summary": "싱가포르 지방법원 판사는 수탉을 피하려고 운전기사가 급제동해 다쳤다는 승객의 과실 주장을 기각하며 '삶에서 있을 수 있는 일'이라고 판단했다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/week-asia/people/article/3375178/no-fowl-play-singapore-judge-throws-out-passenger-lawsuit-after-driver-stops-chicken",
+                  "title": "Fowl play? Singapore passenger gets US$11,625 bill after driver spares chicken"
+                }
+              ]
+            },
+            {
+              "title_ko": "필리핀 대사 \"머스크, 필리핀 섬 한두 곳 개발 중\"",
+              "title_orig": "Elon Musk quietly developing '1 or 2' Philippine islands, Manila envoy says",
+              "summary": "호세 마누엘 로무알데스 주미 필리핀 대사는 일론 머스크가 조용히 자주 방문하며 섬 한두 곳을 개발하고 있다고 말했다. 머스크 측은 이에 대해 입장을 내지 않았다고 SCMP는 전했다.",
+              "published": "2026-11-19",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/week-asia/people/article/3375057/elon-musk-quietly-developing-one-or-two-philippine-islands-manila-envoy-says",
+                  "title": "Elon Musk quietly developing '1 or 2' Philippine islands, Manila envoy says"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사건사고",
+          "items": [
+            {
+              "title_ko": "말레이시아 공군기지 의심 가방에서 마약 적발…안와르 \"단속 강화\"",
+              "title_orig": "Anwar vows action after suspect bags at Malaysian airbase lead to US$1.2m bust",
+              "summary": "말레이시아 공군기지에서 발견된 수상한 가방을 계기로 약 120만 달러 규모의 마약이 적발됐다. 당국은 군 인력과 시설을 이용해 필리핀·인도네시아로 마약을 밀반출한 조직과 연관됐다고 보고 있으며, 안와르 총리가 강력 대응을 다짐했다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/week-asia/health-environment/article/3375162/anwar-vows-crackdown-after-suspicious-bags-malaysian-airbase-lead-us12m-drug-bust",
+                  "title": "Anwar vows action after suspect bags at Malaysian airbase lead to US$1.2m bust"
+                }
+              ]
+            },
+            {
+              "title_ko": "쿠알라룸푸르 경찰 \"의심되면 쏴라\" 지시 논란",
+              "title_orig": "'If there is doubt, shoot': why a Malaysian police order has critics on edge",
+              "summary": "쿠알라룸푸르 경찰 수장의 발언 음성이 무력 사용 기준을 낮춘다는 전문가 우려가 나온다. 비판자들은 바디캠 미비와 10년간 327건의 사망 사례를 근거로 든다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/week-asia/people/article/3375203/if-there-doubt-shoot-why-malaysian-police-order-has-critics-edge",
+                  "title": "'If there is doubt, shoot': why a Malaysian police order has critics on edge"
+                }
+              ]
+            },
+            {
+              "title_ko": "베트남, 마약 밀매 사형 폐지",
+              "title_orig": "Vietnam scraps death sentence for drug trafficking",
+              "summary": "베트남은 사형 적용 범죄를 반역·살인·테러·불법 마약 제조 등 4개로 줄이고, 마약 밀매는 사형 대상에서 제외하기로 했다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/asia/southeast-asia/article/3375257/vietnam-scraps-death-sentence-drug-trafficking",
+                  "title": "Vietnam scraps death sentence for drug trafficking"
+                }
+              ]
+            },
+            {
+              "title_ko": "말레이시아, 로힝야 1만 명 튀르키예 이주 구상 게시물 삭제",
+              "title_orig": "Malaysia scrubs post announcing Rohingya repatriation plan to Turkey",
+              "summary": "말레이시아 부총리가 튀르키예와의 합의로 로힝야 난민 1만 명을 이주시킨다고 SNS에 올렸다가 삭제했다. 삭제 이유는 기사에서 확인되지 않는다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/asia/southeast-asia/article/3375243/malaysia-plans-resettle-10000-rohingya-turkey",
+                  "title": "Malaysia scrubs post announcing Rohingya repatriation plan to Turkey"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "china",
+      "part": "2. 권역별 뉴스",
+      "name": "2) 중국",
+      "note": "",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "미·중·러 선전 정상회의, '평화 선언' 발표…핵 위험 대화 합의",
+              "title_orig": "Concrete aims or just symbolism? Trump, Xi and Putin pledge nuclear risk talks",
+              "summary": "트럼프·시진핑·푸틴이 선전 APEC 계기 첫 3자 회동 후 공동 '평화 선언'을 내놨다. 선언에는 핵 위험 관련 대화, 유엔 개혁, 연료 공급 확대 등이 담겼으나, SCMP는 핵 관련 문구가 모호해 구체적 성과보다 상징에 가깝다는 전문가 평가를 소개했다.",
+              "published": "2026-11-20",
+              "event_date": "2026-11-19",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/china/military/article/3375268/concrete-aims-or-just-symbolism-trump-xi-and-putin-talk-nuclear-risk-controls-stall",
+                  "title": "Concrete aims or just symbolism? Trump, Xi and Putin pledge nuclear risk talks"
+                },
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/china/diplomacy/article/3375130/xi-trump-and-putin-peace-declaration-suggests-summit-more-photo-op",
+                  "title": "Xi, Trump and Putin peace declaration suggests summit more photo op"
+                }
+              ]
+            },
+            {
+              "title_ko": "시진핑·트럼프, 군사 AI 판단에 '사람 개입' 합의…베선트 전언",
+              "title_orig": "Xi, Trump agree military AI decisions must involve humans, Bessent says",
+              "summary": "스콧 베선트 미 재무장관은 시진핑 주석과 트럼프 대통령이 군사 분야 AI의 의사결정에 사람이 관여해야 한다는 데 의견을 같이했다고 밝혔다. 당사자 발표가 아니라 미국 측 인사의 전언이라는 점에 유의해야 한다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/china/diplomacy/article/3375321/xi-trump-agree-military-ai-decisions-must-involve-humans-bessent-says",
+                  "title": "Xi, Trump agree military AI decisions must involve humans, Bessent says"
+                }
+              ]
+            },
+            {
+              "title_ko": "시진핑, 트럼프에 대만 문제 압박…미국 무기판매는 어떻게 되나",
+              "title_orig": "Xi presses Trump on Taiwan. Where does that leave US arms sales?",
+              "summary": "시 주석이 트럼프 대통령에게 대만 문제에서 올바르게 대처하라고 요구했다. 한 분석가는 중국이 무기 판매 중단보다는 기존 방어용 무기 유형 안에서의 제한을 원할 가능성을 거론했다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/china/diplomacy/article/3375260/xi-presses-trump-do-right-thing-taiwan-where-does-leave-us-arms-sales",
+                  "title": "Xi presses Trump on Taiwan. Where does that leave US arms sales?"
+                }
+              ]
+            },
+            {
+              "title_ko": "미·중, 정상회담과 병행해 상하이서 해상안보 협의",
+              "title_orig": "US and China hold maritime security talks in parallel with Xi-Trump meetings",
+              "summary": "미 태평양사령부는 상하이에서 열린 협의에서 비안전·비전문적 해상 조우의 위험을 줄이는 방안을 논의했다고 밝혔다. 협의는 정상 간 회동과 병행해 진행됐다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/china/military/article/3375274/us-and-china-hold-maritime-security-talks-parallel-trump-xi-meetings",
+                  "title": "US and China hold maritime security talks in parallel with Xi-Trump meetings"
+                }
+              ]
+            },
+            {
+              "title_ko": "중국 국가안전부 \"타국 희생 위에 절대 안보 없다\"…정상회의 뒤 논평",
+              "title_orig": "China's intelligence agency touts 'common international security' after summit",
+              "summary": "국가안전부는 어느 나라도 다른 나라의 안보를 희생해 '절대적 안보'를 얻을 수 없다고 강조했다. 선전에서 열린 미·중·러 3자 정상회의 이후 나온 논평이다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/china/politics/article/3375207/chinas-top-intelligence-agency-touts-common-international-security-after-summit",
+                  "title": "China's intelligence agency touts 'common international security' after summit"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [
+            {
+              "title_ko": "중국 10월 경제지표 부진…소매판매 둔화",
+              "title_orig": "China’s economic activity falters in October amid sluggish retail sales",
+              "summary": "중국의 10월 경기 지표가 소매판매 부진 속에 전반적으로 힘이 빠졌다고 SCMP가 전했다. 세부 수치는 원문 확인이 필요하며 본 점검에서는 확인하지 못했다.",
+              "published": "2026-11-16",
+              "source": "중국 국가통계국(10월 활동지표, SCMP 인용)",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/economy/economic-indicators/article/3374531/chinas-economic-activity-falters-october-amid-sluggish-retail-sales",
+                  "title": "China’s economic activity falters in October amid sluggish retail sales"
+                }
+              ]
+            },
+            {
+              "title_ko": "이번 주 중국 경제 일정: 10월 지표 부진, 오토 광저우, 샤오미·쉬인 실적",
+              "title_orig": "China-US-Russia talks, economy disappoints, Auto Guangzhou",
+              "summary": "주간 요약은 미·중·러 3자 회담에서 연료 생산 확대에 합의한 점과 10월 경제지표가 예상에 못 미친 점을 짚었다. 다음 주에는 EU와의 통화 협의, 쉬인·샤오미 실적, BYD의 오토 광저우 참가가 예정돼 있다. SCMP+ 구독 기사일 수 있다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/plus/economy/china-economy/article/3375227/china-us-russia-talks-economy-concerns-auto-guangzhou",
+                  "title": "China-US-Russia talks, economy disappoints, Auto Guangzhou"
+                }
+              ]
+            },
+            {
+              "title_ko": "중국, APEC 협력 구상 속에 '선전의 기적' 부각",
+              "title_orig": "How China showcased the 'Shenzhen miracle' in Apec cooperation push",
+              "summary": "제목 기준으로, 중국이 선전 APEC 정상회의에서 선전의 발전 사례를 협력 구상의 홍보 소재로 내세웠다는 분석이다. 본문 세부는 확인하지 못했다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/china/diplomacy/article/3375335/how-china-showcased-shenzhen-miracle-apec-cooperation-push",
+                  "title": "How China showcased the ‘Shenzhen miracle’ in Apec cooperation push"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [
+            {
+              "title_ko": "중국 열대우림서 발견된 호모 에렉투스 치아, 인류 진화 이론에 의문",
+              "title_orig": "Homo erectus teeth found in China's rainforest topple theory of human evolution",
+              "summary": "약 32만4천~18만4천 년 전으로 추정되는 호모 에렉투스 치아가 중국 열대우림 지역 나시안 동굴에서 발견됐다. 이 발견은 기존의 인류 진화 이론에 이의를 제기하는 것으로 소개됐다.",
+              "published": "2026-11-19",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/china/science/article/3374985/homo-erectus-teeth-found-chinas-rainforest-topple-theory-human-evolution",
+                  "title": "Homo erectus teeth found in China's rainforest topple theory of human evolution"
+                }
+              ]
+            },
+            {
+              "title_ko": "멕시코 대통령의 21시간 이코노미석 비행, 중국서 호평",
+              "title_orig": "Mexican president's economy-class journey to Apec summit draws praise in China",
+              "summary": "클라우디아 셰인바움 멕시코 대통령이 이코노미석으로 21시간을 날아 선전에 도착한 뒤 공항 셔틀버스를 탄 모습이 중국 네티즌 사이에서 호평을 받았다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/china/diplomacy/article/3375244/mexican-leader-sheinbaums-21-hour-economy-class-journey-draws-praise-china",
+                  "title": "Mexican president's economy-class journey to Apec summit draws praise in China"
+                }
+              ]
+            },
+            {
+              "title_ko": "APEC 정상들이 두른 실크 스카프에 담긴 상징",
+              "title_orig": "The subtle symbolism behind the silk scarves worn by the Apec leaders",
+              "summary": "선전 APEC 정상들이 착용한 실크 스카프는 전통 기법과 문양을 결합해 '단결'의 메시지를 담았다고 SCMP는 소개했다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/china/diplomacy/article/3375195/subtle-symbolism-behind-silk-scarves-worn-apec-leaders-shenzhen-summit",
+                  "title": "The subtle symbolism behind the silk scarves worn by the Apec leaders"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사건사고",
+          "items": [
+            {
+              "title_ko": "프린스턴대 중국인 박사과정생, 학술회의 뒤 이민세관단속국에 구금",
+              "title_orig": "Princeton PhD student from China detained by ICE after US academic conference",
+              "summary": "프린스턴대 신경과학 박사과정 3년차 이 이 시에(Eva Yi Xie)가 워싱턴 레이건 공항에서 이민세관단속국(ICE)에 구금됐다고 SCMP가 전했다. 구금 사유 등 세부 내용은 확인되지 않았다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/china/diplomacy/article/3375301/princeton-phd-student-china-detained-ice-after-academic-conference",
+                  "title": "Princeton PhD student from China detained by ICE after US academic conference"
+                }
+              ]
+            },
+            {
+              "title_ko": "美 대사관, 멕시코 카르텔 마약 원료 공급 두고 중국 비판",
+              "title_orig": "US embassy targets China over cartel meth as Mexico signs Beijing deals",
+              "summary": "미국 대사관은 중국에서 나온 필로폰 원료가 멕시코 시날로아 카르텔로 흘러간다는 취지로 중국을 비판했다(미국 측 주장). 셰인바움 대통령은 APEC에서 시 주석과 만났지만 자유무역협정은 배제했다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/us/article/3375300/us-embassy-steps-attack-china-over-cartel-meth-mexico-signs-deals-beijing",
+                  "title": "US embassy targets China over cartel meth as Mexico signs Beijing deals"
+                }
+              ]
+            }
+          ],
+          "note": "24시간 내 본토 대형 사고 보도 미확인. 중국 관련 단속·수사 사안 2건만 수록"
+        }
+      ]
+    },
+    {
+      "id": "usa",
+      "part": "2. 권역별 뉴스",
+      "name": "3) 미국",
+      "note": "이 권역은 지정 매체 열람 제한으로 직전 24시간 기사를 충분히 확인하지 못해 항목이 적음",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "미·중·러 정상, 유엔 개혁·연료 공급·핵 대화에 공감 표명",
+              "title_orig": "China and Russia say they and US agree on UN reforms, boosting fuel supplies, dialogue on nuclear",
+              "summary": "AP 보도에 따르면 중국과 러시아는 자신들과 미국이 유엔 개혁, 연료 공급 확대, 핵 관련 대화에 의견이 같다고 밝혔다. 이는 트럼프·시진핑·푸틴의 첫 3자 회동 직후 나온 중·러 측 설명이다.",
+              "published": "2026-11-19",
+              "event_date": "2026-11-19",
+              "links": [
+                {
+                  "outlet": "AP (재게재: ABC13)",
+                  "url": "https://abc13.com/story/nuclear-arms-ending-wars-iran-ukraine-set-top-agenda-trump-xi-putin-meeting/20054435/",
+                  "title": "China and Russia say they and US agree on UN reforms, boosting fuel supplies, dialogue on nuclear"
+                }
+              ]
+            },
+            {
+              "title_ko": "트럼프 \"중국, 마지못해 3자 회담 동의…핵전력 격차 있어\"",
+              "title_orig": "Trump says China agreed to trilateral despite reluctance, notes nuclear gap",
+              "summary": "트럼프 대통령은 중국이 미·러에 비해 핵무기 규모가 훨씬 작아 3자 회담을 꺼렸으나 결국 동의했다고 말했다. 이는 트럼프의 발언을 SCMP가 전한 것으로, 중국 측 입장은 별도로 확인되지 않았다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/us/diplomacy/article/3375296/trump-says-china-agreed-trilateral-despite-reluctance-notes-nuclear-gap",
+                  "title": "Trump says China agreed to trilateral despite reluctance, notes nuclear gap"
+                }
+              ]
+            },
+            {
+              "title_ko": "공화당 중간선거 참패 뒤 의회 복귀…연말 예산·인준 과제",
+              "title_orig": "Congress returns to a changed Washington after GOP's election wipeout",
+              "summary": "AP는 중간선거에서 공화당이 크게 패한 뒤 달라진 워싱턴 정치 지형 속에서 의회가 복귀했다고 전했다. 연말 정부 예산 시한 등 레임덕 회기 과제가 거론된다. 며칠 전 기사로, 최근 정치 지형의 배경으로 포함했다.",
+              "published": "2026-11-09",
+              "links": [
+                {
+                  "outlet": "AP (재게재: WCAX)",
+                  "url": "https://www.wcax.com/2026/11/09/congress-returns-changed-washington-after-gops-election-wipeout/",
+                  "title": "Congress returns to a changed Washington after GOP's election wipeout"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [
+            {
+              "title_ko": "美 10월 일자리 16만5천 개 증가…채용 반등",
+              "title_orig": "U.S. adds 165,000 jobs in October as hiring rebounds",
+              "summary": "AP에 따르면 미국 고용은 10월에 16만5천 개 늘어 채용이 반등했다. 9월에는 증가폭이 2만9천 개에 그쳤다는 보도가 있었다.",
+              "published": "2026-11-06",
+              "figure": "비농업 고용 +165,000명 (2026년 10월, 전월비)",
+              "source": "미 노동통계국(BLS), AP 인용",
+              "links": [
+                {
+                  "outlet": "AP (재게재: WSMV)",
+                  "url": "https://www.wsmv.com/2026/11/06/us-adds-165000-jobs-october-hiring-rebounds/?outputType=amp",
+                  "title": "U.S. adds 165,000 jobs in October as hiring rebounds"
+                }
+              ]
+            },
+            {
+              "title_ko": "뉴욕증시, 변동성 큰 한 주 뒤 주간 기준 상승 마감",
+              "title_orig": "Stocks fall but Wall Street notches a winning week after several turbulent days",
+              "summary": "AP는 11월 13일 뉴욕증시가 당일 하락했지만 며칠간 이어진 변동성에도 주간 기준으로는 상승했다고 전했다. 지수 수치는 확인하지 못했다.",
+              "published": "2026-11-13",
+              "links": [
+                {
+                  "outlet": "AP (재게재: AJC)",
+                  "url": "https://www.ajc.com/news/2026/11/stocks-fall-but-wall-street-notches-a-winning-week-after-several-turbulent-days/",
+                  "title": "Stocks fall but Wall Street notches a winning week after several turbulent days"
+                }
+              ]
+            }
+          ],
+          "note": "직전 24시간 경제 기사를 확인하지 못해 최근 주요 지표·시황 기사로 대체(2건)"
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [],
+          "note": "특이사항 없음 (확인 범위: 웹 검색 결과에서 2026-11-20~22 사회·문화 기사를 확인하지 못함)"
+        },
+        {
+          "name": "사건사고",
+          "items": [
+            {
+              "title_ko": "뉴욕 시크교 지도자 암살 모의 인도인 징역형",
+              "title_orig": "Indian man jailed over US murder plot against Sikh separatist",
+              "summary": "인도 국적 니킬 굽타가 뉴욕에서 시크교 분리주의 인사 암살을 모의한 혐의로 미국 법원에서 징역형을 선고받았다. SCMP는 19년 이상이라고 전했으나 일부 인도 매체는 24년으로 보도해 형량 표기가 엇갈린다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/world/united-states-canada/article/3375297/indian-man-jailed-over-us-murder-plot-against-sikh-separatist",
+                  "title": "Indian man jailed over US murder plot against Sikh separatist"
+                }
+              ]
+            }
+          ],
+          "note": "1건만 확인(미국 내 대형 사건사고 최신 기사는 검색에서 확인하지 못함)"
+        }
+      ]
+    },
+    {
+      "id": "eu-east",
+      "part": "2. 권역별 뉴스",
+      "name": "4) 유럽 (1) 동유럽",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "헝가리, 우크라이나 EU 가입협상 남은 분야 거부권 철회 전망",
+              "title_orig": "Hungary to drop veto on Ukraine's remaining EU accession clusters",
+              "summary": "외교 소식통에 따르면 헝가리가 20일 EU 대사회의에서 우크라이나 가입협상의 마지막 두 개 분야에 대한 거부권을 거둘 예정이다. 오르반 총리를 몰아낸 마자르 정부 출범 이후 입장이 바뀐 것으로, 이렇게 되면 우크라이나와 몰도바 모두 모든 협상 분야를 열 수 있다. 농업은 폴란드·프랑스 압박 속에 여전히 가장 민감한 쟁점이다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/20/hungary-to-drop-veto-on-ukraines-remaining-eu-accession-clusters",
+                  "title": "Hungary to drop veto on Ukraine's remaining EU accession clusters"
+                }
+              ]
+            },
+            {
+              "title_ko": "폴란드 외교차관 \"유럽 없는 우크라이나 평화합의는 불가능\"",
+              "title_orig": "Ukraine peace deal 'not feasible' without Europe, Polish minister warns",
+              "summary": "폴란드의 니엠치츠키 외교차관은 유럽을 배제한 우크라이나 평화합의는 실현 가능하지 않으며 유럽 안보 구조에 관한 결정도 유럽 없이 이뤄져선 안 된다고 말했다. 베를린에서 '의지의 연합'이 회동한 시점에 나온 발언으로, 더 구체적인 군사적 공약이 나올 수 있음을 시사했다. 러시아가 국경에 가까워지면 폴란드의 국방비 부담이 커진다고도 지적했다.",
+              "published": "2026-11-19",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/19/ukraine-peace-deal-not-feasible-without-europe-polish-minister-warns",
+                  "title": "Ukraine peace deal 'not feasible' without Europe, Polish minister warns"
+                }
+              ]
+            },
+            {
+              "title_ko": "미국 중재 러시아·우크라이나 협상, 2월 이후 처음 재개",
+              "title_orig": "Russia, Ukraine hold US-backed talks, first time since February",
+              "summary": "러시아와 우크라이나 관계자들이 2월 이후 처음으로 미국 중재 회담에 마주 앉았고, 위트코프·쿠슈너 특사가 중재를 맡았다. 트럼프 대통령은 포괄적 합의 가능성을 언급했지만 양측의 조건 격차는 여전히 크다고 보도됐다. 본문 일부만 확인되어 회담 날짜(11월 10일경)는 추정이다.",
+              "published": "2026-11-10",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/world/russia-central-asia/article/3373976/russia-ukraine-hold-us-backed-talks-first-time-february",
+                  "title": "Russia, Ukraine hold US-backed talks, first time since February"
+                }
+              ]
+            },
+            {
+              "title_ko": "폴란드 헌법재판소 판사 임명 둘러싼 총리·대통령 충돌",
+              "title_orig": "Polish PM Donald Tusk urges president to confirm judges amid constitutional crisis",
+              "summary": "투스크 총리가 나브로츠키 대통령에게 하원이 선출한 헌법재판소 판사들을 인정하라고 촉구하며 대통령이 정면충돌을 택했다고 비판했다. 유럽연합 집행위는 판사 8명을 임명할 헌법상 권한이 하원에 있다는 입장이다. 11월 2일 보도이지만 사태가 진행 중이어서 포함했다.",
+              "published": "2026-11-02",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/02/donald-tusk-calls-on-polish-president-to-confirm-judges-as-constitutional-court-crisis-rum",
+                  "title": "Polish PM Donald Tusk urges president to confirm judges amid constitutional crisis"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [
+            {
+              "title_ko": "EU 집행위, 헝가리 복구기금 100억 유로 지급 일부 승인",
+              "title_orig": "EU Commission partially clears Hungary's €10bn recovery fund payment after rule of law reforms",
+              "summary": "유럽연합 집행위원회가 법치 개혁 이행을 근거로 헝가리의 약 100억 유로 규모 코로나 복구기금 지급을 부분적으로 승인했다. 마자르 정부 출범 후 풀리고 있는 EU 자금 흐름의 연장선이다. 제목과 검색 결과만 확인해 세부 조건은 적지 않았다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/20/eu-commission-partially-clears-hungarys-10bn-recovery-fund-payment-after-rule-of-law-refor",
+                  "title": "EU Commission partially clears Hungary's €10bn recovery fund payment after rule of law reforms"
+                }
+              ]
+            }
+          ],
+          "note": "동유럽 경제 관련 지정 매체 기사 중 직전 24시간 보도는 확인하지 못해 1건만 수록 (확인 범위: Euronews 검색, SCMP, 기타 지정 매체 검색 도메인 접근 제한)"
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [
+            {
+              "title_ko": "에스토니아-러시아 국경 폐쇄 앞두고 주민들 서둘러 월경",
+              "title_orig": "Estonia-Russia border closure sends residents rushing to cross before deadline",
+              "summary": "에스토니아가 12월 1일부터 러시아와의 육로 국경을 닫기로 하자 국경 주민들이 폐쇄 전에 건너려 몰리고 있다는 보도다. 폐쇄는 GRU 연계 방화 시도 사건에 대한 대응이다. 본문은 열람하지 못하고 제목·검색 결과 기준으로 정리했다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/21/estonia-russia-border-closure-sends-residents-rushing-to-cross-before-deadline",
+                  "title": "Estonia-Russia border closure sends residents rushing to cross before deadline"
+                }
+              ]
+            },
+            {
+              "title_ko": "크라쿠프 총기 난사 희생자 6명, 투스크·나브로츠키 추모",
+              "title_orig": "What we know about the Krakow shooting that left six people dead",
+              "summary": "11월 7일 오후 크라쿠프 중앙광장에서 군복 차림 남성이 차량으로 진입해 총을 쏴 6명이 숨지고 16명이 다쳤다. 용의자는 24세 폴란드 국적자로, 집에서 가족 3명의 시신도 발견됐다. 투스크 총리는 이를 테러로 규정했고 이틀간 국가 애도가 선포됐다.",
+              "published": "2026-11-08",
+              "event_date": "2026-11-07",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/08/what-we-know-about-the-krakow-shooting-that-left-six-people-dead",
+                  "title": "What we know about the Krakow shooting that left six people dead"
+                }
+              ]
+            }
+          ],
+          "note": "3건 미만: 직전 24시간 동유럽 사회·문화 기사가 적어 최근 2주 내 보도로 보강 (확인 범위: Euronews, SCMP)"
+        },
+        {
+          "name": "사건사고",
+          "items": [
+            {
+              "title_ko": "러시아 미사일 2발·드론 1대 폴란드 영토 추락, 투스크 \"도발\"",
+              "title_orig": "Tusk denounces Russian 'provocation' after missiles crash in Poland",
+              "summary": "러시아의 대규모 우크라이나 공습 중 미사일 2발과 제트 드론 1대가 20일 폴란드에 떨어졌고 인명·시설 피해는 보고되지 않았다. Kh-101 순항미사일은 우크라이나 국경에서 약 60km 떨어진 루블린주에 낙하했다. 투스크 총리는 '의지의 연합' 훈련 시점과 맞물린 도발이라며 규탄했다.",
+              "published": "2026-11-20",
+              "event_date": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/20/unidentified-object-falls-in-eastern-poland-amid-major-russian-attack-on-ukraine",
+                  "title": "Tusk denounces Russian 'provocation' after missiles crash in Poland"
+                }
+              ]
+            },
+            {
+              "title_ko": "젤렌스키 고향 크리비리흐 탄도미사일 공격, 어린이 포함 2명 사망",
+              "title_orig": "Ballistic missile attack on Zelenskyy's hometown kills two people",
+              "summary": "러시아 탄도미사일이 크리비리흐를 타격해 7세 소년과 20세 응급 의료요원이 숨지고 어린이 6명을 포함한 60명이 다쳤다. 화재 4건이 났고 아파트 약 25동과 병원·학교 등이 피해를 입었다. 우크라이나군의 크림대교 공격에 대한 푸틴의 '고통스러운 보복' 예고와 연관 지어 보도됐다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/21/ballistic-missile-attack-on-zelenskyys-hometown-kills-two-people",
+                  "title": "Ballistic missile attack on Zelenskyy's hometown kills two people"
+                }
+              ]
+            },
+            {
+              "title_ko": "핀란드만에서 러시아 화물선 드론 피격",
+              "title_orig": "Russian cargo ship struck by drones in Gulf of Finland",
+              "summary": "21일 아침 핀란드 방위군이 수오르사리 서쪽 공해에서 러시아 화물선 스파르타 II가 드론 공격을 받은 것을 포착했고 선내 화재가 났다. 배는 핀란드 영해로 표류했으며 승무원 대피나 환경 피해는 없었다. 오르포 총리는 전쟁이 이웃 지역으로 번지고 있다고 말했다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/21/russian-cargo-ship-struck-by-drone-in-gulf-of-finland-finnish-authorities-say",
+                  "title": "Russian cargo ship struck by drones in Gulf of Finland"
+                }
+              ]
+            },
+            {
+              "title_ko": "에스토니아, 드론업체 방화 시도에 GRU 지목하고 러시아 국경 폐쇄",
+              "title_orig": "Estonia to close Russia border after 'sabotage' bid on drone maker, foreign minister says",
+              "summary": "에스토니아 외무장관은 15일 GRU가 지시한 드론업체 스레오드 시스템스 방화 시도에 대한 '명백한 증거'가 있다며 12월 1일부터 러시아 국경 검문소를 모두 닫겠다고 밝혔다. 라트비아 거주자 8명이 체포됐다. 러시아는 사실 여부를 확인하겠다며 조치가 취해지면 적대적이라고 반발했다.",
+              "published": "2026-11-16",
+              "event_date": "2026-11-14",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/16/estonia-to-close-russia-border-after-sabotage-bid-on-drone-maker-foreign-minister-says",
+                  "title": "Estonia to close Russia border after 'sabotage' bid on drone maker, foreign minister says"
+                }
+              ]
+            },
+            {
+              "title_ko": "중동부 유럽, 10월 이후 비전통적 안보 사건 50건 넘게 발생",
+              "title_orig": "East-Central Europe hit by more than 50 non-traditional security incidents since October",
+              "summary": "부다페스트 코르비누스대 연구팀이 10월 이후 중동부 유럽에서 사이버·드론·인프라 관련 비전통적 안보 사건을 50건 넘게 집계해 공개했다. 슈퍼마켓 냉장고 해킹, 흑해 곡물선 드론 피격 등이 사례이며 절반 이상에 국가 행위자가 관여했다고 연구팀은 분석했다.",
+              "published": "2026-11-18",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/18/east-central-europe-hit-by-more-than-50-non-traditional-security-incidents-since-october",
+                  "title": "East-Central Europe hit by more than 50 non-traditional security incidents since October"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "eu-west",
+      "part": "2. 권역별 뉴스",
+      "name": "4) 유럽 (2) 서유럽",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "EU-영국, 브렉시트 이후 관계 재설정 합의",
+              "title_orig": "Burnham drew a line under Brexit at the EU-UK summit. But where does Britain go next?",
+              "summary": "브뤼셀 정상회의에서 EU와 영국은 농식품 기준 완화, 탄소시장 연계, 청년 이동 프로그램에 합의했지만 대학 등록금과 전력시장 접근은 미뤘다. 버넘 총리는 이번 합의가 현 의회에서 가능한 한계에 가깝다며 1년간 비공식 협의를 제안했다. EU는 단일시장 원칙의 완화는 없다는 신호를 보냈다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/20/burnham-drew-a-line-under-brexit-at-the-eu-uk-summit-but-where-does-britain-go-next",
+                  "title": "Burnham drew a line under Brexit at the EU-UK summit. But where does Britain go next?"
+                },
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/20/europe-tonight-eu-and-uk-strike-post-brexit-reset-deal-as-russian-missiles-hit-poland",
+                  "title": "Europe Tonight: EU and UK strike post-Brexit reset deal as Russian missiles hit Poland"
+                }
+              ]
+            },
+            {
+              "title_ko": "마크롱 \"러시아 침략 '새로운 단계'\" 경고",
+              "title_orig": "French President Macron warns of 'new level' of Russian aggression",
+              "summary": "마크롱 대통령은 20일 24시간 안에 여러 유럽 국가가 심각한 사건을 겪었다며 러시아의 공격성이 새 단계에 들어섰다고 SNS에 적었다. 폴란드 미사일 추락, 에스토니아 국경 폐쇄 결정, 몰도바 영공 폐쇄 등이 언급됐다. 덴마크 정보당국은 9월 우크라이나계 미국인 암살 시도에 러시아 정보기관이 관여했다고 주장했다.",
+              "published": "2026-11-21",
+              "event_date": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/21/french-president-macron-warns-of-new-level-of-russian-aggression",
+                  "title": "French President Macron warns of 'new level' of Russian aggression"
+                }
+              ]
+            },
+            {
+              "title_ko": "라가르드 ECB 총재, 프랑스 대선 변수 될까",
+              "title_orig": "Candidate or kingmaker: could ECB President Lagarde influence France's presidential race?",
+              "summary": "라가르드는 내년 2월 ECB를 떠난다고 10월 29일 발표했고 대선 1차 투표를 약 두 달 앞둔 시점이다. 본인은 후보가 아니라고 했지만 중립을 지키기 어렵다고 말했다. 이프소 여론조사에서는 르펜이 32~34%로 선두이며 멜랑숑이 17~19.5%로 뒤따른다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/20/candidate-or-kingmaker-could-ecb-president-lagarde-influence-frances-presidential-race",
+                  "title": "Candidate or kingmaker: could ECB President Lagarde influence France's presidential race?"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [
+            {
+              "title_ko": "유로존 10월 물가 4%, 2023년 9월 이후 최고",
+              "title_orig": "Eurozone inflation hits 4%: Which countries saw prices jump the most?",
+              "summary": "유로스타트 속보치로 10월 유로존 물가상승률은 4%로 9월(3.8%)보다 올랐고 에너지 가격이 전년 대비 20.8% 상승하며 주도했다. 이탈리아가 5.6%로 크게 뛰었고 독일은 유류세 인하로 2.8%로 내렸다. ECB는 10월 29일 예금금리를 2.5%로 동결했다.",
+              "published": "2026-11-04",
+              "figure": "4.0% (2026년 10월, 전년동월비, 속보치)",
+              "source": "Eurostat",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/04/eurozone-inflation-hits-4-which-countries-saw-prices-jump-the-most",
+                  "title": "Eurozone inflation hits 4%: Which countries saw prices jump the most?"
+                }
+              ]
+            },
+            {
+              "title_ko": "EU, 겨울 가스 사용 7% 감축 필요 경고",
+              "title_orig": "Europe braces for cold winter as polar vortex flips. Can heat pumps help lower energy bills?",
+              "summary": "EU는 가스 재고가 이 시기 기준 사상 최저여서 올겨울 가스 사용을 7% 줄여야 할 수 있다고 경고했다. 극소용돌이 변화로 추위 가능성이 커졌고, 한 연구는 열펌프로 하루 난방비를 약 2.2유로까지 낮출 수 있다고 밝혔다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/21/europe-braces-for-cold-winter-as-polar-vortex-flips-can-heat-pumps-help-lower-energy-bills",
+                  "title": "Europe braces for cold winter as polar vortex flips. Can heat pumps help lower energy bills?"
+                }
+              ]
+            },
+            {
+              "title_ko": "루프트한자, 프랑크푸르트·뮌헨 1,000개 일자리 감축 계획",
+              "title_orig": "Lufthansa plans 1,000 job cuts in Frankfurt and Munich as Iran war slows turnaround",
+              "summary": "루프트한자가 이란 전쟁에 따른 연료비 부담으로 구조조정이 지연되자 프랑크푸르트와 뮌헨에서 약 1,000개 일자리를 줄일 계획이라는 보도다. 앞서 이 회사는 연료비 추가 부담이 20억 유로에 이를 수 있다고 경고했다. 본문은 열람하지 못하고 제목·검색 결과 기준이다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/20/lufthansa-plans-1000-job-cuts-in-frankfurt-and-munich-as-iran-war-slows-turnaround",
+                  "title": "Lufthansa plans 1,000 job cuts in Frankfurt and Munich as Iran war slows turnaround"
+                }
+              ]
+            },
+            {
+              "title_ko": "프랑스 10월 소요 보험 피해 2억700만 유로",
+              "title_orig": "Unrest around French cost-of-living protests could cost insurers €207mn",
+              "summary": "프랑스 보험협회는 10월 17~18일 소요와 약탈로 인한 보험 손해를 5,280건, 2억700만 유로로 추산했다. 95% 이상이 사업장 피해다. 정부는 직원 50명 미만 소기업에 1,000~1만 유로 보조금 신청 규정을 공개했다.",
+              "published": "2026-11-20",
+              "figure": "2억700만 유로 (2026년 10월 17~18일 소요 보험 손해)",
+              "source": "France Assureurs",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/20/unrest-around-french-cost-of-living-protests-could-cost-insurers-207mn",
+                  "title": "Unrest around French cost-of-living protests could cost insurers €207mn"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [
+            {
+              "title_ko": "유럽 25개국 넘게 임금·공공서비스 요구 시위",
+              "title_orig": "Thousands protest across Europe demanding better wages and services",
+              "summary": "20일 유럽 25개국 이상에서 노동자·학생이 임금 인상과 공공서비스 확대를 요구하며 시위했다. 이탈리아에서는 CGIL 24시간 파업으로 100여 곳에서 집회가 열려 교통·학교가 차질을 빚었고, 빈에서는 경찰이 최루성 스프레이를 쓰며 체포가 있었다. 독일에서는 의무복무 부활 가능성에 반대하는 집회가 열렸다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/20/thousands-protest-across-europe-demanding-better-wages-and-services",
+                  "title": "Thousands protest across Europe demanding better wages and services"
+                }
+              ]
+            },
+            {
+              "title_ko": "포르투갈·프랑스·스페인, 생활비 상승 항의 행진",
+              "title_orig": "Thousands take to streets in Portugal, France and Spain over rising living costs",
+              "summary": "리스본에서 수천 명이 임금·연금 인상과 주거 안정을 요구하며 행진했고 노조는 24일 의회 앞 집회를 예고했다. 프랑스 내무부는 전국 8만2,500명 참가(주최 측 15만 명)로 집계했고 리옹에서는 최루탄이 쓰였다. 바르셀로나에서는 주거·공공서비스 문제로 경찰 추산 3,000명이 모였다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/21/thousands-take-to-streets-in-portugal-france-and-spain-over-rising-living-costs",
+                  "title": "Thousands take to streets in Portugal, France and Spain over rising living costs"
+                }
+              ]
+            },
+            {
+              "title_ko": "유럽 8개국의 주택난 대응책",
+              "title_orig": "How eight European countries are tackling the housing crisis",
+              "summary": "유로스타트에 따르면 EU 주택 가격은 2015년 대비 약 70%, 임대료는 25% 올랐다. 스페인은 퇴거·투기 규제 법안을, 네덜란드는 임대료 상한을, 영국은 무과실 퇴거 금지와 사회주택 30만 호 목표를 내세웠다. 스페인은 11월 29일 총선에서 야당이 법 폐지를 공약해 쟁점이 되고 있다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/20/how-eight-european-countries-are-tackling-the-housing-crisis",
+                  "title": "How eight European countries are tackling the housing crisis"
+                }
+              ]
+            },
+            {
+              "title_ko": "EU-영국 청년 경험 프로그램, 양측 10만 명씩",
+              "title_orig": "Young Europeans win a route back to the UK, but not cheaper university fees yet",
+              "summary": "EU와 영국은 양측 청년 각 10만 명이 최대 3년간 상대 지역에서 살 수 있는 프로그램에 합의했고 늦어도 2030년 1월 시행한다. 대학 등록금 합의는 6개월 미뤄졌으며 영국은 2027년 1월 1일 에라스무스+에 복귀한다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/20/young-europeans-win-a-route-back-to-the-uk-but-not-cheaper-university-fees-yet",
+                  "title": "Young Europeans win a route back to the UK, but not cheaper university fees yet"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사건사고",
+          "items": [
+            {
+              "title_ko": "덴마크인 2명, 러시아 후원 우크라이나 래퍼 암살 모의 혐의",
+              "title_orig": "Two Danes suspected of Russian-backed plot to kill Ukrainian rapper",
+              "summary": "덴마크에서 두 명이 러시아의 후원을 받은 우크라이나 래퍼 암살 모의 혐의로 의심받고 있다는 보도다. 덴마크 정보당국(PET)은 9월 우크라이나계 미국인에 대한 암살 시도에 러시아 정보기관이 관여했다고 주장했다. 기사 본문은 열람하지 못했고 마크롱 관련 기사에 인용된 내용을 참고했다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/20/two-danes-suspected-of-russian-backed-plot-to-kill-ukrainian-rapper",
+                  "title": "Two Danes suspected of Russian-backed plot to kill Ukrainian rapper"
+                },
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/21/french-president-macron-warns-of-new-level-of-russian-aggression",
+                  "title": "French President Macron warns of 'new level' of Russian aggression"
+                }
+              ]
+            },
+            {
+              "title_ko": "프랑크푸르트 폭동·약탈, 30명 연행",
+              "title_orig": "Looted shops, burning barricades as riots erupt in Frankfurt",
+              "summary": "10월 31일 청년 시위 뒤 프랑크푸르트에서 상점 약탈과 바리케이드 방화가 벌어져 경찰이 물대포를 쓰고 30명을 연행했다. 쾰른·베를린에서도 충돌이 보고됐다. 직전 24시간 밖의 사건으로, 서유럽 사건사고 보도가 적어 포함했다.",
+              "published": "2026-11-01",
+              "event_date": "2026-10-31",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/video/2026/11/01/looted-shops-burning-barricades-as-riots-erupt-in-frankfurt",
+                  "title": "Looted shops, burning barricades as riots erupt in Frankfurt"
+                }
+              ]
+            },
+            {
+              "title_ko": "파리 소요, 화염병에 경찰관 화상",
+              "title_orig": "Paris riots: France investigates after petrol bomb sets officer on fire",
+              "summary": "파리 소요 중 화염병이 경찰관에게 불을 붙여 프랑스 당국이 수사에 나섰다는 영상 보도다. 제목과 검색 결과만 확인해 세부 사항은 적지 않았다.",
+              "published": "2026-11-02",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/video/2026/11/02/paris-riots-france-investigates-after-petrol-bomb-sets-officer-on-fire",
+                  "title": "Paris riots: France investigates after petrol bomb sets officer on fire"
+                }
+              ]
+            }
+          ],
+          "note": "직전 24시간 서유럽 사건사고 보도는 확인되지 않아 최근 2~3주 내 보도로 구성 (확인 범위: Euronews 검색, 지정 매체 검색 도메인 접근 제한)"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "middle-east",
+      "part": "2. 권역별 뉴스",
+      "name": "5) 중동",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "미국·이란, 새 전면전 위기로 접근",
+              "title_orig": "US and Iran slide closer to fresh all-out war as new exchange of fire increases",
+              "summary": "15일부터 미국과 이란이 공습을 주고받으며 긴장이 커졌다. 미군은 이란 미사일 발사대를 타격했고 이란은 바레인 미군 기지에 드론 공격을 했다고 보도됐다. 혁명수비대는 호르무즈에서 유조선 6척이 불탔다고 주장했지만 독립적으로 확인되지 않았다. 미 항모전단은 3개로 늘었다.",
+              "published": "2026-11-16",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/16/us-and-iran-slide-closer-to-fresh-all-out-war-as-new-exchange-of-fire-increases",
+                  "title": "US and Iran slide closer to fresh all-out war as new exchange of fire increases"
+                }
+              ]
+            },
+            {
+              "title_ko": "이란·미국, 선제공격 위협 맞교환",
+              "title_orig": "Iran, US trade threats over dirty bombs and first strikes as new war wave looms",
+              "summary": "이란 외무차관은 확전이 불가피해 보이면 이란이 먼저 미국을 공격할 수 있다고 경고했고, 미국이 시간을 벌며 새 공격을 준비 중일 수 있다고 주장했다. 지역 중재는 돌파구를 내지 못했고 걸프에서 방공망을 겨냥한 맞공격이 잦아지고 있다. 게재일(18일경)은 추정이다.",
+              "published": "2026-11-18",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/week-asia/politics/article/3374868/iran-us-trade-threats-over-dirty-bombs-and-first-strikes-new-war-wave-looms",
+                  "title": "Iran, US trade threats over dirty bombs and first strikes as new war wave looms"
+                }
+              ]
+            },
+            {
+              "title_ko": "이스라엘군, 휴전 중 가자 중부 새 작전",
+              "title_orig": "Israeli military launches new operation on central Gaza despite ceasefire",
+              "summary": "이스라엘 전차가 누세이라트 난민촌 동쪽으로 진입했고 군은 '정밀 작전'이라고 설명했다. 하마스는 지난해 10월 발효된 휴전의 명백한 위반이라고 비판했다. AFP 집계로 휴전 이후 팔레스타인인 1,600여 명이 숨졌다.",
+              "published": "2026-11-18",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/18/israeli-military-launches-new-operation-on-central-gaza-despite-ceasefire",
+                  "title": "Israeli military launches new operation on central Gaza despite ceasefire"
+                }
+              ]
+            },
+            {
+              "title_ko": "카타르·튀르키예, 상호방위협정 체결",
+              "title_orig": "Qatar and Turkey sign defence agreement for 'unified position' facing external attacks",
+              "summary": "에르도안 대통령과 카타르 국왕은 13일 이스탄불에서 외부 무력 공격에 공동 대응하는 상호방위협정을 채택했다. 무역·에너지 등 다른 협정도 맺었다. 이란 전쟁 이후 지역 방위 재편의 일환으로 소개됐다.",
+              "published": "2026-11-14",
+              "event_date": "2026-11-13",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/14/qatar-and-turkey-sign-defence-agreement-for-unified-position-facing-external-attacks",
+                  "title": "Qatar and Turkey sign defence agreement for 'unified position' facing external attacks"
+                }
+              ]
+            },
+            {
+              "title_ko": "UAE 누세이베 장관, 유엔 사무총장 도전 공약",
+              "title_orig": "UAE's Lana Nusseibeh pledges 'relentless diplomacy' in bid to lead the UN",
+              "summary": "UAE의 라나 누세이베 국무장관은 유엔 최고 중재자 역할을 하겠다며 사무총장 선거 출마 포부를 밝혔다. 현재는 그린스팬 후보가 앞서 있고 상임이사국 5개국 모두의 반대를 피한 후보는 아직 없다고 보도됐다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/20/uaes-lana-nusseibeh-pledges-relentless-diplomacy-in-bid-to-lead-the-un",
+                  "title": "UAE's Lana Nusseibeh pledges 'relentless diplomacy' in bid to lead the UN"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [
+            {
+              "title_ko": "이란, 카르그섬 유조선 호송대로 미국 봉쇄 시험",
+              "title_orig": "Iran readies tanker convoy at Kharg Island to test US oil blockade",
+              "summary": "위성영상과 선박추적 자료상 카르그섬에 유조선 14척 이상이 대기해 며칠 안에 오만해로 호송대가 출발할 것으로 보인다. 카르그는 이란 원유 수출의 85~90%를 맡지만 미국의 봉쇄 이후 선적이 멈춘 상태다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/20/iran-readies-tanker-convoy-at-kharg-island-to-test-us-oil-blockade",
+                  "title": "Iran readies tanker convoy at Kharg Island to test US oil blockade"
+                }
+              ]
+            },
+            {
+              "title_ko": "호르무즈 해운 차질에 유가 상승",
+              "title_orig": "Oil prices rise as investors monitor shipping disruption in the Strait of Hormuz",
+              "summary": "11일 오전 브렌트유는 0.2% 오른 배럴당 91.71달러, 미 원유는 86.12달러였다. 이란군은 유조선이 기뢰에 맞아 불탔다고 밝혔고 미국은 이란 항구를 해상 봉쇄하고 있다.",
+              "published": "2026-11-11",
+              "figure": "브렌트유 91.71달러/배럴, WTI 86.12달러/배럴 (2026-11-11 오전)",
+              "source": "Euronews 보도",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/11/oil-markets-rise-as-investors-monitor-shipping-disruption-in-the-strait-of-hormuz",
+                  "title": "Oil prices rise as investors monitor shipping disruption in the Strait of Hormuz"
+                }
+              ]
+            },
+            {
+              "title_ko": "호르무즈 합의 기대에 유가 하락",
+              "title_orig": "Oil slides on Hormuz deal hopes but Trump keeps Iran strikes on the table",
+              "summary": "호르무즈 해협 합의 기대로 유가가 내렸지만 트럼프 대통령이 이란 공습 카드를 유지해 불확실성이 남았다는 제목의 보도다. 본문은 열람하지 못했고 이후 상황이 악화되어 참고용으로 포함했다.",
+              "published": "2026-11-02",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/02/oil-slides-on-hormuz-deal-hopes-but-trump-keeps-iran-strikes-on-the-table",
+                  "title": "Oil slides on Hormuz deal hopes but Trump keeps Iran strikes on the table"
+                }
+              ]
+            }
+          ],
+          "note": "직전 24시간 보도 외에 최근 2~3주 보도 포함 (확인 범위: Euronews, SCMP)"
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [
+            {
+              "title_ko": "이스라엘 전시 총선, 네타냐후 평가가 핵심",
+              "title_orig": "Why Israel's wartime election isn't just about the battle with Iran and Hamas",
+              "summary": "10월 27일 총선은 2023년 10월 7일 이후 첫 총선으로, 유권자에겐 네타냐후에 대한 평가의 성격이 강했다. 이스라엘민주주의연구소 조사로 유대계 응답자 약 68%가 10·7 관련 견해를 투표의 핵심으로 꼽았고 초정통파 병역 면제도 주요 쟁점이었다. 과반 정당은 나오기 어렵다는 전망이었다.",
+              "published": "2026-10-26",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/10/26/why-israels-wartime-election-isnt-just-about-the-battle-with-iran-and-hamas",
+                  "title": "Why Israel's wartime election isn't just about the battle with Iran and Hamas"
+                }
+              ]
+            },
+            {
+              "title_ko": "가자 폭풍으로 5명 사망, 사암 덩어리가 천막 덮쳐",
+              "title_orig": "Storm killed five in Gaza as sandstone slab collapsed onto tents",
+              "summary": "가자에서 폭풍 중 사암 덩어리가 천막 위로 무너져 5명이 숨졌다는 제목의 보도다. 본문은 열람하지 못했다. 겨울을 앞둔 피난민의 열악한 주거 문제를 보여준다.",
+              "published": "2026-11-09",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/09/storm-killed-five-in-gaza-as-sandstone-slab-collapsed-onto-tents",
+                  "title": "Storm killed five in Gaza as sandstone slab collapsed onto tents"
+                }
+              ]
+            }
+          ],
+          "note": "3건 미만: 직전 24시간 중동 사회·문화 기사 부족, 최근 2~4주 보도로 구성 (확인 범위: Euronews, SCMP)"
+        },
+        {
+          "name": "사건사고",
+          "items": [
+            {
+              "title_ko": "바레인·쿠웨이트, 미국의 이란 섬 타격 뒤 드론 공격 격퇴",
+              "title_orig": "Bahrain and Kuwait repel drone attacks after US strikes Iranian island",
+              "summary": "바레인과 쿠웨이트는 미국이 이란 섬의 혁명수비대 미사일 기지를 타격한 뒤 날아온 공습을 막았다고 밝혔다. 이란군은 쿠웨이트 알살렘 기지의 패트리엇 방공체계를 노렸다고 주장했다. 전쟁이 미군 주둔 걸프국으로 번지고 있다고 SCMP는 전했다. 게재일(18일)은 본문 표현에 따른 추정이다.",
+              "published": "2026-11-18",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/world/middle-east/article/3374869/bahrain-and-kuwait-repel-drone-attacks-after-us-strikes-iranian-island",
+                  "title": "Bahrain and Kuwait repel drone attacks after US strikes Iranian island"
+                }
+              ]
+            },
+            {
+              "title_ko": "이란, 바레인 미군 레이더 겨냥 드론 발사",
+              "title_orig": "Iran fires drones at US military radar system in Bahrain amid Gulf tensions",
+              "summary": "혁명수비대는 미 5함대가 있는 바레인 셰이크 이사 기지의 레이더를 드론으로 공격했다고 밝혔다. 바레인은 요격했고 인명·시설 피해는 없다고 했다. 같은 시기 이란과 오만은 호르무즈 항로 안전 문제를 협의했다. 게재일(17일경)은 추정이다.",
+              "published": "2026-11-17",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/world/middle-east/article/3374775/iran-fires-drones-us-military-radar-system-bahrain-amid-gulf-tensions",
+                  "title": "Iran fires drones at US military radar system in Bahrain amid Gulf tensions"
+                }
+              ]
+            },
+            {
+              "title_ko": "가자 나세르 병원 이스라엘 공습으로 6명 사망",
+              "title_orig": "Gaza: Devastation inside Nasser Hospital after deadly Israeli strike",
+              "summary": "12일 새벽 이스라엘 공습이 칸유니스 나세르 의료단지를 타격해 의사 포함 6명이 숨지고 최소 27명이 다쳤다고 WHO가 밝혔다. 이스라엘군은 하마스 고위 지휘관을 겨냥했다고 했지만 증거는 제시하지 않았다.",
+              "published": "2026-11-12",
+              "event_date": "2026-11-12",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/video/2026/11/12/gaza-devastation-inside-nasser-hospital-after-deadly-israeli-strike",
+                  "title": "Video. Gaza: Devastation inside Nasser Hospital after deadly Israeli strike"
+                }
+              ]
+            }
+          ],
+          "note": "직전 24시간 밖 보도 포함 (확인 범위: Euronews, SCMP)"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "africa",
+      "part": "2. 권역별 뉴스",
+      "name": "6) 아프리카",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "EU 5개국, 르완다 송환 허브 구상 공개",
+              "title_orig": "5 EU countries unveil plans for Rwanda deportation hub",
+              "summary": "EU 5개국이 르완다에 이주민 송환 거점을 두는 구상을 공개했다는 SCMP 보도다. 기사 본문은 열람하지 못해 세부 내용은 적지 않았다.",
+              "published": "2026-11-17",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/world/europe/article/3374648/five-eu-countries-unveil-plans-rwanda-deportation-hub",
+                  "title": "5 EU countries unveil plans for Rwanda deportation hub"
+                }
+              ]
+            },
+            {
+              "title_ko": "에티오피아 드론, 티그라이 반군 지원 혐의 에리트레아군 타격",
+              "title_orig": "Ethiopian drones hit Eritrean forces accused of backing rebels in Tigray",
+              "summary": "에티오피아 드론이 티그라이 반군을 지원한 혐의를 받는 에리트레아군을 공격했다는 보도다. 티그라이 지역 충돌이 재발한 이후 이어지는 긴장 흐름에 속한다. 본문은 열람하지 못했고 10월 보도라 최신 상황은 확인하지 못했다.",
+              "published": "2026-10-08",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/10/08/ethiopian-drones-hit-eritrean-forces-accused-of-backing-rebels-in-tigray",
+                  "title": "Ethiopian drones hit Eritrean forces accused of backing rebels in Tigray"
+                }
+              ]
+            }
+          ],
+          "note": "3건 미만: 직전 24시간 아프리카 정치·외교 기사가 지정 매체에서 확인되지 않음 (확인 범위: Euronews, SCMP, 기타 지정 매체 검색 도메인 접근 제한)"
+        },
+        {
+          "name": "경제",
+          "items": [
+            {
+              "title_ko": "모로코, 2035년까지 국방산업 구축에 3.66억 유로 투입",
+              "title_orig": "Morocco commits €366m to build a national defence industry by 2035",
+              "summary": "모로코가 2035년까지 자국 방위산업 기반을 만들기 위해 3억6,600만 유로를 투입하기로 했다는 보도다. 본문은 열람하지 못했다.",
+              "published": "2026-11-20",
+              "figure": "3억6,600만 유로 (2035년까지)",
+              "source": "Euronews 보도",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/20/morocco-commits-366-million-to-build-a-national-defence-industry-by-2035",
+                  "title": "Morocco commits €366m to build a national defence industry by 2035"
+                }
+              ]
+            },
+            {
+              "title_ko": "이집트, 세계경제포럼에서 개혁·에너지 계획 소개",
+              "title_orig": "Egypt pitches reforms and energy plans at World Economic Forum meeting",
+              "summary": "이집트 정부가 세계경제포럼 회의에서 경제 개혁과 에너지 계획을 투자자에게 소개했다는 보도다. 본문은 열람하지 못했다.",
+              "published": "2026-11-17",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/17/egypt-pitches-reforms-and-energy-plans-at-world-economic-forum-meeting",
+                  "title": "Egypt pitches reforms and energy plans at World Economic Forum meeting"
+                }
+              ]
+            },
+            {
+              "title_ko": "중국, 위안화의 아프리카 접근성 높였지만 정착엔 장벽",
+              "title_orig": "China puts yuan within easier reach of Africa, but adoption faces major hurdles: report",
+              "summary": "중국이 아프리카에서 위안화 이용을 쉽게 하는 조치를 내놨지만 실제 채택에는 큰 장애가 있다는 보고서를 SCMP가 전했다. 본문은 열람하지 못했고 게재일은 11월 중순 전후로 추정된다.",
+              "published": "2026-11-14",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/economy/policy/article/3373817/china-puts-yuan-within-easier-reach-africa-adoption-faces-major-hurdles-report",
+                  "title": "China puts yuan within easier reach of Africa, but adoption faces major hurdles: report"
+                }
+              ]
+            }
+          ],
+          "note": "본문 미열람 기사 포함: 제목·검색 결과 기준 요약 (확인 범위: Euronews, SCMP)"
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [
+            {
+              "title_ko": "콩고민주공화국 에볼라, 사상 최악 1만1천 건 돌파",
+              "title_orig": "Deadliest Ebola outbreak in Congo's history reaches 11,000 cases",
+              "summary": "콩고 정부 자료로 확진 11,042건, 사망 5,387명으로 역대 최악의 에볼라 유행이 됐다. 40일 만에 확진 1,000건을 넘어 2018년(약 235일)보다 훨씬 빠르다. 이투리·북키부의 무력분쟁과 의료진 임금 체불, 주민 불신이 대응을 어렵게 한다.",
+              "published": "2026-11-11",
+              "figure": "확진 11,042건, 사망 5,387명 (2026-11-11 기준)",
+              "source": "콩고 정부 자료(Euronews 인용)",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/11/deadliest-ebola-outbreak-in-congos-history-reaches-11000-cases",
+                  "title": "Deadliest Ebola outbreak in Congo's history reaches 11,000 cases"
+                }
+              ]
+            },
+            {
+              "title_ko": "WHO, 에볼라 신규 백신 2종 임상시험 지지",
+              "title_orig": "WHO backs trials for two new vaccines against Ebola outbreak",
+              "summary": "WHO 전문가 그룹이 옥스퍼드대·세럼인스티튜트 후보와 모더나 후보 등 분디부교 바이러스 백신 2종을 시험에 포함하도록 권고했다. 시험은 콩고 국립생의학연구소가 주도한다. 가나와 미국의 여행 제한에는 WHO와 아프리카 CDC가 반대하고 있다.",
+              "published": "2026-11-04",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/04/who-backs-trials-for-two-new-vaccines-against-ebola-outbreak",
+                  "title": "WHO backs trials for two new vaccines against Ebola outbreak"
+                }
+              ]
+            },
+            {
+              "title_ko": "올해 콜레라 사망 3,000명 넘어, WHO",
+              "title_orig": "Over 3,000 already dead from cholera this year, says WHO",
+              "summary": "WHO가 올해 콜레라로 3,000명 넘게 숨졌다고 밝혔다는 SCMP 보도다. 본문은 열람하지 못했다.",
+              "published": "2026-11-11",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/world/africa/article/3373991/over-3000-already-dead-cholera-year-says-who",
+                  "title": "Over 3,000 already dead from cholera this year, says WHO"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사건사고",
+          "items": [
+            {
+              "title_ko": "세네갈 앞바다 이주민 보트 전복, 수십 명 실종",
+              "title_orig": "At least one dead and dozens missing after migrant boat capsizes off Senegal en route to Spain",
+              "summary": "19일 새벽 약 100명이 탄 이주민 보트가 다카르 남쪽 예네 앞바다에서 뒤집혀 1명이 숨지고 수십 명이 실종됐다. 11월 상반기에만 카나리아 제도에 1만1천 명 넘게 도착했고 세네갈 해군은 48시간 동안 1,400여 명을 구조했다.",
+              "published": "2026-11-19",
+              "event_date": "2026-11-19",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/19/at-least-one-dead-and-dozens-missing-after-migrant-boat-capsizes-off-senegal-en-route-to-s",
+                  "title": "At least one dead and dozens missing after migrant boat capsizes off Senegal en route to Spain"
+                }
+              ]
+            },
+            {
+              "title_ko": "케냐 수도 인근 건물 붕괴로 6명 사망",
+              "title_orig": "6 dead near Kenya's capital after building collapses",
+              "summary": "나이로비 인근에서 건물이 무너져 6명이 숨졌다는 SCMP 보도다. 본문은 열람하지 못했다.",
+              "published": "2026-11-13",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/world/africa/article/3374388/6-dead-near-kenyas-capital-after-building-collapses",
+                  "title": "6 dead near Kenya's capital after building collapses"
+                }
+              ]
+            }
+          ],
+          "note": "3건 미만: 직전 24시간 아프리카 사건사고 보도가 지정 매체에서 적게 확인됨 (확인 범위: Euronews, SCMP)"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "economy",
+      "part": "3. 경제",
+      "name": "경제",
+      "groups": [
+        {
+          "name": "헤드라인",
+          "items": [
+            {
+              "title_ko": "미국 증시 폭락…S&P 500 조정장 진입, 나스닥 5% 넘게 하락",
+              "title_orig": "Post-Market & Weekly Summary (Nov. 20, 2026)",
+              "summary": "20일 뉴욕증시는 AI·반도체주 투매로 S&P 500이 3.7%, 나스닥이 5.3% 내렸고 S&P 500과 다우는 조정 구간으로 마감했다. 엔비디아가 14% 급락한 가운데 필라델피아 반도체지수가 10% 넘게 떨어졌다. 한 주 기준 S&P 500은 약 8.6% 하락했다.",
+              "published": "2026-11-20",
+              "event_date": "2026-11-20",
+              "figure": "S&P 500 6,910.39 (-3.70%), 나스닥 22,617.73 (-5.28%) (2026-11-20 종가)",
+              "source": "The Closing Print",
+              "links": [
+                {
+                  "outlet": "The Closing Print",
+                  "url": "https://www.theclosingprint.net/2026/11/post-market-and-weekly-summary-2026-11-20/",
+                  "title": "Post-Market & Weekly Summary"
+                },
+                {
+                  "outlet": "The Motley Fool",
+                  "url": "https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-today-nov-20-nvidia-s-usd2-5-trillion-rout-deepens-as-sec-accounting-probe-adds-to-wall-street-s-ai-sell-off/",
+                  "title": "Stock Market Today, Nov. 20: Nvidia's $2.5 Trillion Rout Deepens as SEC Accounting Probe Adds to Wall Street's AI Sell-Off"
+                }
+              ]
+            },
+            {
+              "title_ko": "코스피 5.21% 급락해 4,870선…코스닥 5.71% 하락",
+              "title_orig": "코스피, 5.21% 하락한 4869.96 마감…코스닥 5.71%↓",
+              "summary": "코스피가 하루 만에 5.21% 내린 4,869.96으로 마감해 5,000선을 3거래일 만에 내줬고 코스닥도 5.71% 하락했다. 미국 반도체·AI주 급락의 영향으로 양 시장에서 매도 사이드카가 발동됐다.",
+              "published": "2026-11-20",
+              "event_date": "2026-11-20",
+              "figure": "코스피 4,869.96 (-5.21%), 코스닥 645.68 (-5.71%) (2026-11-20 종가)",
+              "source": "뉴스1, Businesskorea",
+              "links": [
+                {
+                  "outlet": "뉴스1",
+                  "url": "https://www.news1.kr/finance/general-stock/6361112",
+                  "title": "코스피, 5.21% 하락한 4869.96 마감…코스닥 5.71%↓(2보)"
+                },
+                {
+                  "outlet": "Businesskorea",
+                  "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=281841",
+                  "title": "[마감 시황] 코스피, 5.21% 폭락에 4,860선 추락...코스닥도 5.71% 급락"
+                }
+              ]
+            },
+            {
+              "title_ko": "엔비디아 젠슨 황 CEO 사임·SEC 조사 보도로 AI 대장주 흔들",
+              "title_orig": "Embattled Nvidia faces SEC probe as California attorney general mulls action",
+              "summary": "WSJ 보도를 인용한 매체들은 SEC가 엔비디아의 공시가 투자자를 오도했는지 민사 조사를 벌이고 있다고 전했고, SEC는 조사 여부를 확인하지 않았다. 젠슨 황이 CEO직에서 물러나 콜레트 크레스가 임시 CEO를 맡았으며, 캘리포니아주 법무장관도 중국 반도체 우회 수출 의혹을 들여다보고 있다고 밝혔다. 엔비디아는 같은 주 3분기 매출이 1,160억 달러로 두 배 넘게 늘었다고 발표했다.",
+              "published": "2026-11-18",
+              "event_date": "2026-11-17",
+              "figure": "엔비디아 3분기 매출 약 1,160억 달러 (2026년 3분기)",
+              "source": "PYMNTS, InvestmentNews 보도 인용",
+              "links": [
+                {
+                  "outlet": "InvestmentNews",
+                  "url": "https://www.investmentnews.com/equities/embattled-nvidia-faces-sec-probe-as-california-attorney-general-mulls-action/269054",
+                  "title": "Embattled Nvidia faces SEC probe as California attorney general mulls action"
+                },
+                {
+                  "outlet": "PYMNTS",
+                  "url": "https://pymnts.com/legal/2026/sec-investigating-whether-nvidia-misled-investors",
+                  "title": "SEC Investigating Whether Nvidia Misled Investors"
+                }
+              ]
+            },
+            {
+              "title_ko": "앤트로픽, 나스닥 상장…공모 기준 사상 최대 규모 IPO",
+              "title_orig": "Anthropic begins trading on Nasdaq in record-breaking IPO",
+              "summary": "앤트로픽이 공모가 83달러, 약 813억 달러 규모로 19일 나스닥에 상장했고 시초가는 111.50달러였다. 대형 IPO에 자금이 쏠리면서 기존 빅테크 약세 요인으로도 거론됐으며, 20일 종가는 88.91달러(-8.5%)였다. 최대 규모 여부는 SpaceX 사례와 비교 방식에 따라 이견이 있다.",
+              "published": "2026-11-19",
+              "event_date": "2026-11-19",
+              "figure": "공모가 $83, 조달 약 $81.3bn, 시초가 $111.50 (2026-11-19)",
+              "source": "Fox Business, StockTitan",
+              "links": [
+                {
+                  "outlet": "Fox Business",
+                  "url": "https://www.foxbusiness.com/markets/anthropic-begins-trading-nasdaq-record-breaking-ipo",
+                  "title": "Anthropic begins trading on Nasdaq in record-breaking IPO"
+                },
+                {
+                  "outlet": "StockTitan",
+                  "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-20-2026",
+                  "title": "Stock Market Today, November 20, 2026: US Stocks Close Sharply Lower"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "한국 및 미국 주요 거시경제 지표",
+          "items": [
+            {
+              "title_ko": "한국 10월 소비자물가 2.8% 상승…석유류가 상방 압력",
+              "title_orig": "2026년 10월 소비자물가동향",
+              "summary": "10월 소비자물가는 전년 동월보다 2.8% 올라 9월(2.9%)보다 둔화됐고 전월 대비로는 0.2% 올랐다. 석유류가 14.9% 뛰어 물가를 끌어올렸으며 근원물가(식료품·에너지 제외)도 2.8%였다.",
+              "published": "2026-11-03",
+              "figure": "소비자물가지수 전년동월비 +2.8%, 전월비 +0.2% (2026년 10월)",
+              "source": "국가데이터처(통계청), 정책브리핑",
+              "links": [
+                {
+                  "outlet": "뉴스핌",
+                  "url": "https://www.newspim.com/news/view/20261103000090",
+                  "title": "10월 소비자물가 전년비 2.8%↑…석유류 14.9% 급등"
+                },
+                {
+                  "outlet": "대한민국 정책브리핑",
+                  "url": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156787698",
+                  "title": "2026년 10월 소비자물가동향"
+                }
+              ]
+            },
+            {
+              "title_ko": "한국은행 기준금리 연 3.00% 동결 기조…다음 금통위 11월 26일",
+              "title_orig": "금통위 10월 22일 기준금리 3.00% 동결",
+              "summary": "한국은행 금융통화위원회는 10월 22일 만장일치로 기준금리를 연 3.00%로 유지했고, 7·8월 인상 이후 동결 국면이 이어지고 있다. 3분기 성장률은 전기 대비 1.0%로 한은 전망치를 웃돌았으며 다음 금통위는 이달 26일로 보도됐다.",
+              "published": "2026-11-08",
+              "event_date": "2026-10-22",
+              "figure": "기준금리 3.00%, 3분기 GDP 전기비 +1.0% (2026년 10월 22일 결정 / 2026년 3분기)",
+              "source": "한국은행(비즈워치 인용)",
+              "links": [
+                {
+                  "outlet": "비즈워치",
+                  "url": "https://news.bizwatch.co.kr/article/finance/2026/11/06/0021",
+                  "title": "한국은행 금통위 관련 기사 (2026-11-06)"
+                }
+              ]
+            },
+            {
+              "title_ko": "미국 10월 CPI 전월비 0.4%↑…연준 12월 인상 전망 강화",
+              "title_orig": "美 10월 소비자물가 예상 상회…12월 금리인상 가능성 확대",
+              "summary": "미국 10월 소비자물가는 전월보다 0.4% 올라 시장 예상(0.3%)을 웃돌았고 근원은 0.3% 상승했다. 지난해 정부 셧다운 여파로 이번 달 전체 지수의 전년비 수치는 발표되지 않았으며, 시장은 12월 8~9일 FOMC에서 0.25%p 인상을 예상한다.",
+              "published": "2026-11-11",
+              "event_date": "2026-11-10",
+              "figure": "CPI 전월비 +0.4%, 근원 +0.3% (2026년 10월, 계절조정)",
+              "source": "미 노동통계국(BLS), 블로터 인용",
+              "links": [
+                {
+                  "outlet": "블로터",
+                  "url": "https://www.bloter.net/news/articleView.html?idxno=678274",
+                  "title": "美 10월 소비자물가 예상 상회…12월 금리인상 가능성 확대"
+                }
+              ]
+            },
+            {
+              "title_ko": "연준, 10월 FOMC에서 기준금리 3.75~4.00% 동결",
+              "title_orig": "Fed holds interest rates steady despite stubborn inflation",
+              "summary": "연준은 10월 28일 금리를 3.75~4.00%로 유지했으며 9월에 3년여 만의 첫 인상을 단행한 바 있다. 리사 쿡과 베스 해맥 총재가 25bp 인상을 주장하며 반대표를 던졌고, 성명은 물가가 여전히 높다고 평가했다.",
+              "published": "2026-10-28",
+              "event_date": "2026-10-28",
+              "figure": "연방기금금리 목표 3.75~4.00% (2026-10-28 FOMC)",
+              "source": "연방준비제도, NPR/OPB 인용",
+              "links": [
+                {
+                  "outlet": "OPB(NPR)",
+                  "url": "https://www.opb.org/article/2026/10/28/fed-holds-interest-rates-steady-despite-stubborn-inflation/",
+                  "title": "Fed holds interest rates steady despite stubborn inflation"
+                }
+              ]
+            },
+            {
+              "title_ko": "미국 10월 비농업 고용 16만5천 명 증가…채용 반등",
+              "title_orig": "U.S. adds 165,000 jobs in October as hiring rebounds",
+              "summary": "AP에 따르면 미국 고용은 10월에 16만5천 개 늘어 채용이 반등했다. 9월 증가폭이 2만9천 개에 그쳤다는 보도와 비교하면 개선된 수치다.",
+              "published": "2026-11-06",
+              "figure": "비농업 고용 +165,000명 (2026년 10월, 전월비)",
+              "source": "미 노동통계국(BLS), AP 인용",
+              "links": [
+                {
+                  "outlet": "AP (재게재: WSMV)",
+                  "url": "https://www.wsmv.com/2026/11/06/us-adds-165000-jobs-october-hiring-rebounds/?outputType=amp",
+                  "title": "U.S. adds 165,000 jobs in October as hiring rebounds"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "한국 주식시장",
+          "items": [
+            {
+              "title_ko": "코스피 4,870선·코스닥 645선으로 마감…양 시장 매도 사이드카",
+              "title_orig": "코스피, 5.21% 하락한 4869.96 마감…코스닥 5.71%↓(2보)",
+              "summary": "코스피는 장중 4,831.69까지 밀렸다가 4,869.96으로 끝나 약 10개월 만의 최저 수준으로 마감했고, 코스닥은 645.68이었다. 오전 코스피200 선물이 5% 넘게 빠져 매도 사이드카가 발동됐고 코스닥에서도 정오 무렵 발동됐다.",
+              "published": "2026-11-20",
+              "event_date": "2026-11-20",
+              "figure": "코스피 4,869.96 (-267.93pt, -5.21%), 코스닥 645.68 (-39.13pt, -5.71%) (2026-11-20 종가)",
+              "source": "뉴스1, Businesskorea",
+              "links": [
+                {
+                  "outlet": "뉴스1",
+                  "url": "https://www.news1.kr/finance/general-stock/6361112",
+                  "title": "코스피, 5.21% 하락한 4869.96 마감…코스닥 5.71%↓(2보)"
+                },
+                {
+                  "outlet": "Businesskorea",
+                  "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=281841",
+                  "title": "[마감 시황] 코스피, 5.21% 폭락에 4,860선 추락...코스닥도 5.71% 급락"
+                }
+              ]
+            },
+            {
+              "title_ko": "외국인 1조1천억 원 순매도…원/달러 1,336원대",
+              "title_orig": "[마감 시황] 코스피, 5.21% 폭락에 4,860선 추락",
+              "summary": "유가증권시장에서 외국인이 1조1,340억 원, 기관이 9,505억 원을 순매도했고 개인이 1조5,958억 원을 순매수했다. 원/달러 환율은 1,336.2원으로 6.2원 올랐으며 1,340원 부근에서 수출업체 매물이 상단을 막았다고 전해졌다.",
+              "published": "2026-11-20",
+              "event_date": "2026-11-20",
+              "figure": "외국인 -1조1,340억 원, 기관 -9,505억 원, 개인 +1조5,958억 원 (코스피, 2026-11-20); 원/달러 1,336.2원",
+              "source": "Businesskorea",
+              "links": [
+                {
+                  "outlet": "Businesskorea",
+                  "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=281841",
+                  "title": "[마감 시황] 코스피, 5.21% 폭락에 4,860선 추락...코스닥도 5.71% 급락"
+                }
+              ]
+            },
+            {
+              "title_ko": "삼성전자 7%·SK하이닉스 6% 하락…삼성전기·SK스퀘어 급락",
+              "title_orig": "[마감 시황] 코스피, 5.21% 폭락에 4,860선 추락",
+              "summary": "삼성전자는 7.01% 내린 183,100원으로 19만 원 선이 무너졌고 SK하이닉스는 5.92% 하락한 1,113,000원에 마감했다. 삼성전기가 12.54%, SK스퀘어가 8.39% 내리는 등 반도체·AI 관련 대형주 낙폭이 컸다.",
+              "published": "2026-11-20",
+              "event_date": "2026-11-20",
+              "figure": "삼성전자 -7.01% (183,100원), SK하이닉스 -5.92% (1,113,000원) (2026-11-20 종가)",
+              "source": "Businesskorea",
+              "links": [
+                {
+                  "outlet": "Businesskorea",
+                  "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=281841",
+                  "title": "[마감 시황] 코스피, 5.21% 폭락에 4,860선 추락...코스닥도 5.71% 급락"
+                }
+              ]
+            },
+            {
+              "title_ko": "코스닥 반도체 소부장 10%대 급락…하락 종목 1,509개",
+              "title_orig": "[마감 시황] 코스피, 5.21% 폭락에 4,860선 추락",
+              "summary": "코스닥에서는 리노공업(-15.07%), 원익IPS(-14.47%), 이오테크닉스(-14.03%) 등 반도체 소부장주가 두 자릿수 하락했다. 상승 종목은 194개에 그치고 하락이 1,509개에 달했으며 알테오젠(+0.98%) 등 일부 제약·바이오주만 버텼다.",
+              "published": "2026-11-20",
+              "event_date": "2026-11-20",
+              "figure": "코스닥 상승 194 / 하락 1,509 / 보합 47 (2026-11-20)",
+              "source": "Businesskorea",
+              "links": [
+                {
+                  "outlet": "Businesskorea",
+                  "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=281841",
+                  "title": "[마감 시황] 코스피, 5.21% 폭락에 4,860선 추락...코스닥도 5.71% 급락"
+                }
+              ]
+            },
+            {
+              "title_ko": "급락 배경: 미국 AI주 투매·앤트로픽 상장 자금 쏠림·AMD 의혹 보도",
+              "title_orig": "[마감 시황] 코스피, 5.21% 폭락에 4,860선 추락",
+              "summary": "Businesskorea는 전날 미국 증시 급락과 앤트로픽 상장에 따른 수급 쏠림, 공매도 리서치 업체의 AMD 관련 의혹 제기, 연준의 매파적 시각 경계가 겹쳤다고 전했다. 증권사 연구원들은 매수 주체 부재를 가장 큰 원인으로 꼽았고 다음 주 반등 여부는 외국인 수급 진정에 달렸다고 봤다. 한국 ETF(EWY)는 미국 시장에서 8.42% 하락했다.",
+              "published": "2026-11-20",
+              "event_date": "2026-11-20",
+              "figure": "EWY -8.42%, EWT -10.95% (미국 상장 ETF, 2026-11-20)",
+              "source": "Businesskorea, StockTitan",
+              "links": [
+                {
+                  "outlet": "Businesskorea",
+                  "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=281841",
+                  "title": "[마감 시황] 코스피, 5.21% 폭락에 4,860선 추락...코스닥도 5.71% 급락"
+                },
+                {
+                  "outlet": "StockTitan",
+                  "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-20-2026",
+                  "title": "Stock Market Today, November 20, 2026: US Stocks Close Sharply Lower"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "미국 주식시장",
+          "items": [
+            {
+              "title_ko": "S&P 500 -3.7%, 나스닥 -5.3%…7거래일 연속 하락",
+              "title_orig": "Post-Market & Weekly Summary (Nov. 20, 2026)",
+              "summary": "S&P 500은 6,910.39로 7거래일 연속 내렸고 나스닥은 22,617.73으로 연초 대비 마이너스로 돌아섰다. 다우는 48,147.33(-1.93%), 러셀2000은 2,581.79(-2.76%)로 마감했다. 시장은 25일 발표될 10월 PCE와 3분기 GDP 2차 추정치를 주시하며, 26일은 추수감사절로 휴장한다.",
+              "published": "2026-11-20",
+              "event_date": "2026-11-20",
+              "figure": "S&P 500 -3.70%, 다우 -1.93%, 나스닥 -5.28%, 러셀2000 -2.76% (2026-11-20 종가)",
+              "source": "The Closing Print",
+              "links": [
+                {
+                  "outlet": "The Closing Print",
+                  "url": "https://www.theclosingprint.net/2026/11/post-market-and-weekly-summary-2026-11-20/",
+                  "title": "Post-Market & Weekly Summary"
+                },
+                {
+                  "outlet": "The Motley Fool",
+                  "url": "https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-today-nov-20-nvidia-s-usd2-5-trillion-rout-deepens-as-sec-accounting-probe-adds-to-wall-street-s-ai-sell-off/",
+                  "title": "Stock Market Today, Nov. 20: Nvidia's $2.5 Trillion Rout Deepens as SEC Accounting Probe Adds to Wall Street's AI Sell-Off"
+                }
+              ]
+            },
+            {
+              "title_ko": "반도체 투매…SOX 10.7% 하락, 엔비디아 14%·AMD 13%·마이크론 14% 급락",
+              "title_orig": "Stock Market Today: Nvidia's $2.5 Trillion Rout Deepens as SEC Accounting Probe Adds to Wall Street's AI Sell-Off",
+              "summary": "필라델피아 반도체지수가 10.73% 폭락한 가운데 엔비디아는 125.53달러로 14.01% 내렸고 AMD(-13.25%), 마이크론(-13.89%), 브로드컴(-12.19%)도 동반 급락했다. 엔비디아의 SEC 조사 보도와 AI 투자 수익성에 대한 의문, 앤트로픽 상장 이후 차익실현이 겹쳤다는 분석이다.",
+              "published": "2026-11-20",
+              "event_date": "2026-11-20",
+              "figure": "SOX -10.73%, NVDA $125.53 (-14.01%), AMD $424.32 (-13.25%) (2026-11-20 종가)",
+              "source": "The Motley Fool, StockTitan",
+              "links": [
+                {
+                  "outlet": "The Motley Fool",
+                  "url": "https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-today-nov-20-nvidia-s-usd2-5-trillion-rout-deepens-as-sec-accounting-probe-adds-to-wall-street-s-ai-sell-off/",
+                  "title": "Stock Market Today, Nov. 20: Nvidia's $2.5 Trillion Rout Deepens as SEC Accounting Probe Adds to Wall Street's AI Sell-Off"
+                },
+                {
+                  "outlet": "StockTitan",
+                  "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-20-2026",
+                  "title": "Stock Market Today, November 20, 2026: US Stocks Close Sharply Lower"
+                }
+              ]
+            },
+            {
+              "title_ko": "주간 기준 S&P 500 -8.6%, 나스닥 -10.0%…다우 2020년 3월 이후 최악",
+              "title_orig": "Post-Market & Weekly Summary (Nov. 20, 2026)",
+              "summary": "11월 16~20일 한 주 동안 S&P 500은 8.61%, 나스닥은 10.02%, 다우는 8.02% 하락했고 엔비디아는 22.9% 내렸다. 다우 ETF(DIA)의 주간 낙폭은 2020년 3월 이후 가장 컸고 VIX는 한 주 새 86% 뛰었다.",
+              "published": "2026-11-20",
+              "event_date": "2026-11-20",
+              "figure": "S&P 500 -8.61%, 나스닥 -10.02%, 다우 -8.02%, 엔비디아 -22.9% (2026-11-16~20)",
+              "source": "The Closing Print, StockTitan",
+              "links": [
+                {
+                  "outlet": "The Closing Print",
+                  "url": "https://www.theclosingprint.net/2026/11/post-market-and-weekly-summary-2026-11-20/",
+                  "title": "Post-Market & Weekly Summary"
+                },
+                {
+                  "outlet": "StockTitan",
+                  "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-20-2026",
+                  "title": "Stock Market Today, November 20, 2026: US Stocks Close Sharply Lower"
+                }
+              ]
+            },
+            {
+              "title_ko": "VIX 36으로 급등…국채금리 하락, 금·비트코인도 약세",
+              "title_orig": "Post-Market & Weekly Summary (Nov. 20, 2026)",
+              "summary": "VIX는 35.89로 26% 올랐고 10년물 국채금리는 4.92%, 2년물은 4.63%로 하루 12~13bp 내렸다. 금 선물은 약 4%, 비트코인은 약 4.5% 빠졌으며 필수소비재 섹터(+0.67%)만 상승했다. 리사 쿡 연준 이사가 금리 인상 지연이 뒤처질 위험을 키운다는 취지로 발언했다고 StockTitan이 전했다.",
+              "published": "2026-11-20",
+              "event_date": "2026-11-20",
+              "figure": "VIX 35.89, 10년물 4.92%, 2년물 4.63%, 금 선물 $3,539 (-3.98%) (2026-11-20)",
+              "source": "The Closing Print, StockTitan",
+              "links": [
+                {
+                  "outlet": "The Closing Print",
+                  "url": "https://www.theclosingprint.net/2026/11/post-market-and-weekly-summary-2026-11-20/",
+                  "title": "Post-Market & Weekly Summary"
+                },
+                {
+                  "outlet": "StockTitan",
+                  "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-20-2026",
+                  "title": "Stock Market Today, November 20, 2026: US Stocks Close Sharply Lower"
+                }
+              ]
+            },
+            {
+              "title_ko": "빅테크 일제히 하락…테슬라 -7.6%, 메타 -5.9%, 아마존 -4.1%",
+              "title_orig": "Stock Market Today, Nov. 20: Nvidia's $2.5 Trillion Rout Deepens",
+              "summary": "Motley Fool 시세 기준으로 테슬라가 7.6%, 메타가 5.9%, 아마존이 4.1% 내렸고 마이크로소프트(-2.8%), 알파벳(-2.6%), 애플(-1.9%)도 약세였다. 개별 종목 하락 배경은 해당 기사에서 확인되지 않았다.",
+              "published": "2026-11-20",
+              "event_date": "2026-11-20",
+              "figure": "TSLA $345.82 (-7.6%), META $560.84 (-5.9%), AMZN $246.82 (-4.1%) (2026-11-20)",
+              "source": "The Motley Fool",
+              "links": [
+                {
+                  "outlet": "The Motley Fool",
+                  "url": "https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-today-nov-20-nvidia-s-usd2-5-trillion-rout-deepens-as-sec-accounting-probe-adds-to-wall-street-s-ai-sell-off/",
+                  "title": "Stock Market Today, Nov. 20: Nvidia's $2.5 Trillion Rout Deepens as SEC Accounting Probe Adds to Wall Street's AI Sell-Off"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "주요 기업",
+          "items": [
+            {
+              "title_ko": "엔비디아: CEO 사임·SEC 조사 보도 속 주가 125달러로 52주 신저가",
+              "title_orig": "Stock Market Today, Nov. 20: Nvidia's $2.5 Trillion Rout Deepens",
+              "summary": "엔비디아는 20일 14.01% 하락한 125.53달러로 마감해 52주 저점을 기록했고 고점 대비 시가총액이 약 2조5천억 달러 줄었다고 Motley Fool은 전했다. 젠슨 황 사임과 SEC 조사 보도, 재무장관의 '10일 내 답변' 요구가 겹쳤으나 SEC는 조사 존재 여부를 확인하지 않았다.",
+              "published": "2026-11-20",
+              "event_date": "2026-11-20",
+              "figure": "NVDA $125.53 (-14.01%), 52주 범위 $124.50~$243.37 (2026-11-20)",
+              "source": "The Motley Fool",
+              "links": [
+                {
+                  "outlet": "The Motley Fool",
+                  "url": "https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-today-nov-20-nvidia-s-usd2-5-trillion-rout-deepens-as-sec-accounting-probe-adds-to-wall-street-s-ai-sell-off/",
+                  "title": "Stock Market Today, Nov. 20: Nvidia's $2.5 Trillion Rout Deepens as SEC Accounting Probe Adds to Wall Street's AI Sell-Off"
+                },
+                {
+                  "outlet": "InvestmentNews",
+                  "url": "https://www.investmentnews.com/equities/embattled-nvidia-faces-sec-probe-as-california-attorney-general-mulls-action/269054",
+                  "title": "Embattled Nvidia faces SEC probe as California attorney general mulls action"
+                }
+              ]
+            },
+            {
+              "title_ko": "앤트로픽(ANT): 상장 이틀째 8.5% 하락…공모가 대비로는 여전히 높아",
+              "title_orig": "Anthropic begins trading on Nasdaq in record-breaking IPO",
+              "summary": "ANT는 공모가 83달러, 시초가 111.50달러로 거래를 시작했고 첫날 종가는 약 97달러(+17%대)였다. 20일에는 88.91달러로 8.5% 내려 공모가는 웃돌았다. 공시상 올해 1~9월 매출은 332억 달러, 순손실은 1,040억 달러(대부분 비현금성)로 Fox Business가 전했다.",
+              "published": "2026-11-20",
+              "event_date": "2026-11-20",
+              "figure": "ANT $88.91 (-8.50%), 공모가 $83 (2026-11-20 종가)",
+              "source": "StockTitan, Fox Business",
+              "links": [
+                {
+                  "outlet": "Fox Business",
+                  "url": "https://www.foxbusiness.com/markets/anthropic-begins-trading-nasdaq-record-breaking-ipo",
+                  "title": "Anthropic begins trading on Nasdaq in record-breaking IPO"
+                },
+                {
+                  "outlet": "StockTitan",
+                  "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-20-2026",
+                  "title": "Stock Market Today, November 20, 2026: US Stocks Close Sharply Lower"
+                }
+              ]
+            },
+            {
+              "title_ko": "AMD 13% 급락…공매도 리서치 업체 중국 서버 업체 관련 의혹 제기 여파",
+              "title_orig": "Stock Market Today, November 20, 2026: US Stocks Close Sharply Lower",
+              "summary": "AMD는 20일 13.25% 하락한 424.32달러로 마감했다. Businesskorea는 공매도 리서치 업체 헌터브룩이 중국 서버 업체의 AMD 기술 무단 사용과 순환금융 위험을 제기하면서 주가가 흔들렸다고 전했으며, 이 의혹은 당사자 확인을 거치지 않은 주장이다.",
+              "published": "2026-11-20",
+              "event_date": "2026-11-20",
+              "figure": "AMD $424.32 (-13.25%) (2026-11-20 종가)",
+              "source": "StockTitan, Businesskorea",
+              "links": [
+                {
+                  "outlet": "StockTitan",
+                  "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-20-2026",
+                  "title": "Stock Market Today, November 20, 2026: US Stocks Close Sharply Lower"
+                },
+                {
+                  "outlet": "Businesskorea",
+                  "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=281841",
+                  "title": "[마감 시황] 코스피, 5.21% 폭락에 4,860선 추락...코스닥도 5.71% 급락"
+                }
+              ]
+            },
+            {
+              "title_ko": "지스케일러, 크라우드스트라이크 인수 협의 보도에 시간외 16% 급등",
+              "title_orig": "Stock Market Today, November 20, 2026: US Stocks Close Sharply Lower",
+              "summary": "블룸버그와 로이터가 크라우드스트라이크가 지스케일러 인수를 협의 중이라고 보도해 지스케일러는 장 마감 후 16.34% 올랐고 크라우드스트라이크는 4.84% 내렸다. 두 보도 모두 합의가 확정되지 않았다고 밝혔다.",
+              "published": "2026-11-20",
+              "event_date": "2026-11-20",
+              "figure": "ZS 시간외 +16.34%, CRWD 시간외 -4.84% (2026-11-20)",
+              "source": "StockTitan",
+              "links": [
+                {
+                  "outlet": "StockTitan",
+                  "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-20-2026",
+                  "title": "Stock Market Today, November 20, 2026: US Stocks Close Sharply Lower"
+                }
+              ]
+            },
+            {
+              "title_ko": "실적·M&A 종목: 인튜이트 -12.8%, 갭 +11.4%, 글로벌페이먼츠 +9.95%",
+              "title_orig": "Post-Market & Weekly Summary (Nov. 20, 2026)",
+              "summary": "인튜이트는 실적 하향과 메일침프 매각 소식 속에 12.8% 내렸고, 갭은 3분기 실적 발표 후 11.44% 올랐다. 글로벌페이먼츠는 사모펀드 GTCR이 약 500억 달러 규모 인수를 검토한다는 보도로 9.95% 상승했으나 인수 검토는 보도 단계다.",
+              "published": "2026-11-20",
+              "event_date": "2026-11-20",
+              "figure": "INTU -12.77%, GAP +11.44%, GPN $91.83 (+9.95%) (2026-11-20 종가)",
+              "source": "StockTitan, The Closing Print",
+              "links": [
+                {
+                  "outlet": "StockTitan",
+                  "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-20-2026",
+                  "title": "Stock Market Today, November 20, 2026: US Stocks Close Sharply Lower"
+                },
+                {
+                  "outlet": "The Closing Print",
+                  "url": "https://www.theclosingprint.net/2026/11/post-market-and-weekly-summary-2026-11-20/",
+                  "title": "Post-Market & Weekly Summary"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "tech",
+      "part": "4. 기술과학",
+      "name": "기술과학",
+      "groups": [
+        {
+          "name": "주요 기사",
+          "items": [
+            {
+              "title_ko": "구글, 새 모델 '제미나이 4 네온' 공개",
+              "title_orig": "Introducing Gemini 4 Neon",
+              "summary": "구글이 18일 제미나이 4 네온을 공개했다. 디지털 트렌즈는 구글이 이 모델이 더 낮은 가격에 경쟁사 최신 모델과 비슷한 성능을 낸다고 주장한다고 전했으며, 성능 우위는 구글 측 주장이다.",
+              "published": "2026-11-18",
+              "event_date": "2026-11-18",
+              "links": [
+                {
+                  "outlet": "Google",
+                  "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+                  "title": "Introducing Gemini 4 Neon"
+                },
+                {
+                  "outlet": "9to5Google",
+                  "url": "https://9to5google.com/2026/11/18/gemini-4-neon-announcement/",
+                  "title": "Gemini 4 Neon announcement"
+                }
+              ]
+            },
+            {
+              "title_ko": "엔비디아, 중국에 첨단 AI 칩 출하 중단",
+              "title_orig": "Nvidia stopped shipping advanced AI chips to China",
+              "summary": "더 버지에 따르면 엔비디아는 미국 정부가 일부 판매를 승인했는데도 중국으로 향하는 추가 허가 물량 출하 계획이 없다. 칩 수출 통제를 둘러싼 조사 논란과 맞물려 주목된다.",
+              "published": "2026-11-19",
+              "links": [
+                {
+                  "outlet": "The Verge",
+                  "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+                  "title": "Nvidia stopped shipping advanced AI chips to China"
+                }
+              ]
+            },
+            {
+              "title_ko": "오픈AI, 자사 모델로 칩 설계 개선…곱셈기 면적 약 15% 절감 추정",
+              "title_orig": "Advancing chip design with our models",
+              "summary": "오픈AI는 자사 AI 모델을 칩 설계에 활용했고 곱셈기 재설계로 추정 면적을 약 15% 줄였다고 밝혔다. 회사 측 발표이며 독립 검증은 확인되지 않았다.",
+              "published": "2026-11-19",
+              "links": [
+                {
+                  "outlet": "OpenAI",
+                  "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
+                  "title": "Advancing chip design with our models"
+                }
+              ]
+            },
+            {
+              "title_ko": "시티, 'AI 에이전트' 이용 고객 책임 강화…해킹돼도 고객 몫",
+              "title_orig": "More banks say customers using AI agents are on their own, even if they get hacked",
+              "summary": "시티가 제3자 AI 도구에 계정 접근 권한을 준 고객이 그 도구를 통해 이뤄진 행위에 책임을 진다는 방침을 밝혔고, 다른 은행들도 비슷한 입장이라고 TechCrunch가 전했다. AI 에이전트 금융 거래의 책임 소재가 쟁점으로 떠오르고 있다.",
+              "published": "2026-11-18",
+              "links": [
+                {
+                  "outlet": "TechCrunch",
+                  "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+                  "title": "More banks say customers using AI agents are on their own, even if they get hacked"
+                }
+              ]
+            },
+            {
+              "title_ko": "METR의 'AI 성능 그래프' 갱신…지수적 향상 지속, 판단력 과제는 뒤처져",
+              "title_orig": "The Most Misunderstood Graph in AI Just Got a Major Update",
+              "summary": "MIT 테크놀로지 리뷰에 따르면 METR의 새 보고서에서 일부 AI 능력은 여전히 지수적으로 향상되는 흐름이지만 판단이 많이 필요한 과제에서는 모델이 뒤처진다. 해당 그래프가 흔히 오해된다는 문제의식을 다룬다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "MIT Technology Review",
+                  "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+                  "title": "The Most Misunderstood Graph in AI Just Got a Major Update"
+                }
+              ]
+            },
+            {
+              "title_ko": "사람 간 이식용 간, 체외에서 7주 생존 유지…기록 경신",
+              "title_orig": "A human liver has been kept alive outside the body for a record seven weeks",
+              "summary": "시드니 연구팀(카를로 풀리타노 주도)이 기증받은 간을 자동 생명유지 장치로 7주간 살려 두는 기록을 세웠다고 MIT 테크놀로지 리뷰가 전했다. 세부 결과는 아직 논문 게재 전이다.",
+              "published": "2026-11-19",
+              "links": [
+                {
+                  "outlet": "MIT Technology Review",
+                  "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
+                  "title": "A Human Liver Has Been Kept Alive Outside the Body for a Record Seven Weeks"
+                }
+              ]
+            }
+          ],
+          "note": "TLDR 웹사이트 직접 열람이 권한 확인 시간 초과로 막혀, TLDR 호 대신 AI 뉴스 다이제스트·기술 주간 모음에서 원문 주소를 확인해 선별함"
+        }
+      ],
+      "note": ""
+    }
+  ]
+}

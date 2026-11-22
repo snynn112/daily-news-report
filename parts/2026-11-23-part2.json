@@ -1,0 +1,767 @@
+{
+  "date": "2026-11-23",
+  "part": 2,
+  "generatedAt": "2026-11-23T05:32:39+09:00",
+  "sections": [
+    {
+      "id": "eu-east",
+      "part": "2. 권역별 뉴스",
+      "name": "4) 유럽 (1) 동유럽",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "마크롱 \"러시아 공격성 '새로운 단계'\"… 폴란드·덴마크·에스토니아·몰도바 사건 거론",
+              "title_orig": "French President Macron warns of 'new level' of Russian aggression",
+              "summary": "마크롱 프랑스 대통령은 폴란드 미사일 낙탄, 덴마크 암살 시도 의혹, 에스토니아 방해공작, 몰도바 영공 침범 등 최근 유럽 곳곳의 사건을 짚으며 러시아의 행동이 새로운 수준의 공격성을 보여 준다고 말했다. 그는 이런 도박이 오히려 러시아를 고립시키고 유럽의 결속을 강화할 것이라고 밝혔다. 발언은 키이우 대공습과 드니프로강 교량 피해 직후 나왔다.",
+              "published": "2026-11-21",
+              "event_date": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/21/french-president-macron-warns-of-new-level-of-russian-aggression",
+                  "title": "French President Macron warns of 'new level' of Russian aggression"
+                }
+              ]
+            },
+            {
+              "title_ko": "에스토니아, 러시아 접경 도로 검문소 6개월 폐쇄… 러 \"새 철의 장막\" 반발",
+              "title_orig": "Russia complains of 'new Iron Curtain' as Estonia shuts its borders",
+              "summary": "에스토니아 정부는 12월 1일부터 6개월간 러시아와의 모든 도로 국경검문소를 잠정 폐쇄하고 연장 여부는 내년에 정하기로 했다. 드론 제조업체 Threod Systems에 대한 방화 시도 배후로 러시아를 지목한 데 따른 조치다. 러시아는 '새로운 철의 장막'이라 비난하며 정치·외교적 대응을 예고했고, 철도 화물은 폐쇄 대상에서 빠진다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/20/russia-complains-of-new-iron-curtain-as-estonia-shuts-its-borders",
+                  "title": "Russia complains of 'new Iron Curtain' as Estonia shuts its borders"
+                }
+              ]
+            },
+            {
+              "title_ko": "쿠슈너 \"러시아, 우크라 '나토식' 안전보장에 편안해해\"… 실현성은",
+              "title_orig": "Kushner says Russia OK with 'NATO-like' security pact for Ukraine: Is it?",
+              "summary": "쿠슈너 미국 특사는 베를린에서 유럽 정상들과 만난 뒤 러시아가 나토 5조에 준하는 안전보장 구상을 받아들일 수 있다는 취지로 말했고, 트럼프 대통령도 미국 이익에 맞으면 열려 있다고 했다. 그러나 푸틴 대통령은 우크라이나의 나토 가입을 용납할 수 없다고 했고 러시아 외무차관도 '준회원' 지위를 거부했다. 젤렌스키 대통령은 병력 주둔 여부 등 핵심 개념에 합의가 없다고 지적하며 전문가들도 회의적이다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/20/kushner-says-russia-ok-with-nato-like-security-pact-for-ukraine-is-it",
+                  "title": "Kushner says Russia OK with 'NATO-like' security pact for Ukraine: Is it?"
+                }
+              ]
+            },
+            {
+              "title_ko": "트럼프·푸틴·시진핑 회동 직후 유럽 정상들 \"우크라 '얄타 2.0' 거부\"",
+              "title_orig": "European leaders reject 'Yalta 2.0' for Ukraine after Trump meets Putin and Xi",
+              "summary": "독일 메르츠 총리 주재로 베를린에서 열린 우크라이나 지원국 회의에서 정상들은 선전에서 열린 미·중·러 정상회동 직후 유럽을 배제한 협상은 평화로 이어지지 않는다고 못박았다. 유럽은 다음 협상 라운드에 보낼 대표단 7명을 구성하고 러시아와 직접 협상 채널을 두기로 했다. 영국 총리는 우크라이나 없이는 우크라이나에 관한 결정도 없다고 강조했다.",
+              "published": "2026-11-19",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/19/european-leaders-reject-yalta-20-deal-for-ukraine-after-trump-meets-putin-and-xi",
+                  "title": "European leaders reject 'Yalta 2.0' for Ukraine after Trump meets Putin and Xi"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [
+            {
+              "title_ko": "EU, 우크라이나에 450억 유로 신규 대출 제안… 러 배상 이후 상환",
+              "title_orig": "EU plans a new €45bn loan to Ukraine. How much will it cost? And will it be repaid?",
+              "summary": "유럽집행위원회는 2027년 우크라이나의 재정 부족분을 메우기 위해 450억 유로 대출을 제안했다. 무기 구매에 250억 유로, 학교·병원 등 민간 수요에 200억 유로를 배정하며 원금 상환은 러시아가 전쟁 피해를 배상한 뒤로 미룬다. 슬로바키아·체코·헝가리·불가리아가 불참 의사를 밝혔고 독일 메르츠 총리는 전 회원국이 참여하지 않으면 EU 장기예산을 막겠다고 경고했다.",
+              "published": "2026-11-19",
+              "event_date": "2026-11-18",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/19/eu-plans-a-new-45bn-loan-to-ukraine-how-much-will-it-cost-and-will-it-be-repaid",
+                  "title": "EU plans a new €45bn loan to Ukraine. How much will it cost? And will it be repaid?"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [
+            {
+              "title_ko": "유럽 곳곳서 생활비·주거난 항의 시위… 자그레브 정신병원 사망 항의에 수천 명",
+              "title_orig": "Thousands protest across Europe over living costs and housing",
+              "summary": "프랑스 내무부 집계로 전국에서 8만2500명이 시위에 나섰고 포르투갈·독일·이탈리아 등에서도 생활비와 주거, 공공서비스 삭감에 항의하는 집회가 이어졌다. 핀란드 헬싱키에서는 약 200명이 행진했으며 크로아티아 자그레브에서는 정신병원 환자의 사망에 항의해 수천 명이 모였다. 크로아티아 당국은 의료진 4명을 가중살인 혐의로 수사하고 있다.",
+              "published": "2026-11-21",
+              "event_date": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing",
+                  "title": "Thousands protest across Europe over living costs and housing"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사건사고",
+          "items": [
+            {
+              "title_ko": "러시아 미사일, 폴란드 영토에 낙탄… 나토 대응 가능성은",
+              "title_orig": "Russian missiles hit Poland: What happened, and could NATO respond?",
+              "summary": "폴란드 국방장관은 11월 20일 밤 러시아의 대규모 공습 중 미사일 2발과 제트 드론 1기가 폴란드 영토에 떨어졌다고 밝혔고 인명 피해는 보고되지 않았다. 투스크 총리는 의도적 도발이라고 규탄했고 뤼터 나토 사무총장은 '중대한 위반'이라고 했다. 전문가들은 5조 발동 가능성은 낮다고 보며, 젤렌스키 대통령은 그날 밤 드론 400기 이상과 미사일 110기 이상이 발사됐다고 밝혔다.",
+              "published": "2026-11-21",
+              "event_date": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond",
+                  "title": "Russian missiles hit Poland: What happened, and could NATO respond?"
+                }
+              ]
+            },
+            {
+              "title_ko": "핀란드만서 러시아 화물선 드론 피격 후 화재 지속… 핀란드 \"전쟁 파급\"",
+              "title_orig": "Russian cargo ship still on fire off Finland after drone attack",
+              "summary": "미국 제재 대상인 러시아 화물선 Sparta II호가 21일 핀란드만에서 드론 공격을 받아 불길이 이튿날까지 이어졌다. 핀란드 군은 우크라이나의 공격일 가능성이 높다고 보며, 선박은 핀란드 영해로 떠내려와 정박했고 승무원 16명은 모두 대피했다. 오르포 총리는 전쟁이 핀란드 인근으로 번지고 있다고 말했다.",
+              "published": "2026-11-22",
+              "event_date": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://aljazeera.com/news/2026/11/22/russian-cargo-ship-still-on-fire-off-finland-after-drone-attack",
+                  "title": "Russian cargo ship still on fire off Finland after drone attack"
+                }
+              ]
+            },
+            {
+              "title_ko": "우크라, 케르치 대교 타격… 러, 키이우 교량 겨냥 보복 공습으로 8명 사망",
+              "title_orig": "Russia unleashes barrage of missiles on Ukraine, killing at least 8",
+              "summary": "우크라이나가 사흘에 걸친 작전으로 크림반도를 잇는 케르치 대교의 도로 구간을 무너뜨리고 철도 구간에도 큰 타격을 줬다고 밝히자, 러시아는 19~20일 밤 키이우 교량 등을 노린 보복 공습에 나섰다. 우크라이나 총리는 키이우 6명, 리비우 2명 등 8명이 숨지고 28명이 다쳤다고 밝혔다. 푸틴 대통령은 케르치 대교가 순수 민간시설이라고 주장하며 '고통스러운 대응'을 예고했었다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges",
+                  "title": "Russia unleashes barrage of missiles on Ukraine, killing at least 8"
+                },
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/20/ukraine-strikes-kerch-bridge-as-putin-ally-declares-no-one-needs",
+                  "title": "Ukraine strikes Kerch Bridge as Putin ally declares 'no one needs Europe'"
+                }
+              ]
+            },
+            {
+              "title_ko": "러시아군, 젤렌스키 고향 크리비리흐 공습… 2명 사망·60명 부상",
+              "title_orig": "Russian strike kills two, wounds 60, in Zelenskyy's hometown",
+              "summary": "러시아의 크리비리흐 공습으로 7세 소년을 포함해 2명이 숨지고 어린이 6명을 포함한 60명이 다쳤으며 아파트 약 25동과 병원, 학교가 파손됐다. 시 당국은 구조대가 도착한 뒤 추가 미사일이 구조·의료 인력을 타격했다고 밝혔다. 자포리자에서도 2명이 사망했다.",
+              "published": "2026-11-21",
+              "event_date": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown",
+                  "title": "Russian strike kills two, wounds 60, in Zelenskyy's hometown"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "eu-west",
+      "part": "2. 권역별 뉴스",
+      "name": "4) 유럽 (2) 서유럽",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "덴마크, 우크라 래퍼 암살 기도 의혹으로 러시아 무관 추방",
+              "title_orig": "Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper",
+              "summary": "덴마크 정부는 러시아 정보기관이 코펜하겐 인근 콘서트에서 우크라이나·미국 이중국적 래퍼를 노렸다는 정보당국 판단에 따라 러시아 국방무관에게 7일 내 출국을 명령했다. 지난 9월 공연 직전 무장한 용의자들이 체포됐고 덴마크인 2명이 살인미수 등 혐의로 기소됐다. 러시아는 증거가 없다며 '적절한 대응'을 예고했고, 덴마크는 러시아인 솅겐 비자 중단도 검토 중이다.",
+              "published": "2026-11-21",
+              "event_date": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/21/denmark-expels-russian-diplomat-over-alleged-plot-to-kill-ukrainian-rapper",
+                  "title": "Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper"
+                }
+              ]
+            },
+            {
+              "title_ko": "덴마크 의회, 미국·그린란드와의 안보 협정 비준",
+              "title_orig": "Denmark parliament approves security deal with Greenland and US",
+              "summary": "덴마크 의회는 출석 의원 109명 전원 찬성으로 미국·그린란드와의 안보 협정을 비준했다. 1951년 협정을 보완해 미국의 군사기지 2곳 건설을 허용하고, 전략 분야 투자를 EU·나토 회원국으로 제한해 중국·러시아의 영향력을 막는 내용이다. 그린란드 의회는 11월 초 찬성 16표, 기권 7표로 이미 승인했다.",
+              "published": "2026-11-19",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/19/denmark-parliament-approves-security-deal-with-greenland-and-us",
+                  "title": "Denmark parliament approves security deal with Greenland and US"
+                }
+              ]
+            },
+            {
+              "title_ko": "마크롱, 우크라 나토 가입 문제 재논의 지지",
+              "title_orig": "Macron backs reopening 'the question' of Ukraine's NATO accession",
+              "summary": "마크롱 프랑스 대통령은 베를린 '의지의 연합' 회의 뒤 기자회견에서 2022년 초와는 상황이 완전히 달라졌다며 우크라이나의 나토 가입 문제를 다시 열어야 한다고 말했다. 그는 우크라이나군의 규모와 장비를 근거로 가입이 유럽의 장기 안보에 도움이 된다고 주장하며 방공망 지원 확대도 촉구했다. 앞서 젤렌스키 대통령은 미국 협상단이 돈바스 양도와 나토 가입을 맞바꾸는 안을 거론했다고 밝힌 바 있다.",
+              "published": "2026-11-19",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/19/macron-backs-reopening-the-question-of-ukraines-nato-accession",
+                  "title": "Macron backs reopening 'the question' of Ukraine's NATO accession"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [
+            {
+              "title_ko": "영국 10월 물가상승률 3.6%… 1년 만의 최고",
+              "title_orig": "UK inflation hits 12-month high of 3.6% on soaring fuel, tobacco costs",
+              "summary": "영국 통계청에 따르면 10월 소비자물가 상승률은 3.6%로 9월(3.5%)보다 올라 4개월 연속 상승했고 12개월 만의 최고치를 기록했다. 휘발유·경유 가격 상승과 담배 관세 변경이 주된 요인이며 시장 예상과 같은 수준이다.",
+              "published": "2026-11-18",
+              "links": [
+                {
+                  "outlet": "South China Morning Post",
+                  "url": "https://www.scmp.com/news/world/europe/article/3374912/uk-inflation-hits-12-month-high-36-soaring-fuel-tobacco-costs",
+                  "title": "UK inflation hits 12-month high of 3.6% on soaring fuel, tobacco costs"
+                }
+              ]
+            },
+            {
+              "title_ko": "독일 정부·유니크레디트, 코메르츠방크 인수 원칙 합의",
+              "title_orig": "Commerzbank welcomes UniCredit commitments after Berlin agreement",
+              "summary": "독일 정부와 유니크레디트가 코메르츠방크 인수 문제에서 원칙적으로 합의했다. 유니크레디트는 본사를 프랑크푸르트에 두고 상장을 유지하며 중견기업 거래를 늘리고 핵심 의사결정을 독일에서 하겠다고 약속했다. 합병 은행 자산은 1조3천억 유로를 넘고 마지막 규제 승인은 이달 말로 예상되지만 정부의 13.3% 지분 매각 여부는 정해지지 않았다.",
+              "published": "2026-11-19",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/19/commerzbank-welcomes-unicredit-commitments-after-berlin-agreement",
+                  "title": "Commerzbank welcomes UniCredit commitments after Berlin agreement"
+                }
+              ]
+            },
+            {
+              "title_ko": "도이체방크 내부문서 1,500만 건 유출… 주가 급락·당국 조사",
+              "title_orig": "Deutsche Bank leak: How 15m files put the bank on the spot",
+              "summary": "도이체방크의 이메일·이사회 회의록·컴플라이언스 문서 등 약 1,500만 건이 내부고발자 2명을 통해 유출돼 언론 200여 곳이 공동 보도했다. 17일 주가가 장중 최대 6.4% 하락했고 헤센주 데이터보호 당국이 18일 조사에 착수했다. 은행은 오래된 사안이며 통제를 강화했고 재무적 영향은 크지 않다고 밝혔다.",
+              "published": "2026-11-19",
+              "event_date": "2026-11-17",
+              "links": [
+                {
+                  "outlet": "Gulf News",
+                  "url": "https://gulfnews.com/business/deutsche-bank-leak-how-15m-files-put-the-bank-on-the-spot-1.500752997",
+                  "title": "Deutsche Bank leak: How 15m files put the bank on the spot"
+                }
+              ]
+            },
+            {
+              "title_ko": "독일, 2027년 전기세를 EU 최저 수준으로 인하·유류가격 상한 연장",
+              "title_orig": "Germany cuts energy tax and extends fuel price cap in 2027",
+              "summary": "독일 연립정부는 2027년 1월 1일부터 전기세를 kWh당 2.05센트에서 0.1센트로 낮춰 가계와 소기업 부담을 덜기로 합의했다. 재원은 재생에너지 보조금 잉여금이며 일단 1년 한시로, 영구화 여부는 2028년 예산의 보전 방안에 달려 있다. 1월부터는 3개월 한도의 유류 가격 상한제도 시행된다.",
+              "published": "2026-11-18",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/18/germany-cuts-energy-tax-and-extends-fuel-price-cap-in-2027",
+                  "title": "Germany cuts energy tax and extends fuel price cap in 2027"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [
+            {
+              "title_ko": "반 고흐 '꽃 핀 밤나무', 소유권 분쟁 타결 뒤 1억9,040만 달러 경매 최고가",
+              "title_orig": "Van Gogh painting sells for record $190.4 million after Nazi-era ownership dispute resolved",
+              "summary": "뉴욕 소더비 경매에서 반 고흐의 1890년작 '꽃 핀 밤나무'가 수수료 포함 1억9,040만 달러에 낙찰돼 반 고흐 작품 경매 최고가를 경신했다. 독일계 유대인 출판인 새뮤얼 피셔 상속인들이 1936년 강제 매각을 주장했으나 경매 전날 합의가 발표됐고 조건은 비공개다. 이 그림은 1975년부터 아르헨티나 블라키에 가문이 소장해 왔다.",
+              "published": "2026-11-19",
+              "event_date": "2026-11-18",
+              "links": [
+                {
+                  "outlet": "The National",
+                  "url": "https://thenationalnews.com/arts-culture/2026/11/19/van-gogh-painting-sells-for-record-1904-million-after-nazi-era-ownership-dispute-resolved",
+                  "title": "Van Gogh painting sells for record $190.4 million after Nazi-era ownership dispute resolved"
+                }
+              ]
+            },
+            {
+              "title_ko": "이탈리아 언론인 코라도 아우지아스 별세, 향년 91세",
+              "title_orig": "Corrado Augias has died. He was 91 years old.",
+              "summary": "이탈리아의 언론인·작가·방송인 코라도 아우지아스가 91세로 세상을 떠났다. 마타렐라 대통령 등이 애도했고 상원과 로마 시의회는 묵념했으며 11월 23일 라7이 특별 방송을 편성한다. 그는 1994~1999년 유럽의회 의원을 지냈고 '텔레포노 잘로' 등을 진행했다.",
+              "published": "2026-11-19",
+              "links": [
+                {
+                  "outlet": "Il Foglio",
+                  "url": "https://www.ilfoglio.it/en/culture/2026/11/19/news/corrado-augias-has-died-he-was-91-years-old--414158",
+                  "title": "Corrado Augias has died. He was 91 years old."
+                }
+              ]
+            },
+            {
+              "title_ko": "스티글리츠 \"유럽 청년 시위는 정당하다\"",
+              "title_orig": "Nobel economist Joseph Stiglitz deems youth protests across Europe 'legitimate'",
+              "summary": "노벨경제학상 수상자 조지프 스티글리츠는 세대 간 불평등, 주거비 부담, 교육 부실, AI 불안이 유럽 청년 시위의 배경이라며 이들의 요구가 정당하다고 평가했다. 최근 프랑스·덴마크·이탈리아·스페인에서 수십만 명이 생활비·주거·임금 문제로 거리에 나섰고 스페인은 2012년 이후 처음으로 24시간 총파업을 겪었다. 그는 1억 유로 이상 자산에 약 2% 최저세를 EU 차원에서 매기는 방안을 지지했다.",
+              "published": "2026-11-19",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/19/nobel-economist-joseph-stiglitz-deems-youth-protests-across-europe-legitimate",
+                  "title": "Nobel economist Joseph Stiglitz deems youth protests across Europe 'legitimate'"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사건사고",
+          "items": [
+            {
+              "title_ko": "약물 투여한 아내를 온라인 모집한 남성들에게 성폭행하게 한 사건, 4명 유죄 평결",
+              "title_orig": "Four men guilty of sexually abusing wife drugged and advertised by husband",
+              "summary": "영국 윈체스터 형사법원 배심은 스윈던에서 남편이 약물을 먹인 아내(49)를 성폭행·성추행한 남성 4명에게 유죄를 평결했다. 남편은 앞서 56개 혐의를 인정했고 피해자는 익명 보호 권리를 포기하고 재판에 나섰다. 4명은 구속 상태로 12월 21~22일 선고를 받는다.",
+              "published": "2026-11-19",
+              "links": [
+                {
+                  "outlet": "ITV News",
+                  "url": "https://www.itv.com/news/2026-11-19/four-men-guilty-of-sexually-abusing-wife-drugged-and-advertised-by-husband",
+                  "title": "Four men guilty of sexually abusing wife drugged and advertised by husband"
+                }
+              ]
+            },
+            {
+              "title_ko": "프랑스 경찰관, 2020년 운전자 사살 항소심서 징역 8년",
+              "title_orig": "French policeman jailed for eight years on appeal over 2020 killing of motorist",
+              "summary": "프랑스 항소법원은 2020년 10월 파리 인근 푸아시에서 교통 단속 중 달아나던 운전자(28)를 근거리에서 쏴 숨지게 한 전직 경찰관에게 징역 8년과 15년간 경찰 복직·총기 소지 금지를 선고했다. 재판부는 정당방위로 보지 않았으며 지난 3월 1심은 징역 10년이었다. 프랑스에서 경찰 폭력 유죄 판결은 드물어 유족 변호인은 역사적 판결이라고 평가했다.",
+              "published": "2026-11-19",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/19/french-policeman-jailed-for-eight-years-on-appeal-over-2020-killing-of-motorist",
+                  "title": "French policeman jailed for eight years on appeal over 2020 killing of motorist"
+                }
+              ]
+            },
+            {
+              "title_ko": "미 검찰, 아일랜드 샤논공항 미군 수송기 파손 혐의로 아일랜드인 기소",
+              "title_orig": "Prosecutors allege man 'destroyed' US military plane at Irish airport",
+              "summary": "미국 뉴욕 대배심은 아일랜드인 남성(48)을 올해 4월 샤논공항에 주기 중이던 미군 C-130 수송기에 들어가 배선과 유압선을 끊고 도끼로 파손한 혐의로 기소했다. 약 6,000만 달러 상당의 기체는 사실상 파괴돼 운항이 불가능하며 유죄 시 최대 징역 10년이 가능하다. 지지자들의 모금 페이지는 미국·이스라엘의 이란전과 가자 전쟁에 대한 항의였다고 밝혔다.",
+              "published": "2026-11-18",
+              "event_date": "2026-04-11",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/amp/news/2026/11/18/prosecutors-allege-man-destroyed-us-military-plane-at-irish-airport",
+                  "title": "Prosecutors allege man 'destroyed' US military plane at Irish airport"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "middle-east",
+      "part": "2. 권역별 뉴스",
+      "name": "5) 중동",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "이란 \"카타르 중재단과 회담\"… 미국에 조건 수용 촉구",
+              "title_orig": "Iran says held talks with Qatari mediators, urges US to accept conditions",
+              "summary": "이란 외무차관은 카타르 대표단이 금요일 밤 테헤란에서 두 시간 회담했으나 공식 협상은 아니라고 밝혔다. 아라그치 외무장관은 전쟁 종식과 동결 자산 해제, 석유 제재 해제, 미국의 항구 봉쇄 중단 등이 충족되면 호르무즈 해협 재개방은 어렵지 않다고 말했다. 트럼프 대통령은 핵무기 보유를 막는 영구적 합의를 원하지만 이란 측이 매우 까다롭다고 평가했다.",
+              "published": "2026-11-21",
+              "event_date": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions",
+                  "title": "Iran says held talks with Qatari mediators, urges US to accept conditions"
+                }
+              ]
+            },
+            {
+              "title_ko": "레바논 대통령, 이스라엘 철수 요구하고 이란 개입 비판",
+              "title_orig": "Lebanese president demands Israel withdrawal, decries Iran's interference",
+              "summary": "아운 대통령은 독립기념일 전야 연설에서 이스라엘의 철군과 공격 중단, 억류자 송환을 요구하고 이란 측의 내정 간섭을 비판했다. 그는 모든 무기를 국가 통제 아래 두겠다고 다짐했지만 6월 체결된 기본 합의는 진전이 없고, 토요일에도 이스라엘군이 나바티예·빈트주베일·마르자유온 일대를 공습했다. 보도는 3월 2일 이후 레바논 사망자가 4,386명이라고 전했다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference",
+                  "title": "Lebanese president demands Israel withdrawal, decries Iran's interference"
+                }
+              ]
+            },
+            {
+              "title_ko": "이스라엘 예샤르·리쿠드, 4시간 거국내각 협상 뒤 후속 회담 합의",
+              "title_orig": "Yashar, Likud hold 4-hour meeting on potential unity government, agree to follow-up talks",
+              "summary": "아이젠코트가 이끄는 예샤르당과 리쿠드당이 4시간에 걸쳐 거국내각 구성 가능성을 논의하고 후속 협상을 이어가기로 했다. 아이젠코트 진영은 총리 임기를 8년으로 제한하고 기소된 정치인의 조각을 막는 법안도 추진할 계획이며, 현지 방송은 대폭 수정 없이는 통과가 어렵다고 전망했다.",
+              "published": "2026-11-22",
+              "links": [
+                {
+                  "outlet": "The Times of Israel",
+                  "url": "https://www.timesofisrael.com/liveblog-november-22-2026/",
+                  "title": "Yashar, Likud hold 4-hour meeting on potential unity government, agree to follow-up talks"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [
+            {
+              "title_ko": "미국 봉쇄 속 이란 경제 직격… 10월 물가 전년 대비 88.7% 상승",
+              "title_orig": "'Too early' to determine impact of US blockade on Iran, with Tehran defiant",
+              "summary": "미국의 해상 봉쇄와 제재 속에 이란의 3~6월 GDP는 전년 대비 10.1% 줄었고 10월 물가상승률은 전년 동월 대비 88.7%에 달했다. 베선트 미 재무장관은 2027년 3월까지 이란 GDP가 25% 위축될 것으로 내다봤다. 이란 중앙은행은 필수품 수입을 위해 외화 300억 달러를 확보했다고 밝혔다.",
+              "published": "2026-11-19",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://aljazeera.com/economy/2026/11/19/too-early-to-determine-impact-of-us-siege-on-iran-with-tehran-defiant",
+                  "title": "'Too early' to determine impact of US blockade on Iran, with Tehran defiant"
+                }
+              ]
+            },
+            {
+              "title_ko": "IMF, 이집트와 23억 달러 규모 최종 심사 실무 합의",
+              "title_orig": "IMF reaches deal with Egypt to unlock $2.3bn as loan programme nears end",
+              "summary": "IMF가 이집트와 대출 프로그램 최종 검토에 대한 실무진 합의에 도달해 12월 15일 만료 전 약 23억 달러가 풀릴 길이 열렸다. 2025/26 회계연도 성장률은 5.1%였고 10월 도시 물가상승률은 12.7%로 둔화했지만 이집트 파운드는 10월 사상 최저 수준(달러당 56.39)을 기록했다. 시시 대통령은 새 IMF 자금은 요청하지 않겠다고 밝혔고 이사회 승인 일정은 정해지지 않았다.",
+              "published": "2026-11-19",
+              "links": [
+                {
+                  "outlet": "The National",
+                  "url": "https://www.thenationalnews.com/business/economy/2026/11/19/imf-reaches-final-deal-with-egypt-as-loan-programme-nears-end/",
+                  "title": "IMF reaches deal with Egypt to unlock $2.3bn as loan programme nears end"
+                }
+              ]
+            },
+            {
+              "title_ko": "국제유가 3주 연속 주간 하락 전망… 이란, 원유 이전으로 미 봉쇄 시험",
+              "title_orig": "Oil heads for third weekly loss as Iran tests US blockade with crude transfer",
+              "summary": "브렌트유는 금요일 배럴당 91달러 아래로 내려 주간 기준 약 5% 하락하며 3주 연속 떨어질 전망이다. 걸프 지역 공급이 회복되며 미국의 신규 공습 위험이 상쇄됐고, 트럼프 대통령이 이란에 대한 결정을 새해 이후로 미룬 점도 반영됐다. 호르무즈 원유 선적이 개전 전 수준에 근접했다는 보도도 나왔다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "Al-Monitor",
+                  "url": "https://www.al-monitor.com/originals/2026/11/oil-heads-third-weekly-loss-iran-tests-us-blockade-crude-transfer",
+                  "title": "Oil heads for third weekly loss as Iran tests US blockade with crude transfer"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [
+            {
+              "title_ko": "헤브론 A지구 건물 철거 통보에 팔레스타인 주민 공포",
+              "title_orig": "Demolition notices for buildings in Hebron provoke fear among Palestinians",
+              "summary": "이스라엘군이 오슬로 합의상 팔레스타인이 완전히 통치하는 A지구인 헤브론 북서부의 건물 두 동(각 25가구, 40가구)과 인근 주택에 철거 통보를 붙였다. 이스라엘은 정착민 도로와 가깝다는 이유를 들었고 소유주들은 팔레스타인 당국의 허가를 받았다며 이의 신청과 법적 대응에 나섰다. 주민과 당국은 A지구에 대한 철거 통보는 전례가 없다고 우려한다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/21/demolition-notices-for-buildings-in-area-a-of-hebron-spark-fear-among-palestinians",
+                  "title": "Demolition notices for buildings in Hebron provoke fear among Palestinians"
+                }
+              ]
+            },
+            {
+              "title_ko": "평화위원회 \"조치 없으면 가자 휴전 붕괴 임박\"… 겨울철 인도 위기 경고",
+              "title_orig": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
+              "summary": "평화위원회는 유엔 안보리 보고에서 이스라엘과 하마스 모두 합의 이행이 크게 부족하며 이스라엘의 공습과 물자 제한이 겨울 대비를 방해한다고 지적했다. 이후 보도에서 세계식량계획(WFP)은 주민들이 쓰레기를 태워 요리한다고 경고했고 국제이주기구(IOM)는 이집트에 쌓인 텐트 10만 개 이상이 반입되지 못한다고 밝혔다. 가자 보건부는 휴전 이후 사망자를 1,671명으로 집계했다.",
+              "published": "2026-11-18",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action",
+                  "title": "Board of Peace warns Gaza ceasefire faces imminent collapse without action"
+                }
+              ]
+            },
+            {
+              "title_ko": "서안 정착민, 라말라 인근 팔레스타인 마을 방화… 이스라엘 외무 \"규탄\"",
+              "title_orig": "Liveblog November 22, 2026",
+              "summary": "정착민들이 라말라 인근 팔레스타인 마을의 주택과 차량에 불을 질렀고 사아르 이스라엘 외무장관은 이를 공개 규탄했다. 아이젠코트는 '유대인 테러'라고 규정했으며, 별도로 정착촌 경비원이 비무장 팔레스타인인을 총으로 쏴 숨지게 했다는 보도도 나왔다.",
+              "published": "2026-11-22",
+              "links": [
+                {
+                  "outlet": "The Times of Israel",
+                  "url": "https://www.timesofisrael.com/liveblog-november-22-2026/",
+                  "title": "Liveblog November 22, 2026"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사건사고",
+          "items": [
+            {
+              "title_ko": "호르무즈 해협서 유조선 2척 피격… 이란, 선박 통제 강화",
+              "title_orig": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
+              "summary": "영국 해상무역작전센터(UKMTO)는 오만 카사브 인근에서 유조선 두 척이 미확인 발사체에 맞았고 인명 피해는 없다고 밝혔다. 이란 해군은 유조선 한 척이 기뢰에 걸려 불이 났다고 주장했으며, 지난 일주일간 유조선 관련 사건이 약 25건 있었다고 알려졌다. 이란은 모든 선박이 자국 당국과 조율하고 지정 항로를 따르라고 요구하고 있다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping",
+                  "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping"
+                }
+              ]
+            },
+            {
+              "title_ko": "바레인 \"이란 공격으로 산업시설 화재\"",
+              "title_orig": "Bahrain says Iranian attack causes fire at industrial facility",
+              "summary": "바레인은 이란의 공격이 민간 산업시설을 타격해 화재가 났지만 부상자는 없다고 밝혔고, 방위군은 토요일 밤 이란의 공중 공격 다수를 요격했다. 이란 혁명수비대는 알리와 아왈리 기지의 미군 목표를 미사일과 드론으로 공격해 패트리엇 레이더 2기를 파괴했다고 주장했다. 이란 일부 매체는 요격미사일 오작동으로 인한 화재라는 상반된 보도를 내놨다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility",
+                  "title": "Bahrain says Iranian attack causes fire at industrial facility"
+                }
+              ]
+            },
+            {
+              "title_ko": "이라크 바스라 발전소 화재로 4명 이상 사망·35명 부상",
+              "title_orig": "Fire at power station in Iraq's Basra kills at least 4, injures 35",
+              "summary": "토요일 오전 바스라 북쪽 하르타 발전소에서 불이 나 최소 4명이 숨지고 35명이 다쳤으며 불길이 인근 주택으로 번졌다. 이라크 전력부는 발전소에 가스를 공급하는 배관 문제와 관련됐다고 밝혔고 알자이디 총리는 긴급 조사를 지시했다. 정확한 원인은 공식 확인되지 않았다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "Al-Monitor",
+                  "url": "https://www.al-monitor.com/originals/2026/11/fire-power-station-iraqs-basra-kills-least-4-injures-35",
+                  "title": "Fire at power station in Iraq's Basra kills at least 4, injures 35"
+                }
+              ]
+            },
+            {
+              "title_ko": "가자 식량 배급 차량에 이스라엘 공습… 3명 사망",
+              "title_orig": "Israeli strike on vehicle distributing food aid in Gaza kills three",
+              "summary": "이스라엘 드론이 가자시티 탈알하와에서 실향민에게 식량을 나눠주던 밴을 공격해 3명이 숨졌다. 이스라엘군은 이슬람 지하드 대원이 구호요원으로 위장했다고 주장했으나 월드센트럴키친은 해당 차량이 자사와 무관하다고 밝혔다. 가자 보건부는 휴전 이후 사망자를 1,671명으로 집계했다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza",
+                  "title": "Israeli strike on vehicle distributing food aid in Gaza kills three"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "africa",
+      "part": "2. 권역별 뉴스",
+      "name": "6) 아프리카",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "소말리아, 주재 UAE 대사 추방… \"주권 침해\"",
+              "title_orig": "Somalia expels UAE ambassador, accuses Abu Dhabi of violating sovereignty",
+              "summary": "소말리아 정부가 UAE 대사에게 72시간 내 출국을 명령하고 자국 대사도 아부다비에서 소환했다. 하산 셰이크 무함마드 대통령은 UAE가 연방정부를 거치지 않고 지방 행정부와 항만·군사 협정을 맺었다고 비난했고 UAE 외무부는 이번 결정을 규탄했다. 소말리아는 올해 1월 UAE와의 항만·국방·안보 협정을 모두 파기한 바 있다.",
+              "published": "2026-11-19",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/19/somalia-expels-uae-ambassador-accuses-abu-dhabi-of-violating-sovereignty",
+                  "title": "Somalia expels UAE ambassador, accuses Abu Dhabi of violating sovereignty"
+                }
+              ]
+            },
+            {
+              "title_ko": "모잠비크 야권 지도자 몬들레인, 2024년 유혈 시위 관련 재판 시작",
+              "title_orig": "Mozambique's opposition leader stands trial over deadly 2024 protests",
+              "summary": "2024년 대선 2위였던 베난시우 몬들레인이 마푸투 대법원에서 시위 선동과 관련한 5개 혐의로 재판을 받기 시작했다. 가장 무거운 '테러 선동' 혐의는 최대 징역 24년이 가능하다. 국제앰네스티는 당시 시위로 300명 넘게 숨졌다고 밝혔으며 몬들레인은 혐의를 전면 부인한다.",
+              "published": "2026-11-17",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/17/mozambiques-opposition-leader-stands-trial-over-deadly-2024-protests",
+                  "title": "Mozambique's opposition leader stands trial over deadly 2024 protests"
+                }
+              ]
+            },
+            {
+              "title_ko": "남아공, 신임 나이지리아 고등판무관 소환·경고… SNS 발언 논란",
+              "title_orig": "SA government démarches new Nigerian high commissioner over social media comments",
+              "summary": "남아공 국제관계협력부는 17일 신임 나이지리아 고등판무관을 불러 공식 경고(démarche)했다. 13일 신임장 제정식 방송 누락 주장과 이후 SNS 발언이 문제가 됐으며 대통령실은 라마포사 대통령이 개입하지 않았다고 반박했다. 나이지리아 국민 사망 사건을 둘러싼 외국인 혐오 갈등으로 양국 관계는 이미 긴장된 상태였다.",
+              "published": "2026-11-17",
+              "links": [
+                {
+                  "outlet": "Daily Maverick",
+                  "url": "https://www.dailymaverick.co.za/article/2026-11-17-sa-government-demarches-new-nigerian-high-commissioner-over-social-media-comments/",
+                  "title": "SA government démarches new Nigerian high commissioner over social media comments"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [
+            {
+              "title_ko": "가나 중앙은행, 기준금리 300bp 인하(14%→11%)",
+              "title_orig": "Ghana central bank slashes key rate by 300 basis points",
+              "summary": "가나은행이 11월 18일 통화정책금리를 14%에서 11%로 300bp 내렸다. 시장금리가 이미 정책금리를 밑돌아 재조정이 필요했다는 설명이며 로이터가 조사한 이코노미스트들은 동결을 예상했었다. 10월 물가상승률은 3개월 연속 올라 5.5%였고 중앙은행은 유가·엘니뇨·공공요금을 위험 요인으로 꼽았다.",
+              "published": "2026-11-18",
+              "links": [
+                {
+                  "outlet": "TimesLIVE",
+                  "url": "https://www.timeslive.co.za/news/africa/2026-11-18-ghana-central-bank-slashes-key-rate-by-300-basis-points/",
+                  "title": "Ghana central bank slashes key rate by 300 basis points"
+                }
+              ]
+            },
+            {
+              "title_ko": "모로코, 방위산업 육성에 4억 달러 투자 계획",
+              "title_orig": "Morocco pledges $400m for 'future technologies' in defense revamp",
+              "summary": "모로코 왕실 내각은 AI·드론·자율시스템·사이버방위 등 미래기술 중심의 방위산업 육성에 약 4억 달러를 투자하겠다며 투자자를 모집하고 있다. 2035년까지 군 수요의 약 40%를 자체 조달하고 약 5만 개 일자리를 만들며 무기 수출국으로 나선다는 목표다. 알제리와의 긴장 속에 이스라엘·프랑스·인도와의 방위 협력도 넓어지고 있다.",
+              "published": "2026-11-18",
+              "links": [
+                {
+                  "outlet": "Arab News",
+                  "url": "https://www.arabnews.pk/middle-east/morocco-pledges-400m-for-future-technologies-in-defense-revamp-3007438",
+                  "title": "Morocco pledges $400m for 'future technologies' in defense revamp"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [
+            {
+              "title_ko": "에티오피아 남부 충돌로 이재민 70만 명… 이슬라믹 릴리프",
+              "title_orig": "700,000 displaced by fighting in southern Ethiopia: Islamic Relief",
+              "summary": "영국 구호단체 이슬라믹 릴리프는 10월 말 시작된 오로모족과 에티오피아 소말리족 간 충돌(국경 도시 모얄레 통제권 다툼)로 약 70만 명이 피란했다고 밝혔다. 충돌은 도시에서 300km까지 번졌고 5만 명 이상이 케냐로 넘어갔으며 주택 파괴와 의료 차질이 보고됐다. 정확한 사망자 수는 확인되지 않았고 정부는 입장을 내지 않았다.",
+              "published": "2026-11-19",
+              "links": [
+                {
+                  "outlet": "Arab News",
+                  "url": "https://www.arabnews.pk/world/700000-displaced-by-fighting-in-southern-ethiopia-islamic-relief-3007528",
+                  "title": "700,000 displaced by fighting in southern Ethiopia: Islamic Relief"
+                }
+              ]
+            },
+            {
+              "title_ko": "아프리카 CDC \"DR콩고 에볼라 아직 통제 불능\"",
+              "title_orig": "Africa CDC says Ebola outbreak in DR Congo 'still not under control'",
+              "summary": "아프리카 CDC는 5월 발표된 DR콩고 에볼라(분디부교 계통) 확산이 아직 통제되지 않았다고 밝혔다. 정부 집계로 확진 1만 1,200명 이상, 사망 5,500명 이상이며 26개 주 중 8개 주가 영향을 받았다. 신규 환자의 80% 이상이 접촉자 명단 밖에서 나왔고 약정된 29억 달러 중 13억 달러만 집행됐다.",
+              "published": "2026-11-15",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/amp/news/2026/11/15/africa-cdc-says-ebola-outbreak-in-dr-congo-still-not-under-control",
+                  "title": "Africa CDC says Ebola outbreak in DR Congo 'still not under control'"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사건사고",
+          "items": [
+            {
+              "title_ko": "리비아 벵가지 해군기지서 러시아 선박, 해상드론 추정 공격 받아",
+              "title_orig": "Russian vessel hit by suspected sea drone at Libya's Benghazi naval base",
+              "summary": "22일 리비아 동부 벵가지 해군기지에 정박한 러시아 선박이 해상드론으로 추정되는 공격을 받아 폭발과 짧은 화재가 발생했고 로이터는 부상자가 나왔다고 전했다. 동부 정부는 주권 침해라며 규탄하고 러시아-우크라이나 전쟁의 당사자가 아니라고 밝혔으며 러시아와 공동 조사에 나서기로 했다. 배후를 자처한 세력은 아직 없고 러시아는 즉각 입장을 내지 않았다.",
+              "published": "2026-11-22",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya",
+                  "title": "Russian vessel hit by suspected sea drone at Libya's Benghazi naval base"
+                }
+              ]
+            },
+            {
+              "title_ko": "수단군, RSF 거점 알누하드 향해 진격… 유엔 \"드론 사망자 급증\"",
+              "title_orig": "Al Burhan's forces push towards RSF stronghold as UN warns of Sudan drone toll",
+              "summary": "수단군이 서코르도판의 알쿠와이를 탈환하고 RSF 거점 알누하드에서 약 60km 지점까지 접근했으며 11월 초 이후 북·서코르도판 30곳 넘는 마을과 도시를 되찾았다. 유엔 인권사무소는 1~10월 확인된 민간인 사망 2,230명 가운데 약 73%인 1,630명 이상이 드론 공격으로 숨졌다고 밝혔다.",
+              "published": "2026-11-18",
+              "links": [
+                {
+                  "outlet": "The National",
+                  "url": "https://www.thenationalnews.com/news/mena/2026/11/18/al-burhans-forces-push-towards-rsf-stronghold-as-un-warns-of-sudan-drone-toll/",
+                  "title": "Al Burhan's forces push towards RSF stronghold as UN warns of Sudan drone toll"
+                }
+              ]
+            },
+            {
+              "title_ko": "DR콩고 동부, 경쟁적 평화 노력에도 교전 지속",
+              "title_orig": "DR Congo's rival peace efforts fail to halt violence in the east",
+              "summary": "북·남키부에서 콩고군과 카빌라 전 대통령이 이끄는 FRN 연합 간 교전이 이어지고 있으며 FRN은 11월 초 카후지-비에가 국립공원과 국도 3호선을 따라 진격했다. 군은 불라음비카에서 진격을 저지했다고 주장하지만 양측 주장이 엇갈린다. 워싱턴 합의와 도하 협상에도 폭력이 계속돼 이재민이 늘었고 국경없는의사회는 부냐키리 지역 인력을 줄였다.",
+              "published": "2026-11-18",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/18/dr-congos-rival-peace-efforts-fail-to-halt-violence-in-the-east",
+                  "title": "DR Congo's rival peace efforts fail to halt violence in the east"
+                }
+              ]
+            },
+            {
+              "title_ko": "기니, 불법 금 채굴 단속 관련 220여 명 실형… 유혈 충돌 뒤",
+              "title_orig": "Guinea jails more than 220 people in deadly crackdown on illegal gold mining",
+              "summary": "기니 콘아크리 법원은 전직 지방 관리 22명에게 징역 2년, 불법 채굴업자 202명에게 징역 3년을 선고했고 외국인 피고인은 10년간 입국이 금지된다. 앞서 시기리 지역에서 채굴 금지에 항의하는 시위로 10명이 숨지고 13명이 다쳤다. 수만 명의 채굴업자와 가족이 이웃 말리 등으로 빠져나갔다.",
+              "published": "2026-11-17",
+              "links": [
+                {
+                  "outlet": "Africanews",
+                  "url": "https://www.africanews.com/2026/11/17/guinea-jails-more-than-220-people-in-deadly-crackdown-on-illegal-gold-mining/",
+                  "title": "Guinea jails more than 220 people in deadly crackdown on illegal gold mining"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ],
+      "note": ""
+    }
+  ],
+  "notes": [
+    "웹 검색 색인에 11/21~23 기사가 적고 많은 매체 페이지가 권한 시간초과로 열리지 않아, 서유럽·아프리카·일부 중동 항목은 11/17~19 기사까지 사용함(48시간 기준 초과)",
+    "Al Jazeera 링크 비중이 약 50%로 25% 상한 초과(접근 가능한 최신 기사가 Al Jazeera에 집중). part3에서 타 매체로 보강 권장",
+    "동유럽 경제·사회 및 문화 그룹은 각 1건뿐(11/21~23 검증 기사 부족)"
+  ]
+}

@@ -28,9 +28,17 @@
     ]
   },
   "part3": {
-    "status": "",
-    "startedAt": "",
-    "finishedAt": "",
-    "notes": []
+    "status": "partial",
+    "startedAt": "2026-11-23T05:51:00+09:00",
+    "finishedAt": "2026-11-23T06:25:00+09:00",
+    "notes": [
+      "경제 지표표(한국 12행·미국 13행·세계 4행)와 경제 기사 12건, 기술과학 5건, 헤드라인 7건 작성. 전체 기사 76건(헤드라인·경제 중복 포함), 빈 그룹 6(아시아-태평양 경제·사회 및 문화·사건사고, 중국 경제, 미국 사회 및 문화·사건사고)",
+      "웹페이지 열람은 TLDR·Ars Technica·WIRED·The Verge 시작 주소가 PROVENANCE_REQUIRED로 열리지 않았고 CNBC·뉴스1·mlq.ai 등도 실패. 웹 검색 결과로 나온 개별 기사 주소(연준·BLS·BEA·국가데이터처·MIT Technology Review·Forbes·TechCrunch 등)는 열람 가능",
+      "TLDR 호를 확인하지 못해 기술과학은 MIT Technology Review 3건(원문 열람 막혀 뉴스레터 소개문 기준 요약), Al Jazeera·Fortune, Fox Business 기사로 구성. WIRED·Ars Technica·The Verge 기사는 검색 색인에 최근 기사가 없어 제외",
+      "지표표 제외: 유로존 HICP·ECB 금리(투자 사이트 보도만 확인), 국고채 3년물, 일본 근원 CPI, 금 가격, 한국 경상수지. 미국 CPI 전년동월비는 BLS 미발표(2025년 10월 자료 미수집). 브렌트유는 11/19 정산가. 원/달러는 JoongAng Daily 15:30 기준 값",
+      "AP·Reuters 직접 주소는 막혀 있어 미 증시 종가는 AP 기사(필라델피아 인콰이어러 게재)와 Yahoo Finance 게재 로이터 기사로 확인; 기사 항목은 인콰이어러 1건만 사용, 러셀 2000·VIX는 Yahoo 시세값",
+      "Al Jazeera 비중 조정을 위해 part2의 Al Jazeera 기사 6건 제외(쿠슈너, 핀란드만 화물선, 크리비리흐 공습, 바레인, 헤브론, DR콩고 동부). 대체 검색에서 11/21 전후 신규 기사를 확인하지 못해 해당 그룹은 3건 미만",
+      "part1 파일의 CNBC 기사(11/19)는 열람하지 못한 채 검색 제목 기준 요약이었음. 일부 part1·part2 항목은 48시간 기준을 넘김(각 part notes 참조)"
+    ]
   }
 }

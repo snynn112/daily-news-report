@@ -1,0 +1,258 @@
+{
+  "date": "2026-11-23",
+  "part": 1,
+  "generatedAt": "2026-11-23T04:52:00+09:00",
+  "sections": [
+    {
+      "id": "asia-pacific",
+      "part": "2. 권역별 뉴스",
+      "name": "1) 아시아-태평양",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "다카이치 일본 총리, 시진핑에 APEC 개최 감사 표명…별도 양자 회담은 불발",
+              "title_orig": "Japanese PM Takaichi tries to break ice with Xi by thanking him for hosting Apec summit",
+              "summary": "다카이치 총리는 선전 방문을 마무리하는 기자회견에서 시진핑 주석의 초청과 APEC 개최에 감사를 표했다. 다른 정상들과 달리 시 주석과의 별도 회담은 없었고, 환영 만찬과 정상회의에서 짧게 악수하며 10초가량 말을 나누는 데 그쳤다. 지난해 가을 대만 관련 발언 이후 얼어붙은 중일 관계는 이번에도 풀리지 않았다.",
+              "published": "2026-11-19",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/china/diplomacy/article/3375103/japanese-pm-takaichi-tries-break-ice-xi-thanking-him-hosting-apec-summit",
+                  "title": "Japanese PM Takaichi tries to break ice with Xi by thanking him for hosting Apec summit"
+                },
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/china/diplomacy/article/3374944/xi-greets-takaichi-smile-no-words-china-japan-freeze-lingers",
+                  "title": "Xi greets Takaichi with a smile – but no words – as China-Japan freeze lingers"
+                }
+              ]
+            },
+            {
+              "title_ko": "이재명 대통령, APEC서 북한과의 대화 재개 지지 촉구…한반도 안정 강조",
+              "title_orig": "Lee urges APEC leaders to back renewed talks with North Korea",
+              "summary": "이재명 대통령은 선전 APEC 정상회의에서 각국 정상에게 북한과의 대화 재개를 뒷받침해 달라고 촉구했다. 일정을 마무리하며 한반도의 안정이 아시아태평양 전체의 번영에 중요하다고 강조했다.",
+              "published": "2026-11-19",
+              "links": [
+                {
+                  "outlet": "The Korea Times",
+                  "url": "https://www.koreatimes.co.kr/foreignaffairs/20261119/lee-urges-apec-leaders-to-back-renewed-talks-with-north-korea",
+                  "title": "Lee urges APEC leaders to back renewed talks with North Korea"
+                },
+                {
+                  "outlet": "Korea JoongAng Daily",
+                  "url": "https://www.koreajoongangdaily.com/korea/lee-says-korean-peninsulas-stability-is-crucial-to-asiapacifics-prosperity-as-he-wraps-up-apec-trip/12980733",
+                  "title": "Lee says Korean Peninsula's stability is crucial to Asia-Pacific's prosperity as he wraps up APEC trip"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [],
+          "note": ""
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [],
+          "note": ""
+        },
+        {
+          "name": "사건사고",
+          "items": [],
+          "note": ""
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "china",
+      "part": "2. 권역별 뉴스",
+      "name": "2) 중국",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "시진핑·트럼프, 군사 분야 AI 결정에 사람이 관여해야 한다는 데 합의…베선트 전언",
+              "title_orig": "Xi, Trump agree military AI decisions must involve humans, Bessent says",
+              "summary": "스콧 베선트 미 재무장관은 APEC 기간 열린 미중 정상 회담에서 두 정상이 주요 군사작전에 AI를 활용할 때 사람이 관여해야 한다는 데 뜻을 같이했다고 밝혔다. 이는 미국 측의 설명이다.",
+              "published": "2026-11-21",
+              "event_date": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/china/diplomacy/article/3375321/xi-trump-agree-military-ai-decisions-must-involve-humans-bessent-says",
+                  "title": "Xi, Trump agree military AI decisions must involve humans, Bessent says"
+                }
+              ]
+            },
+            {
+              "title_ko": "트럼프·시진핑·푸틴 3자 회동…핵 위험 관련 협의 약속, 중국은 3자 형식에 소극적",
+              "title_orig": "Trump says China agreed to trilateral despite reluctance, notes nuclear gap",
+              "summary": "선전에서 열린 3자 회동 뒤 세 정상은 공동 '평화 선언'을 내고 핵 위험을 줄이기 위한 협의를 하기로 했다. 트럼프 대통령은 핵전력이 훨씬 작은 중국이 3자 군축 형식에 소극적이었지만 결국 동의했다고 말했다. 한 분석가는 선언의 핵 관련 표현이 모호해 낙관하기 어렵다고 평가했다.",
+              "published": "2026-11-21",
+              "event_date": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/us/diplomacy/article/3375296/trump-says-china-agreed-trilateral-despite-reluctance-notes-nuclear-gap",
+                  "title": "Trump says China agreed to trilateral despite reluctance, notes nuclear gap"
+                },
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/china/military/article/3375268/concrete-aims-or-just-symbolism-trump-xi-and-putin-talk-nuclear-risk-controls-stall",
+                  "title": "Concrete aims or just symbolism? Trump, Xi and Putin pledge nuclear risk talks"
+                }
+              ]
+            },
+            {
+              "title_ko": "유엔 공해조약 기구 유치전, 중국 외교력 시험대로",
+              "title_orig": "How battle to host UN high seas treaty tests China's push for global leadership",
+              "summary": "벨기에와 칠레가 공동 도시 유치안을 갑자기 내놓으면서 유엔 공해조약 기구 유치를 둘러싼 경쟁이 불붙었다. 분석가들은 내년 1월 표결을 앞두고 이 경쟁이 베이징의 외교력과 글로벌 사우스의 지지를 시험하는 무대가 됐다고 본다.",
+              "published": "2026-11-22",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/china/diplomacy/article/3375214/how-battle-host-un-high-seas-treaty-tests-chinas-push-global-leadership",
+                  "title": "How battle to host UN high seas treaty tests China's push for global leadership"
+                }
+              ]
+            },
+            {
+              "title_ko": "미중, 상하이서 해상안보 협의…정상 회담과 병행",
+              "title_orig": "US and China hold maritime security talks in parallel with Xi-Trump meetings",
+              "summary": "미국과 중국이 선전 정상 회담과 별도로 상하이에서 해상안보 협의를 가졌다. 미군 태평양 사령부는 이번 협의에서 우발적이고 비전문적인 조우의 위험을 줄이는 문제를 다뤘다고 밝혔다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/china/military/article/3375274/us-and-china-hold-maritime-security-talks-parallel-trump-xi-meetings",
+                  "title": "US and China hold maritime security talks in parallel with Xi-Trump meetings"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [],
+          "note": ""
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [
+            {
+              "title_ko": "느린 호흡의 '깨진 우정' 드라마, 중국의 AI 피로감 해독제로",
+              "title_orig": "Why a slow-paced show about broken friendships is China's antidote to AI fatigue",
+              "summary": "우정이 틀어지는 과정을 느린 호흡으로 그린 드라마가 AI에 지친 중국 시청자들 사이에서 주목받고 있다는 SCMP의 분석이다. 빠르고 자극적인 콘텐츠와 대비되는 정서적 대안으로 받아들여진다는 점을 짚는다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/china/politics/article/3375328/why-slow-paced-show-about-broken-friendships-chinas-antidote-ai-fatigue",
+                  "title": "Why a slow-paced show about broken friendships is China's antidote to AI fatigue"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사건사고",
+          "items": [
+            {
+              "title_ko": "중국 국적 프린스턴대 박사과정생, 학회 직후 미 이민세관단속국에 구금",
+              "title_orig": "Princeton PhD student from China detained by ICE after US academic conference",
+              "summary": "프린스턴대 신경과학 박사과정 3학년인 중국인 학생 에바 이 시에(Eva Yi Xie)가 학술 회의에 참석한 뒤 워싱턴 레이건 국립공항에서 이민세관단속국(ICE)에 구금됐다고 SCMP가 전했다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/china/diplomacy/article/3375301/princeton-phd-student-china-detained-ice-after-academic-conference",
+                  "title": "Princeton PhD student from China detained by ICE after US academic conference"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "usa",
+      "part": "2. 권역별 뉴스",
+      "name": "3) 미국",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "트럼프, 사이버 담당 국가사이버국장 경질…항공·은행·NSA 장애 이후",
+              "title_orig": "Trump replaces US cyber chief after outages hit flights, banks and NSA",
+              "summary": "트럼프 대통령이 숀 케언크로스 국가사이버국장을 내보내고 국방부의 커스틴 데이비스가 직무대행을 맡게 됐다. 트럼프는 케언크로스가 '충분히 좋지 않았다'고 평했다. 인사는 항공편·은행·NSA에 영향을 준 장애가 잇따른 뒤 나왔다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/us/politics/article/3375298/trump-replaces-us-cyber-chief-after-outages-hit-flights-banks-and-nsa",
+                  "title": "Trump replaces US cyber chief after outages hit flights, banks and NSA"
+                }
+              ]
+            },
+            {
+              "title_ko": "주멕시코 미 대사관, 카르텔 필로폰 문제로 중국 겨냥…멕시코는 중국과 협정 체결",
+              "title_orig": "US embassy targets China over cartel meth as Mexico signs Beijing deals",
+              "summary": "주멕시코 미국 대사관이 멕시코 카르텔의 필로폰 문제를 두고 중국을 겨냥한 공세에 나섰다. 같은 시기 셰인바움 대통령은 선전 APEC에서 시진핑 주석을 만나 여러 협정에 서명했지만 자유무역협정은 배제해, 최대 50%에 이르는 중국산 관세는 그대로 유지된다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "SCMP",
+                  "url": "https://www.scmp.com/news/us/article/3375300/us-embassy-steps-attack-china-over-cartel-meth-mexico-signs-deals-beijing",
+                  "title": "US embassy targets China over cartel meth as Mexico signs Beijing deals"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [
+            {
+              "title_ko": "S&P500·다우 조정 국면 마감, 나스닥은 올해 상승분 반납…AI 주식 급락",
+              "title_orig": "S&P 500 and Dow close in correction; Nasdaq erases 2026 gain as AI rout picks up steam",
+              "summary": "미국 증시에서 S&P500과 다우지수가 조정 국면에 진입한 채 마감했고, 나스닥은 올해 쌓은 상승분을 모두 반납했다. CNBC는 AI 관련주 매도세가 더 거세지고 있다고 전했다.",
+              "published": "2026-11-19",
+              "links": [
+                {
+                  "outlet": "CNBC",
+                  "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+                  "title": "S&P 500 and Dow close in correction; Nasdaq erases 2026 gain as AI rout picks up steam"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [],
+          "note": ""
+        },
+        {
+          "name": "사건사고",
+          "items": [],
+          "note": ""
+        }
+      ],
+      "note": ""
+    }
+  ],
+  "notes": []
+}

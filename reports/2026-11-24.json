@@ -1,0 +1,1811 @@
+{
+  "date": "2026-11-24",
+  "title": "2026. 11. 24. Daily News Report",
+  "generatedAt": "2026-11-24T06:20:00+09:00",
+  "status": "complete",
+  "counts": {
+    "items": 84,
+    "emptyGroups": 3
+  },
+  "notes": [
+    "part3 조사 메모: TLDR 보관함(tldr.tech/tech/archives)은 PROVENANCE_REQUIRED로 열리지 않아 기술과학은 MIT Technology Review 뉴스레터(11/20·11/23호)가 소개한 원문 링크와 The Verge·Nature 기사로 구성. 일부 링크(가디언·AP·NBC·CNBC·Verge·Nature)는 뉴스레터 소개 문구만 확인하고 본문은 열람하지 못함",
+    "뉴욕 증시 11/23(현지) 정규장 마감 수치는 작성 시각(KST 06:00 전후)에 아직 보도되지 않아 미국 지표표는 11/20 종가를 유지하고 경제 기사에는 로이터의 정오 무렵 장중 수치를 '장중'으로 명시. 10년물·VIX·러셀2000은 11/23 값 미확인",
+    "한국 지표: 코스피·코스닥은 11/23 종가(Korea Times, 등락 포인트는 미표기라 퍼센트만 기재). 원/달러 환율 11/23 종가와 국고채 3년물은 확인하지 못해 환율은 11/20 값 유지, 국고채 행은 제외",
+    "한국·미국 거시지표와 중국·일본·브렌트는 전일 리포트(11/23)에서 확인한 최신 발표치 유지(그 이후 새 발표 없음). 유로존 HICP 속보 4.0%(10월)와 ECB 예금금리 2.50%는 Il Sole 24 Ore(유로스타트 인용) 11/4자 기사 기준. 일본 10월 CPI·금 가격은 최신 공식 수치를 확인하지 못해 제외",
+    "헤드라인 5·6번(수능, EU 제재)과 한국 주식시장·미국 주식시장·주요 기업 일부는 part1·part2 및 전일 리포트에서 가져옴. 11/17~11/20 기사 일부는 48시간 기준을 넘지만 최신 후속·배경으로 사용",
+    "매체 분포(전체 링크 96개): Al Jazeera 22(22.9%), Euronews 17(17.7%), The Korea Times 9. part2의 Al Jazeera 링크 중 다른 매체 링크가 함께 있던 5건은 Al Jazeera 링크를 제거해 25% 이하로 낮춤",
+    "tech 일부 항목의 title_orig은 MIT Technology Review 뉴스레터가 붙인 소개 제목(원 기사 제목과 다를 수 있음)",
+    "part1·part2에서 이어진 한계: 중국 사건사고, 미국 사회·문화·사건사고 그룹 빈 칸(3개), 3건 미만 그룹 다수"
+  ],
+  "sections": [
+    {
+      "id": "headline",
+      "part": "1. 헤드라인",
+      "name": "헤드라인",
+      "groups": [
+        {
+          "name": "오늘의 헤드라인",
+          "items": [
+            {
+              "title_ko": "월가, 젠슨 황 엔비디아 CEO 복귀에 급반등…나스닥 6%대 급등",
+              "title_orig": "Wall St roars back as Jensen Huang returns to Nvidia as CEO",
+              "summary": "엔비디아 이사회가 젠슨 황을 CEO로 복귀시킨다는 소식에 뉴욕 증시가 폭등했다. 로이터 집계로 정오 무렵 다우는 3.05% 오른 49,617.33, S&P 500은 4.85% 오른 7,245.46, 나스닥 종합은 6.69% 오른 24,131.42였고 엔비디아는 장중 30%대 급등했다. 지난주 조정 국면에 들어갔던 지수가 하루 만에 낙폭의 일부를 만회했으며, 시장은 수요일 발표될 PCE 물가와 12월 금리 인상 가능성에 주목하고 있다.",
+              "published": "2026-11-23",
+              "event_date": "2026-11-23",
+              "figure": "다우 +3.05%, S&P 500 +4.85%, 나스닥 +6.69% (현지시간 정오 무렵 장중 기준)",
+              "source": "로이터",
+              "links": [
+                {
+                  "outlet": "The Korea Times",
+                  "url": "https://www.koreatimes.co.kr/world/20261124/wall-st-roars-back-as-jensen-huang-returns-to-nvidia-as-ceo",
+                  "title": "Wall St roars back as Jensen Huang returns to Nvidia as CEO"
+                },
+                {
+                  "outlet": "Fox Business",
+                  "url": "https://www.foxbusiness.com/markets/stocks-november-23-2026",
+                  "title": "Stocks rebound as Nvidia spikes after Jensen Huang's return"
+                }
+              ]
+            },
+            {
+              "title_ko": "코스피 3.31% 하락한 4,708.54 마감…장중 5% 급락, 정부 증시 안정 대책 시험대",
+              "title_orig": "Seoul stocks lose 3.3% as AI rout tests gov't rescue plans",
+              "summary": "코스피는 지난 금요일 미국 반도체주 폭락 여파로 3.31% 내린 4,708.54에 마감해 1월 13일 이후 최저를 기록했고, 장중 한때 5% 가까이 빠져 매도 사이드카가 발동됐다. 코스닥은 1.58% 내린 635.45로 2년 만에 가장 낮았다. 정부는 일요일 증시안정기금 가동 준비, 자사주 매입 규제 완화, 3개월간 불법 공매도 단속을 내놨지만 외국인 매도가 잦아들어야 반등할 수 있다는 분석이 나온다.",
+              "published": "2026-11-23",
+              "figure": "코스피 4,708.54 (-3.31%), 코스닥 635.45 (-1.58%)",
+              "source": "한국거래소 (The Korea Times 보도)",
+              "links": [
+                {
+                  "outlet": "The Korea Times",
+                  "url": "https://www.koreatimes.co.kr/economy/20261123/seoul-stocks-lose-33-as-ai-rout-tests-govt-rescue-plans",
+                  "title": "Seoul stocks lose 3.3% as AI rout tests gov't rescue plans"
+                }
+              ]
+            },
+            {
+              "title_ko": "호르무즈 공격 속 유가 불안… 브렌트 93달러대, 미 전략비축유 40여 년 만에 최저",
+              "title_orig": "Oil prices caught between tanker attacks and rising Mideast exports",
+              "summary": "17일 브렌트유는 배럴당 93.71달러, WTI는 86.97달러로 11월 들어 각각 약 20%, 16% 하락한 수준이다. IEA는 중동 수출이 회복되며 4분기에 시장이 공급 과잉으로 돌아선다고 보며, 미국 전략비축유는 2억 7640만 배럴로 1982년 8월 이후 최저다. 알자지라에 따르면 최근 일주일 호르무즈 일대에서 유조선 최소 25척이 피격됐다는 보도가 나왔고 통과 선박은 전주보다 15% 줄었다.",
+              "published": "2026-11-22",
+              "event_date": "2026-11-17",
+              "links": [
+                {
+                  "outlet": "Khaleej Times",
+                  "url": "https://www.khaleejtimes.com/oil-prices-caught-between-tanker-attacks-and-rising-mideast-exports",
+                  "title": "Oil prices caught between tanker attacks and rising Mideast exports"
+                }
+              ]
+            },
+            {
+              "title_ko": "키이우 인근 러시아 공습으로 최소 15명 사망… 드이메르 아파트 붕괴",
+              "title_orig": "Russian air strikes kill at least 15 people across Kyiv region, Ukraine says",
+              "summary": "러시아의 공습으로 키이우주에서 최소 15명이 숨졌으며, 드이메르에서는 5층 건물이 일부 무너져 최소 11명이 사망했고 어린이 2명을 포함한 11명 가량이 잔해 속에 갇혀 구조가 이어졌다. 비쉬네베 슈퍼마켓 공습으로 3명이 숨지고 15명이 다쳤으며, 비라 체르크바에서도 1명이 숨졌다. 드니프로페트로우스크 변전소도 피격됐다고 우크라이나 당국은 밝혔다.",
+              "published": "2026-11-23",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/23/russian-air-strikes-kill-at-least-15-people-across-kyiv-region-ukraine-says",
+                  "title": "Russian air strikes kill at least 15 people across Kyiv region, Ukraine says"
+                }
+              ]
+            },
+            {
+              "title_ko": "수능 AI 부정행위 파문에 교육부 장관 사임",
+              "title_orig": "South Korean Education Minister Resigns After Backlash Toward Anti-AI Measures",
+              "summary": "최교진 교육부 장관이 일요일 사임했다. 약 50만 명이 응시한 수능을 이틀 앞두고 발표한 AI 부정행위 방지 대책(안경 검사, 셔츠 단추 점검, 전국 단위 긴급 경보 등)이 현장 혼란을 불러 교원단체·야당·학생단체의 비판을 받았기 때문이다. 중앙일보 사설은 시험 당일 경보가 세 차례 울린 점 등을 들어 장관과 정부의 책임을 물었다.",
+              "published": "2026-11-23",
+              "event_date": "2026-11-22",
+              "links": [
+                {
+                  "outlet": "TIME",
+                  "url": "https://time.com/article/2026/11/23/south-korea-education-minister-resigns-college-exam-suneung-ai-cheating/",
+                  "title": "South Korean Education Minister Resigns After Backlash Toward Anti-AI Measures"
+                },
+                {
+                  "outlet": "Korea JoongAng Daily",
+                  "url": "https://www.koreajoongangdaily.com/opinion/education-minister-must-answer-for-chaotic-college-entrance-exam/12982032",
+                  "title": "Education minister must answer for chaotic college entrance exam"
+                }
+              ]
+            },
+            {
+              "title_ko": "EU, 러시아 은행·군인·선수 겨냥 22차 제재안 제안",
+              "title_orig": "EU goes after Russia's banks, soldiers and athletes in new sanctions package",
+              "summary": "EU 집행위원회는 23일 22차 대러 제재안을 제안하고 12월 합의를 목표로 한다고 밝혔다. 러시아 은행 60곳을 SWIFT에서 추가로 배제하고 가상자산 플랫폼을 단속하며, 러시아 정유시설 등 에너지 설비의 수리에 EU 기업이 참여하지 못하게 하는 내용이 담겼다. 이른바 '그림자 선단' 선박 70여 척도 새로 제재 대상에 올렸다.",
+              "published": "2026-11-23",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/23/eu-goes-after-russias-banks-soldiers-and-athletes-in-new-sanctions-package",
+                  "title": "EU goes after Russia's banks, soldiers and athletes in new sanctions package"
+                }
+              ]
+            },
+            {
+              "title_ko": "크라우드스트라이크, 즈스케일러 439억 달러 전액 주식 인수 발표",
+              "title_orig": "CrowdStrike Q3 FY2027 results and agreement to acquire Zscaler",
+              "summary": "사이버보안 업체 크라우드스트라이크가 즈스케일러를 약 439억 달러에 인수하기로 확정 계약을 맺었다고 3분기 실적과 함께 공시했다. 즈스케일러 1주는 크라우드스트라이크 1.135주로 교환되며, 규제 당국 승인과 주주 절차가 남아 있다. 회사는 3분기 매출이 15.8억 달러로 28% 늘었고 연간 전망을 상향했다고 밝혔으며, 잉여현금흐름 개선 효과를 강조했다.",
+              "published": "2026-11-23",
+              "figure": "인수가 약 439억 달러, 교환비율 1.135",
+              "source": "크라우드스트라이크 (SEC 제출 자료)",
+              "links": [
+                {
+                  "outlet": "CrowdStrike",
+                  "url": "https://www.sec.gov/Archives/edgar/data/0001535527/000153552726000035/crwd-20261123xex991.htm",
+                  "title": "CrowdStrike Holdings, Inc. - Form 8-K Exhibit 99.1"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "asia-pacific",
+      "part": "2. 권역별 뉴스",
+      "name": "1) 아시아-태평양",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "이재명 대통령 지지율 2주 연속 상승, 37.3%",
+              "title_orig": "Lee's approval rating rises for 2nd straight week to 37.3%: poll",
+              "summary": "리얼미터 조사에서 이재명 대통령의 국정 지지율이 한 주 전보다 0.9%포인트 오른 37.3%, 부정 평가는 1%포인트 내린 59.9%로 나타났다. 조사 기관은 아세안·APEC 외교와 시진핑 주석과의 회담, 수출 1조 달러 돌파를 상승 요인으로, 코스피 5,000 선 아래 하락과 수능 AI 부정행위 논란을 부담 요인으로 꼽았다. 별도 조사에서는 국민의힘 42.5%, 더불어민주당 35.6%였다.",
+              "published": "2026-11-23",
+              "figure": "37.3% (리얼미터, 성인 2,514명)",
+              "source": "리얼미터",
+              "links": [
+                {
+                  "outlet": "The Korea Herald",
+                  "url": "https://www.koreaherald.com/article/10945531",
+                  "title": "Lee's approval rating rises for 2nd straight week to 37.3%: poll"
+                }
+              ]
+            },
+            {
+              "title_ko": "마르코스 \"남중국해 행동준칙 협상 85~90% 완료\"",
+              "title_orig": "Marcos: South China Sea Code of Conduct talks 85-90% complete",
+              "summary": "필리핀 마르코스 대통령은 중국과 진행 중인 남중국해 행동준칙(COC) 협상이 85~90% 마무리됐다고 밝혔다. 그는 중국도 협상 타결을 원한다고 본다는 입장도 밝혔다.",
+              "published": "2026-11-20",
+              "event_date": "2026-11-17",
+              "links": [
+                {
+                  "outlet": "Philippine News Agency",
+                  "url": "https://www.pna.gov.ph/article/marcos-south-china-sea-code-of-conduct-talks-85-90-complete",
+                  "title": "Marcos: South China Sea Code of Conduct talks 85-90% complete"
+                },
+                {
+                  "outlet": "Manila Bulletin",
+                  "url": "https://mb.com.ph/2026/11/20/marcos-believes-china-is-keen-on-finalizing-south-china-sea-code",
+                  "title": "Marcos believes China is keen on finalizing South China Sea code"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [
+            {
+              "title_ko": "한국은행 이번 주 기준금리 0.25%p 인상 전망",
+              "title_orig": "BOK likely to hike interest rate on resilient growth, inflation",
+              "summary": "한국은행이 목요일 금융통화위원회에서 기준금리를 3.00%에서 3.25%로 0.25%포인트 올릴 것으로 전망된다. 3분기 성장률이 전년 대비 3.4%로 한은 전망치 2.6%를 크게 웃돌았고, 10월 소비자물가는 2.8%로 9월(2.9%)보다 낮아졌지만 근원물가는 2.8%를 유지했다. 분석가들은 한은이 올해 성장률 전망(3.3%)도 올릴 것으로 보며, KDI와 IMF는 이미 각각 3.8%, 3.9%로 상향했다.",
+              "published": "2026-11-22",
+              "figure": "기준금리 3.00% → 3.25% 인상 전망 (11월 26일 금통위)",
+              "source": "Korea Herald 보도(애널리스트 전망)",
+              "links": [
+                {
+                  "outlet": "The Korea Herald",
+                  "url": "https://www.koreaherald.com/article/10945119",
+                  "title": "BOK likely to hike interest rate on resilient growth, inflation"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [
+            {
+              "title_ko": "수능 AI 부정행위 파문에 교육부 장관 사임",
+              "title_orig": "South Korean Education Minister Resigns After Backlash Toward Anti-AI Measures",
+              "summary": "최교진 교육부 장관이 일요일 사임했다. 약 50만 명이 응시한 수능을 이틀 앞두고 발표한 AI 부정행위 방지 대책(안경 검사, 셔츠 단추 점검, 전국 단위 긴급 경보 등)이 현장 혼란을 불러 교원단체·야당·학생단체의 비판을 받았기 때문이다. 중앙일보 사설은 시험 당일 경보가 세 차례 울린 점 등을 들어 장관과 정부의 책임을 물었다.",
+              "published": "2026-11-23",
+              "event_date": "2026-11-22",
+              "links": [
+                {
+                  "outlet": "TIME",
+                  "url": "https://time.com/article/2026/11/23/south-korea-education-minister-resigns-college-exam-suneung-ai-cheating/",
+                  "title": "South Korean Education Minister Resigns After Backlash Toward Anti-AI Measures"
+                },
+                {
+                  "outlet": "Korea JoongAng Daily",
+                  "url": "https://www.koreajoongangdaily.com/opinion/education-minister-must-answer-for-chaotic-college-entrance-exam/12982032",
+                  "title": "Education minister must answer for chaotic college entrance exam"
+                }
+              ]
+            },
+            {
+              "title_ko": "AI 시대의 수능 위기…부정행위 의혹 국가시험 전반으로",
+              "title_orig": "Suneung was built for a world before AI",
+              "summary": "세무사 시험 수석 합격자가 초소형 카메라와 휴대전화, 생성형 AI로 부정행위를 했다고 주장하면서 우려가 AI 안경을 넘어 국가 자격시험 전반으로 번졌다. 정부는 자격시험 전반에 대한 점검에 나섰고 더불어민주당은 AI 부정행위자에 대한 10년 응시 제한을 추진하겠다고 밝혔다. 서울시교육청이 2040년까지 수능 폐지를 제안한 로드맵이 다시 주목받고 있으나 중앙정부는 채택하지 않았다.",
+              "published": "2026-11-19",
+              "links": [
+                {
+                  "outlet": "The Korea Herald",
+                  "url": "https://www.koreaherald.com/article/10942917",
+                  "title": "Suneung was built for a world before AI"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사건사고",
+          "items": [
+            {
+              "title_ko": "서울 홍대입구역 인근 버스 인도 돌진, 6명 부상",
+              "title_orig": "Bus rams into pavement near Hongik University Station, injuring 6",
+              "summary": "토요일 저녁 6시 57분쯤 서울 홍대입구역 인근에서 버스가 다른 버스·승용차와 충돌한 뒤 인도로 올라가 구조물을 들이받았다. 6명이 병원으로 옮겨졌으나 사망자나 중상자는 없었다. 경찰과 소방 당국이 사고 원인을 조사하고 있다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "The Korea Times",
+                  "url": "https://www.koreatimes.co.kr/southkorea/society/20261121/bus-rams-into-pavement-near-hongik-university-station-injuring-6",
+                  "title": "Bus rams into pavement near Hongik University Station, injuring 6"
+                }
+              ]
+            },
+            {
+              "title_ko": "배우 고경표, 음주운전 혐의 경찰 조사 출석·사과",
+              "title_orig": "Actor Ko Kyung-pyo appears for questioning over drunk driving, apologizes",
+              "summary": "배우 고경표(36)가 월요일 저녁 마포경찰서에 출석해 약 100분간 조사를 받았다. 그는 11월 14일 새벽 서울에서 음주 상태로 청소 차량을 들이받은 혐의를 받고 있으며, 많이 마신 사실이 기억난다며 사과하고 조사에 협조하겠다고 밝혔다. 경찰은 당시 혈중알코올농도가 면허 취소 수준이었다고 전했다.",
+              "published": "2026-11-23",
+              "event_date": "2026-11-14",
+              "links": [
+                {
+                  "outlet": "The Korea Times",
+                  "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20261123/actor-ko-kyung-pyo-appears-for-questioning-over-drunk-driving-apologizes",
+                  "title": "Actor Ko Kyung-pyo appears for questioning over drunk driving, apologizes"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "china",
+      "part": "2. 권역별 뉴스",
+      "name": "2) 중국",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "선전 APEC서 시진핑, 다카이치와 악수만…중일 냉각 지속",
+              "title_orig": "Xi greets Takaichi with a smile – but no words – as China-Japan freeze lingers",
+              "summary": "일본 다카이치 총리는 선전 APEC 만찬에서 시진핑 주석과 악수했지만 시 주석은 미소로만 응했고, 공항 영접도 퇴직 대사가 맡아 낮은 예우였다는 보도가 나왔다. 정상회의 자리에서도 10초 남짓 대화했을 뿐 양자 회담은 열리지 않았고 다카이치 총리는 기자회견에서 개최국 중국에 감사를 표했다. 일본 언론은 대만 관련 발언 이후 1년 넘게 이어진 냉각과 일본의 고립을 우려했다.",
+              "published": "2026-11-19",
+              "event_date": "2026-11-18",
+              "links": [
+                {
+                  "outlet": "South China Morning Post",
+                  "url": "https://www.scmp.com/news/china/diplomacy/article/3374944/xi-greets-takaichi-smile-no-words-china-japan-freeze-lingers",
+                  "title": "Xi greets Takaichi with a smile – but no words – as China-Japan freeze lingers"
+                },
+                {
+                  "outlet": "The Standard",
+                  "url": "https://www.thestandard.com.hk/china/article/348928/Japan-PM-Takaichi-gets-muted-reception-as-Beijing-sends-retired-envoy",
+                  "title": "Japan PM Takaichi gets muted reception as Beijing sends retired envoy"
+                },
+                {
+                  "outlet": "The Kyunghyang Shinmun",
+                  "url": "https://www.khan.co.kr/en/article/202611191620007",
+                  "title": "Japanese media sigh as Takaichi leaves after only a 'handshake' with Xi Jinping"
+                }
+              ]
+            },
+            {
+              "title_ko": "시진핑·카니 정상회담, 관세 완화 추가 합의",
+              "title_orig": "China and Canada agree on fresh tariff relief as Xi and Carney continue thaw",
+              "summary": "시진핑 주석과 캐나다 카니 총리가 APEC을 앞두고 선전에서 올해 두 번째로 만나 무역 양보 확대에 합의했다. 캐나다는 미국과의 무역 갈등 속에서 대중 관계를 복원하려 하고 있으며, 중국 외교부에 따르면 시 주석은 건설적 대화를 통한 정치적 신뢰 구축을 강조했다. 구체적인 관세 인하 폭은 공개되지 않았다.",
+              "published": "2026-11-17",
+              "event_date": "2026-11-17",
+              "links": [
+                {
+                  "outlet": "South China Morning Post",
+                  "url": "https://www.scmp.com/news/china/diplomacy/article/3374769/china-and-canada-agree-fresh-tariff-reliefs-thaw-continues-xi-carney-meeting",
+                  "title": "China and Canada agree on fresh tariff relief as Xi and Carney continue thaw"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [
+            {
+              "title_ko": "중국 10월 경제지표 부진…생산·소비 모두 예상 하회",
+              "title_orig": "China's economy falters in October as factory output, retail sales miss forecasts",
+              "summary": "국가통계국에 따르면 10월 산업생산은 전년 대비 4.8% 늘어 시장 예상(5.3%)에 못 미쳤고 소매판매 증가율은 0.4%로 예상(0.8%)을 밑돌았다. 1~10월 고정자산투자는 8.1% 감소해 낙폭이 예상보다 컸으며 도시 실업률은 5.1%로 소폭 낮아졌다. 3분기 성장률은 4.5%로, ANZ 이코노미스트는 올해 추가 부양책이 없을 것으로 내다봤다.",
+              "published": "2026-11-16",
+              "figure": "산업생산 +4.8%, 소매판매 +0.4% (2026년 10월, 전년동월비)",
+              "source": "중국 국가통계국",
+              "links": [
+                {
+                  "outlet": "The Standard",
+                  "url": "https://www.thestandard.com.hk/finance/article/348591/Chinas-economy-falters-in-October-as-factory-output-retail-sales-miss-forecasts",
+                  "title": "China's economy falters in October as factory output, retail sales miss forecasts"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [
+            {
+              "title_ko": "홍콩 왕푹코트 화재 1주기 앞두고 이재민 지원, 정서 돌봄 중심으로",
+              "title_orig": "Social workers say Wang Fuk Court support shifts to emotional care near fire anniversary",
+              "summary": "홍콩 사회복지서(社署) 소속 사회복지사들은 가구별 담당 사회복지사 제도를 통해 왕푹코트 화재 피해 주민을 돕고 있는데, 화재 1주기가 다가오면서 식량·주거·의료 같은 긴급 구호에서 상담과 정서적 동반 지원으로 수요가 옮겨 갔다고 밝혔다. 일부 주민은 당시 기억 때문에 수면과 식욕에 어려움을 겪고, 임시 주택으로 옮겨 일상을 되찾은 고령 주민도 있다. 서류와 기한 관련 도움이 필요한 주민도 남아 있다.",
+              "published": "2026-11-23",
+              "links": [
+                {
+                  "outlet": "The Standard",
+                  "url": "https://thestandard.com.hk/news/article/349294/Social-workers-say-Wang-Fuk-Court-support-shifts-to-emotional-care-near-fire-anniversary",
+                  "title": "Social workers say Wang Fuk Court support shifts to emotional care near fire anniversary"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사건사고",
+          "items": [],
+          "note": ""
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "usa",
+      "part": "2. 권역별 뉴스",
+      "name": "3) 미국",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "트럼프 \"엔비디아 이사회와 직간접 소통\"…젠슨 황 CEO 복귀",
+              "title_orig": "Trump says he spoke 'directly and indirectly' with Nvidia's board about reinstating Jensen Huang",
+              "summary": "엔비디아는 이사회 만장일치로 젠슨 황을 사장 겸 CEO 및 이사로 즉시 복귀시킨다고 발표했다. 이사회는 미국 정부 고위급의 의견을 들었고 그의 복귀가 국가안보 위험이 아니라고 판단했다고 밝혔으며, 트럼프 대통령은 이사회와 직간접적으로 소통했다고 말했다. 회사는 황 CEO를 겨냥한 외국 정보기관 활동 의혹을 독립이사 위원회가 조사하고 새 국가안보·수출통제 위원회를 둔다고 밝혔다.",
+              "published": "2026-11-23",
+              "links": [
+                {
+                  "outlet": "NBC News",
+                  "url": "https://nbcnews.com/politics/trump-administration/trump-nvidia-board-reinstates-jensen-huang-rcna610882",
+                  "title": "Trump says he spoke 'directly and indirectly' with Nvidia's board about reinstating Jensen Huang"
+                },
+                {
+                  "outlet": "NVIDIA",
+                  "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000090/nov23pressrelease.htm",
+                  "title": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [
+            {
+              "title_ko": "AI 반도체주 급락에 S&P500 조정장 진입, 나스닥 올해 상승분 반납",
+              "title_orig": "S&P 500 and Dow close in correction; Nasdaq erases 2026 gain as AI rout picks up steam",
+              "summary": "11월 20일 미국 증시는 AI·반도체주 매도세로 S&P500이 3.7% 내린 6,910.39에 마감해 10월 6일 고점 대비 조정 국면에 들어섰고 나스닥은 5.3% 급락해 올해 상승분을 반납했다. 주간 기준 S&P500은 8.6%, 나스닥은 10% 떨어져 1년 반 만에 최악의 한 주였다. 앞서 16일에는 젠슨 황 CEO 사임 보도 속에 필라델피아 반도체지수가 5.3% 급락했고, 시장은 12월 연준 0.25%p 인상 가능성을 95.7%로 반영했다.",
+              "published": "2026-11-20",
+              "figure": "S&P500 6,910.39 (-3.7%), 나스닥 22,617.73 (-5.3%) (2026-11-20 종가)",
+              "source": "AP 집계",
+              "links": [
+                {
+                  "outlet": "CNBC",
+                  "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+                  "title": "S&P 500 and Dow close in correction; Nasdaq erases 2026 gain as AI rout picks up steam"
+                },
+                {
+                  "outlet": "The Standard",
+                  "url": "https://www.thestandard.com.hk/finance/article/348698/Wall-Street-ends-sharply-lower-on-AI-jitters-ahead-of-Nvidia-results-Anthropic-IPO",
+                  "title": "Wall Street ends sharply lower on AI jitters ahead of Nvidia results, Anthropic IPO"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [],
+          "note": ""
+        },
+        {
+          "name": "사건사고",
+          "items": [],
+          "note": ""
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "eu-east",
+      "part": "2. 권역별 뉴스",
+      "name": "4) 유럽 (1) 동유럽",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "헝가리, 우크라이나 EU 가입 협상 잔여 분야 거부권 철회 전망",
+              "title_orig": "Hungary to drop veto on Ukraine's remaining EU accession clusters",
+              "summary": "유로뉴스는 외교 소식통 2명을 인용해 헝가리가 20일 EU 대사급 회의에서 우크라이나 가입 협상의 마지막 두 개 분야에 대한 반대를 거둘 것이라고 전했다. 이렇게 되면 우크라이나와 몰도바는 환경·농업 같은 민감 분야까지 모든 협상 분야를 열 수 있다. 다만 농업은 여전히 민감해 집행위원회가 예외 조항을 제안해 둔 상태다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/20/hungary-to-drop-veto-on-ukraines-remaining-eu-accession-clusters",
+                  "title": "Hungary to drop veto on Ukraine's remaining EU accession clusters"
+                }
+              ]
+            },
+            {
+              "title_ko": "크렘린, 리비아·발트해 선박 피격에 우크라이나 향해 '위험한 추세' 경고",
+              "title_orig": "Russia warns Ukraine of 'dangerous trend' after Libya and Baltic attacks",
+              "summary": "페스코프 크렘린 대변인은 발트해에서 러시아 화물선 스파르타 II호가 드론 공격을 받은 일을 지역 긴장을 키우는 '매우 위험한 추세'라고 규정하고, 국방부가 대응을 맡고 있으며 우크라이나 공격은 계속될 것이라고 말했다. 메드베데프 전 대통령은 핵무기를 포함한 모든 수단을 쓸 수 있다고 썼으나 아직 '직접적 필요'는 없다고 덧붙였다. 리비아 동부 정부는 유엔에 조사를 요청했다.",
+              "published": "2026-11-23",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/23/russia-warns-ukraine-of-dangerous-trend-after-libya-and-baltic-attacks",
+                  "title": "Russia warns Ukraine of 'dangerous trend' after Libya and Baltic attacks"
+                }
+              ]
+            },
+            {
+              "title_ko": "러시아 미사일·드론, 폴란드 영토에 낙하… 투스크 \"의도적 도발\"",
+              "title_orig": "Russian missiles hit Poland: What happened, and could NATO respond?",
+              "summary": "폴란드 국방장관은 20일 러시아의 야간 대규모 공습 중 미사일 2발과 제트 추진 드론 1기가 남동부에 떨어졌으며 당장의 인명·시설 피해는 없었다고 밝혔다. 투스크 총리는 폴란드에서 열린 유럽 군사훈련 시기에 맞춘 '의도적 도발'이라고 주장했고, 뤼터 NATO 사무총장은 '중대한 위반'이라고 규정했다. 폴란드는 아직 NATO 4조 협의를 요청하지 않았다.",
+              "published": "2026-11-21",
+              "event_date": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond",
+                  "title": "Russian missiles hit Poland: What happened, and could NATO respond?"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [
+            {
+              "title_ko": "EU, 러시아 은행·군인·선수 겨냥 22차 제재안 제안",
+              "title_orig": "EU goes after Russia's banks, soldiers and athletes in new sanctions package",
+              "summary": "EU 집행위원회는 23일 22차 대러 제재안을 제안하고 12월 합의를 목표로 한다고 밝혔다. 러시아 은행 60곳을 SWIFT에서 추가로 배제하고 가상자산 플랫폼을 단속하며, 러시아 정유시설 등 에너지 설비의 수리에 EU 기업이 참여하지 못하게 하는 내용이 담겼다. 이른바 '그림자 선단' 선박 70여 척도 새로 제재 대상에 올렸다.",
+              "published": "2026-11-23",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/23/eu-goes-after-russias-banks-soldiers-and-athletes-in-new-sanctions-package",
+                  "title": "EU goes after Russia's banks, soldiers and athletes in new sanctions package"
+                }
+              ]
+            },
+            {
+              "title_ko": "우크라이나 지원 재원 둘러싼 EU 내 갈등… 슬로바키아·체코·헝가리·불가리아 반발",
+              "title_orig": "EU budget battle erupts as four countries defy Merz over Ukraine aid",
+              "summary": "메르츠 독일 총리가 새 우크라이나 지원을 차기 EU 예산 승인의 전제 조건으로 삼자 피코 슬로바키아 총리는 '협박'이라며 거부권을 거론했고 체코·헝가리·불가리아 정상도 반발했다. 집행위가 제안한 450억 유로 규모 공동부채 대출에서도 이 네 나라는 빠지길 원한다. 예산안에 우크라이나용 1000억 유로가 들어 있지만 2028년에야 쓸 수 있어 키이우는 내년 약 700억 유로 공백에 직면해 있다.",
+              "published": "2026-11-19",
+              "event_date": "2026-11-10",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/10/eu-budget-battle-erupts-as-four-countries-defy-merz-over-ukraine-aid",
+                  "title": "EU budget battle erupts as four countries defy Merz over Ukraine aid"
+                },
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/19/if-europe-is-not-around-the-table-is-it-on-the-menu",
+                  "title": "If Europe is not around the table, is it on the menu?"
+                }
+              ]
+            },
+            {
+              "title_ko": "우크라이나, 케르치 교량 3일 연속 타격… 크름 보급로 마비 주장",
+              "title_orig": "Ukraine strikes Kerch Bridge as Putin ally declares 'no one needs Europe'",
+              "summary": "우크라이나 총참모부는 16~19일 사흘간의 공격으로 러시아와 크름을 잇는 케르치 교량의 도로 구간이 무너지고 철도 구간도 큰 피해를 입었다고 밝혔다. 푸틴 대통령은 순수 민간 시설이며 석유가 지나지 않았다고 반박했지만 우크라이나는 연료·탄약 보급의 핵심 통로라고 주장한다. 우크라이나는 자체 무기와 드론만 썼다고 밝혔다.",
+              "published": "2026-11-20",
+              "event_date": "2026-11-19",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/20/ukraine-strikes-kerch-bridge-as-putin-ally-declares-no-one-needs",
+                  "title": "Ukraine strikes Kerch Bridge as Putin ally declares 'no one needs Europe'"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [
+            {
+              "title_ko": "헝가리 마자르 총리, 우크라이나 트란스카르파티아 방문 예고",
+              "title_orig": "Hungary's PM to visit Transcarpathia, pledges support to Ukrainian people and local Hungarians",
+              "summary": "마자르 헝가리 총리는 23일 의회에서 우크라이나 서부 트란스카르파티아를 방문해 현지 헝가리계 주민과 러시아 공격을 받는 우크라이나인을 지원하겠다고 밝혔다. 2015년 이후 선출직 헝가리 총리가 이 지역을 찾은 적이 없다고 그는 말했다. 헝가리는 헝가리어 교육 확대를 요구하며 6월에 합의한 소수민족 권리 11개 항 이행을 키이우에 촉구하고 있다.",
+              "published": "2026-11-23",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/23/hungarys-pm-to-visit-transcarpathia-pledges-support-to-ukrainian-people-and-local-hungaria",
+                  "title": "Hungary's PM to visit Transcarpathia, pledges support to Ukrainian people and local Hungarians"
+                }
+              ]
+            },
+            {
+              "title_ko": "에스토니아, 러시아 국경 폐쇄 앞두고 주민들 서둘러 통과",
+              "title_orig": "Estonia-Russia border closure sends residents rushing to cross before deadline",
+              "summary": "에스토니아가 드론 제조업체를 노린 방해 공작 시도 이후 러시아와의 국경 통과소를 닫기로 하면서, 폐쇄 시한 전에 국경을 넘으려는 주민들이 몰렸다. 에스토니아는 이 사건에 러시아 군 정보기관 GRU가 연루됐다고 보고 있으며 12월 1일부터 모든 통과소를 닫는다고 알려졌다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/21/estonia-russia-border-closure-sends-residents-rushing-to-cross-before-deadline",
+                  "title": "Estonia-Russia border closure sends residents rushing to cross before deadline"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사건사고",
+          "items": [
+            {
+              "title_ko": "키이우 인근 러시아 공습으로 최소 15명 사망… 드이메르 아파트 붕괴",
+              "title_orig": "Russian air strikes kill at least 15 people across Kyiv region, Ukraine says",
+              "summary": "러시아의 공습으로 키이우주에서 최소 15명이 숨졌으며, 드이메르에서는 5층 건물이 일부 무너져 최소 11명이 사망했고 어린이 2명을 포함한 11명 가량이 잔해 속에 갇혀 구조가 이어졌다. 비쉬네베 슈퍼마켓 공습으로 3명이 숨지고 15명이 다쳤으며, 비라 체르크바에서도 1명이 숨졌다. 드니프로페트로우스크 변전소도 피격됐다고 우크라이나 당국은 밝혔다.",
+              "published": "2026-11-23",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/23/russian-air-strikes-kill-at-least-15-people-across-kyiv-region-ukraine-says",
+                  "title": "Russian air strikes kill at least 15 people across Kyiv region, Ukraine says"
+                }
+              ]
+            },
+            {
+              "title_ko": "핀란드만서 러시아 화물선 스파르타 II호 드론 피격… 러시아가 예인",
+              "title_orig": "Finland confirms Russia is towing drone-hit cargo ship after Baltic Sea attack",
+              "summary": "칼리닌그라드로 향하던 러시아 화물선 스파르타 II호가 21일 고글란드섬 인근 핀란드만에서 드론 공격을 받아 불이 났고 핀란드 영해로 떠내려 왔다. 승조원 16명은 모두 대피했으며 22일 러시아 선박들이 이 배를 예인해 영해 밖으로 옮겼다. 핀란드 군은 우크라이나의 소행 가능성이 크다고 평가했지만 키이우는 공식적으로 밝히지 않았고, 이 배는 러시아 국방부에 물자를 대는 업체 소유로 미국 제재 대상이다.",
+              "published": "2026-11-22",
+              "event_date": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/22/finland-confirms-russia-is-towing-drone-hit-cargo-ship-after-baltic-sea-attack",
+                  "title": "Finland confirms Russia is towing drone-hit cargo ship after Baltic Sea attack"
+                }
+              ]
+            },
+            {
+              "title_ko": "젤렌스키 \"일주일간 드론 2700기·유도폭탄 1460발·미사일 165발\"… 미국에 패트리엇 출하 촉구",
+              "title_orig": "Ukraine urges US to release Patriot missiles as Russian strikes kill 15",
+              "summary": "젤렌스키 대통령은 지난 한 주 러시아가 20개 지역에 공격 드론 약 2700기, 유도폭탄 약 1460발, 미사일 165발을 쏟아부었다고 밝혔다. 파트너국이 이미 NATO 조율 프로그램으로 대금을 냈으니 미국이 패트리엇 요격미사일 인도를 승인해 달라고 요구했다. 러시아 국방부는 오데사 인근 화물선과 자포리자 전력 시설 등을 타격했다고 주장했으나 확인되지 않았다.",
+              "published": "2026-11-22",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles",
+                  "title": "Ukraine urges US to release Patriot missiles as Russian strikes kill 15"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "eu-west",
+      "part": "2. 권역별 뉴스",
+      "name": "4) 유럽 (2) 서유럽",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "폰데어라이엔·쿠슈너, 평화협상 '순서' 놓고 충돌",
+              "title_orig": "Von der Leyen and Kushner clash over peace talks sequence",
+              "summary": "EU 지도부는 휴전이 먼저고 유럽 안보 구조는 그다음에 논의해야 한다는 입장이지만, 미국 특사 쿠슈너는 우크라이나 안전보장을 전후 유럽 안보 체제와 함께 다뤄야 한다고 주장했다. 집행위 대변인은 휴전 이후 NATO·EU 틀에서 논의한다는 입장에 변함이 없다고 밝혔고, 메르츠 독일 총리도 평화가 먼저라고 말했다. 뤼터 NATO 사무총장은 NATO를 1997년 국경으로 되돌리라는 러시아 요구를 거부했다.",
+              "published": "2026-11-23",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/23/von-der-leyen-and-kushner-clash-over-peace-talks-sequence",
+                  "title": "Von der Leyen and Kushner clash over peace talks sequence"
+                }
+              ]
+            },
+            {
+              "title_ko": "뤼터 NATO 총장 \"동맹국 겨냥 적대 활동 늘 것\"… 스페인 총선·COP31 결렬 소식",
+              "title_orig": "Europe Tonight: NATO security warnings, COP31 fallout, and Spain's elections",
+              "summary": "뤼터 NATO 사무총장은 베를린에서 사보타주·사이버 공격·영공 침범 같은 적대 활동이 늘어날 것이라며 국방비 확대를 촉구했다. 스페인에서는 여론조사상 중도우파가 앞서고 극우 복스와 손잡으면 과반도 가능해 산체스 총리가 위협받고 있다는 분석이 나왔다. 튀르키예 안탈리아의 COP31은 화석연료 단계적 폐지와 기후금융 이견으로 큰 합의 없이 끝났다.",
+              "published": "2026-11-23",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/23/europe-tonight-nato-security-warnings-cop31-fallout-and-spains-elections",
+                  "title": "Europe Tonight: NATO security warnings, COP31 fallout, and Spain's elections"
+                }
+              ]
+            },
+            {
+              "title_ko": "프랑스 공공부문 파업·시위 이어져… 르코르뉘 정부 예산 처리 난항",
+              "title_orig": "More than 100,000 take part in France pay protests",
+              "summary": "프랑스 공공부문 노조가 르코르뉘 총리와의 협상에 불만을 드러내며 17일 전국 파업과 시위를 벌였다. 내무부는 전국 14만 6천 명(파리 2만 8천 명)이 참가했다고 집계했고 CGT는 50만 명이 넘는다고 주장했다. 정부는 최저임금 인상을 12월 1일로 앞당기겠다고 했지만 2027년 예산안은 4년 연속 일반 임금 인상을 배제해 노조가 반발하고 있다.",
+              "published": "2026-11-17",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/17/fresh-public-sector-strike-in-france-under-way-over-pay-as-government-struggles-to-pass-bu",
+                  "title": "Fresh public sector strike in France over pay as government struggles to pass budget"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [
+            {
+              "title_ko": "EU 집행위 가을 전망: 성장률 1.4%로 상향, 물가 3%대 지속",
+              "title_orig": "EU economy beats expectations but energy shock keeps inflation higher for longer",
+              "summary": "집행위는 가을 경제전망에서 올해 EU 성장률을 5월 전망(1.1%)보다 높은 1.4%로, 유로존은 올해와 내년 모두 1.2%로 내다봤다. 에너지 충격 여파로 EU 물가는 올해 3.3%, 내년 3.2%로 높은 수준이 이어지고 재정적자는 GDP의 3.1%에서 3.6%로 커질 전망이다. 실질임금 상승률은 연 0.6%에 그치고 올해 일자리는 약 80만 개 늘 것으로 예상했다.",
+              "published": "2026-11-17",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/17/eu-economy-beats-expectations-but-energy-shock-keeps-inflation-higher-for-longer",
+                  "title": "EU economy beats expectations but energy shock keeps inflation higher for longer"
+                }
+              ]
+            },
+            {
+              "title_ko": "독일 IG메탈, 메르세데스·BMW 등 24시간 경고 파업",
+              "title_orig": "Mercedes, BMW hit by 24-hour strikes as German pay dispute widens",
+              "summary": "독일 금속노조 IG메탈은 북부 19개 사업장 2만 3천여 명을 대상으로 24시간 파업에 들어가 메르세데스-벤츠·BMW·지멘스 가메사가 영향을 받았다. 앞서 금요일 전국 경고 파업에는 노조 집계로 15만 1천 명이 참여했다. 노조는 370만 명에게 1년간 5% 임금 인상을 요구하고, 사측은 2027년 7월 일시금(총급여 1%)과 2028년 7월 1.3% 인상을 제시한 상태다.",
+              "published": "2026-11-23",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/23/mercedes-bmw-hit-by-24-hour-strikes-as-german-pay-dispute-widens",
+                  "title": "Mercedes, BMW hit by 24-hour strikes as German pay dispute widens"
+                }
+              ]
+            },
+            {
+              "title_ko": "영국 10월 소비자물가 3.6%… 실질임금 상승 사실상 정체",
+              "title_orig": "UK inflation rises to 3.6% and Britain faces another squeeze on living standards",
+              "summary": "영국의 10월 소비자물가 상승률이 3.6%로 올랐고 물가를 감안한 임금 상승률은 0에 가까워 앞으로 마이너스로 돌아설 가능성이 크다. 영란은행은 약 2주 전 기준금리를 4%로 올렸으며 시장은 내년 6월까지 4.75%를 예상하고, 물가가 내년 봄 5%에 가깝게 정점을 찍을 것으로 본다. 가계 에너지 요금은 1월 26% 오를 전망이다.",
+              "published": "2026-11-18",
+              "links": [
+                {
+                  "outlet": "ITV News",
+                  "url": "https://www.itv.com/news/2026-11-18/uk-inflation-rises-to-36-and-britain-faces-another-squeeze-on-living-standard",
+                  "title": "UK inflation rises to 3.6% and Britain faces another squeeze on living standards"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [
+            {
+              "title_ko": "유럽 25개국 이상에서 임금·공공서비스 개선 요구 시위",
+              "title_orig": "Thousands protest across Europe demanding better wages and services",
+              "summary": "20일부터 유럽 25개국 이상에서 임금 인상과 공공서비스 개선을 요구하는 시위가 시작돼 주말까지 이어질 예정이다. 이탈리아에서는 CGIL이 24시간 총파업을 벌여 100여 곳에서 시위가 열리고 교통·학교·일부 의료 서비스가 차질을 빚었다. 크로아티아에서는 학생들이 수업을 거부했고 오스트리아 빈에서는 경찰이 대학 시위대를 해산하며 여러 명을 체포했다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/20/thousands-protest-across-europe-demanding-better-wages-and-services",
+                  "title": "Thousands protest across Europe demanding better wages and services"
+                }
+              ]
+            },
+            {
+              "title_ko": "EU 소득 불평등 2010년 이후 최저… 불가리아가 가장 높아",
+              "title_orig": "Income inequality across Europe: Where is it highest and how is it changing?",
+              "summary": "유로스타트 자료에 따르면 2025년 EU의 소득 불평등은 소폭 줄어 2010년 통계 시작 이후 가장 낮았다. 34개국 지니계수는 슬로바키아 23.0에서 튀르키예 43.9까지 벌어졌고, EU 안에서는 불가리아가 37.7로 가장 높아 EU 평균 29.2를 크게 웃돌았다. 독일(30.1)·프랑스(30.4)·스페인(30.8)·이탈리아(31.0)도 평균보다 높았다.",
+              "published": "2026-11-23",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/23/income-inequality-across-europe-where-is-it-highest-and-how-is-it-changing",
+                  "title": "Income inequality across Europe: Where is it highest and how is it changing?"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사건사고",
+          "items": [
+            {
+              "title_ko": "덴마크, 우크라이나 래퍼 암살 의혹 계획 관련 러시아 국방무관 추방",
+              "title_orig": "Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper",
+              "summary": "덴마크 외무장관은 러시아 정보기관이 코펜하겐 인근 콘서트에서 우크라이나 래퍼를 살해하려 했다는 정보당국 판단에 따라 러시아 국방무관을 7일 안에 추방한다고 밝혔다. 총기와 흉기를 소지한 3명이 차 안에서 제지됐고 콘서트는 취소됐으며, 덴마크인 2명이 살인미수 등 혐의로 기소됐다. 러시아 대사관은 증거 없는 '보복성' 조치라고 반발했다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/21/denmark-expels-russian-diplomat-over-alleged-plot-to-kill-ukrainian-rapper",
+                  "title": "Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "middle-east",
+      "part": "2. 권역별 뉴스",
+      "name": "5) 중동",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "이란 \"미 봉쇄에 모든 수단 동원\"… 2일 내 호르무즈 재개 조건 제시",
+              "title_orig": "Iran says it will use 'all available means' to counter US blockade",
+              "summary": "이란 외무부 대변인 바가이는 미국의 제재와 해상 봉쇄를 군사적 침략으로 규정하고 유엔헌장 51조를 들어 모든 수단으로 맞서겠다고 밝혔다. 미국이 적대 행위를 멈추고 봉쇄를 풀며 제재를 면제하면 호르무즈 해협을 이틀 안에 다시 열 수 있다는 조건도 내걸었다. 봉쇄는 4월 시작돼 6월 해제됐다가 합의 무산 후 7월 재개됐다.",
+              "published": "2026-11-23",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade",
+                  "title": "Iran says it will use 'all available means' to counter US blockade"
+                }
+              ]
+            },
+            {
+              "title_ko": "레바논 대통령 \"이스라엘 철수하라\"… 이란 개입 비판, 헤즈볼라 무장 인도 촉구",
+              "title_orig": "Lebanese president demands Israel withdrawal, decries Iran's interference",
+              "summary": "아운 레바논 대통령은 독립기념일 전야 연설에서 이스라엘의 전면 철수와 공격 중단, 포로 송환을 요구했다. 그는 이란 정권 내 영향력 있는 세력이 무기와 결정으로 개입하고 있다고 비판하며 모든 무기를 국가 통제 아래 두고 헤즈볼라가 무장을 넘겨야 한다고 촉구했다. 6월 이스라엘과의 틀 합의는 정체됐고 이스라엘은 토요일에도 남부 지역을 공습했다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference",
+                  "title": "Lebanese president demands Israel withdrawal, decries Iran's interference"
+                }
+              ]
+            },
+            {
+              "title_ko": "시리아·EU 관계 정상화 협상 진전… 외교관들 '송환 문제에 초점 쏠릴라' 우려",
+              "title_orig": "As Syria-EU talks progress, diplomats fear focus will be on repatriation",
+              "summary": "시리아와 EU는 15년간 중단된 관계의 정상화를 협의하고 있으며, 칼라스 EU 외교안보 고위대표는 16일 무역과 정치 대화를 위한 틀 마련이 목표라고 밝혔다. 일부 외교관은 이주·송환 문제가 인권 의제를 가릴 수 있다고 우려한다. EU는 지난해 경제 제재를 풀었고 1월 2년간 6억 2천만 유로 지원책을 발표했으며, 아사드 정권 붕괴 후 약 100만 명이 귀환했다.",
+              "published": "2026-11-23",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/features/2026/11/23/as-syria-eu-talks-progress-diplomats-fear-focus-will-be-on-repatriation",
+                  "title": "As Syria-EU talks progress, diplomats fear focus will be on repatriation"
+                }
+              ]
+            },
+            {
+              "title_ko": "이스라엘 리쿠드·에이젠코트 '야샤르', 연정 협상 합의 없이 종료",
+              "title_orig": "Netanyahu's Likud, Eisenkot's Yashar end coalition talks without deal",
+              "summary": "네타냐후의 리쿠드와 에이젠코트의 야샤르는 22일 헤르츨리야에서 만났으나 총리직을 누가 맡을지와 극우 장관 벤그비르 참여 여부를 두고 입장차를 좁히지 못했다. 양측은 후속 회동을 갖기로 했지만 날짜는 정하지 않았다. 에이젠코트는 12월 6일까지 정부를 구성해야 하며 그의 진영 의석은 과반에 13석 모자란 48석이다.",
+              "published": "2026-11-22",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/22/netanyahus-likud-eisenkots-yashar-end-coalition-talks-without-deal",
+                  "title": "Netanyahu's Likud, Eisenkot's Yashar end coalition talks without deal"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [
+            {
+              "title_ko": "호르무즈 공격 속 유가 불안… 브렌트 93달러대, 미 전략비축유 40여 년 만에 최저",
+              "title_orig": "Oil prices caught between tanker attacks and rising Mideast exports",
+              "summary": "17일 브렌트유는 배럴당 93.71달러, WTI는 86.97달러로 11월 들어 각각 약 20%, 16% 하락한 수준이다. IEA는 중동 수출이 회복되며 4분기에 시장이 공급 과잉으로 돌아선다고 보며, 미국 전략비축유는 2억 7640만 배럴로 1982년 8월 이후 최저다. 알자지라에 따르면 최근 일주일 호르무즈 일대에서 유조선 최소 25척이 피격됐다는 보도가 나왔고 통과 선박은 전주보다 15% 줄었다.",
+              "published": "2026-11-22",
+              "event_date": "2026-11-17",
+              "links": [
+                {
+                  "outlet": "Khaleej Times",
+                  "url": "https://www.khaleejtimes.com/oil-prices-caught-between-tanker-attacks-and-rising-mideast-exports",
+                  "title": "Oil prices caught between tanker attacks and rising Mideast exports"
+                }
+              ]
+            },
+            {
+              "title_ko": "트럼프 '평화위원회' 가자 재건 약정 180억 달러, 대부분 미집행",
+              "title_orig": "What has happened to the $18bn pledged to Trump's Board of Peace for Gaza?",
+              "summary": "평화위원회는 기부국이 약 180억 달러를 약속했다고 밝혔지만 실제 요청된 2억 8천만 달러 대부분이 쓰이지 않았다. 재건 비용은 약 710억 달러로 추산되며 이 중 60억 달러 규모 사업이 확인됐다. 위원회 관계자들은 이스라엘이 국제군이나 훈련된 팔레스타인 경찰의 가자 진입을 허용해야 자금을 쓸 수 있다고 설명하며, 이스라엘이 이동식 주택 6만 채 반입도 막고 있다고 알려졌다.",
+              "published": "2026-11-18",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/18/what-has-happened-to-the-18bn-pledged-to-trumps-board-of-peace-for-gaza",
+                  "title": "What has happened to the $18bn pledged to Trump's Board of Peace for Gaza?"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [
+            {
+              "title_ko": "가자 실향민, '옐로 라인' 인근 철거 반대 시위… 휴전 후 사망 1,661명",
+              "title_orig": "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
+              "summary": "가자 중부 데이르 알발라 인근 이른바 '옐로 라인' 부근에서 주민 수백 명이 이스라엘의 계속되는 주택 철거에 항의했다. 마가지 시장은 한 달이 안 되는 사이 500채 넘는 주거 단위가 파괴됐다고 주장했고, 가자 공공사업·주택부는 35만 가구가 집을 잃고 주택의 80%가 파괴됐다고 밝혔다. 보건부는 지난해 10월 휴전 이후 1,661명이 숨졌다고 집계했다.",
+              "published": "2026-11-22",
+              "event_date": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza",
+                  "title": "Displaced Palestinians protest as Israeli air strikes continue in Gaza"
+                }
+              ]
+            },
+            {
+              "title_ko": "헤브론 A지구 건물 철거 통보에 팔레스타인 주민 불안",
+              "title_orig": "Demolition notices for buildings in Hebron provoke fear among Palestinians",
+              "summary": "이스라엘군이 서안 헤브론 북서부 다이라트 알시르의 아파트 25가구·40가구 규모 건물 2동과 인근 주택에 철거 통보를 붙였고 이의 제기 기한은 일주일이다. 이 지역은 오슬로 합의상 팔레스타인 완전 통치 구역(A지구)이며, 이스라엘은 정착민 도로 인접을 이유로 들지만 소유주들은 팔레스타인 당국 허가를 갖고 있다고 말한다. 변호사들이 동결을 요청했으나 이스라엘은 답하지 않았다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/21/demolition-notices-for-buildings-in-area-a-of-hebron-spark-fear-among-palestinians",
+                  "title": "Demolition notices for buildings in Hebron provoke fear among Palestinians"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사건사고",
+          "items": [
+            {
+              "title_ko": "가자 이스라엘 공습으로 최소 3명 사망… 유엔 구호기구 직원 포함",
+              "title_orig": "Israeli strikes kill at least three, including UNRWA worker, in Gaza",
+              "summary": "유엔팔레스타인난민기구(UNRWA)는 직원 아델 알헬로가 자발리야 캠프의 우물 인근에서 숨졌고 3명이 다쳤다고 밝혔다. 가자시티 서부에서는 차량 공습으로 2명이 숨졌다고 의료진이 전했으며 이스라엘군은 논평하지 않았다. 지난해 10월 휴전 이후 팔레스타인인 최소 1,679명과 이스라엘 군인 5명이 숨졌다고 보도됐다.",
+              "published": "2026-11-23",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/23/israeli-drone-strike-kills-unrwa-worker-in-gaza",
+                  "title": "Israeli strikes kill at least three, including UNRWA worker, in Gaza"
+                }
+              ]
+            },
+            {
+              "title_ko": "호르무즈서 유조선 연쇄 피격… 이란 '기뢰 때문' 주장",
+              "title_orig": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
+              "summary": "영국 해사무역기구(UKMTO)는 21일 오만 카삽 인근에서 유조선이 선미와 기관실을 각각 공격받은 2건을 보고했으며 인명 피해는 없었다. 이란 해군은 한 유조선이 제한 구역에서 경고를 무시하다 기뢰를 건드려 불이 났다고 주장했으나 독립적으로 확인되지 않았다. 이란은 선박이 자국과 협의하고 지정 항로를 이용하도록 요구하고 있고, 미국은 이란 항구를 봉쇄하며 유조선을 호위한다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping",
+                  "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping"
+                }
+              ]
+            },
+            {
+              "title_ko": "바레인 산업시설 이란 공격으로 화재… 이란 혁명수비대 \"미군 기지 겨냥\"",
+              "title_orig": "Bahrain says Iranian attack caused fire at industrial facility",
+              "summary": "바레인 내무부는 이란의 공격으로 민간 산업시설에 물적 피해와 화재가 났다고 밝혔다. 더 내셔널은 이 공격으로 2명이 다쳤고 1명이 중상이라고 전했다. 이란 혁명수비대는 알리파·아왈리 미군 기지와 패트리엇 레이더 2기를 공격했다고 주장했으나 확인되지 않았으며, 바레인은 유엔 안보리에 대응을 요청했다.",
+              "published": "2026-11-22",
+              "event_date": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "The National",
+                  "url": "https://www.thenationalnews.com/news/gulf/2026/11/22/two-injured-one-critically-in-iranian-attack-on-industrial-plant-in-bahrain/",
+                  "title": "Two injured, one critically, in Iranian attack on industrial plant in Bahrain"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "africa",
+      "part": "2. 권역별 뉴스",
+      "name": "6) 아프리카",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "콩고민주공화국-르완다 갈등에 프랑코포니 사무총장 선거 2027년으로 연기",
+              "title_orig": "DR Congo-Rwanda tensions force Francophonie leadership election delay until 2027",
+              "summary": "프랑코포니기구(OIF)는 프놈펜 정상회의에서 새 사무총장을 뽑으려 했으나 합의에 이르지 못해 투표가 2027년 말로 미뤄졌다. 콩고민주공화국은 르완다의 루이즈 무시키와보 사무총장이 3선에 나설 경우 기구 탈퇴를 경고했고, 킨샤사는 키갈리가 M23 반군을 지원한다고 주장하는 반면 르완다는 이를 부인한다. 무시키와보 사무총장은 후보직을 유지하겠다고 밝혔다.",
+              "published": "2026-11-16",
+              "links": [
+                {
+                  "outlet": "Africanews",
+                  "url": "https://www.africanews.com/2026/11/16/dr-congo-rwanda-tensions-force-francophonie-leadership-election-delay-until-2027/",
+                  "title": "DR Congo-Rwanda tensions force Francophonie leadership election delay until 2027"
+                }
+              ]
+            },
+            {
+              "title_ko": "소말리아, UAE 대사 추방… 소말리아-UAE 갈등 배경은",
+              "title_orig": "Why Somalia's president turned against his former ally, the UAE",
+              "summary": "소말리아는 19일 주재 UAE 대사에게 출국을 명령하고 아부다비 주재 자국 대사를 소환했다. 소말리아 대통령은 UAE가 경쟁 지역정부들에 자금을 댄다고 비난했고, UAE는 양국 관계가 깊다며 소말리아의 내부 분쟁을 지적했다. 알자지라는 푼틀란드·주바란드·소말릴란드 등 UAE와 가까운 지역과의 권력 다툼이 배경이라고 분석했다.",
+              "published": "2026-11-22",
+              "event_date": "2026-11-19",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/22/why-somalias-president-turned-against-his-former-ally-the-uae",
+                  "title": "Why Somalia's president turned against his former ally, the UAE"
+                }
+              ]
+            },
+            {
+              "title_ko": "독일·덴마크·오스트리아·그리스·네덜란드, 르완다에 '송환 허브' 추진",
+              "title_orig": "Today in Africa — Nov. 16, 2026: Five EU Countries Plan to Send Migrants to Rwanda; Nigeria Becomes a Major Fuel Exporter",
+              "summary": "독일·덴마크·오스트리아·그리스·네덜란드가 2027년 가동을 목표로 르완다에 '송환 허브'를 세우기로 했으며, 처음에는 대부분 독신 남성인 약 100명 규모의 시범으로 시작한다. 휴먼라이츠워치와 EU 기본권청은 인권 우려를 제기했고, 르완다 내무장관은 '안전하고 합법적이며 존엄한' 해법을 약속한다고 밝혔다.",
+              "published": "2026-11-16",
+              "links": [
+                {
+                  "outlet": "OkayAfrica",
+                  "url": "https://www.okayafrica.com/today-in-africa-nov-16-2026-five-eu-countries-plan-to-send-migrants-to-rwanda-nigeria-becomes-a-major-fuel-exporter/1441962",
+                  "title": "Today in Africa — Nov. 16, 2026: Five EU Countries Plan to Send Migrants to Rwanda; Nigeria Becomes a Major Fuel Exporter"
+                }
+              ]
+            },
+            {
+              "title_ko": "남아공 요하네스버그 시정 구성: ANC·ActionSA·MK·EFF 협약, 마샤바 시장 유력",
+              "title_orig": "Mashaba set for Joburg mayoralty as ANC, ActionSA, MK and EFF seal metro pact",
+              "summary": "데일리 마베릭은 지방선거 이후 ANC, ActionSA, MK, EFF가 대도시 시정 구성 협약을 맺어 ActionSA의 헤르만 마샤바가 요하네스버그 시장이 될 전망이라고 보도했다. 같은 날 DA는 ANC에 137개 지방의회 중 93곳의 시장직을 제안했으나 ActionSA는 가우텡 지역 제안을 거부했다고 전해졌다.",
+              "published": "2026-11-23",
+              "links": [
+                {
+                  "outlet": "Daily Maverick",
+                  "url": "https://www.dailymaverick.co.za/article/2026-11-23-mashaba-set-for-joburg-mayoralty-as-anc-actionsa-mk-and-eff-seal-metro-pact/",
+                  "title": "Mashaba set for Joburg mayoralty as ANC, ActionSA, MK and EFF seal metro pact"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [
+            {
+              "title_ko": "남아공 중앙은행, 기준금리 7.25% 동결… 인플레이션 5%대 지속 전망",
+              "title_orig": "SA Reserve Bank holds rates steady at year-end, but inflation spectre lingers",
+              "summary": "남아공 중앙은행 통화정책위원회는 19일 기준금리를 7.25%로 동결했다. 표결은 동결 4, 25bp 인상 3이었고 카냐고 총재는 '지금은 잠시 멈춘 것'이라며 필요하면 인상하겠다고 밝혔다. 10월 소비자물가는 5.2%로 올랐고 중앙은행은 물가가 11월 5.4%로 정점을 찍은 뒤 내년 초까지 5% 안팎에 머물 것으로 전망하며, 이란 전쟁 영향으로 휘발유값이 1년 새 리터당 약 21랜드에서 30랜드에 가까워졌다.",
+              "published": "2026-11-19",
+              "links": [
+                {
+                  "outlet": "Daily Maverick",
+                  "url": "https://www.dailymaverick.co.za/article/2026-11-19-sa-reserve-bank-holds-rates-steady-at-year-end-but-inflation-spectre-lingers/",
+                  "title": "SA Reserve Bank holds rates steady at year-end, but inflation spectre lingers"
+                },
+                {
+                  "outlet": "EWN",
+                  "url": "https://www.ewn.co.za/2026/11/19/sarb-says-inflation-expected-to-stay-above-5-into-early-2027",
+                  "title": "SARB says inflation expected to stay above 5% into early 2027"
+                }
+              ]
+            },
+            {
+              "title_ko": "미국·중국·러시아, 아프리카 광물 두고 경쟁",
+              "title_orig": "How the US, China and Russia are competing for Africa's mineral wealth",
+              "summary": "미국·중국·러시아가 아프리카 광물을 놓고 경쟁하며, 중국은 여러 공급망에서 우위를 보이고 러시아는 주로 사헬 지역 안보 협력을 통해 영향력을 넓힌다. 콩고민주공화국은 2025년 세계 채굴 코발트의 약 73%를 차지했고, 미국이 지원하는 로비토 회랑이 앙골라 해안과 콩고 구리·코발트 지대를 잇는다. 중국·아프리카 교역은 지난해 사상 최대인 3480억 달러였다.",
+              "published": "2026-11-23",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/23/how-the-us-china-and-russia-are-competing-for-africas-mineral-wealth",
+                  "title": "How the US, China and Russia are competing for Africa's mineral wealth"
+                }
+              ]
+            },
+            {
+              "title_ko": "아프리카연합 출범 신용평가사 AfCRA, 대륙 평가 방식 바꿀까",
+              "title_orig": "Can Africa's new credit rating agency change how the continent is assessed?",
+              "summary": "아프리카연합은 10월 7일 모리셔스 포트루이스에 아프리카신용평가기관(AfCRA)을 출범시켰으며 첫 국가신용등급은 내년 3월 말까지 나올 것으로 예상된다. 임시 대표는 15개국 정부와 협의 중이라고 밝혔다. 2023년 유엔개발계획 연구는 평가의 주관성 때문에 아프리카 국가가 약 745억 달러를 더 부담한다고 추산했지만, 의뢰 방식 모델과 정부 지분 여부를 둘러싼 독립성 의문도 제기된다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/21/can-africas-new-credit-rating-agency-change-how-the-continent-is-assessed",
+                  "title": "Can Africa's new credit rating agency change how the continent is assessed?"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [
+            {
+              "title_ko": "수단 노년층, 피란살이 속 고난과 상심",
+              "title_orig": "Sudan's elderly face hardship and heartbreak in a life of displacement",
+              "summary": "바라 인근 RSF 공격으로 피란한 70세 남성이 옴두르만 서부 알물리 캠프에서 지내는 사연을 통해 수단 노년층의 처지를 조명했다. 약 1만 명이 사는 이 캠프는 65세 이상이 5명 중 1명이고, 노인 보호시설은 유일한 차량을 잃고 자금난을 겪는다. 유엔은 올해 수단의 65세 이상 인구를 180만 명으로 보며, 사회복지장관은 피란민이 약 860만 명이라고 밝혔다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/21/sudans-elderly-face-hardship-and-heartbreak-in-a-life-of-displacement",
+                  "title": "Sudan's elderly face hardship and heartbreak in a life of displacement"
+                }
+              ]
+            },
+            {
+              "title_ko": "세네갈 AFCON 우승 박탈 항소, 24일 스포츠중재재판소 결정",
+              "title_orig": "CAS decision on Senegal's AFCON 2025 title appeal on Tuesday",
+              "summary": "스포츠중재재판소(CAS)는 24일 세네갈의 아프리카네이션스컵 2025 타이틀 항소 결정을 발표한다. 1월 결승에서 세네갈이 연장 끝에 1-0으로 이겼지만 세네갈이 경기장을 이탈했다는 이유로 CAF 항소위가 모로코의 3-0 몰수승으로 뒤집었다. CAS는 10월 초 로잔에서 심리를 열었고 이유를 담은 전체 판정문은 수주가 걸린다고 밝힌 바 있다.",
+              "published": "2026-11-23",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/sports/2026/11/23/senegal-africa-cup-of-nations-afcon-morocco-cas-decision-appeal",
+                  "title": "CAS decision on Senegal's AFCON 2025 title appeal on Tuesday"
+                }
+              ]
+            },
+            {
+              "title_ko": "모리셔스, 가뭄으로 농업 타격·식품 가격 상승",
+              "title_orig": "Drought strains Mauritius' agricultural sector pushing up food prices",
+              "summary": "아프리카뉴스는 모리셔스가 가뭄으로 농업 부문이 부담을 받고 있으며 이 때문에 식품 가격이 오르고 있다고 전했다.",
+              "published": "2026-11-22",
+              "links": [
+                {
+                  "outlet": "Africanews",
+                  "url": "https://www.africanews.com/2026/11/22/drought-strains-mauritius-agricultural-sector-pushing-up-food-prices/",
+                  "title": "Drought strains Mauritius' agricultural sector pushing up food prices"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사건사고",
+          "items": [
+            {
+              "title_ko": "리비아 벵가지 항구서 러시아 선박 드론 피격… 젤렌스키 \"우크라이나 소행\"",
+              "title_orig": "Ukraine claims drone strikes on Russian ships off Libya: What do we know?",
+              "summary": "22일 리비아 벵가지 해군 기지에서 러시아 초계함 메르쿠리가 공격을 받아 위성사진상 대부분 전복·침몰한 것으로 나타났다. 젤렌스키 대통령은 23일 우크라이나산 해상 드론 7기가 이 함정과 화물선 앙가라를 타격했다고 밝혔으며 이는 독립적으로 검증되지 않았다. 리비아 동부 행정부는 주권 침해라며 유엔 지원 조사를 요구했고 유엔리비아지원단도 독립 조사를 촉구했다.",
+              "published": "2026-11-23",
+              "event_date": "2026-11-22",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/23/russian-ships-hit-by-drones-off-libya-coast-what-do-we-know",
+                  "title": "Ukraine claims drone strikes on Russian ships off Libya: What do we know?"
+                }
+              ]
+            },
+            {
+              "title_ko": "에볼라 확산 콩고 이투리 지역서 격렬한 교전… WHO 사무총장 평화 촉구",
+              "title_orig": "WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region",
+              "summary": "테드로스 WHO 사무총장은 이투리주 병원 인근의 격렬한 교전으로 에볼라 대응이 차질을 빚었다고 밝혔다. 직원과 구호 단체 관계자들은 산부인과 병동에서 24시간 넘게 대피했고 WHO가 안전한 철수를 추진 중이다. WHO 집계로 17일까지 콩고민주공화국의 에볼라 확진은 11,613건, 사망은 5,678명이다.",
+              "published": "2026-11-23",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region",
+                  "title": "WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region"
+                }
+              ]
+            },
+            {
+              "title_ko": "나이지리아 바옐사주서 장례 가던 조문객 태운 보트 전복, 최소 24명 사망",
+              "title_orig": "Overturned boat carrying mourners to funeral kills at least 24 in Nigeria",
+              "summary": "과적 상태로 장례식에 가던 보트가 20일 바옐사주에서 기계 고장 후 뒤집혀 국가비상관리청(NEMA)이 최소 24구의 시신을 수습했고 수색이 이어진다. 경찰은 24명을 구조했다고 밝혔다. 운전자는 달아났고 선박 관리자는 구금됐으며 주민들은 탑승자가 300명이 넘었다고 로이터에 말했다.",
+              "published": "2026-11-22",
+              "event_date": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/22/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria",
+                  "title": "Overturned boat carrying mourners to funeral kills at least 24 in Nigeria"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "economy",
+      "part": "3. 경제",
+      "name": "경제",
+      "dashboard": [
+        {
+          "id": "kr",
+          "name": "한국",
+          "en": "KOREA",
+          "tables": [
+            {
+              "name": "주요 거시경제 지표",
+              "rows": [
+                {
+                  "name": "기준금리",
+                  "value": "3.00%",
+                  "change": "동결 (직전 3.00%, 금통위원 7인 만장일치)",
+                  "period": "2026-10-22 금융통화위원회",
+                  "source": "한국은행 (서울신문 보도)",
+                  "url": "https://www.seoul.co.kr/news/newsView.php?id=20261023031006"
+                },
+                {
+                  "name": "소비자물가 상승률(전년동월비)",
+                  "value": "2.8%",
+                  "change": "전월 2.9%",
+                  "period": "2026년 10월",
+                  "source": "국가데이터처",
+                  "url": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156787698"
+                },
+                {
+                  "name": "근원물가(식료품·에너지 제외, 전년동월비)",
+                  "value": "2.8%",
+                  "change": "전월비 +0.4%",
+                  "period": "2026년 10월",
+                  "source": "국가데이터처",
+                  "url": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156787698"
+                },
+                {
+                  "name": "근원물가(농산물·석유류 제외, 전년동월비)",
+                  "value": "2.8%",
+                  "change": "전월비 +0.4%",
+                  "period": "2026년 10월",
+                  "source": "국가데이터처",
+                  "url": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156787698"
+                },
+                {
+                  "name": "실질 GDP 성장률(전기비·속보)",
+                  "value": "+1.0%",
+                  "change": "전년동기비 +3.4%",
+                  "period": "2026년 3분기",
+                  "source": "한국은행",
+                  "url": "https://ceoscoredaily.com/page/view/2026102711492273431"
+                },
+                {
+                  "name": "실업률(원계열)",
+                  "value": "2.0%",
+                  "change": "전년동월비 -0.2%p",
+                  "period": "2026년 10월",
+                  "source": "국가데이터처",
+                  "url": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156788701"
+                },
+                {
+                  "name": "취업자 증감(전년동월비)",
+                  "value": "+13.9만 명",
+                  "change": "전월 +11.3만 명",
+                  "period": "2026년 10월",
+                  "source": "국가데이터처",
+                  "url": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156788701"
+                },
+                {
+                  "name": "수출(금액)",
+                  "value": "1,152.8억 달러",
+                  "change": "전년동월비 +93.7%, 전월 1,211억 달러",
+                  "period": "2026년 10월",
+                  "source": "산업통상부 (메트로신문 보도)",
+                  "url": "https://www.metroseoul.co.kr/article/20261101500171"
+                },
+                {
+                  "name": "무역수지",
+                  "value": "+425억 달러",
+                  "change": "두 달 연속 400억 달러 초과 흑자",
+                  "period": "2026년 10월",
+                  "source": "산업통상부 (메트로신문 보도)",
+                  "url": "https://www.metroseoul.co.kr/article/20261101500171"
+                }
+              ]
+            },
+            {
+              "name": "주식시장·환율",
+              "rows": [
+                {
+                  "name": "코스피",
+                  "value": "4,708.54",
+                  "change": "-3.31% (전 거래일 4,869.96)",
+                  "period": "2026-11-23 종가",
+                  "source": "The Korea Times",
+                  "url": "https://www.koreatimes.co.kr/economy/20261123/seoul-stocks-lose-33-as-ai-rout-tests-govt-rescue-plans"
+                },
+                {
+                  "name": "코스닥",
+                  "value": "635.45",
+                  "change": "-1.58% (전 거래일 645.68)",
+                  "period": "2026-11-23 종가",
+                  "source": "The Korea Times",
+                  "url": "https://www.koreatimes.co.kr/economy/20261123/seoul-stocks-lose-33-as-ai-rout-tests-govt-rescue-plans"
+                },
+                {
+                  "name": "원/달러 환율",
+                  "value": "1,336.2원",
+                  "change": "+0.47% (+6.2원, 전일 1,330원)",
+                  "period": "2026-11-20 15:30 기준",
+                  "source": "Korea JoongAng Daily",
+                  "url": "https://www.koreajoongangdaily.com/business/chip-slump-rattles-kospi-below-5000-but-analysts-say-buy-the-dip/12982994"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "us",
+          "name": "미국",
+          "en": "UNITED STATES",
+          "tables": [
+            {
+              "name": "주요 거시경제 지표",
+              "rows": [
+                {
+                  "name": "연방기금금리 목표 범위",
+                  "value": "3.75~4.00%",
+                  "change": "동결 (10-2 표결, 2명은 0.25%p 인상 선호)",
+                  "period": "2026-10-28 FOMC",
+                  "source": "연방준비제도",
+                  "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
+                },
+                {
+                  "name": "CPI(전월비, 계절조정)",
+                  "value": "+0.4%",
+                  "change": "전년동월비는 미발표 (2025년 10월 자료 미수집)",
+                  "period": "2026년 10월",
+                  "source": "미 노동통계국(BLS)",
+                  "url": "https://www.bls.gov/news.release/archives/cpi_11102026.htm"
+                },
+                {
+                  "name": "근원 CPI(전월비, 계절조정)",
+                  "value": "+0.3%",
+                  "change": "8·9월에도 +0.3%",
+                  "period": "2026년 10월",
+                  "source": "미 노동통계국(BLS)",
+                  "url": "https://www.bls.gov/news.release/archives/cpi_11102026.htm"
+                },
+                {
+                  "name": "근원 PCE 물가(식품·에너지 제외, 전기비 연율)",
+                  "value": "+2.5%",
+                  "change": "직전 분기 +3.3%",
+                  "period": "2026년 3분기 (속보)",
+                  "source": "미 경제분석국(BEA)",
+                  "url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026/"
+                },
+                {
+                  "name": "실질 GDP 성장률(전기비 연율)",
+                  "value": "+3.4%",
+                  "change": "직전 분기 +2.2%",
+                  "period": "2026년 3분기 (속보)",
+                  "source": "미 경제분석국(BEA)",
+                  "url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026/"
+                },
+                {
+                  "name": "실업률",
+                  "value": "4.1%",
+                  "change": "전월 4.2%",
+                  "period": "2026년 10월",
+                  "source": "미 노동통계국(BLS)",
+                  "url": "https://www.bls.gov/news.release/archives/empsit_11062026.htm"
+                },
+                {
+                  "name": "비농업 고용 증감",
+                  "value": "+16.5만 명",
+                  "change": "전월 +6.0만 명 (수정치)",
+                  "period": "2026년 10월 (잠정)",
+                  "source": "미 노동통계국(BLS)",
+                  "url": "https://www.bls.gov/news.release/archives/empsit_11062026.htm"
+                }
+              ]
+            },
+            {
+              "name": "주식시장",
+              "rows": [
+                {
+                  "name": "S&P 500",
+                  "value": "6,910.39",
+                  "change": "-3.70% (-265.44)",
+                  "period": "2026-11-20 종가",
+                  "source": "AP 통신",
+                  "url": "https://www.inquirer.com/business/stock-market-sp-correction-ai-nvidia-anthropic-loss-20261120.html"
+                },
+                {
+                  "name": "다우존스 산업평균",
+                  "value": "48,147.33",
+                  "change": "-1.93% (-949.73)",
+                  "period": "2026-11-20 종가",
+                  "source": "AP 통신, 로이터",
+                  "url": "https://www.inquirer.com/business/stock-market-sp-correction-ai-nvidia-anthropic-loss-20261120.html"
+                },
+                {
+                  "name": "나스닥 종합",
+                  "value": "22,617.73",
+                  "change": "-5.28% (-1,261.47)",
+                  "period": "2026-11-20 종가",
+                  "source": "AP 통신, 로이터",
+                  "url": "https://www.inquirer.com/business/stock-market-sp-correction-ai-nvidia-anthropic-loss-20261120.html"
+                },
+                {
+                  "name": "러셀 2000",
+                  "value": "2,581.79",
+                  "change": "-2.76% (-73.32)",
+                  "period": "2026-11-20 종가",
+                  "source": "Yahoo Finance 시세",
+                  "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-slip-anthropic-104746137.html"
+                },
+                {
+                  "name": "VIX",
+                  "value": "35.89",
+                  "change": "+26.20% (+7.45)",
+                  "period": "2026-11-20 종가",
+                  "source": "Yahoo Finance 시세 (로이터: 2025년 4월 7일 이후 최고 종가)",
+                  "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-slip-anthropic-104746137.html"
+                },
+                {
+                  "name": "미 국채 10년물 금리",
+                  "value": "4.93%",
+                  "change": "전일 5.04%",
+                  "period": "2026-11-20",
+                  "source": "AP 통신",
+                  "url": "https://www.inquirer.com/business/stock-market-sp-correction-ai-nvidia-anthropic-loss-20261120.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "world",
+          "name": "세계",
+          "en": "WORLD",
+          "tables": [
+            {
+              "name": "주요 거시경제 지표",
+              "rows": [
+                {
+                  "name": "유로존 소비자물가(HICP, 전년동월비·속보)",
+                  "value": "4.0%",
+                  "change": "전월 3.8%, 근원 2.5%",
+                  "period": "2026년 10월",
+                  "source": "유로스타트 (Il Sole 24 Ore 보도)",
+                  "url": "https://en.ilsole24ore.com/art/eurozone-inflation-estimated-at-4-per-cent-year-on-year-in-october-growth-at-38-per-cent-AJ8ecI4B"
+                },
+                {
+                  "name": "ECB 예금금리",
+                  "value": "2.50%",
+                  "change": "동결",
+                  "period": "2026년 10월 정책회의",
+                  "source": "유럽중앙은행 (Il Sole 24 Ore 보도)",
+                  "url": "https://en.ilsole24ore.com/art/eurozone-inflation-estimated-at-4-per-cent-year-on-year-in-october-growth-at-38-per-cent-AJ8ecI4B"
+                },
+                {
+                  "name": "중국 소비자물가(CPI, 전년동월비)",
+                  "value": "+0.7%",
+                  "change": "전월비 0.0%",
+                  "period": "2026년 10월",
+                  "source": "중국 국가통계국",
+                  "url": "https://www.stats.gov.cn/english/PressRelease/202611/t20261111_1965808.html"
+                },
+                {
+                  "name": "중국 실질 GDP 성장률(전년동기비)",
+                  "value": "+4.5%",
+                  "change": "직전 분기 +4.3%",
+                  "period": "2026년 3분기",
+                  "source": "AFP (쿠웨이트타임스 보도)",
+                  "url": "https://kuwaittimes.com/article/51892/business/chinas-third-quarter-growth-narrowly-beats-forecasts/"
+                },
+                {
+                  "name": "일본은행 정책금리",
+                  "value": "1.25%",
+                  "change": "동결 (8-1 표결, 6·9월 인상 이후)",
+                  "period": "2026-10-30 금융정책결정회의",
+                  "source": "일본은행 (The Herald Business 보도)",
+                  "url": "https://biz.heraldcorp.com/article/10920811"
+                },
+                {
+                  "name": "브렌트유",
+                  "value": "91.98달러/배럴",
+                  "change": "+0.03달러 (+0.03%)",
+                  "period": "2026-11-19 정산가",
+                  "source": "카타르통신(QNA)",
+                  "url": "https://qna.org.qa/en/News-Area/News/2026-11/20/oil-prices-end-largely-unchanged-as-brent-edges-higher-and-us-crude-slips"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "groups": [
+        {
+          "name": "헤드라인",
+          "items": [
+            {
+              "title_ko": "월가, 젠슨 황 엔비디아 CEO 복귀에 급반등…나스닥 6%대 급등",
+              "title_orig": "Wall St roars back as Jensen Huang returns to Nvidia as CEO",
+              "summary": "엔비디아 이사회가 젠슨 황을 CEO로 복귀시킨다는 소식에 뉴욕 증시가 폭등했다. 로이터 집계로 정오 무렵 다우는 3.05% 오른 49,617.33, S&P 500은 4.85% 오른 7,245.46, 나스닥 종합은 6.69% 오른 24,131.42였고 엔비디아는 장중 30%대 급등했다. 지난주 조정 국면에 들어갔던 지수가 하루 만에 낙폭의 일부를 만회했으며, 시장은 수요일 발표될 PCE 물가와 12월 금리 인상 가능성에 주목하고 있다.",
+              "published": "2026-11-23",
+              "event_date": "2026-11-23",
+              "figure": "다우 +3.05%, S&P 500 +4.85%, 나스닥 +6.69% (현지시간 정오 무렵 장중 기준)",
+              "source": "로이터",
+              "links": [
+                {
+                  "outlet": "The Korea Times",
+                  "url": "https://www.koreatimes.co.kr/world/20261124/wall-st-roars-back-as-jensen-huang-returns-to-nvidia-as-ceo",
+                  "title": "Wall St roars back as Jensen Huang returns to Nvidia as CEO"
+                },
+                {
+                  "outlet": "Fox Business",
+                  "url": "https://www.foxbusiness.com/markets/stocks-november-23-2026",
+                  "title": "Stocks rebound as Nvidia spikes after Jensen Huang's return"
+                }
+              ]
+            },
+            {
+              "title_ko": "코스피 3.31% 하락한 4,708.54 마감…장중 5% 급락, 정부 증시 안정 대책 시험대",
+              "title_orig": "Seoul stocks lose 3.3% as AI rout tests gov't rescue plans",
+              "summary": "코스피는 지난 금요일 미국 반도체주 폭락 여파로 3.31% 내린 4,708.54에 마감해 1월 13일 이후 최저를 기록했고, 장중 한때 5% 가까이 빠져 매도 사이드카가 발동됐다. 코스닥은 1.58% 내린 635.45로 2년 만에 가장 낮았다. 정부는 일요일 증시안정기금 가동 준비, 자사주 매입 규제 완화, 3개월간 불법 공매도 단속을 내놨지만 외국인 매도가 잦아들어야 반등할 수 있다는 분석이 나온다.",
+              "published": "2026-11-23",
+              "figure": "코스피 4,708.54 (-3.31%), 코스닥 635.45 (-1.58%)",
+              "source": "한국거래소 (The Korea Times 보도)",
+              "links": [
+                {
+                  "outlet": "The Korea Times",
+                  "url": "https://www.koreatimes.co.kr/economy/20261123/seoul-stocks-lose-33-as-ai-rout-tests-govt-rescue-plans",
+                  "title": "Seoul stocks lose 3.3% as AI rout tests gov't rescue plans"
+                }
+              ]
+            },
+            {
+              "title_ko": "엔비디아, 황 CEO 복귀 소식에 장중 30%대 폭등…역대급 반전",
+              "title_orig": "Wall St roars back as Jensen Huang returns to Nvidia as CEO",
+              "summary": "엔비디아 이사회가 사임했던 젠슨 황을 CEO로 복귀시키자 주가가 하루 만에 30% 넘게 치솟아 20여 년 만의 최대 일일 상승폭을 향했다. 황 CEO는 이달 초 사생활 스캔들과 중국 스파이 의혹으로 물러났고 트럼프 대통령이 복귀를 요구해 왔다. AMD·마이크론·브로드컴과 코어위브 등 AI 관련주도 동반 급등했다.",
+              "published": "2026-11-23",
+              "figure": "엔비디아 장중 +32.2% (현지시간 정오 무렵)",
+              "source": "로이터",
+              "links": [
+                {
+                  "outlet": "The Korea Times",
+                  "url": "https://www.koreatimes.co.kr/world/20261124/wall-st-roars-back-as-jensen-huang-returns-to-nvidia-as-ceo",
+                  "title": "Wall St roars back as Jensen Huang returns to Nvidia as CEO"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "한국 주식시장",
+          "items": [
+            {
+              "title_ko": "코스피 3.31% 하락한 4,708.54 마감…장중 5% 급락, 정부 증시 안정 대책 시험대",
+              "title_orig": "Seoul stocks lose 3.3% as AI rout tests gov't rescue plans",
+              "summary": "코스피는 지난 금요일 미국 반도체주 폭락 여파로 3.31% 내린 4,708.54에 마감해 1월 13일 이후 최저를 기록했고, 장중 한때 5% 가까이 빠져 매도 사이드카가 발동됐다. 코스닥은 1.58% 내린 635.45로 2년 만에 가장 낮았다. 정부는 일요일 증시안정기금 가동 준비, 자사주 매입 규제 완화, 3개월간 불법 공매도 단속을 내놨지만 외국인 매도가 잦아들어야 반등할 수 있다는 분석이 나온다.",
+              "published": "2026-11-23",
+              "figure": "코스피 4,708.54 (-3.31%), 코스닥 635.45 (-1.58%)",
+              "source": "한국거래소 (The Korea Times 보도)",
+              "links": [
+                {
+                  "outlet": "The Korea Times",
+                  "url": "https://www.koreatimes.co.kr/economy/20261123/seoul-stocks-lose-33-as-ai-rout-tests-govt-rescue-plans",
+                  "title": "Seoul stocks lose 3.3% as AI rout tests gov't rescue plans"
+                }
+              ]
+            },
+            {
+              "title_ko": "코스피 5.21% 급락해 4,870선…코스닥 5.71% 하락, 양 시장 매도 사이드카",
+              "title_orig": "Chip slump rattles Kospi below 5,000, but analysts say buy the dip",
+              "summary": "코스피가 20일 5.21% 하락한 4,869.96, 코스닥이 5.71% 하락한 645.68로 마감했다. 선물 급락으로 매도 사이드카가 발동됐고 삼성전자는 7.01% 내린 18만3,100원, SK하이닉스는 5.92% 내린 111만 원에 거래를 마쳤다. 외국인이 1조1,300억 원, 기관이 9,513억 원을 순매도했고 개인은 1조5,900억 원을 순매수했다.",
+              "published": "2026-11-20",
+              "event_date": "2026-11-20",
+              "figure": "코스피 4,869.96 (-5.21%), 코스닥 645.68 (-5.71%) (2026-11-20 종가)",
+              "source": "Korea JoongAng Daily",
+              "links": [
+                {
+                  "outlet": "Korea JoongAng Daily",
+                  "url": "https://www.koreajoongangdaily.com/business/chip-slump-rattles-kospi-below-5000-but-analysts-say-buy-the-dip/12982994",
+                  "title": "Chip slump rattles Kospi below 5,000, but analysts say buy the dip"
+                }
+              ]
+            },
+            {
+              "title_ko": "외국인, 10월 한국 주식 26조 원 순매도…11월에도 매도 지속",
+              "title_orig": "Foreign investors dump Korean stocks, shift to bonds",
+              "summary": "외국인은 10월 한 달 국내 주식을 약 25조9,800억 원 순매도하고 채권은 7조3,800억 원 순매수했다. 11월 2~20일 15거래일 동안에도 16조2,900억 원어치를 팔았으며, 코스피는 10월 2일 종가 기준 고점 7,003.74에서 4,869.96으로 30.5% 내렸다. 메모리 반도체 업황 정점 우려와 AI 기업 신용 위험이 매도 원인으로 꼽혔다.",
+              "published": "2026-11-21",
+              "event_date": "2026-11-20",
+              "figure": "10월 외국인 주식 순매도 25.98조 원, 채권 순매수 7.38조 원",
+              "source": "금융감독원, 한국거래소",
+              "links": [
+                {
+                  "outlet": "The Korea Herald",
+                  "url": "https://www.koreaherald.com/article/10944707",
+                  "title": "Foreign investors dump Korean stocks, shift to bonds"
+                },
+                {
+                  "outlet": "The Korea Herald",
+                  "url": "https://www.koreaherald.com/article/10944123",
+                  "title": "Foreign investors sell W26tr of Korean stocks in October"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "미국 주식시장",
+          "items": [
+            {
+              "title_ko": "연준 12월 25bp 인상 베팅 96%…수요일 PCE 물가 주목",
+              "title_orig": "Stocks rebound as Nvidia spikes after Jensen Huang's return",
+              "summary": "CME 페드워치 기준 시장은 12월 연준 회의에서 0.25%p 인상 가능성을 약 96%로 반영하고 있다. 이번 주 가장 큰 변수는 수요일 오전 8시 30분(미 동부시간) 발표되는 10월 PCE 물가이고, 뉴욕 연은 윌리엄스 총재의 발언과 S&P 글로벌 11월 종합 PMI도 예정돼 있다.",
+              "published": "2026-11-23",
+              "figure": "12월 25bp 인상 확률 약 96% (CME 페드워치)",
+              "source": "CME 페드워치",
+              "links": [
+                {
+                  "outlet": "Fox Business",
+                  "url": "https://www.foxbusiness.com/markets/stocks-november-23-2026",
+                  "title": "Stocks rebound as Nvidia spikes after Jensen Huang's return"
+                }
+              ]
+            },
+            {
+              "title_ko": "S&P 500 3.7% 급락, 나스닥은 올해 상승분 반납",
+              "title_orig": "S&P 500 sinks 3.7%, Nasdaq goes negative for the year",
+              "summary": "20일 뉴욕증시에서 S&P 500이 3.7% 내린 6,910.39, 다우지수가 1.9% 내린 48,147.33, 나스닥이 5.3% 내린 22,617.73으로 마감했다. 엔비디아가 13.8%, AMD가 13.3%, 마이크론이 13.9% 급락하는 등 AI·반도체주 매도가 시장을 짓눌렀고 10년물 국채금리는 4.93%로 내렸다.",
+              "published": "2026-11-20",
+              "event_date": "2026-11-20",
+              "figure": "S&P 500 6,910.39 (-3.70%), 다우 48,147.33 (-1.9%), 나스닥 22,617.73 (-5.3%) (2026-11-20 종가)",
+              "source": "AP",
+              "links": [
+                {
+                  "outlet": "The Philadelphia Inquirer",
+                  "url": "https://www.inquirer.com/business/stock-market-sp-correction-ai-nvidia-anthropic-loss-20261120.html",
+                  "title": "S&P 500 sinks 3.7%, Nasdaq goes negative for the year"
+                }
+              ]
+            },
+            {
+              "title_ko": "AI 거품 논쟁 속 앤트로픽 상장…IPO·사모 합쳐 1,000억 달러 조달",
+              "title_orig": "Investors scramble for a piece of AI giant Anthropic in blockbuster IPO",
+              "summary": "앤트로픽은 공모가 83달러에 약 9억5,600만 주를 팔았고, 사모 배정까지 합쳐 1,000억 달러 이상을 모았다. 첫날 시초가는 공모가보다 34% 높게 형성됐다. 기사는 이번 상장이 AI 거품 논쟁과 국방부와의 갈등 속에 이뤄졌고, 회사가 AI 훈련·배포 속도를 조절하겠다고 약속했다고 전했다.",
+              "published": "2026-11-19",
+              "event_date": "2026-11-19",
+              "links": [
+                {
+                  "outlet": "NPR",
+                  "url": "https://www.npr.org/2026/11/19/nx-s1-6042558/anthropic-ipo-breaks-records-100-billion",
+                  "title": "Investors scramble for a piece of AI giant Anthropic in blockbuster IPO"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "주요 기업",
+          "items": [
+            {
+              "title_ko": "크라우드스트라이크, 즈스케일러 439억 달러 전액 주식 인수 발표",
+              "title_orig": "CrowdStrike Q3 FY2027 results and agreement to acquire Zscaler",
+              "summary": "사이버보안 업체 크라우드스트라이크가 즈스케일러를 약 439억 달러에 인수하기로 확정 계약을 맺었다고 3분기 실적과 함께 공시했다. 즈스케일러 1주는 크라우드스트라이크 1.135주로 교환되며, 규제 당국 승인과 주주 절차가 남아 있다. 회사는 3분기 매출이 15.8억 달러로 28% 늘었고 연간 전망을 상향했다고 밝혔으며, 잉여현금흐름 개선 효과를 강조했다.",
+              "published": "2026-11-23",
+              "figure": "인수가 약 439억 달러, 교환비율 1.135",
+              "source": "크라우드스트라이크 (SEC 제출 자료)",
+              "links": [
+                {
+                  "outlet": "CrowdStrike",
+                  "url": "https://www.sec.gov/Archives/edgar/data/0001535527/000153552726000035/crwd-20261123xex991.htm",
+                  "title": "CrowdStrike Holdings, Inc. - Form 8-K Exhibit 99.1"
+                }
+              ]
+            },
+            {
+              "title_ko": "엔비디아, 황 CEO 복귀 소식에 장중 30%대 폭등…역대급 반전",
+              "title_orig": "Wall St roars back as Jensen Huang returns to Nvidia as CEO",
+              "summary": "엔비디아 이사회가 사임했던 젠슨 황을 CEO로 복귀시키자 주가가 하루 만에 30% 넘게 치솟아 20여 년 만의 최대 일일 상승폭을 향했다. 황 CEO는 이달 초 사생활 스캔들과 중국 스파이 의혹으로 물러났고 트럼프 대통령이 복귀를 요구해 왔다. AMD·마이크론·브로드컴과 코어위브 등 AI 관련주도 동반 급등했다.",
+              "published": "2026-11-23",
+              "figure": "엔비디아 장중 +32.2% (현지시간 정오 무렵)",
+              "source": "로이터",
+              "links": [
+                {
+                  "outlet": "The Korea Times",
+                  "url": "https://www.koreatimes.co.kr/world/20261124/wall-st-roars-back-as-jensen-huang-returns-to-nvidia-as-ceo",
+                  "title": "Wall St roars back as Jensen Huang returns to Nvidia as CEO"
+                }
+              ]
+            },
+            {
+              "title_ko": "월마트, 3분기 매출 1,888억 달러…연간 전망 상향",
+              "title_orig": "Walmart raises full-year outlook after strong third-quarter sales, ecommerce growth",
+              "summary": "월마트의 3분기 매출은 1,888억 달러로 1년 전보다 5.2% 늘었고 영업이익은 16% 증가했다. 미국 이커머스 매출이 23%, 글로벌 광고 매출이 25% 늘었다. 회사는 2027회계연도 순매출 증가율 전망을 4.9~5.2%로, 조정 주당순이익 전망을 2.84~2.89달러로 올렸다.",
+              "published": "2026-11-19",
+              "event_date": "2026-11-19",
+              "figure": "매출 1,888억 달러 (+5.2%), 2027회계연도 조정 EPS 전망 2.84~2.89달러 (2026년 3분기)",
+              "source": "월마트",
+              "links": [
+                {
+                  "outlet": "Supermarket News",
+                  "url": "https://www.supermarketnews.com/finance/walmart-raises-full-year-outlook-after-strong-third-quarter-sales-ecommerce-growth",
+                  "title": "Walmart raises full-year outlook after strong third-quarter sales, ecommerce growth"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "tech",
+      "part": "4. 기술과학",
+      "name": "기술과학",
+      "groups": [
+        {
+          "name": "주요 기사",
+          "items": [
+            {
+              "title_ko": "Anthropic 수학자, Claude로 리만 가설 증명했다는 보도…독립 검증 2곳",
+              "title_orig": "AI may have cracked math's greatest unsolved problem",
+              "summary": "외신 보도에 따르면 Anthropic 소속 수학자가 Claude를 이용해 리만 가설을 증명했고, 두 연구 그룹이 독립적으로 증명을 검증했다고 한다. 수학계에서는 수십 년 만의 최대 성과일 수 있다는 반응이 나오지만 학계의 추가 검토가 이어질 전망이다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "The Guardian",
+                  "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+                  "title": "AI may have cracked math's greatest unsolved problem"
+                }
+              ]
+            },
+            {
+              "title_ko": "해킹 공격에 FBI 범죄정보 데이터베이스 뚫려",
+              "title_orig": "Hackers have breached the FBI's criminal information database",
+              "summary": "해커들이 전 미국 사법기관이 활용하는 FBI 범죄정보 데이터베이스(NCIC)에 침입했다고 AP가 전했다. 같은 시기 미 농무부 시스템과 오스트리아 외무부 웹사이트도 해킹당한 것으로 알려져, 연이은 사이버 사고에 대한 우려가 커지고 있다.",
+              "published": "2026-11-22",
+              "links": [
+                {
+                  "outlet": "AP News",
+                  "url": "https://apnews.com/article/fbi-database-ncic-hack-d066cff87a64a564db0a00172c124972",
+                  "title": "Hackers have breached the FBI's criminal information database"
+                }
+              ]
+            },
+            {
+              "title_ko": "METR 'AI 시간 지평' 그래프 갱신…열린 판단 과제에서는 뒤처져",
+              "title_orig": "The most misunderstood graph in AI just got a major update",
+              "summary": "AI 모델이 수행할 수 있는 작업 길이를 보여 주는 METR의 시간 지평 그래프가 새로 갱신됐다. 일부 능력은 기하급수적으로 좋아지지만, AI 평가 설계나 철학 논증 채점 같은 열린 판단 과제에서는 코딩보다 성능이 떨어져 연구 자동화에 한계가 될 수 있다는 분석이다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "MIT Technology Review",
+                  "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+                  "title": "The most misunderstood graph in AI just got a major update"
+                }
+              ]
+            },
+            {
+              "title_ko": "COP31 기후 협상, 화석연료 문구 놓고 결렬",
+              "title_orig": "The COP31 climate talks have collapsed after a fossil fuels row",
+              "summary": "유엔 기후총회 COP31 협상이 화석연료 문구를 둘러싼 갈등으로 결렬됐다. EU는 '그린워시'라며 합의를 거부했고 사우디아라비아·러시아·인도는 화석연료 언급에 반대한 것으로 전해졌다. 순배출 제로 대신 '순음(淨陰)' 목표를 요구하는 목소리도 커지고 있다.",
+              "published": "2026-11-22",
+              "links": [
+                {
+                  "outlet": "NBC News",
+                  "url": "https://www.nbcnews.com/science/climate-change/cop31-climate-talks-break-angry-dispute-fossil-fuels-rcna610656",
+                  "title": "The COP31 climate talks have collapsed after a fossil fuels row"
+                }
+              ]
+            },
+            {
+              "title_ko": "유엔, 자율살상무기 규제 협상 2028년까지 계속…미·러·이스라엘 제동",
+              "title_orig": "Countries agree to UN talks aiming to regulate killer robots by 2028",
+              "summary": "각국이 자율살상무기(킬러 로봇) 규제를 목표로 한 유엔 협상을 2028년까지 이어가기로 했다. 약 100개국이 규제를 지지했지만 러시아·미국·이스라엘이 속도를 늦췄고 영국·일본·한국·튀르키예도 구속력 있는 규칙에 소극적이었다고 전해진다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "CNBC",
+                  "url": "https://www.cnbc.com/2026/11/21/countries-agree-to-un-talks-aiming-to-regulate-killer-robots-by-2028.html",
+                  "title": "Countries agree to UN talks aiming to regulate killer robots by 2028"
+                }
+              ]
+            },
+            {
+              "title_ko": "애플, 웹 탐색·앱 간 작업·코딩까지 하는 자체 AI 에이전트 개발 중",
+              "title_orig": "Apple is building its own AI agent",
+              "summary": "더 버지는 애플이 웹을 탐색하고 여러 앱을 넘나들며 코드까지 작성하는 AI 에이전트를 개발 중이라고 전했다. 채용 공고를 통해 개발 사실이 드러났으며, 아이폰 카메라를 오래 이끈 임원이 은퇴한다는 소식도 함께 전해졌다.",
+              "published": "2026-11-19",
+              "links": [
+                {
+                  "outlet": "The Verge",
+                  "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+                  "title": "Apple is building its own AI agent"
+                }
+              ]
+            },
+            {
+              "title_ko": "베피콜롬보, 수성 궤도 진입…역대 두 번째 수성 탐사선",
+              "title_orig": "BepiColombo has become the second spacecraft to orbit Mercury",
+              "summary": "유럽·일본 공동 탐사선 베피콜롬보가 수성 궤도에 진입해 메신저호에 이어 두 번째로 수성 궤도를 도는 탐사선이 됐다. 탐사선의 관측 장비들이 수성의 표면과 주변 환경을 정밀 조사할 예정이다.",
+              "published": "2026-11-22",
+              "links": [
+                {
+                  "outlet": "Nature",
+                  "url": "https://www.nature.com/articles/d41586-026-03803-8",
+                  "title": "BepiColombo has become the second spacecraft to orbit Mercury"
+                }
+              ]
+            },
+            {
+              "title_ko": "암석 가루로 탄소 제거하면 장기적으로 작물 수확 줄 수 있다는 연구",
+              "title_orig": "Why using rocks for carbon removal could eventually reduce crop growth",
+              "summary": "분쇄한 암석을 농경지에 뿌려 이산화탄소를 흡수하는 '암석 풍화 촉진' 방식에서, 일정 수준을 넘으면 작물 수확량이 줄 수 있다는 연구가 나왔다. 이 경우 이 방식의 탄소 제거 잠재력은 기존 추정보다 훨씬 작아질 수 있다.",
+              "published": "2026-11-23",
+              "links": [
+                {
+                  "outlet": "MIT Technology Review",
+                  "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+                  "title": "Why using rocks for carbon removal could eventually reduce crop growth"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ],
+      "note": ""
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-24",
+  "part1": {
+    "status": "partial",
+    "startedAt": "2026-11-24T04:43:00+09:00",
+    "finishedAt": "2026-11-24T05:15:00+09:00",
+    "notes": [
+      "3개 섹션 12개 그룹, 기사 13건, 빈 그룹 3(중국 사건사고, 미국 사회 및 문화·사건사고), 3건 미만 그룹 다수(아시아-태평양 경제 1, 중국 경제·사회 및 문화 각 1, 미국 정치 및 외교·경제 각 1 등)",
+      "웹페이지 시작 주소(BBC·Al Jazeera·SCMP 중국/아시아·Bloomberg·NPR·JoongAng·Korea Herald 홈)는 PROVENANCE_REQUIRED로 열리지 않음. 검색 결과로 나온 개별 기사 주소는 일부만 열림: Time·Korea Herald·JoongAng·Korea Times·The Standard·Khan·SCMP(발췌)·SEC 열람 성공, NBC·CNN·CNBC·The Hill·Japan Times·Manila Bulletin·The Star ASEAN 기사는 robots 차단/client_error/권한 시간초과로 열람 실패",
+      "웹 검색 색인에 11/22~24 보도가 매우 적어 48시간 기준을 넘는 기사를 사용: 중국 10월 지표(11/16), 시진핑-카니(11/17), 다카이치 선전 APEC(11/18~19), 수능 관련 Korea Herald(11/19)·JoongAng 사설(11/20), 미 증시 11/16·11/20 종가",
+      "본문 미열람(검색 결과 제목 기준 요약): 마르코스 남중국해 행동준칙 기사(PNA·Manila Bulletin), 미 증시 CNBC 기사(수치는 AP 11/20 지수 기사 Yahoo Finance 게재본으로 교차 확인, 링크는 쓰지 않음), 트럼프-엔비디아 NBC 기사(내용은 엔비디아 8-K 보도자료로 확인)",
+      "SCMP 기사 2건(시진핑-카니, 다카이치-시진핑)은 본문 발췌만 열렸고 게재일 미표기(사진 경로·요일 표현으로 11/17~18 추정). 링크 19개 중 The Standard 4(약 21%), Korea Herald 3, SCMP·Korea Times 각 2로 25% 상한 이내",
+      "The Standard(홍콩)는 Reuters 기사를 게재한 것으로 중국 지표·미 증시 항목에 사용(Reuters 직접 주소 접근 불가). 미국 정치·사회·사건사고 그룹은 검증 가능한 최근 기사를 확보하지 못함(The Hill 등 열람 실패). 아시아-태평양 일부 사건사고(인도네시아 공장 화재, 마니푸르 독극물 술 사망 등)는 The Star ASEAN 요약에서 제목만 확인해 제외"
+    ]
+  },
+  "part2": {
+    "status": "",
+    "startedAt": "",
+    "finishedAt": "",
+    "notes": []
+  },
+  "part3": {
+    "status": "",
+    "startedAt": "",
+    "finishedAt": "",
+    "notes": []
+  }
+}

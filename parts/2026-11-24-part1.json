@@ -1,0 +1,313 @@
+{
+  "date": "2026-11-24",
+  "part": 1,
+  "generatedAt": "2026-11-24T05:10:00+09:00",
+  "sections": [
+    {
+      "id": "asia-pacific",
+      "part": "2. 권역별 뉴스",
+      "name": "1) 아시아-태평양",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "이재명 대통령 지지율 2주 연속 상승, 37.3%",
+              "title_orig": "Lee's approval rating rises for 2nd straight week to 37.3%: poll",
+              "summary": "리얼미터 조사에서 이재명 대통령의 국정 지지율이 한 주 전보다 0.9%포인트 오른 37.3%, 부정 평가는 1%포인트 내린 59.9%로 나타났다. 조사 기관은 아세안·APEC 외교와 시진핑 주석과의 회담, 수출 1조 달러 돌파를 상승 요인으로, 코스피 5,000 선 아래 하락과 수능 AI 부정행위 논란을 부담 요인으로 꼽았다. 별도 조사에서는 국민의힘 42.5%, 더불어민주당 35.6%였다.",
+              "published": "2026-11-23",
+              "figure": "37.3% (리얼미터, 성인 2,514명)",
+              "source": "리얼미터",
+              "links": [
+                {
+                  "outlet": "The Korea Herald",
+                  "url": "https://www.koreaherald.com/article/10945531",
+                  "title": "Lee's approval rating rises for 2nd straight week to 37.3%: poll"
+                }
+              ]
+            },
+            {
+              "title_ko": "마르코스 \"남중국해 행동준칙 협상 85~90% 완료\"",
+              "title_orig": "Marcos: South China Sea Code of Conduct talks 85-90% complete",
+              "summary": "필리핀 마르코스 대통령은 중국과 진행 중인 남중국해 행동준칙(COC) 협상이 85~90% 마무리됐다고 밝혔다. 그는 중국도 협상 타결을 원한다고 본다는 입장도 밝혔다.",
+              "published": "2026-11-20",
+              "event_date": "2026-11-17",
+              "links": [
+                {
+                  "outlet": "Philippine News Agency",
+                  "url": "https://www.pna.gov.ph/article/marcos-south-china-sea-code-of-conduct-talks-85-90-complete",
+                  "title": "Marcos: South China Sea Code of Conduct talks 85-90% complete"
+                },
+                {
+                  "outlet": "Manila Bulletin",
+                  "url": "https://mb.com.ph/2026/11/20/marcos-believes-china-is-keen-on-finalizing-south-china-sea-code",
+                  "title": "Marcos believes China is keen on finalizing South China Sea code"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [
+            {
+              "title_ko": "한국은행 이번 주 기준금리 0.25%p 인상 전망",
+              "title_orig": "BOK likely to hike interest rate on resilient growth, inflation",
+              "summary": "한국은행이 목요일 금융통화위원회에서 기준금리를 3.00%에서 3.25%로 0.25%포인트 올릴 것으로 전망된다. 3분기 성장률이 전년 대비 3.4%로 한은 전망치 2.6%를 크게 웃돌았고, 10월 소비자물가는 2.8%로 9월(2.9%)보다 낮아졌지만 근원물가는 2.8%를 유지했다. 분석가들은 한은이 올해 성장률 전망(3.3%)도 올릴 것으로 보며, KDI와 IMF는 이미 각각 3.8%, 3.9%로 상향했다.",
+              "published": "2026-11-22",
+              "figure": "기준금리 3.00% → 3.25% 인상 전망 (11월 26일 금통위)",
+              "source": "Korea Herald 보도(애널리스트 전망)",
+              "links": [
+                {
+                  "outlet": "The Korea Herald",
+                  "url": "https://www.koreaherald.com/article/10945119",
+                  "title": "BOK likely to hike interest rate on resilient growth, inflation"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [
+            {
+              "title_ko": "수능 AI 부정행위 파문에 교육부 장관 사임",
+              "title_orig": "South Korean Education Minister Resigns After Backlash Toward Anti-AI Measures",
+              "summary": "최교진 교육부 장관이 일요일 사임했다. 약 50만 명이 응시한 수능을 이틀 앞두고 발표한 AI 부정행위 방지 대책(안경 검사, 셔츠 단추 점검, 전국 단위 긴급 경보 등)이 현장 혼란을 불러 교원단체·야당·학생단체의 비판을 받았기 때문이다. 중앙일보 사설은 시험 당일 경보가 세 차례 울린 점 등을 들어 장관과 정부의 책임을 물었다.",
+              "published": "2026-11-23",
+              "event_date": "2026-11-22",
+              "links": [
+                {
+                  "outlet": "TIME",
+                  "url": "https://time.com/article/2026/11/23/south-korea-education-minister-resigns-college-exam-suneung-ai-cheating/",
+                  "title": "South Korean Education Minister Resigns After Backlash Toward Anti-AI Measures"
+                },
+                {
+                  "outlet": "Korea JoongAng Daily",
+                  "url": "https://www.koreajoongangdaily.com/opinion/education-minister-must-answer-for-chaotic-college-entrance-exam/12982032",
+                  "title": "Education minister must answer for chaotic college entrance exam"
+                }
+              ]
+            },
+            {
+              "title_ko": "AI 시대의 수능 위기…부정행위 의혹 국가시험 전반으로",
+              "title_orig": "Suneung was built for a world before AI",
+              "summary": "세무사 시험 수석 합격자가 초소형 카메라와 휴대전화, 생성형 AI로 부정행위를 했다고 주장하면서 우려가 AI 안경을 넘어 국가 자격시험 전반으로 번졌다. 정부는 자격시험 전반에 대한 점검에 나섰고 더불어민주당은 AI 부정행위자에 대한 10년 응시 제한을 추진하겠다고 밝혔다. 서울시교육청이 2040년까지 수능 폐지를 제안한 로드맵이 다시 주목받고 있으나 중앙정부는 채택하지 않았다.",
+              "published": "2026-11-19",
+              "links": [
+                {
+                  "outlet": "The Korea Herald",
+                  "url": "https://www.koreaherald.com/article/10942917",
+                  "title": "Suneung was built for a world before AI"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사건사고",
+          "items": [
+            {
+              "title_ko": "서울 홍대입구역 인근 버스 인도 돌진, 6명 부상",
+              "title_orig": "Bus rams into pavement near Hongik University Station, injuring 6",
+              "summary": "토요일 저녁 6시 57분쯤 서울 홍대입구역 인근에서 버스가 다른 버스·승용차와 충돌한 뒤 인도로 올라가 구조물을 들이받았다. 6명이 병원으로 옮겨졌으나 사망자나 중상자는 없었다. 경찰과 소방 당국이 사고 원인을 조사하고 있다.",
+              "published": "2026-11-21",
+              "links": [
+                {
+                  "outlet": "The Korea Times",
+                  "url": "https://www.koreatimes.co.kr/southkorea/society/20261121/bus-rams-into-pavement-near-hongik-university-station-injuring-6",
+                  "title": "Bus rams into pavement near Hongik University Station, injuring 6"
+                }
+              ]
+            },
+            {
+              "title_ko": "배우 고경표, 음주운전 혐의 경찰 조사 출석·사과",
+              "title_orig": "Actor Ko Kyung-pyo appears for questioning over drunk driving, apologizes",
+              "summary": "배우 고경표(36)가 월요일 저녁 마포경찰서에 출석해 약 100분간 조사를 받았다. 그는 11월 14일 새벽 서울에서 음주 상태로 청소 차량을 들이받은 혐의를 받고 있으며, 많이 마신 사실이 기억난다며 사과하고 조사에 협조하겠다고 밝혔다. 경찰은 당시 혈중알코올농도가 면허 취소 수준이었다고 전했다.",
+              "published": "2026-11-23",
+              "event_date": "2026-11-14",
+              "links": [
+                {
+                  "outlet": "The Korea Times",
+                  "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20261123/actor-ko-kyung-pyo-appears-for-questioning-over-drunk-driving-apologizes",
+                  "title": "Actor Ko Kyung-pyo appears for questioning over drunk driving, apologizes"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "china",
+      "part": "2. 권역별 뉴스",
+      "name": "2) 중국",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "선전 APEC서 시진핑, 다카이치와 악수만…중일 냉각 지속",
+              "title_orig": "Xi greets Takaichi with a smile – but no words – as China-Japan freeze lingers",
+              "summary": "일본 다카이치 총리는 선전 APEC 만찬에서 시진핑 주석과 악수했지만 시 주석은 미소로만 응했고, 공항 영접도 퇴직 대사가 맡아 낮은 예우였다는 보도가 나왔다. 정상회의 자리에서도 10초 남짓 대화했을 뿐 양자 회담은 열리지 않았고 다카이치 총리는 기자회견에서 개최국 중국에 감사를 표했다. 일본 언론은 대만 관련 발언 이후 1년 넘게 이어진 냉각과 일본의 고립을 우려했다.",
+              "published": "2026-11-19",
+              "event_date": "2026-11-18",
+              "links": [
+                {
+                  "outlet": "South China Morning Post",
+                  "url": "https://www.scmp.com/news/china/diplomacy/article/3374944/xi-greets-takaichi-smile-no-words-china-japan-freeze-lingers",
+                  "title": "Xi greets Takaichi with a smile – but no words – as China-Japan freeze lingers"
+                },
+                {
+                  "outlet": "The Standard",
+                  "url": "https://www.thestandard.com.hk/china/article/348928/Japan-PM-Takaichi-gets-muted-reception-as-Beijing-sends-retired-envoy",
+                  "title": "Japan PM Takaichi gets muted reception as Beijing sends retired envoy"
+                },
+                {
+                  "outlet": "The Kyunghyang Shinmun",
+                  "url": "https://www.khan.co.kr/en/article/202611191620007",
+                  "title": "Japanese media sigh as Takaichi leaves after only a 'handshake' with Xi Jinping"
+                }
+              ]
+            },
+            {
+              "title_ko": "시진핑·카니 정상회담, 관세 완화 추가 합의",
+              "title_orig": "China and Canada agree on fresh tariff relief as Xi and Carney continue thaw",
+              "summary": "시진핑 주석과 캐나다 카니 총리가 APEC을 앞두고 선전에서 올해 두 번째로 만나 무역 양보 확대에 합의했다. 캐나다는 미국과의 무역 갈등 속에서 대중 관계를 복원하려 하고 있으며, 중국 외교부에 따르면 시 주석은 건설적 대화를 통한 정치적 신뢰 구축을 강조했다. 구체적인 관세 인하 폭은 확인되지 않았다.",
+              "published": "2026-11-17",
+              "event_date": "2026-11-17",
+              "links": [
+                {
+                  "outlet": "South China Morning Post",
+                  "url": "https://www.scmp.com/news/china/diplomacy/article/3374769/china-and-canada-agree-fresh-tariff-reliefs-thaw-continues-xi-carney-meeting",
+                  "title": "China and Canada agree on fresh tariff relief as Xi and Carney continue thaw"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [
+            {
+              "title_ko": "중국 10월 경제지표 부진…생산·소비 모두 예상 하회",
+              "title_orig": "China's economy falters in October as factory output, retail sales miss forecasts",
+              "summary": "국가통계국에 따르면 10월 산업생산은 전년 대비 4.8% 늘어 시장 예상(5.3%)에 못 미쳤고 소매판매 증가율은 0.4%로 예상(0.8%)을 밑돌았다. 1~10월 고정자산투자는 8.1% 감소해 낙폭이 예상보다 컸으며 도시 실업률은 5.1%로 소폭 낮아졌다. 3분기 성장률은 4.5%로, ANZ 이코노미스트는 올해 추가 부양책이 없을 것으로 내다봤다.",
+              "published": "2026-11-16",
+              "figure": "산업생산 +4.8%, 소매판매 +0.4% (2026년 10월, 전년동월비)",
+              "source": "중국 국가통계국",
+              "links": [
+                {
+                  "outlet": "The Standard",
+                  "url": "https://www.thestandard.com.hk/finance/article/348591/Chinas-economy-falters-in-October-as-factory-output-retail-sales-miss-forecasts",
+                  "title": "China's economy falters in October as factory output, retail sales miss forecasts"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [
+            {
+              "title_ko": "홍콩 왕푹코트 화재 1주기 앞두고 이재민 지원, 정서 돌봄 중심으로",
+              "title_orig": "Social workers say Wang Fuk Court support shifts to emotional care near fire anniversary",
+              "summary": "홍콩 사회복지서(社署) 소속 사회복지사들은 가구별 담당 사회복지사 제도를 통해 왕푹코트 화재 피해 주민을 돕고 있는데, 화재 1주기가 다가오면서 식량·주거·의료 같은 긴급 구호에서 상담과 정서적 동반 지원으로 수요가 옮겨 갔다고 밝혔다. 일부 주민은 당시 기억 때문에 수면과 식욕에 어려움을 겪고, 임시 주택으로 옮겨 일상을 되찾은 고령 주민도 있다. 서류와 기한 관련 도움이 필요한 주민도 남아 있다.",
+              "published": "2026-11-23",
+              "links": [
+                {
+                  "outlet": "The Standard",
+                  "url": "https://thestandard.com.hk/news/article/349294/Social-workers-say-Wang-Fuk-Court-support-shifts-to-emotional-care-near-fire-anniversary",
+                  "title": "Social workers say Wang Fuk Court support shifts to emotional care near fire anniversary"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사건사고",
+          "items": [],
+          "note": ""
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "usa",
+      "part": "2. 권역별 뉴스",
+      "name": "3) 미국",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "트럼프 \"엔비디아 이사회와 직간접 소통\"…젠슨 황 CEO 복귀",
+              "title_orig": "Trump says he spoke 'directly and indirectly' with Nvidia's board about reinstating Jensen Huang",
+              "summary": "엔비디아는 이사회 만장일치로 젠슨 황을 사장 겸 CEO 및 이사로 즉시 복귀시킨다고 발표했다. 이사회는 미국 정부 고위급의 의견을 들었고 그의 복귀가 국가안보 위험이 아니라고 판단했다고 밝혔으며, 트럼프 대통령은 이사회와 직간접적으로 소통했다고 말했다. 회사는 황 CEO를 겨냥한 외국 정보기관 활동 의혹을 독립이사 위원회가 조사하고 새 국가안보·수출통제 위원회를 둔다고 밝혔다.",
+              "published": "2026-11-23",
+              "links": [
+                {
+                  "outlet": "NBC News",
+                  "url": "https://nbcnews.com/politics/trump-administration/trump-nvidia-board-reinstates-jensen-huang-rcna610882",
+                  "title": "Trump says he spoke 'directly and indirectly' with Nvidia's board about reinstating Jensen Huang"
+                },
+                {
+                  "outlet": "NVIDIA",
+                  "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000090/nov23pressrelease.htm",
+                  "title": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [
+            {
+              "title_ko": "AI 반도체주 급락에 S&P500 조정장 진입, 나스닥 올해 상승분 반납",
+              "title_orig": "S&P 500 and Dow close in correction; Nasdaq erases 2026 gain as AI rout picks up steam",
+              "summary": "11월 20일 미국 증시는 AI·반도체주 매도세로 S&P500이 3.7% 내린 6,910.39에 마감해 10월 6일 고점 대비 조정 국면에 들어섰고 나스닥은 5.3% 급락해 올해 상승분을 반납했다. 주간 기준 S&P500은 8.6%, 나스닥은 10% 떨어져 1년 반 만에 최악의 한 주였다. 앞서 16일에는 젠슨 황 CEO 사임 보도 속에 필라델피아 반도체지수가 5.3% 급락했고, 시장은 12월 연준 0.25%p 인상 가능성을 95.7%로 반영했다.",
+              "published": "2026-11-20",
+              "figure": "S&P500 6,910.39 (-3.7%), 나스닥 22,617.73 (-5.3%) (2026-11-20 종가)",
+              "source": "AP 집계",
+              "links": [
+                {
+                  "outlet": "CNBC",
+                  "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+                  "title": "S&P 500 and Dow close in correction; Nasdaq erases 2026 gain as AI rout picks up steam"
+                },
+                {
+                  "outlet": "The Standard",
+                  "url": "https://www.thestandard.com.hk/finance/article/348698/Wall-Street-ends-sharply-lower-on-AI-jitters-ahead-of-Nvidia-results-Anthropic-IPO",
+                  "title": "Wall Street ends sharply lower on AI jitters ahead of Nvidia results, Anthropic IPO"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [],
+          "note": ""
+        },
+        {
+          "name": "사건사고",
+          "items": [],
+          "note": ""
+        }
+      ],
+      "note": ""
+    }
+  ],
+  "notes": []
+}

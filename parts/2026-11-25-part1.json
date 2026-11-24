@@ -1,0 +1,353 @@
+{
+  "date": "2026-11-25",
+  "part": 1,
+  "generatedAt": "2026-11-25T05:20:00+09:00",
+  "sections": [
+    {
+      "id": "asia-pacific",
+      "part": "2. 권역별 뉴스",
+      "name": "1) 아시아-태평양",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "다카이치 총리, 선전 APEC서 냉랭한 대접…대만 질문엔 '입장 불변'",
+              "title_orig": "No warm welcome for Japan's prime minister on China visit",
+              "summary": "다카이치 일본 총리는 18일 APEC 정상회의가 열린 선전에 도착했으나 중국 측의 환대는 없었고, 시진핑 주석은 만찬에서 악수만 하고 별다른 말을 건네지 않았다고 전해졌다. 회의 뒤 기자회견에서 그는 대만 유사시 대응을 묻는 질문에 가정에 답하지 않겠다며, 일본의 입장은 1972년 중일 공동성명에 따른 것으로 변함없다고 밝혔다. 지난해 11월 대만 관련 발언 이후 중국은 일본산 수산물 수입을 비공식 중단하고 일본 여행 자제를 유도해 왔으며, 여론조사에서는 일본 유권자 3분의 2가 관계 개선 능력에 의문을 표했다.",
+              "published": "2026-11-19",
+              "event_date": "2026-11-18",
+              "links": [
+                {
+                  "outlet": "The Irish Times",
+                  "url": "https://www.irishtimes.com/world/2026/11/19/no-warm-welcome-for-japans-prime-minister-on-china-visit/",
+                  "title": "No warm welcome for Japan's prime minister on China visit"
+                },
+                {
+                  "outlet": "Focus Taiwan",
+                  "url": "https://focustaiwan.tw/politics/202611190020",
+                  "title": "Takaichi reaffirms Japan's Taiwan stance, avoids military question"
+                }
+              ]
+            },
+            {
+              "title_ko": "쿼드 정상, 마닐라서 핵심광물 공급망 협력 합의",
+              "title_orig": "Trump announces critical minerals agreements at Quad meeting in Manila",
+              "summary": "트럼프 미국 대통령은 마닐라에서 열린 쿼드(미국·인도·일본·호주) 정상회의에서 핵심광물 공급망을 확보하기 위한 합의가 이뤄졌다고 밝혔다. 특정 공급국의 경제적 압박을 막는 것이 목적이며 중국을 직접 거명하지는 않았다. 그는 10개월 안에 희토류를 충분히 확보하게 될 것이라고 말했고, 쿼드 성명은 경제적 강압에 대한 '중대한 우려'를 표명했다.",
+              "published": "2026-11-17",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/17/trump-announces-critical-minerals-agreements-at-quad-meeting-in-manila",
+                  "title": "Trump announces critical minerals agreements at Quad meeting in Manila"
+                }
+              ]
+            },
+            {
+              "title_ko": "말레이시아 총리 \"미얀마와 난민 송환 협력 계속\"…ICJ 집단학살 판결 뒤",
+              "title_orig": "Malaysia to continue working with Myanmar on refugee repatriation after genocide ruling",
+              "summary": "안와르 말레이시아 총리는 유엔 최고법원(ICJ)이 2017년 로힝야 탄압을 집단학살로 판단한 이후에도 미얀마 군부 후원 정부와 송환 문제를 계속 논의하겠다고 밝혔다. 말레이시아에는 8월 기준 유엔난민기구에 등록된 난민·망명 신청자가 22만5,740명이며 약 90%가 미얀마 출신이다. 올해 1월 이후 1만 명 넘게 돌려보냈고 12월 6~7일 해군 선박 3척으로 1,500명을 추가 송환할 계획이다.",
+              "published": "2026-11-24",
+              "links": [
+                {
+                  "outlet": "The Irish Times",
+                  "url": "https://www.irishtimes.com/world/asia-pacific/2026/11/24/malaysia-to-continue-working-with-myanmar-on-refugee-repatriation-after-genocide-ruling/",
+                  "title": "Malaysia to continue working with Myanmar on refugee repatriation after genocide ruling"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [
+            {
+              "title_ko": "한은 26일 금리 0.25%p 인상 유력…증권사 10곳 모두 3.25% 전망",
+              "title_orig": "BOK's other worries ease, leaving Fed in focus",
+              "summary": "한국은행이 26일 금융통화위원회에서 기준금리를 3.00%에서 3.25%로 0.25%포인트 올릴 것이라는 전망이 우세하며, 조사 대상 증권사 10곳이 모두 인상을 예상했다. 10월 소비자물가는 전체·근원 모두 2.8%로 한은 목표(2%)를 웃돌았고, 11월 소비자 1년 후 물가기대는 2.6%로 0.1%포인트 낮아졌다.",
+              "published": "2026-11-24",
+              "event_date": "2026-11-26",
+              "figure": "2.8% (2026년 10월 소비자물가, 전년동월비)",
+              "source": "한국은행·언론 집계",
+              "links": [
+                {
+                  "outlet": "Aju Press",
+                  "url": "https://www.ajupress.com/view/20261124164428023",
+                  "title": "BOK's other worries ease, leaving Fed in focus"
+                }
+              ]
+            },
+            {
+              "title_ko": "코스피 6.32% 급등해 5,000선 회복…원/달러 1,342원",
+              "title_orig": "Korean won climbs against US dollar on foreign inflows",
+              "summary": "24일 코스피는 6.32% 오른 5,006.03에 마감해 5,000선을 되찾았다. 엔비디아의 젠슨 황 CEO 복귀 소식에 뉴욕증시가 반등한 영향이다. 외국인은 7,250억 원어치를 순매수했고, 원/달러 환율은 오후 3시 30분 기준 1,342.4원으로 3.5원 내렸다.",
+              "published": "2026-11-24",
+              "figure": "5,006.03 (코스피, 2026-11-24 종가, +6.32%)",
+              "source": "한국거래소·연합뉴스",
+              "links": [
+                {
+                  "outlet": "The Korea Times",
+                  "url": "https://www.koreatimes.co.kr/economy/others/20261124/korean-won-climbs-against-us-dollar-on-foreign-inflows",
+                  "title": "Korean won climbs against US dollar on foreign inflows"
+                }
+              ]
+            },
+            {
+              "title_ko": "트럼프 \"태국, 미국산 관세 전면 철폐\"…무역합의 곧 서명",
+              "title_orig": "Trump meets regional allies in Manila ahead of China visit; Thailand will eliminate tariffs on US exports under deal to be signed soon",
+              "summary": "트럼프 대통령은 마닐라에서 태국이 미국산 수출품에 대한 관세를 모두 없애고 상당한 비관세 장벽도 걷어내는 내용의 무역합의가 곧 마무리될 것이라고 밝혔다. 미국은 올해 태국 수출의 24%를 차지하는 최대 시장이다. 이 순방은 선전 APEC과 미·중·러 3자 회담으로 이어졌다.",
+              "published": "2026-11-17",
+              "links": [
+                {
+                  "outlet": "The Star",
+                  "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/17/trump-meets-regional-allies-in-manila-ahead-of-china-visit-thailand-will-eliminate-tariffs-on-us-exports-under-deal-to-be-signed-soon",
+                  "title": "Trump meets regional allies in Manila ahead of China visit; Thailand will eliminate tariffs on US exports under deal to be signed soon"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [
+            {
+              "title_ko": "수능 'AI 부정행위' 논란 속 시행…교육부 장관 책임론",
+              "title_orig": "Education minister must answer for chaotic college entrance exam",
+              "summary": "2027학년도 수능이 19일 전국 1,312개 시험장에서 약 55만 명이 응시한 가운데 치러졌으나, AI를 이용한 부정행위 우려와 하루 세 차례의 재난 문자로 혼선을 빚었다. 시험 전 국민권익위에는 AI 부정행위 관련 민원이 44건 접수됐고, 야당 인사가 장관의 직무유기 혐의로 고발장을 냈다. 중앙데일리는 사설에서 최교진 교육부 장관의 책임과 시험 관리 체계 전반의 재정비를 촉구했다.",
+              "published": "2026-11-20",
+              "event_date": "2026-11-19",
+              "links": [
+                {
+                  "outlet": "Korea JoongAng Daily",
+                  "url": "https://www.koreajoongangdaily.com/opinion/education-minister-must-answer-for-chaotic-college-entrance-exam/12982032",
+                  "title": "Education minister must answer for chaotic college entrance exam"
+                },
+                {
+                  "outlet": "The Korea Herald",
+                  "url": "https://www.koreaherald.com/article/10939647",
+                  "title": "Complaint filed against education minister for dereliction of duty over AI cheating"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사건사고",
+          "items": [],
+          "note": ""
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "china",
+      "part": "2. 권역별 뉴스",
+      "name": "2) 중국",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "시진핑·트럼프·푸틴, 선전서 사상 첫 3자 정상회담",
+              "title_orig": "Asia watches from the outside waiting to see if Xi-Trump-Putin talks bear fruit",
+              "summary": "시진핑 주석과 트럼프 미국 대통령, 푸틴 러시아 대통령이 선전에서 주요 핵 보유국 정상 간 사상 첫 3자 회담을 가졌다. 일부 아시아 국가 정상은 환영했지만, 강대국들이 지역을 배제한 채 이해관계를 나눌 수 있다는 우려도 나온다. 회담은 우크라이나 전쟁과 에너지 공급을 흔든 이란 전쟁을 배경으로 열렸고, 다음 달 미국이 주최하는 G20에서 다시 만날 가능성이 거론된다.",
+              "published": "2026-11-20",
+              "event_date": "2026-11-19",
+              "links": [
+                {
+                  "outlet": "South China Morning Post",
+                  "url": "https://www.scmp.com/news/china/diplomacy/article/3375116/asia-watches-outside-waiting-see-if-xi-trump-putin-talks-bear-fruit",
+                  "title": "Asia watches from the outside waiting to see if Xi-Trump-Putin talks bear fruit"
+                }
+              ]
+            },
+            {
+              "title_ko": "왕이 \"APEC '선전 전망'은 역사상 가장 중요한 성과\"",
+              "title_orig": "Chinese Foreign Minister hails 'Shenzhen Outlook' as milestone as APEC summit concludes",
+              "summary": "왕이 외교부장은 APEC 정상회의 폐막 뒤 심야 브리핑에서 새로 채택된 '2026 APEC 정상 선전 전망'이 APEC 역사상 가장 의미 있는 성과라고 평가했다. 그는 아시아·태평양 자유무역지대(FTAAP) 추진을 위한 '네 기둥과 여덟 들보' 구상을 설명했고, 회원국들은 무역 디지털화 틀과 스마트 세관 공동 장관성명도 채택했다. 2027년 의장국은 베트남이 맡는다.",
+              "published": "2026-11-19",
+              "links": [
+                {
+                  "outlet": "The Standard",
+                  "url": "https://www.thestandard.com.hk/china/article/349061/Chinese-Foreign-Minister-hails-Shenzhen-Outlook-as-milestone-as-APEC-summit-concludes",
+                  "title": "Chinese Foreign Minister hails 'Shenzhen Outlook' as milestone as APEC summit concludes"
+                }
+              ]
+            },
+            {
+              "title_ko": "대만 지방선거 28일…타이베이 시장 선거 접전",
+              "title_orig": "2026 ELECTIONS/Shen holds motorcade, Chiang touts policies as election nears",
+              "summary": "대만 지방선거가 28일 치러지는 가운데 민진당 푸마 션 후보는 15일 스린·베이터우 일대에서 차량 행진을 벌였고 주최 측은 5만 명 넘게 모였다고 추산했다. 재선에 도전하는 국민당 장완안 시장은 월 399대만달러 버스 정기권과 4년간 92억 대만달러의 AI 교육 투자 등을 내세웠다. 최근 여론조사에서는 션 후보가 두 자릿수 격차를 좁힌 것으로 나타났다.",
+              "published": "2026-11-15",
+              "links": [
+                {
+                  "outlet": "Focus Taiwan",
+                  "url": "https://focustaiwan.tw/politics/202611150014",
+                  "title": "2026 ELECTIONS/Shen holds motorcade, Chiang touts policies as election nears"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [
+            {
+              "title_ko": "중국 10월 경제활동 부진…소매판매 0.4% 증가에 그쳐",
+              "title_orig": "China's economic activity falters in October amid sluggish retail sales",
+              "summary": "중국 국가통계국에 따르면 10월 소매판매는 전년 대비 0.4% 늘어 시장 전망치(약 1.07%)와 9월(1.1%)을 모두 밑돌았다. 고정자산투자는 더 위축됐다. 분석가들은 부진이 연간 성장 목표를 흔들 정도는 아니라고 봤다.",
+              "published": "2026-11-16",
+              "figure": "0.4% (2026년 10월 소매판매, 전년동월비)",
+              "source": "중국 국가통계국",
+              "links": [
+                {
+                  "outlet": "South China Morning Post",
+                  "url": "https://www.scmp.com/economy/economic-indicators/article/3374531/chinas-economic-activity-falters-october-amid-sluggish-retail-sales",
+                  "title": "China's economic activity falters in October amid sluggish retail sales"
+                }
+              ]
+            },
+            {
+              "title_ko": "부동산 거물 왕스·왕젠린, 도시재생으로 복귀",
+              "title_orig": "2 veteran Chinese property tycoons turn to urban renewal amid prolonged downturn",
+              "summary": "완커 창업자 왕스(75)와 완다그룹 왕젠린 회장(72)이 최근 몇 달 새 각각 새 사업과 새 기업 직책으로 공개 활동에 복귀했다. 두 사람 모두 토지를 사 신규 개발에 나서는 과거 방식이 아니라 기존 상업용 부동산과 도시 공간에 초점을 맞추고 있다. 한 분석가는 이들의 복귀가 부동산 시장에 긍정적 신호일 수 있다고 말했다.",
+              "published": "2026-11-20",
+              "links": [
+                {
+                  "outlet": "South China Morning Post",
+                  "url": "https://www.scmp.com/business/article/3375241/two-veteran-chinese-property-tycoons-turn-urban-renewal-amid-prolonged-downturn",
+                  "title": "2 veteran Chinese property tycoons turn to urban renewal amid prolonged downturn"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [],
+          "note": ""
+        },
+        {
+          "name": "사건사고",
+          "items": [],
+          "note": ""
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "usa",
+      "part": "2. 권역별 뉴스",
+      "name": "3) 미국",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "상원 민주당, 12월 11일 예산 시한 앞두고 이란전 자금 차단 추진",
+              "title_orig": "Democrats mulling Iran war funding cutoff strategy",
+              "summary": "상원 민주당 의원들이 12월 11일 만료되는 임시예산안에 이란전 종식 관련 문구를 넣으려 하면서 부분 셧다운 위험이 커지고 있다. 팀 케인 의원은 관련 문구를 직접 작성 중이라고 밝혔고, 베닛·반홀런·덕워스·샌더스 의원 등은 전쟁 자금 사용을 제한하는 조항이 없으면 합의에 반대하겠다고 했다. 톰 콜 하원 세출위원장은 공화당 의회가 대통령이 거부할 법안을 보내진 않을 것이라고 말했고, 행정부는 내년 3월까지의 단기 예산안도 검토 중이다.",
+              "published": "2026-11-12",
+              "links": [
+                {
+                  "outlet": "Roll Call",
+                  "url": "https://www.rollcall.com/2026/11/12/democrats-mulling-iran-war-funding-cutoff-strategy",
+                  "title": "Democrats mulling Iran war funding cutoff strategy"
+                }
+              ]
+            },
+            {
+              "title_ko": "공화당 하원, 헤그세스 탄핵안 위원회 회부로 사실상 폐기",
+              "title_orig": "Republican-led House blocks effort to impeach Hegseth",
+              "summary": "하원은 10일 토머스 매시 의원이 발의한 피트 헤그세스 국방장관 탄핵 결의안을 211대 204로 위원회에 회부해 사실상 보류시켰다. 공화당에서는 매시 의원만 반대표를 던졌고 민주당 의원 11명은 표결에 불참했다. 결의안은 인권 침해와 의회 승인 없는 이란전 수행 등 8개 조항을 담았으며, 헤그세스 장관은 이를 정치 쇼라고 일축했다.",
+              "published": "2026-11-10",
+              "links": [
+                {
+                  "outlet": "Stars and Stripes",
+                  "url": "https://www.stripes.com/theaters/us/2026-11-10/house-vote-hegseth-impeachment-massie-23427346.html",
+                  "title": "Republican-led House blocks effort to impeach Hegseth"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [
+            {
+              "title_ko": "엔비디아 CEO 복귀에 뉴욕증시 급등 뒤 하루 만에 AI주 다시 하락",
+              "title_orig": "Nvidia sell-off resumes day after historic rally",
+              "summary": "젠슨 황이 엔비디아 CEO로 복귀하면서 23일 엔비디아 주가가 약 31% 폭등하고 나스닥이 크게 오르며 2025년 4월 이후 최고의 하루를 보냈다. 하지만 24일 엔비디아는 7~8% 하락했고 나스닥은 장중 1~2%대 내렸으며, 지난주 상장한 앤트로픽은 공모가 83달러를 밑돌았다. 월가에서는 전날 반등이 '불 트랩'일 수 있다는 경고가 나오며, 황 CEO는 12월 의회 증언을 앞두고 있다.",
+              "published": "2026-11-24",
+              "event_date": "2026-11-23",
+              "links": [
+                {
+                  "outlet": "The National",
+                  "url": "https://www.thenationalnews.com/business/markets/2026/11/24/whats-a-bull-trap-nvidia-ai-stocks-nasdaq-djia-sp500/",
+                  "title": "Nvidia sell-off resumes day after historic rally"
+                },
+                {
+                  "outlet": "Business Today",
+                  "url": "https://www.businesstoday.in/markets/stocks/story/nasdaq-falls-as-nvidia-slides-over-7-ai-stocks-retreat-after-mondays-sharp-wall-street-rally-569261-2026-11-24",
+                  "title": "Nasdaq falls as Nvidia slides over 7%, AI stocks retreat after Monday's sharp Wall Street rally"
+                }
+              ]
+            },
+            {
+              "title_ko": "엔비디아 이사회, 황 CEO 복귀 제안 처음엔 거절…3분기 매출 1,160억 달러",
+              "title_orig": "Nvidia rejects Huang's offer to return as CEO despite pressure from Silicon Valley",
+              "summary": "엔비디아 이사회는 17일 젠슨 황의 복귀 제안을 받아들이지 않았고, 하비 존스 의장은 사임을 만장일치로 수리했다고 밝혔다. 황은 사생활 관련 보도와 중국 연계 의혹으로 물러난 상태였고, 의회 위원회 조사에도 응하기로 했다. 같은 시기 발표된 3분기 매출은 1,160억 달러로 1년 전의 두 배였으며, 이사회는 국가안보·수출통제 감독 위원회를 신설했다.",
+              "published": "2026-11-18",
+              "event_date": "2026-11-17",
+              "links": [
+                {
+                  "outlet": "The Korea Times",
+                  "url": "https://www.koreatimes.co.kr/world/20261118/nvidia-chairman-says-board-does-not-intend-to-reinstate-jensen-huang-as-ceo",
+                  "title": "Nvidia chairman says board does not intend to reinstate Jensen Huang as CEO"
+                },
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/economy/2026/11/17/jensen-huang-to-testify-before-us-house-committees-next-month",
+                  "title": "Jensen Huang agrees to testify before US House, says can resume CEO role"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [
+            {
+              "title_ko": "추수감사절 연휴 이동 8,100만 명 넘을 전망…지난해 기록엔 못 미쳐",
+              "title_orig": "AAA: Over 81 million Americans expected to travel for Thanksgiving, a step down from last year's record",
+              "summary": "미국자동차협회(AAA)는 올해 추수감사절 연휴에 8,100만 명 이상이 이동할 것으로 내다봤다. 지난해 기록에는 못 미치지만 여전히 붐비는 연휴가 될 전망이며, 높은 항공료와 휘발유 가격이 부담 요인으로 꼽힌다.",
+              "published": "2026-11-17",
+              "links": [
+                {
+                  "outlet": "Fox Weather",
+                  "url": "https://www.foxweather.com/lifestyle/more-than-81-million-americans-expected-travel-thanksgiving-despite-fewer-drivers-flyers",
+                  "title": "AAA: Over 81 million Americans expected to travel for Thanksgiving, a step down from last year's record"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사건사고",
+          "items": [],
+          "note": ""
+        }
+      ],
+      "note": ""
+    }
+  ],
+  "notes": []
+}

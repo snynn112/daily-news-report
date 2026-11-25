@@ -1,0 +1,334 @@
+{
+  "date": "2026-11-26",
+  "part": 1,
+  "generatedAt": "2026-11-26T05:20:00+09:00",
+  "sections": [
+    {
+      "id": "asia-pacific",
+      "part": "2. 권역별 뉴스",
+      "name": "1) 아시아-태평양",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "미 국무부 \"한미동맹 긴밀 협력 중시\"…이재명, 외교·안보 라인 개편",
+              "title_orig": "US reaffirms alliance as Lee overhauls security team",
+              "summary": "미 국무부는 24일(현지시간) 한미동맹 아래 긴밀한 협력을 중시한다고 밝혔다. 이재명 대통령이 외교부 장관에 임웅순 국가안보실 2차장, 국가정보원장에 강금실 전 법무부 장관, 통일부 장관에 홍익표 전 수석을 지명한 직후의 반응이다. 국무부는 인선 자체에 대한 논평은 피하고 서울에 문의하라고 했으며, 보도는 대북 정보 공유를 둘러싼 한미 간 마찰이 인사의 배경으로 거론된다고 전했다.",
+              "published": "2026-11-25",
+              "event_date": "2026-11-24",
+              "links": [
+                {
+                  "outlet": "The Korea Herald",
+                  "url": "https://www.koreaherald.com/article/10949442",
+                  "title": "US reaffirms alliance as Lee overhauls security team"
+                }
+              ]
+            },
+            {
+              "title_ko": "한국, 국방백서에 북한 '적' 표현 유지…이재명 평화 기조와 엇갈려",
+              "title_orig": "Why Lee is keeping North Korea's 'enemy' label despite his peace push",
+              "summary": "국방부 관계자는 25일 이르면 12월 말 나올 이재명 정부 첫 국방백서에서 북한 정권과 군을 계속 '적'으로 규정할 것이라고 확인했다. 노무현·문재인 정부가 이 표현을 뺐던 것과 달라진 대목이다. 이 대통령은 확성기 방송 중단 등 평화공존 기조를 이어 왔지만, 전문가는 북한이 한국을 적대 국가로 규정하는 현실을 반영한 것이지 정책 변화는 아니라고 해석했다.",
+              "published": "2026-11-25",
+              "links": [
+                {
+                  "outlet": "The Korea Herald",
+                  "url": "https://www.koreaherald.com/article/10949146",
+                  "title": "Why Lee is keeping North Korea's 'enemy' label despite his peace push"
+                }
+              ]
+            },
+            {
+              "title_ko": "대만 지방선거 사흘 앞…여야 지도부 총력 유세",
+              "title_orig": "Taiwan parties, candidates step up campaigning as local elections near",
+              "summary": "대만 '9합1' 지방선거가 28일 투표를 앞두고 25일 여야 지도부가 전국에서 지원 유세를 벌였다. 라이칭더 총통(민진당 주석)은 난터우·타이중 후보 행사에 참석했고, 국민당 정리원 주석과 민중당 지도부도 각 지역을 돌았다. 타이베이에서는 국민당 장완안 시장과 민진당 푸마 션 후보가, 신베이에서는 국민당 리수촨 후보와 민진당 쑤차오후이 의원이 차량 유세를 이어 갔다. 이번 선거에서는 22개 시·현에서 모두 1만1,051명의 지방 공직자를 뽑는다.",
+              "published": "2026-11-25",
+              "links": [
+                {
+                  "outlet": "Focus Taiwan",
+                  "url": "https://focustaiwan.tw/politics/202611250023",
+                  "title": "Taiwan parties, candidates step up campaigning as local elections near"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [
+            {
+              "title_ko": "코스피 6% 급락…반도체 전망·미국 관세 우려",
+              "title_orig": "KOSPI sinks 6% as chip outlook, US tariff concerns weigh",
+              "summary": "코스피는 25일 6.16% 급락한 4,697.51에 마감했고, 외국인 순매도 속에 장 초반 프로그램 매도호가 효력정지(사이드카)도 발동됐다. 삼성전자가 9.87%, SK하이닉스가 11.05% 떨어졌으며, 골드만삭스가 두 종목의 목표주가를 크게 낮춘 점과 미국의 보조금 관련 관세 확대 우려가 부담으로 꼽혔다. 코스닥은 2.29% 내린 650.64, 원/달러 환율은 1,343.2원이었다.",
+              "published": "2026-11-25",
+              "figure": "코스피 4,697.51 (-6.16%, 2026-11-25 종가)",
+              "source": "한국거래소(Korea Times 보도)",
+              "links": [
+                {
+                  "outlet": "The Korea Times",
+                  "url": "https://www.koreatimes.co.kr/economy/20261125/kospi-sinks-6-as-chip-outlook-us-tariff-concerns-weigh",
+                  "title": "KOSPI sinks 6% as chip outlook, US tariff concerns weigh"
+                }
+              ]
+            },
+            {
+              "title_ko": "'AI 신뢰 위기'가 드러낸 한국 증시의 균열",
+              "title_orig": "AI trust crisis exposes cracks in Korea's stock market",
+              "summary": "코스피는 6월 22일 기록한 사상 최고치 9,114.55에서 23일 장중 4,586.80까지 밀려 고점 대비 낙폭이 약 47%에 달한다고 한다. 삼성전자·SK하이닉스 비중이 시가총액의 절반 가까이를 차지하고, 외국인이 올해 220조 원 넘게 순매도한 가운데 종목 간 동조화도 심해졌다. 전문가들은 AI 투자 지속 가능성에 대한 의문이 핵심이며 반등에는 새로운 계기가 필요하다고 진단했다.",
+              "published": "2026-11-25",
+              "links": [
+                {
+                  "outlet": "The Korea Herald",
+                  "url": "https://www.koreaherald.com/article/10949190",
+                  "title": "AI trust crisis exposes cracks in Korea's stock market"
+                }
+              ]
+            },
+            {
+              "title_ko": "대만 제조업 체감경기 악화…AI 데이터센터 투자 둔화 우려",
+              "title_orig": "Manufacturers' business sentiment weakens amid AI concerns",
+              "summary": "대만경제연구원(TIER)은 25일 10월 제조업 경기종합지수가 전월보다 2.85포인트 떨어진 98.94를 기록했다고 밝혔다. 미국 정치 변화가 AI 데이터센터 건설을 늦출 수 있다는 우려가 원인이며, 서비스업 지수도 90.13으로 넉 달 연속 하락했다. 연구원 측은 젠슨 황의 엔비디아 CEO 복귀가 AI 업계를 안심시켰다며 AI 모멘텀이 이어질 것으로 내다봤다.",
+              "published": "2026-11-25",
+              "figure": "제조업 경기종합지수 98.94 (2026년 10월, 전월 대비 -2.85p)",
+              "source": "대만경제연구원(TIER)",
+              "links": [
+                {
+                  "outlet": "Focus Taiwan",
+                  "url": "https://focustaiwan.tw/business/202611250013",
+                  "title": "Manufacturers' business sentiment weakens amid AI concerns"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [
+            {
+              "title_ko": "베트남전 전사 59년 만에 귀환…DNA로 신원 확인",
+              "title_orig": "Remains of Korean soldier return home after 59 years",
+              "summary": "1967년 베트남전에서 전사한 안규태 씨의 유해가 25일 공군 수송기 편으로 성남 서울공항에 도착해 59년 만에 고국으로 돌아왔다. 유해를 실은 미군 수송기가 사이공 인근 습지에 추락하면서 수습되지 못했고, 1990년대 현지 주민이 넘긴 유해가 하와이에서 보관돼 오다 올해 4월 재감정과 아들 DNA 대조로 신원이 확인됐다. 안장식은 26일 대전현충원에서 열린다.",
+              "published": "2026-11-25",
+              "links": [
+                {
+                  "outlet": "The Korea Herald",
+                  "url": "https://www.koreaherald.com/article/10949469",
+                  "title": "Remains of Korean soldier return home after 59 years"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사건사고",
+          "items": [
+            {
+              "title_ko": "대만 전 노동부 관료, 부패 혐의 징역 4년 6개월 확정",
+              "title_orig": "Former Taiwan labor official sentenced to 4.5 years for corruption",
+              "summary": "대만 대법원은 25일 노동력발전서 북부지서 전 책임자 시에이정에 대한 징역 4년 6개월과 공민권 박탈 2년을 확정했다. 검찰은 그가 부하 직원들에게 입찰 정보 유출을 지시해 특정 업체를 밀어주고, 고용기금으로 산 선물세트를 사적으로 가져갔다고 기소했다. 노동부는 판결문을 받는 대로 그를 파면하겠다는 입장이다.",
+              "published": "2026-11-25",
+              "links": [
+                {
+                  "outlet": "Focus Taiwan",
+                  "url": "https://focustaiwan.tw/society/202611250021",
+                  "title": "Former Taiwan labor official sentenced to 4.5 years for corruption"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "china",
+      "part": "2. 권역별 뉴스",
+      "name": "2) 중국",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [
+            {
+              "title_ko": "미, 중국 등 14개 교역국에 새 관세안…중국 20%로 최고",
+              "title_orig": "Trump announces new trade tariffs: Which countries will they target?",
+              "summary": "미국 무역대표부는 25일 과잉생산 문제를 겨냥한 무역법 301조 조사 결과를 바탕으로 중국·EU·인도·일본·한국·대만 등 14개 교역국에 대한 새 관세 부과 계획을 내놨다. 중국은 기존 약 25% 관세에 더해 20%의 추가 세율이 제안돼 가장 높고, 내년 1월 10일 만료되는 미중 휴전 합의와 연계한 300억 달러 규모 면제도 포함됐다. 이는 올해 2월 연방대법원 판결로 무효가 된 관세를 대체하려는 시도로, 분석가들은 소송이 이어질 가능성이 크다고 내다봤다. 중국 외교부는 '과잉생산'이 허구라고 반박했다.",
+              "published": "2026-11-25",
+              "event_date": "2026-11-25",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/25/trump-announces-new-trade-tariffs-which-countries-will-they-target",
+                  "title": "Trump announces new trade tariffs: Which countries will they target?"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [],
+          "note": ""
+        },
+        {
+          "name": "사건사고",
+          "items": [
+            {
+              "title_ko": "홍콩 타이포 화재 1주기 앞두고 생존자들 여전히 트라우마",
+              "title_orig": "Tai Po fire survivors battle grief, fear and trauma as first anniversary nears",
+              "summary": "홍콩 타이포 왕푹코트 대형 화재가 26일 1주기를 맞는 가운데, 부모를 모두 잃은 49세 남성 등 생존자와 유가족이 여전히 슬픔과 공포 속에 지낸다. 임시 주택에서 방염 담요를 덮고 자고 소화기를 여분으로 두는 이 남성은 화재 이후 사고 현장에 돌아가지 않았고 관련 뉴스도 보지 않는다고 했다. 같은 매체는 이 화재로 숨진 가사도우미 10명 중 9명의 유가족이 보상을 기다리고 있다고도 보도했다.",
+              "published": "2026-11-23",
+              "event_date": "2026-11-26",
+              "links": [
+                {
+                  "outlet": "South China Morning Post",
+                  "url": "https://www.scmp.com/news/hong-kong/society/article/3375408/tai-po-fire-survivors-battle-grief-fear-and-trauma-first-anniversary-nears",
+                  "title": "Tai Po fire survivors battle grief, fear and trauma as first anniversary nears"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "usa",
+      "part": "2. 권역별 뉴스",
+      "name": "3) 미국",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "아브레고 가르시아, 자진 출국해 스페인으로",
+              "title_orig": "Kilmar Abrego Garcia leaves U.S. voluntarily for Spain",
+              "summary": "킬마르 아브레고 가르시아가 미국을 자진해서 떠나 스페인으로 향했다고 NPR이 25일 보도했다. 그의 출국은 25일 NPR이 주요 뉴스로 다뤘다.",
+              "published": "2026-11-25",
+              "links": [
+                {
+                  "outlet": "NPR",
+                  "url": "https://www.npr.org/2026/11/25/nx-s1-6053203/abrego-garcia-leaves-us",
+                  "title": "Kilmar Abrego Garcia leaves U.S. voluntarily for Spain"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [
+            {
+              "title_ko": "엔비디아 급락에 AI 랠리 되감기…다우만 상승 마감",
+              "title_orig": "Stock market today: Dow rises, S&P 500 and Nasdaq decline as chip sector tumbles, Nvidia stock falls 6%",
+              "summary": "24일 뉴욕증시는 전날 급등의 반작용으로 혼조 마감했다. 다우지수는 0.85% 오른 50,018.70에 마쳤지만 S&P 500과 나스닥은 내렸고, 전날 31% 급등했던 엔비디아는 약 6% 하락해 AMD·마이크론·브로드컴 등 반도체주가 동반 약세였다. 연준의 12월 금리 인상 가능성이 높게 거론된 점도 투자심리를 눌렀고, 이번 주는 추수감사절로 목요일 휴장한다.",
+              "published": "2026-11-24",
+              "figure": "다우존스 50,018.70 (+0.85%, 2026-11-24 종가)",
+              "source": "Yahoo Finance 보도",
+              "links": [
+                {
+                  "outlet": "Yahoo Finance",
+                  "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html",
+                  "title": "Stock market today: Dow rises, S&P 500 and Nasdaq decline as chip sector tumbles, Nvidia stock falls 6%"
+                }
+              ]
+            },
+            {
+              "title_ko": "엔비디아 반등이 연준 12월 금리 인상 베팅 키웠다",
+              "title_orig": "Nvidia's stunning comeback delivers new shock to Fed rate-hike bets",
+              "summary": "젠슨 황의 CEO 복귀로 엔비디아 주가가 20일 대비 약 31% 급등하면서 위험자산 선호가 살아났고, CME 페드워치상 12월 8~9일 FOMC에서 0.25%p 인상할 확률은 약 95%로 치솟았다. 내년 7월까지 추가 인상이 두 차례 이상 가격에 반영됐다. 시장은 25일 발표될 10월 PCE와 12월 4일 고용보고서를 다음 변수로 보고 있다.",
+              "published": "2026-11-24",
+              "figure": "12월 25bp 인상 확률 95.3% (2026-11-24)",
+              "source": "CME FedWatch(TheStreet 인용)",
+              "links": [
+                {
+                  "outlet": "TheStreet",
+                  "url": "https://www.thestreet.com/fed/nvidia-rally-fed-rate-hike-bets-december-2026",
+                  "title": "Nvidia's stunning comeback delivers new shock to Fed rate-hike bets"
+                }
+              ]
+            },
+            {
+              "title_ko": "트럼프 새 관세 발표에 증시 급락…각국 반응",
+              "title_orig": "World reacts to Trump's new tariffs as US stocks tumble",
+              "summary": "미국이 14개 교역국에 새 관세를 제안한 25일 뉴욕증시는 장 초반 나스닥이 3.9%, S&P 500이 2.8% 내리는 등 크게 흔들렸다. 금은 3% 넘게 하락해 1년여 만에 최저 수준이었고, 미 10년물 국채 금리는 4.83%대로 내렸다. 유럽연합 집행위는 구조적 과잉생산을 인정할 수 없다며 조사 결과를 검토하겠다고 했고, 중국 외교부는 과잉생산 논리가 허구라고 반박했다.",
+              "published": "2026-11-25",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/economy/2026/11/25/world-reacts-to-trumps-new-tariffs-as-us-stocks-tumble",
+                  "title": "World reacts to Trump's new tariffs as US stocks tumble"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [
+            {
+              "title_ko": "연방 판사, 트럼프 행정부 노숙 대책 개편안 제동",
+              "title_orig": "Federal judge blocks Trump administration's plan to overhaul approach to homelessness",
+              "summary": "연방 판사가 노숙 문제 대응 방식을 바꾸려던 트럼프 행정부의 계획에 제동을 걸었다고 NPR이 25일 보도했다. 해당 개편안은 이번 결정으로 시행이 막힌 상태다.",
+              "published": "2026-11-25",
+              "links": [
+                {
+                  "outlet": "NPR",
+                  "url": "https://www.npr.org/2026/11/25/nx-s1-6051420/federal-judge-blocks-trump-administrations-plan-to-overhaul-approach-to-homelessness",
+                  "title": "Federal judge blocks Trump administration's plan to overhaul approach to homelessness"
+                }
+              ]
+            },
+            {
+              "title_ko": "추수감사절 앞두고 폭풍·항공 전산 장애로 여행 차질",
+              "title_orig": "News Wrap: Storms threaten Thanksgiving travel as airlines rebound from tech failures",
+              "summary": "23일 미국 전역에서 항공편 3,700편 이상이 지연됐고 시카고 오헤어 공항에는 이착륙 중단 조치가 내려졌다. 델타항공의 자동화 시스템 장애가 원인으로 꼽혔으며 이후 운항이 재개됐다. 추수감사절 연휴를 앞두고 동·서해안 모두에 폭풍우가 예보돼 이동 차질 우려가 이어졌다.",
+              "published": "2026-11-23",
+              "links": [
+                {
+                  "outlet": "PBS NewsHour",
+                  "url": "https://www.pbs.org/newshour/show/news-wrap-storms-threaten-thanksgiving-travel-as-airlines-rebound-from-tech-failures",
+                  "title": "News Wrap: Storms threaten Thanksgiving travel as airlines rebound from tech failures"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사건사고",
+          "items": [
+            {
+              "title_ko": "육군, 아이오와 군수공장 납 아지드 약 5톤 통제 폭파",
+              "title_orig": "Army detonates nearly five tons of lead-based explosives in Iowa",
+              "summary": "미 육군은 25일 아이오와 육군 탄약공장에 보관된 변질 납 아지드 약 5톤을 통제 폭파했다고 NPR이 전했다. 이 물질은 일부가 결정화돼 마찰과 추위에 민감해졌다는 이유로 폭파가 추진됐고, 연방 항소법원이 이틀 전 계획 진행을 허용했다. 당국은 납 먼지 우려로 반경 8km 안 주민에게 대피를 권고했다.",
+              "published": "2026-11-25",
+              "links": [
+                {
+                  "outlet": "NPR",
+                  "url": "https://www.npr.org/2026/11/25/nx-s1-6052338/army-detonation-lead-explosives-iowa",
+                  "title": "Army detonates nearly five tons of lead-based explosives in Iowa"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ],
+      "note": ""
+    }
+  ],
+  "notes": []
+}

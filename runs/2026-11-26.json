@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-26",
+  "part1": {
+    "status": "partial",
+    "startedAt": "2026-11-26T04:43:00+09:00",
+    "finishedAt": "2026-11-26T05:20:00+09:00",
+    "notes": [
+      "3개 섹션 12개 그룹, 기사 17건, 빈 그룹 2(중국 정치 및 외교, 중국 사회 및 문화), 3건 미만 그룹 다수(아시아-태평양 사회 및 문화 1·사건사고 1, 중국 경제 1·사건사고 1, 미국 정치 및 외교 1·사건사고 1·사회 및 문화 2)",
+      "지시문 시작 주소 7곳(BBC, Al Jazeera, SCMP 중국·아시아, NPR, Korea JoongAng Daily, Korea Herald)은 모두 PROVENANCE_REQUIRED(권한 확인 시간초과)로 열리지 않아 사용하지 못함. 검색 결과로 나온 개별 기사만 열람했고, 일부 domain 필터 검색은 PROXY_REJECTED(400)로 실패",
+      "열람 실패(client_error/robots): SCMP 미중 관세·중국-파키스탄 유인 우주비행·중국 펀드 증시·부동산 자금·가사도우미 보상 기사, Japan Times 일본 방위비·AI 국가·ICC 지원 기사(일본 관련 기사 확보 못함), CNBC 2건, NPR 4건(robots 차단), The Hill 2건, Focus Taiwan Taiex 기사, Saudi Gazette, Korea Herald 한국 관세 상한 15% 유지 기사(권한 시간초과)",
+      "AP·연합뉴스 출처 표기가 붙은 재게재본(PBS NewsHour 관세·킹타이드·아이오와 기사, 1News 트럼프-시진핑-푸틴 회담, Korea Times AP 관세·Yonhap 소비재 수출, Korea Herald Yonhap 청해부대)은 재게재 금지 원칙에 따라 링크하지 않음. 이 때문에 중국 정치 및 외교는 빈 칸이 됨(트럼프-시진핑-푸틴 선전 회담은 11/19 사건으로 48시간 기준도 초과)",
+      "본문 미열람(검색 결과 제목 기준 요약): NPR 아브레고 가르시아 스페인 출국, NPR 연방 판사 노숙 대책 제동, NPR 아이오와 납 아지드 폭파(폭파 사실은 NPR 제목 기준, 세부는 PBS·AP 열람 내용 참고). 요약이 매우 짧음",
+      "SCMP 타이포 화재 기사는 도입부 일부만 열렸고 게재일 미표기(이미지 경로 11/23로 추정). 가사도우미 10명 중 9명 유가족 보상 대기 문장은 SCMP 별도 기사 제목(3375666, 열람 실패) 기준",
+      "Yahoo Finance 라이브 블로그(11/24)는 Yahoo 자체 기자 작성 기사로 보아 사용했으나 포털 재게재 금지 취지에 걸릴 수 있어 part3 점검 필요. S&P 500·나스닥 종가는 확인되지 않아 수치 생략. Reuters 중간 집계(MarketScreener)는 재게재본이라 링크하지 않음",
+      "코스피·대만 지표 수치는 Korea Times·Focus Taiwan·Korea Herald 기사에서 인용(시장 규모가 이전 리포트와 크게 다른 수치는 기사 그대로). 한국은행 11/26 금통위 결과는 작성 시점에 미확인",
+      "링크 17개 중 Korea Herald 4(약 24%), Focus Taiwan 3, NPR 3으로 25% 상한 이내. 한 그룹이 모두 같은 매체인 경우 없음"
+    ]
+  },
+  "part2": {
+    "status": "",
+    "startedAt": "",
+    "finishedAt": "",
+    "notes": []
+  },
+  "part3": {
+    "status": "",
+    "startedAt": "",
+    "finishedAt": "",
+    "notes": []
+  }
+}

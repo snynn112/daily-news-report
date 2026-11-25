@@ -30,9 +30,17 @@
     ]
   },
   "part3": {
-    "status": "",
-    "startedAt": "",
-    "finishedAt": "",
-    "notes": []
+    "status": "partial",
+    "startedAt": "2026-11-26T05:51:00+09:00",
+    "finishedAt": "2026-11-26T06:06:26+09:00",
+    "notes": [
+      "TLDR 보관함(tldr.tech/tech/archives, /ai/archives)은 PROVENANCE_REQUIRED(권한 확인 시간초과)로 열리지 않았고 WIRED·Ars Technica·The Verge는 검색이 거부되거나 결과가 없어, 기술과학 5건은 MIT Technology Review 뉴스레터(11/23·11/25호)에서 확인한 소개·원문 링크로 구성. 본문을 직접 열어 확인한 것은 MIT TR 기사뿐이고 나머지(NYT·CNN·Gizmodo·BBC·Guardian·CNBC·Reuters)는 원문이 열리지 않아 뉴스레터 소개문 기준 요약(link title 일부 생략)",
+      "한국 지표: 코스피·코스닥·원/달러는 11/25 종가(JoongAng Daily·Seoul Economic Daily·Korea Times). 한국 거시지표와 국고채 3년물(11/24)은 전일 리포트에서 확인한 최신 값 유지. 한은 금통위 11/26 오전 결과는 작성 시각(KST 06시경)에 미발표라 기준금리는 10/22 동결 값 유지",
+      "미국 지표: S&P 500·다우·나스닥은 로이터 기사(Korea Times 게재)의 11/25 장 후반 집계로, 기사 수정 시각이 정규장 마감 전이라 공식 종가는 미확인. 10년물 4.834%는 Al Jazeera의 장 초반 값. 10월 PCE·근원 PCE·3분기 GDP 잠정치는 Fox Business 보도 기준(BEA 원문 미열람). VIX·러셀 2000·금은 11/25 값 확인 실패로 행 제외, 브렌트유는 11/24 값 유지. 일본 근원 CPI는 확인 실패로 제외",
+      "빈 그룹 6개(중국 정치 및 외교·사회 및 문화, 동유럽 경제·사회 및 문화, 중동 사회 및 문화, 아프리카 경제)와 3건 미만 그룹 다수는 part1·part2 조사 한계(시작 주소 권한 시간초과, 재게재 금지 원칙)에서 비롯됨. part3에서 별도 보강하지 못함",
+      "경제 기사: 주요 기업·미국 주식시장 그룹은 3건 미만. CNBC 11/24 장 기사(usa 경제)와 CNBC 관세 기사는 본문을 열지 못해 검색 결과 제목과 다른 열람 기사의 수치로 요약. Yahoo Finance 항목은 포털 재게재 우려로 CNBC 링크로 교체. Korea Times 로이터 기사는 로이터 통신 게재본임",
+      "Euronews 'Europe Tonight' 11/25 회차 1건이 동유럽·서유럽 정치 항목 2곳에 쓰임(서유럽 경제 관세 항목은 중복이라 삭제). 헤드라인 섹션은 경제·권역 섹션 기사 일부를 재사용(링크 고유 기준 분포: Al Jazeera 19.7%, Euronews 약 12%)",
+      "AP·연합뉴스·POLITICO는 사용하지 않음. 모든 섹션·그룹 note는 빈 문자열"
+    ]
   }
 }

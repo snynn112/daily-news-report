@@ -1,0 +1,447 @@
+{
+  "date": "2026-11-26",
+  "part": 2,
+  "generatedAt": "2026-11-26T05:28:21+09:00",
+  "sections": [
+    {
+      "id": "eu-east",
+      "part": "2. 권역별 뉴스",
+      "name": "4) 유럽 (1) 동유럽",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "마저르 헝가리 총리, 우크라이나 서부서 젤렌스키와 배구 친선경기…관계 해빙 신호",
+              "title_orig": "Europe Tonight: Trump unveils new tariffs amid Russian nuclear space threat",
+              "summary": "젤렌스키 우크라이나 대통령과 페테르 마저르 헝가리 총리가 우크라이나 자카르파티아 지역의 헝가리어 고등학교를 찾아 학생들과 친선 배구 경기를 했다. 수년간 이어진 키이우와 부다페스트 사이의 긴장이 누그러지고 있음을 보여 주는 장면으로 전해졌다.",
+              "published": "2026-11-25",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/25/europe-tonight-trump-unveils-new-tariffs-amid-russian-nuclear-space-threat",
+                  "title": "Europe Tonight: Trump unveils new tariffs amid Russian nuclear space threat"
+                }
+              ]
+            },
+            {
+              "title_ko": "EU·서발칸 정상회의 브뤼셀서 개최…세르비아 불참, 가입 속도 놓고 신경전",
+              "title_orig": "Balkan to the future: The long and winding road to Brussels",
+              "summary": "EU 정상들이 25일 브뤼셀에서 서발칸 국가 정상들과 회의를 열었다. 세르비아는 지난달 총선 이후 새 정부 구성이 끝나지 않아 참석하지 않았고 공동선언에도 지지를 보내기 어려울 전망이다. 가입 문턱에 가장 가까운 몬테네그로는 6월까지 가입조약 서명 준비를 목표로 하지만 크로아티아와의 국경 분쟁, 신규 회원국에 10년의 유예기간을 두는 방안이 걸림돌로 꼽힌다.",
+              "published": "2026-11-25",
+              "event_date": "2026-11-25",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/25/balkan-to-the-future-the-long-and-winding-road-to-brussels",
+                  "title": "Balkan to the future: The long and winding road to Brussels"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [],
+          "note": ""
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [],
+          "note": ""
+        },
+        {
+          "name": "사건사고",
+          "items": [
+            {
+              "title_ko": "러시아 공습, 키이우 지역서 최소 15명 사망",
+              "title_orig": "Russian air strikes kill at least 15 people across Kyiv region, Ukraine says",
+              "summary": "23일 밤사이 러시아의 공습으로 키이우 외곽 지역에서 최소 15명이 숨졌다. 키이우 북쪽 약 45km의 디메르에서는 5층 건물이 피격돼 최소 11명이 숨지고 어린이 2명을 포함한 11명이 실종 상태이며, 비시네의 슈퍼마켓 공격으로 3명이 숨지고 15명이 다쳤다. 러시아는 기온이 내려가면서 에너지 시설 타격을 늘리고 있다.",
+              "published": "2026-11-23",
+              "event_date": "2026-11-23",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/23/russian-air-strikes-kill-at-least-15-people-across-kyiv-region-ukraine-says",
+                  "title": "Russian air strikes kill at least 15 people across Kyiv region, Ukraine says"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "eu-west",
+      "part": "2. 권역별 뉴스",
+      "name": "4) 유럽 (2) 서유럽",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "뤼터 NATO 총장 \"우주 위협도 방위 공약에 포함\"…러시아 핵탑재 위성 보도에 대응",
+              "title_orig": "Europe Tonight: Trump unveils new tariffs amid Russian nuclear space threat",
+              "summary": "마르크 뤼터 NATO 사무총장은 베를린에서 메르츠 독일 총리와 함께한 자리에서, 동맹의 방위 공약이 우주 공간의 위협까지 포괄한다고 밝혔다. 러시아가 몇 주 안에 핵무기를 실은 위성을 발사할 수 있다는 보도에 대한 답으로, 억제 태세 검토가 진행 중이라고 설명했다. 모스크바는 의혹을 부인하며 자국 우주 활동은 국제 의무를 따른다고 주장한다.",
+              "published": "2026-11-25",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/25/europe-tonight-trump-unveils-new-tariffs-amid-russian-nuclear-space-threat",
+                  "title": "Europe Tonight: Trump unveils new tariffs amid Russian nuclear space threat"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [
+            {
+              "title_ko": "트럼프, EU·중국·일본 등 14개 교역국에 신규 관세 제안",
+              "title_orig": "Europe Tonight: Trump unveils new tariffs amid Russian nuclear space threat",
+              "summary": "미국 대통령이 8개월간의 산업 과잉설비 조사를 마치고 중국·EU·일본·베트남 등 14개 교역 상대국에 새 관세를 부과하겠다고 제안했다. 무역 협상이 결렬되면 중국에는 최대 40%가 적용될 수 있고, 1월 만료되는 휴전 아래에서는 기준 상한이 20%이며 기존 관세와 겹칠 수 있다. 이번 제안은 미 연방대법원이 앞서 부과된 광범위한 관세를 무효로 판단한 뒤에 나왔다.",
+              "published": "2026-11-25",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/25/europe-tonight-trump-unveils-new-tariffs-amid-russian-nuclear-space-threat",
+                  "title": "Europe Tonight: Trump unveils new tariffs amid Russian nuclear space threat"
+                }
+              ]
+            },
+            {
+              "title_ko": "EU 7년 예산 협상 난항…독일 \"아직 부족\", 프랑스 \"수용 불가\"",
+              "title_orig": "Europe Tonight debriefs: can the EU budget compete with China and the US?",
+              "summary": "EU 의회와 회원국이 차기 7개년 예산을 두고 정면으로 맞서고 있다. 코스타 유럽이사회 상임의장의 최신 제안은 또 한 번 대규모 삭감을 담았는데, 독일은 올바른 방향이지만 충분하지 않다고 보고 프랑스는 받아들일 수 없다는 입장이다. 지출 삭감과 디지털 부과금, 농업 보조금을 둘러싼 이견에 우크라이나 지원 재원 문제까지 얹혀 있다.",
+              "published": "2026-11-24",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/24/europe-tonight-debriefs-can-the-eu-budget-compete-with-china-and-the-us",
+                  "title": "Europe Tonight debriefs: can the EU budget compete with China and the US?"
+                },
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/24/europe-tonight-europe-faces-tough-budget-negotiations",
+                  "title": "Europe Tonight: Europe faces tough budget negotiations"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [
+            {
+              "title_ko": "유럽의회, EU 의약품법 20여 년 만의 개편안 최종 승인",
+              "title_orig": "European Parliament approves new EU medicines rules. What happens next?",
+              "summary": "유럽의회가 2년 넘게 이어진 협상 끝에 EU 의약품 법제 전면 개편안을 최종 승인했다. 제조업체는 2주 넘는 공급 차질이 예상되면 6개월 전에, 의약품을 영구 철수할 때는 1년 전에 당국에 알려야 하고, 자료보호 기간은 기본 8년으로 늘었다. 우선순위 항생제에는 양도 가능한 시장독점 바우처가 도입되며, 대부분의 조항은 발효 2년 뒤부터 적용된다.",
+              "published": "2026-11-25",
+              "event_date": "2026-11-25",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/25/european-parliament-approves-new-eu-medicines-rules-what-happens-next",
+                  "title": "European Parliament approves new EU medicines rules. What happens next?"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사건사고",
+          "items": [
+            {
+              "title_ko": "윌리엄 왕세자 부부 샌드링엄 별장 침입 혐의 남성 2명 기소",
+              "title_orig": "Two men charged over burglary at William and Catherine's home",
+              "summary": "영국 노퍽의 샌드링엄 사유지에 있는 윌리엄 왕세자 부부 별장에 침입한 혐의로 남성 2명이 노리치 치안법원에 섰다. 검찰은 이들이 배수관을 타고 올라 드레싱룸에 들어가 커프스단추 6쌍과 시계를 훔쳤다고 주장하며, 두 사람은 답변하지 않은 채 구금돼 다음 주 월요일 재판을 받는다. 현지 언론은 둘 다 알바니아 국적이라고 전했다.",
+              "published": "2026-11-25",
+              "event_date": "2026-11-25",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/25/two-men-charged-over-burglary-at-william-and-catherines-home",
+                  "title": "Two men charged over burglary at William and Catherine's home"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "middle-east",
+      "part": "2. 권역별 뉴스",
+      "name": "5) 중동",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "네타냐후-쿠슈너 통화…가자 인도주의 상황 협력 지속 합의",
+              "title_orig": "Israeli official says Netanyahu spoke with Kushner, day after 'global pariah' warning",
+              "summary": "이스라엘 당국자가 현지 언론에 밝힌 바에 따르면 네타냐후 총리와 쿠슈너 미국 특사가 24일 통화해 가자 인도주의 상황을 논의하고 계속 협력하기로 했다. 쿠슈너는 하루 전 인터뷰에서 이스라엘이 가자 대응 방식 때문에 '글로벌 왕따'가 될 수 있다고 경고했다. 그가 이끄는 평화위원회는 하마스 무장해제 계획을 이스라엘 정부가 막고 있다며 비판해 왔다.",
+              "published": "2026-11-25",
+              "event_date": "2026-11-24",
+              "links": [
+                {
+                  "outlet": "Times of Israel",
+                  "url": "https://www.timesofisrael.com/liveblog_entry/israeli-official-says-netanyahu-spoke-with-kushner-day-after-global-pariah-warning/",
+                  "title": "Israeli official says Netanyahu spoke with Kushner, day after 'global pariah' warning"
+                }
+              ]
+            },
+            {
+              "title_ko": "미 재무부, 헤즈볼라 연계 자선단체 제재…\"효과 제한적\" 분석",
+              "title_orig": "US sanctions on Lebanon's Hezbollah-affiliates may have limited impact",
+              "summary": "미 재무부가 헤즈볼라의 전위 조직이라며 한 자선단체를 제재했다. 국제위기그룹 등 전문가들은 정치적 메시지 이상의 실효는 크지 않다고 보며, 일부 레바논 언론인은 다음 제재가 은행가와 사업가로 확대될 수 있다고 주장한다. 비판론자들은 제재가 일반 레바논인, 특히 시아파 주민에게 피해를 준다고 지적하고, 이스라엘은 여전히 레바논 영토 안쪽 최대 10km를 점령한 채 헤즈볼라 무장해제를 철수 조건으로 내세운다.",
+              "published": "2026-11-24",
+              "event_date": "2026-11-18",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/24/us-sanctions-on-lebanons-hezbollah-affiliates-may-have-limited-impact",
+                  "title": "US sanctions on Lebanon's Hezbollah-affiliates may have limited impact"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [
+            {
+              "title_ko": "호르무즈 통항 선박 40% 급감…이란의 유조선 공격 효과는",
+              "title_orig": "Hormuz oil traffic is down 40 percent: Are Iran's tanker attacks working?",
+              "summary": "이란은 미국의 해상 봉쇄를 용납하지 않겠다며 \"모든 수단\"을 쓰겠다고 밝혔고, 최근 1주일 새 25척 넘는 유조선이 피격된 것으로 알려졌다. 선박 추적 자료상 호르무즈 해협 통항 선박은 11월 1~7일 226척에서 17~23일 125척으로 40% 넘게 줄었고, 24시간 통항은 전쟁 전 하루 125~140척의 약 5분의 1 수준인 28척이었다. 브렌트유는 한때 120달러를 넘었다가 88달러대로 내려왔다.",
+              "published": "2026-11-24",
+              "event_date": "2026-11-24",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/24/hormuz-oil-traffic-is-down-40-percent-are-irans-tanker-attacks-working",
+                  "title": "Hormuz oil traffic is down 40 percent: Are Iran's tanker attacks working?"
+                }
+              ]
+            },
+            {
+              "title_ko": "호르무즈 공격 속에도 국제유가·유럽 가스값 하락",
+              "title_orig": "Oil and European gas prices fall amid renewed attacks in Strait of Hormuz",
+              "summary": "25일 호르무즈 해협에서 선박 3척이 정체불명의 발사체에 맞았지만 모두 항해를 이어갔고, 걸프 원유 수출 회복 소식에 유가가 내렸다. 국제에너지기구는 4분기 세계 원유 공급이 수요를 웃돌 것으로 보며, 10월 걸프 수출은 하루 1,500만 배럴로 전쟁 전의 82% 수준까지 돌아왔다. 유럽 가스 지표인 TTF는 3.9% 떨어졌지만 EU 가스 저장률은 69% 아래로 5년 평균(86%)에 못 미친다.",
+              "published": "2026-11-25",
+              "event_date": "2026-11-25",
+              "figure": "브렌트유 89.82달러(-1.73%), WTI 80.60달러(-1.77%) (2026-11-25 GMT 07:45 기준)",
+              "source": "Anadolu 보도 인용",
+              "links": [
+                {
+                  "outlet": "Anadolu Agency",
+                  "url": "https://www.aa.com.tr/en/economy/oil-and-european-gas-prices-fall-amid-renewed-attacks-in-strait-of-hormuz/4136916",
+                  "title": "Oil and European gas prices fall amid renewed attacks in Strait of Hormuz"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [],
+          "note": ""
+        },
+        {
+          "name": "사건사고",
+          "items": [
+            {
+              "title_ko": "이스라엘 공습으로 하마스 내부보안국장 사망",
+              "title_orig": "Israeli air strike kills senior Hamas security official in Gaza",
+              "summary": "24일 가자지구에서 이스라엘의 드론 공격으로 하마스 내부보안국장 나임 아부 나힐 준장이 거리를 걷던 중 숨졌고 주변 4명이 다쳤다. 이스라엘군과 신베트는 이름을 밝히지 않은 채 고위 하마스 인사를 타격했다고 발표했고, 하마스는 전쟁범죄라고 비난했다. 2025년 10월 휴전 서명 이후 가자지구에서는 최소 1,680명이 숨진 것으로 집계된다.",
+              "published": "2026-11-24",
+              "event_date": "2026-11-24",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strike-kills-senior-hamas-military-official-in-gaza",
+                  "title": "Israeli air strike kills senior Hamas security official in Gaza"
+                }
+              ]
+            },
+            {
+              "title_ko": "이집트 카이로 순환도로서 유류 차량 화재…최소 30명 사망",
+              "title_orig": "At least 30 killed in Egypt vehicle fire, health ministry says",
+              "summary": "25일 대카이로권 기자주 임바바 와라크 지구의 순환도로 터널 위에서 석유 제품을 실은 차량이 중앙분리대를 들이받고 전복돼 불이 나 최소 30명이 숨지고 15명이 다쳤다. 현지 언론은 트럭이 방향을 틀다 전복한 뒤 폭발이 이어졌다고 전했다. 보건부는 구급차 39대를 보냈고 마드불리 총리는 희생자 치료비를 국가가 부담하라고 지시했다.",
+              "published": "2026-11-25",
+              "event_date": "2026-11-25",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/25/at-least-30-killed-in-egypt-vehicle-fire-health-ministry-says",
+                  "title": "At least 30 killed in Egypt vehicle fire, health ministry says"
+                }
+              ]
+            },
+            {
+              "title_ko": "후티 무인기, 리야드 최고층 빌딩 타격…사우디 연합군은 호데이다 항 소개령",
+              "title_orig": "Saudi-led coalition intercepts Houthi attacks after Hodeidah strike",
+              "summary": "사우디 주도 연합군은 25일 아침 동부 라스타누라 상공에서 무인기 4대를 격추하는 등 모두 7대를 요격했다고 밝혔다. 전날에는 후티 무인기가 리야드에서 가장 높은 빌딩을 때려 최소 11명이 다쳤고, 연합군은 호데이다와 사다·암란의 목표물을 공습하며 호데이다 항 소개를 지시했다. 후티는 호데이다가 공격받으면 제다를 포함한 사우디 홍해 항구를 타격하겠다고 위협했다.",
+              "published": "2026-11-25",
+              "event_date": "2026-11-24",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/25/saudi-led-coalition-intercepts-houthi-attacks-after-hodeidah-strike",
+                  "title": "Saudi-led coalition intercepts Houthi attacks after Hodeidah strike"
+                },
+                {
+                  "outlet": "Times of Israel",
+                  "url": "https://www.timesofisrael.com/liveblog-november-25-2026/",
+                  "title": "Report says Netanyahu signaled to Kushner he is willing to move forward on Gaza plan"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "africa",
+      "part": "2. 권역별 뉴스",
+      "name": "6) 아프리카",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "티누부 나이지리아 대통령, 북동부 마이두구리 유세서 \"평화 되찾겠다\"",
+              "title_orig": "Nigeria's Tinubu pledges to bring peace to rebellion-hit border region",
+              "summary": "볼라 티누부 대통령은 보르노주 마이두구리 유세에서 평화가 돌아올 것이라며 반군에 무기를 내려놓으라고 촉구했다. 그는 1월 16일 대선에서 재선을 노리고 있으며, 10월 여론조사에서는 직무 불만족이 50%를 넘고 70% 이상이 경제를 나쁘게 평가했다. 국방장관은 미국의 실시간 정보·위성 지원을 받고 있다고 밝혔고, 티누부 대통령은 5~6월 납치된 학생 70여 명이 아직 억류 중이라고 말했다.",
+              "published": "2026-11-25",
+              "event_date": "2026-11-25",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/25/nigerias-tinubu-pledges-to-bring-peace-to-insurgency-hit-northeast-region",
+                  "title": "Nigeria's Tinubu pledges to bring peace to rebellion-hit border region"
+                }
+              ]
+            },
+            {
+              "title_ko": "중국, 에티오피아·에리트레아 갈등 중재 시도…\"줄타기\" 외교",
+              "title_orig": "China walks 'thin line' in push to prevent another Horn of Africa war",
+              "summary": "중국이 에티오피아·지부티·이집트·에리트레아에 특사를 보내 아프리카의 뿔 지역 긴장 완화를 시도했다. 에티오피아의 홍해 접근권 요구와 아사브 항 관심, 나일강 댐을 둘러싼 이집트와의 갈등이 얽혀 신규 전쟁 우려가 커진 상황이다. 특사 방문은 지지 성명만 낳았을 뿐 공식 협상이나 합의로 이어지지는 않았고, 이집트와 미국의 안보 관계가 중국의 여지를 제한한다는 분석이 나온다.",
+              "published": "2026-11-24",
+              "event_date": "2026-11-02",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/24/china-walks-thin-line-in-push-to-prevent-another-horn-of-africa-war",
+                  "title": "China walks 'thin line' in push to prevent another Horn of Africa war"
+                }
+              ]
+            },
+            {
+              "title_ko": "수단 내전 4년째 교착…RSF, 청나일주에 새 전선",
+              "title_orig": "Sudan war grinds on with RSF seeking to stretch SAF's resources thin",
+              "summary": "분석가들은 수단 내전이 4년째 이어지는 가운데 어느 쪽도 결정적 승리를 거두기 어렵다고 본다. 신속지원군(RSF)과 동맹 반군은 청나일주에서 다마진 인근 65~70km 지점까지 작은 도시를 잇따라 차지했고, 정부군은 서부 코르도판에서 RSF를 서서히 밀어내고 있다. 부르한 장군은 RSF가 패배하거나 항복할 때까지 싸우겠다는 입장이고, 헤메티 쪽은 협상에 상대적으로 열려 있어 외교는 진전이 없다.",
+              "published": "2026-11-25",
+              "links": [
+                {
+                  "outlet": "The National",
+                  "url": "https://www.thenationalnews.com/news/mena/2026/11/25/sudan-war-grinds-on-with-rsf-seeking-to-stretch-safs-resources-thin/",
+                  "title": "Sudan war grinds on with RSF seeking to stretch SAF's resources thin"
+                }
+              ]
+            },
+            {
+              "title_ko": "OPCW 집행이사회 아프리카 몫에서 수단 빠져…군의 화학무기 사용 의혹 영향",
+              "title_orig": "Sudan shunned by anti-chemical weapons body amid scrutiny of army attacks",
+              "summary": "화학무기금지기구(OPCW) 당사국총회가 24일 모로코·앙골라·카메룬·탄자니아·튀니지로 아프리카 몫 집행이사국 5곳을 확정하면서 수단은 명단에서 빠졌다. 사무총장은 수단 문제가 집행이사회에 올라 있고 일부 회원국이 협약에 따른 설명을 요구했으며, 수단 측으로부터 상세한 정보가 오지 않아 실망했다고 말했다. 미국은 2025년 수단 정부가 화학무기를 썼다고 공식 판단하고 제재를 발표한 바 있다.",
+              "published": "2026-11-25",
+              "event_date": "2026-11-24",
+              "links": [
+                {
+                  "outlet": "The National",
+                  "url": "https://www.thenationalnews.com/news/mena/2026/11/25/sudan-shunned-by-anti-chemical-weapons-body-amid-scrutiny-of-army-attacks/",
+                  "title": "Sudan shunned by anti-chemical weapons body amid scrutiny of army attacks"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [],
+          "note": ""
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [
+            {
+              "title_ko": "러시아 편에서 우크라이나전 참전 시도한 짐바브웨인, 남아공서 유죄",
+              "title_orig": "South Africa convicts Zimbabwean who tried to fight Ukraine for Russia",
+              "summary": "남아공 법원이 러시아를 위해 우크라이나에서 싸우려던 짐바브웨인 타파드즈와 시솔레에게 징역 5년에 집행유예 5년을 선고했다. 그는 외국 군사지원 규제법 위반을 인정했고 짐바브웨로 추방될 예정이며, 다른 피의자 4명은 유죄 협상을 진행 중이다. 케냐는 2월 자국민 1,000명 넘게 모집됐다고 밝혔고, 짐바브웨는 3월 자국민 15명이 전쟁 중 숨졌다고 발표했다.",
+              "published": "2026-11-24",
+              "event_date": "2026-11-24",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/24/south-africa-convicts-zimbabwean-who-tried-to-fight-ukraine-for-russia",
+                  "title": "South Africa convicts Zimbabwean who tried to fight Ukraine for Russia"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사건사고",
+          "items": [
+            {
+              "title_ko": "RSF 드론 공습으로 수단 다마진·로세이레스서 19명 사망",
+              "title_orig": "Overnight RSF drone attacks kill 19 in Sudan",
+              "summary": "수단 군 소식통은 24일 밤 RSF의 드론 공격이 청나일주 주도 다마진과 인근 로세이레스를 강타해 최소 19명이 숨지고 20명 이상이 다쳤다고 밝혔다. 인권단체는 사망자 가운데 여성이 6명이며 전력 시설과 로세이레스 대형 댐도 피격됐다고 전했다. 양측의 드론 사용이 최근 크게 늘었고, 내전 4년간 최소 5만9천 명이 숨지고 1,300만 명 안팎이 피란한 것으로 추산된다.",
+              "published": "2026-11-25",
+              "event_date": "2026-11-24",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/25/overnight-rsf-drone-attacks-kill-19-in-sudan",
+                  "title": "Overnight RSF drone attacks kill 19 in Sudan"
+                }
+              ]
+            },
+            {
+              "title_ko": "우크라이나 해상드론, 리비아 벵가지서 러시아 함정·화물선 타격",
+              "title_orig": "'We'll keep sinking Russian ships': Ukraine challenges Putin's global reach",
+              "summary": "우크라이나산 해상 드론 7척이 모선에서 발진해 리비아 벵가지 앞바다에서 러시아 초계함 메르쿠리와 화물선 앙가라를 공격했다. 키이우는 초계함이 침몰했다고 주장하지만 리비아 군 관계자는 심하게 손상됐다고 AP에 밝혔다. 트리폴리 정부는 공격을 규탄했고 러시아는 보복을 예고했으며, 분석가들은 아프리카에서의 러시아 이미지를 흔들려는 정치적 시위 성격이 크다고 본다.",
+              "published": "2026-11-24",
+              "event_date": "2026-11-22",
+              "links": [
+                {
+                  "outlet": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/24/can-ukraine-disrupt-russias-operations-in-africa",
+                  "title": "'We'll keep sinking Russian ships': Ukraine challenges Putin's global reach"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ],
+      "note": ""
+    }
+  ],
+  "notes": []
+}

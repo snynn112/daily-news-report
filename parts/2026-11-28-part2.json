@@ -1,0 +1,456 @@
+{
+  "date": "2026-11-28",
+  "part": 2,
+  "generatedAt": "2026-11-28T05:40:00+09:00",
+  "sections": [
+    {
+      "id": "eu-east",
+      "part": "2. 권역별 뉴스",
+      "name": "4) 유럽 (1) 동유럽",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "에스토니아, 12월 1일부터 러시아 국경 폐쇄 확인",
+              "title_orig": "Estonia confirms closure of border with Russia from 1 December",
+              "summary": "에스토니아 외무장관 마르구스 차크나는 바쿠에서 열린 자국 대사관 개소식에서 12월 1일 러시아와의 국경을 닫을 것이라고 확인했다. 러시아의 행동에 대응하고 유럽의 안보를 지키기 위한 조치라는 설명이다. 그는 아제르바이잔에 대한 EU 비자 자유화도 지지한다고 밝혔다.",
+              "published": "2026-11-27",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/27/estonia-will-close-border-with-russia-to-secure-europe-foreign-minister-says-during-baku-v",
+                  "title": "Estonia confirms closure of border with Russia from 1 December"
+                }
+              ]
+            },
+            {
+              "title_ko": "세르비아 학생운동, 대선 후보로 사이치치 교수 추대",
+              "title_orig": "Serbia's student movement backs Professor Saičić for President",
+              "summary": "세르비아 학생운동이 12월 27일로 예정된 대통령 선거에 화학자인 라도미르 사이치치 교수를 후보로 내세웠다. 후보 등록 마감은 12월 6일이다. 부치치 대통령은 대선을 개인적으로 외면하겠다는 입장이며 집권 세르비아진보당은 참여 여부를 아직 정하지 않았다.",
+              "published": "2026-11-27",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/27/serbias-student-movement-puts-forward-professor-saicic-as-its-presidential-candidate",
+                  "title": "Serbia's student movement backs Professor Saičić for President"
+                }
+              ]
+            },
+            {
+              "title_ko": "아제르바이잔·아르메니아 시민사회, 딜리잔서 5차 '평화의 다리' 대화",
+              "title_orig": "Azerbaijani and Armenian civil societies seek 'new history' for region",
+              "summary": "양국 시민사회 대표 약 60명이 아르메니아 딜리잔에서 5차 '평화의 다리' 대화를 열었고, 이는 2025년 출범 이후 가장 큰 규모다. 도로·인프라, 경제, 인도주의, 교육 등을 논의했으며 무역·환경 감시·청년 교류·언론 협력을 다룰 6개 전문위원회로 형식을 넓히기로 했다.",
+              "published": "2026-11-27",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/27/azerbaijani-and-armenian-civil-societies-seek-new-history-in-new-round-of-peace-talks",
+                  "title": "Azerbaijani and Armenian civil societies seek 'new history' for region"
+                }
+              ]
+            },
+            {
+              "title_ko": "라트비아 영공에 드론 진입, 나토 전투기 긴급 발진",
+              "title_orig": "NATO jets scrambled after drone briefly enters Latvian airspace",
+              "summary": "드론 한 대가 잠시 라트비아 영공에 들어와 나토 전투기가 긴급 발진했다. 앞서 폴란드 상공 감시를 위해 나토가 공중조기경보통제기(AWACS)를 투입한 데 이어 동쪽 측면의 경계가 이어지고 있다.",
+              "published": "2026-11-27",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/27/nato-jets-scrambled-after-drone-briefly-enters-latvian-airspace",
+                  "title": "NATO jets scrambled after drone briefly enters Latvian airspace"
+                },
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/26/nato-deploys-awacs-airborne-radar-to-monitor-polish-airspace",
+                  "title": "NATO deploys AWACS airborne radar to monitor Polish airspace"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [],
+          "note": ""
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [],
+          "note": ""
+        },
+        {
+          "name": "사건사고",
+          "items": [
+            {
+              "title_ko": "러시아, 우크라이나에 미사일·드론 공습 잇따라…사상자 발생",
+              "title_orig": "Russia launches ballistic missile and drone barrage on Ukraine, killing at least three",
+              "summary": "러시아가 26일 탄도미사일과 드론으로 우크라이나를 공습해 최소 3명이 숨졌다. 27일에도 에너지·철도·민간 시설에 드론 공격이 이어져 사망자가 나왔다.",
+              "published": "2026-11-27",
+              "event_date": "2026-11-26",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/26/russia-launches-ballistic-missile-and-drone-barrage-on-ukraine-killing-at-least-three",
+                  "title": "Russia launches ballistic missile and drone barrage on Ukraine, killing at least three"
+                },
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/27/russian-drone-strikes-hit-ukraines-energy-rail-and-civilian-infrastructure-causing-deaths",
+                  "title": "Russian drone strikes hit Ukraine's energy, rail and civilian infrastructure, causing deaths"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "eu-west",
+      "part": "2. 권역별 뉴스",
+      "name": "4) 유럽 (2) 서유럽",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "EU 장기예산 정상회의 합의 불발",
+              "title_orig": "EU budget summit collapses as row over money exposes clash over Europe's strategic tasks",
+              "summary": "EU 정상들이 브뤼셀 정상회의에서 EU 예산에 합의하지 못한 채 회의가 결렬됐다. 재원 배분을 둘러싼 갈등이 유럽의 전략 과제를 둘러싼 이견으로 이어졌다는 분석이 나왔다.",
+              "published": "2026-11-27",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/27/europe-today-eu-leaders-unable-to-find-an-agreement-on-eus-budget",
+                  "title": "Europe Today: EU leaders unable to find an agreement on EU's budget"
+                },
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/27/eu-budget-summit-collapses-as-row-over-money-exposes-clash-over-europes-strategic-tasks",
+                  "title": "EU budget summit collapses as row over money exposes clash over Europe's strategic tasks"
+                }
+              ]
+            },
+            {
+              "title_ko": "스페인 총선 앞두고 복스 '캐스팅보트' 가능성·주거 문제 부상",
+              "title_orig": "Spain election: Is Vox set to be the kingmaker and how crucial is the housing issue",
+              "summary": "스페인 총선을 앞두고 극우 정당 복스가 정권 구성의 열쇠를 쥘지, 주거난이 선거에서 얼마나 중요한지를 짚었다. 유권자들이 무엇을 가장 우려하는지도 함께 다뤘다.",
+              "published": "2026-11-27",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/27/spain-general-election-is-vox-set-to-be-the-kingmaker-and-how-crucial-is-the-housing-issue",
+                  "title": "Spain general election: Is Vox set to be the kingmaker and how crucial is the housing issue"
+                },
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/27/spain-election-2026-what-are-voters-worried-about",
+                  "title": "Spain election 2026: What are voters worried about?"
+                }
+              ]
+            },
+            {
+              "title_ko": "영국·EU 식품 협정에 탈퇴 시 위약 조항",
+              "title_orig": "UK-EU food deal carries exit penalty, legal text shows",
+              "summary": "영국과 EU가 마련한 식품 관련 협정의 법률 문안에 한쪽이 빠질 경우 부담하는 탈퇴 위약 조항이 들어 있는 것으로 나타났다.",
+              "published": "2026-11-26",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/26/uk-eu-food-deal-carries-exit-penalty-legal-text-shows",
+                  "title": "UK-EU food deal carries exit penalty, legal text shows"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [
+            {
+              "title_ko": "독일 연방의회, 사상 최대 2027년 예산 승인…신규 차입 2,100억 유로",
+              "title_orig": "German Bundestag approves record 2027 budget as borrowing hits €210bn",
+              "summary": "독일 연방의회가 사상 최대 규모의 2027년 예산을 통과시켰고, 신규 차입 규모는 2,100억 유로에 이른다.",
+              "published": "2026-11-27",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/27/german-bundestag-approves-record-2027-budget-as-borrowing-hits-210bn",
+                  "title": "German Bundestag approves record 2027 budget as borrowing hits €210bn"
+                }
+              ]
+            },
+            {
+              "title_ko": "차기 ECB 총재는 물가 안정 최우선 과제로 삼아야…이코노미스트",
+              "title_orig": "New ECB chief should prioritise inflation, economist says",
+              "summary": "한 이코노미스트가 새 유럽중앙은행 총재가 무엇보다 물가 안정을 우선해야 한다고 주장했다.",
+              "published": "2026-11-27",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/27/new-ecb-chief-should-prioritise-inflation-economist-says",
+                  "title": "New ECB chief should prioritise inflation, economist says"
+                }
+              ]
+            },
+            {
+              "title_ko": "벨기에 농민, 브뤼셀서 EU 보조금 삭감 반대 트랙터 시위",
+              "title_orig": "Belgium: Farmers and tractors descend on Brussels to defend EU subsidies",
+              "summary": "벨기에 농민들이 트랙터를 몰고 브뤼셀로 모여 EU 보조금을 지키라고 요구했다. EU 예산 논의가 진행되는 가운데 열린 시위다.",
+              "published": "2026-11-26",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/video/2026/11/26/belgium-farmers-and-tractors-descend-on-brussels-to-defend-eu-subsidies",
+                  "title": "Belgium: Farmers and tractors descend on Brussels to defend EU subsidies"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [
+            {
+              "title_ko": "포르투갈 의회, 공영방송에 투우 중계 재개 지시…8만6천 명 청원 논란",
+              "title_orig": "Portugal's parliament orders public TV to air bullfights again, sparking 86,000-name petition",
+              "summary": "포르투갈 의회가 공영방송에 투우 중계를 다시 편성하라고 결정했고, 이에 반발하는 8만6천 명 규모의 청원이 제출됐다.",
+              "published": "2026-11-27",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/27/portugals-parliament-orders-public-tv-to-air-bullfights-again-sparking-86000-name-petition",
+                  "title": "Portugal's parliament orders public TV to air bullfights again, sparking 86,000-name petition"
+                }
+              ]
+            },
+            {
+              "title_ko": "영국, 스리랑카 난민을 에스와티니로 비밀 이송…BBC 보도",
+              "title_orig": "UK sent Sri Lankan refugee to Eswatini in secret deal, the BBC says",
+              "summary": "BBC 보도에 따르면 영국이 비밀 합의에 따라 스리랑카 출신 난민을 에스와티니로 보냈다.",
+              "published": "2026-11-26",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/26/uk-sent-sri-lankan-refugee-to-eswatini-in-secret-deal-the-bbc-says",
+                  "title": "UK sent Sri Lankan refugee to Eswatini in secret deal, the BBC says"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사건사고",
+          "items": [
+            {
+              "title_ko": "이비사 앞바다서 디젤 7천 톤 실은 선박 침몰, 선원 1명 사망",
+              "title_orig": "Ship transporting 7,000 tonnes of diesel sinks off Ibiza, one crewman dead",
+              "summary": "디젤 약 7천 톤을 싣고 가던 선박이 스페인 이비사 앞바다에서 침몰해 선원 1명이 숨졌다.",
+              "published": "2026-11-26",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/26/ship-transporting-7000-tonnes-of-diesel-sinks-off-ibiza-one-crewman-dead",
+                  "title": "Ship transporting 7,000 tonnes of diesel sinks off Ibiza, one crewman dead"
+                }
+              ]
+            },
+            {
+              "title_ko": "마르세유전 앞두고 레프스키 팬 나치 경례 포착",
+              "title_orig": "Video shows Levski fan caught giving Nazi salute before Marseille match",
+              "summary": "유로파리그 마르세유 경기를 앞두고 불가리아 레프스키 팬이 나치식 경례를 하는 모습이 영상에 담겼다.",
+              "published": "2026-11-27",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/video/2026/11/27/video-shows-levski-fan-caught-giving-nazi-salute-before-marseille-match",
+                  "title": "Video shows Levski fan caught giving Nazi salute before Marseille match"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "middle-east",
+      "part": "2. 권역별 뉴스",
+      "name": "5) 중동",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "이란, 쿠웨이트 드론 공격 책임 부인…이탈리아인 2명 사망",
+              "title_orig": "Iran denies responsibility for Kuwait drone strike that killed two Italians",
+              "summary": "쿠웨이트에서 드론 공격으로 이탈리아인 2명이 숨졌고, 이란은 책임이 없다고 부인했다. 하루 앞서 쿠웨이트군은 이란 드론을 요격했다고 밝혔으며 이 과정에서 4명이 다쳤고 이라크를 거쳐 걸프로 가는 민항기 항로가 우회됐다.",
+              "published": "2026-11-27",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/27/iran-denies-responsibility-for-kuwait-drone-strike-that-killed-two-italians",
+                  "title": "Iran denies responsibility for Kuwait drone strike that killed two Italians"
+                },
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/26/civilian-flights-diverted-as-kuwait-army-intercepts-iranian-drone-attack",
+                  "title": "Civilian flights diverted as Kuwait army intercepts Iranian drone attack"
+                }
+              ]
+            },
+            {
+              "title_ko": "네타냐후 부패 재판부, 핵심 혐의 철회 검토 권고",
+              "title_orig": "Judges in Netanyahu corruption trial urge dropping key charges",
+              "summary": "네타냐후 총리 부패 재판의 재판부가 검찰에 핵심 혐의를 철회하는 방안을 검토하라고 권고했다. 이스라엘은 10월 27일 총선 이후에도 새 정부 구성에 어려움을 겪고 있다.",
+              "published": "2026-11-26",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/26/judges-in-netanyahu-corruption-trial-urges-dropping-key-charges",
+                  "title": "Judges in Netanyahu corruption trial urge dropping key charges"
+                }
+              ]
+            },
+            {
+              "title_ko": "이스라엘군, 레바논 베카 계곡 헤즈볼라 로켓·발사대 타격",
+              "title_orig": "Nov. 26: Yashar, UTJ reportedly reach agreement on key principles of Haredi draft law",
+              "summary": "이스라엘군은 레바논 베카 계곡의 헤즈볼라 로켓과 발사대를 공습했다고 밝혔다. 하마스 수장은 이어지는 가자 공습을 받아들일 수 없다며 대응을 논의하겠다고 했고, 이란 외무장관은 카타르와 파키스탄 중재자들이 이란·미국 사이 메시지를 계속 전달하고 있다고 말했다.",
+              "published": "2026-11-26",
+              "links": [
+                {
+                  "outlet": "The Times of Israel",
+                  "url": "https://www.timesofisrael.com/liveblog-november-26-2026/",
+                  "title": "Nov. 26: Yashar, UTJ reportedly reach agreement on key principles of Haredi draft law"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [],
+          "note": ""
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [
+            {
+              "title_ko": "이라크 법원, 프랑스 국적 IS 가담자 8명에 종신형",
+              "title_orig": "Iraq sentences eight French nationals to life for joining Islamic State",
+              "summary": "이라크 법원이 이슬람국가(IS)에 가담한 프랑스 국적자 8명에게 종신형을, 2명에게 징역 15년을 선고했다. 다른 프랑스인 10명에 대한 선고는 미뤄졌다.",
+              "published": "2026-11-26",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/26/iraq-sentences-eight-french-nationals-to-life-for-joining-islamic-state",
+                  "title": "Iraq sentences eight French nationals to life for joining Islamic State"
+                }
+              ]
+            },
+            {
+              "title_ko": "수감된 이란 쌍둥이 형제, 구타·고문…가족 \"한 명은 사형 위기\"",
+              "title_orig": "Relatives say jailed Iranian twins beaten and tortured, one faces execution",
+              "summary": "가족들은 이란에 수감된 쌍둥이가 구타와 고문을 당했고 그중 한 명은 처형될 위기에 놓여 있다고 주장했다.",
+              "published": "2026-11-27",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/27/relatives-say-jailed-iranian-twins-beaten-and-tortured-one-faces-execution",
+                  "title": "Relatives say jailed Iranian twins beaten and tortured, one faces execution"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사건사고",
+          "items": [
+            {
+              "title_ko": "튀르키예 베식타시 유로파리그 경기, 이스라엘 구단과 충돌",
+              "title_orig": "Clashes erupt at Besiktas Europa League match against Israeli club",
+              "summary": "베식타시와 이스라엘 구단의 유로파리그 경기에서 충돌이 벌어졌다.",
+              "published": "2026-11-27",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/27/clashes-erupt-at-besiktas-europa-league-match-against-israeli-club",
+                  "title": "Clashes erupt at Besiktas Europa League match against Israeli club"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "africa",
+      "part": "2. 권역별 뉴스",
+      "name": "6) 아프리카",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "라마포사 불참 속 ANC 연정 협상, 지방으로 무게 이동",
+              "title_orig": "Watch — Ramaphosa's absence leaves ANC coalition talks to the provinces",
+              "summary": "데일리 마버릭의 대담에서 남아공 연정 협상이 가우텡 등 지방 정치로 무게가 옮겨가는 흐름을 짚었다. 한 논객은 협상의 중요한 국면에 라마포사 대통령이 자리를 비워 영향력이 줄었다고 평가했다. 요하네스버그·츠와니·에쿠르훌레니 등 대도시 운영과 ANC, 액션SA, MK당의 협상 입지도 다뤘다.",
+              "published": "2026-11-27",
+              "links": [
+                {
+                  "outlet": "Daily Maverick",
+                  "url": "https://www.dailymaverick.co.za/video/2026-11-27-watch-ramaphosas-absence-leaves-anc-coalition-talks-to-the-provinces/",
+                  "title": "Watch — Ramaphosa's absence leaves ANC coalition talks to the provinces"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [],
+          "note": ""
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [],
+          "note": ""
+        },
+        {
+          "name": "사건사고",
+          "items": [
+            {
+              "title_ko": "카이로 순환도로서 유조차 화재, 31명 사망",
+              "title_orig": "Wreckage and burnt vehicles as fuel tanker fire kills 31 on Cairo highway",
+              "summary": "이집트 카이로 기자 순환도로에서 연료 유조차 사고로 불이 나 최소 31명이 숨지고 21명이 다쳤다. 이집트의 도로 안전 문제가 다시 부각됐다.",
+              "published": "2026-11-26",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/video/2026/11/26/wreckage-and-burnt-vehicles-as-fuel-tanker-fire-kills-31-on-cairo-highway",
+                  "title": "Wreckage and burnt vehicles as fuel tanker fire kills 31 on Cairo highway"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ],
+      "note": ""
+    }
+  ],
+  "notes": []
+}

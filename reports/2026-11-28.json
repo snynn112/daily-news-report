@@ -1,0 +1,1315 @@
+{
+  "date": "2026-11-28",
+  "title": "2026. 11. 28. Daily News Report",
+  "generatedAt": "2026-11-28T06:04:53+09:00",
+  "status": "partial",
+  "counts": {
+    "items": 48,
+    "emptyGroups": 15
+  },
+  "notes": [
+    "경제 지표표: 한국·미국·세계 표 작성. 11/27 종가는 Korea Times·Korea Herald(연합)·Korea Times 게재 로이터·Seoul Economic Daily·Yahoo Finance에서 확인. 국고채 3년물은 Korea Herald. 기준금리는 11/26 금통위 인상 반영(Korea Times). 경상수지(9월)는 Korea Times 기사 제목 기준 값(본문 미열람)",
+    "미 지수 종가: 로이터(Korea Times 게재) 다우 50,780.64·S&P 7,298.34, Seoul Economic Daily·Yahoo Finance는 다우 50,774.94·S&P 7,297.49로 소폭 상이 — 로이터 값 사용. 나스닥 24,129.50은 일치",
+    "한국 거시(CPI·근원·GDP·고용·수출·무역수지)와 미국 거시(CPI·PCE·GDP·고용)·세계 지표(유로존·ECB·중국·BOJ)는 11/26 리포트에서 확인한 최신 발표치 유지(이후 신규 발표 없음). 브렌트유·금은 출처 간 값 불일치(Brent 90~96달러대)로 행 제외. 코스피·시장 지표 외 일본 도쿄 CPI 등은 미확인으로 제외",
+    "웹페이지 열람: 지시문 시작 주소(TLDR 보관함, CNBC, Bloomberg, 한국경제, JoongAng Daily)는 PROVENANCE_REQUIRED로 열리지 않았고, TLDR 11/27호 미확인. 기술과학은 TLDR 대신 웹 검색에서 확인한 기사(Anadolu·Business Today·Herald Business)로 2건만 작성. 다이제스트(The Neuron 등)에 소개된 Reuters·Bloomberg·NYT 원문 링크는 열람 권한이 없어 사용하지 않음",
+    "기사 그룹 부족: 한국 주식시장 3, 미국 주식시장 2, 주요 기업 1, 기술과학 2건. 검색 색인에 11/26~28일자 기사가 적어 보강하지 못함. 헤드라인 8건 중 4건은 경제 기사·part2 기사 재사용",
+    "링크 매체 쏠림: part2의 Euronews 링크가 전체 고유 링크의 약 55%로 25% 상한 초과 — 다른 신뢰 매체 원문을 열람할 수 없어 교체하지 못함. 내일 part2·part3에서 보강 필요",
+    "금지 출처 없음. Yahoo Finance는 원 보도(라이브 블로그)만 사용, World Today Journal·gurufocus 등 재게재·투자 사이트는 제외. EDaily 기사는 기계 번역본이며 본문에 회의 일자 30일·29일 혼재(30일 채택). Forbes 기사는 일부 요약에 의존"
+  ],
+  "sections": [
+    {
+      "id": "headline",
+      "part": "1. 헤드라인",
+      "name": "헤드라인",
+      "groups": [
+        {
+          "name": "오늘의 헤드라인",
+          "items": [
+            {
+              "title_ko": "한국은행, 기준금리 3.25%로 0.25%p 인상…2027년 성장률 전망 4.1%로 대폭 상향",
+              "title_orig": "BOK sharply upgrades 2027 growth forecast to 4.1% from 2.9% on chip boom",
+              "summary": "한국은행이 26일 금융통화위원회에서 기준금리를 3.00%에서 3.25%로 올렸다. 7명 중 2명은 동결을 주장했고, 신현송 총재는 물가 압력에 선제 대응하는 조치라며 물가가 상당 기간 목표 2%를 웃돌 것이라고 말했다. 한은은 반도체 호황을 반영해 올해 성장률 전망을 3.9%, 내년을 4.1%로 올렸고 물가 전망은 올해 2.7%, 내년 2.4%로 제시했다.",
+              "published": "2026-11-26",
+              "event_date": "2026-11-26",
+              "figure": "기준금리 3.25% (직전 3.00%)",
+              "source": "한국은행",
+              "links": [
+                {
+                  "outlet": "The Korea Times",
+                  "url": "https://www.koreatimes.co.kr/economy/20261126/bok-raises-key-rate-by-quarter-point-to-325-as-inflation-concerns-mount",
+                  "title": "BOK sharply upgrades 2027 growth forecast to 4.1% from 2.9% on chip boom"
+                }
+              ]
+            },
+            {
+              "title_ko": "코스피 4.34%·코스닥 8.13% 급등…증시 안정 정책 기대에 외국인 1조 원 넘게 순매수",
+              "title_orig": "Seoul shares rally over 4 pct on hopes of policy support",
+              "summary": "27일 코스피는 4,915.68로 4.34% 올랐고 코스닥은 708.99로 8% 넘게 뛰었다. 당국이 10조 원 규모 시장안정기금 가동 등 부양책을 검토 중이라는 기대가 반영됐고 외국인은 1조 원대 순매수에 나섰다. 원/달러 환율은 1,337.9원으로 내렸다.",
+              "published": "2026-11-27",
+              "event_date": "2026-11-27",
+              "links": [
+                {
+                  "outlet": "UPI",
+                  "url": "https://www.upi.com/Top_News/World-News/2026/11/27/korea-KOSPI-Korea-Stock-Index-rally-policy-support/2011795765973/",
+                  "title": "Seoul shares rally over 4 pct on hopes of policy support"
+                }
+              ]
+            },
+            {
+              "title_ko": "월가, 낙폭 컸던 AI주 반등에 한 주 상승 마감…12월 연준 인상 기대 거의 반영",
+              "title_orig": "Wall Street ends higher as battered AI stocks gain in volatile week",
+              "summary": "추수감사절 다음 날 단축 거래된 27일 뉴욕증시는 다우 1.19%, S&P 500 1.61%, 나스닥 2.31% 오르며 한 주를 상승으로 마치고, 반도체와 AI 관련주가 반등을 이끌었다. 투자자들은 예상보다 빠른 3분기 성장과 10월 물가 가속으로 12월 금리 인상을 거의 반영하고 있으며, S&P 500과 나스닥은 2008년 이후 최악의 11월을 향하고 있다. 바이오 기업 버텍스는 FDA의 심사 기간 연장 소식에 하락했다.",
+              "published": "2026-11-28",
+              "event_date": "2026-11-27",
+              "source": "로이터",
+              "links": [
+                {
+                  "outlet": "The Korea Times",
+                  "url": "https://www.koreatimes.co.kr/world/20261128/wall-street-ends-higher-as-battered-ai-stocks-gain-in-volatile-week",
+                  "title": "Wall Street ends higher as battered AI stocks gain in volatile week"
+                }
+              ]
+            },
+            {
+              "title_ko": "중국 국무원, '국가대표팀' 투자자 역할 확대 촉구…상하이 지수 4% 급등",
+              "title_orig": "China cabinet calls for greater role by 'national team' investors to steady sinking markets",
+              "summary": "리창 총리가 27일 주재한 국무원 상무회의는 국유 자금 투자자인 이른바 '국가대표팀'이 더 큰 역할을 하라고 주문했다. 중앙후이진은 사실상 안정기금 역할을 하며 시장 혼란기에 유동성을 공급하게 된다. 이날 중국 대표 지수는 4% 올라 2년 만에 최대 상승폭을 기록했지만 시장은 여전히 16개월 저점 부근이다. 로이터는 해설 기사에서 CSI300이 6월 말 이후 약 20% 하락했고, 전문가들은 이 조치의 효과를 신호 효과 중심으로 보면서 반등 지속에는 회의적이라고 전했다.",
+              "published": "2026-11-27",
+              "event_date": "2026-11-27",
+              "links": [
+                {
+                  "outlet": "The Standard",
+                  "url": "https://www.thestandard.com.hk/finance/article/349834/China-cabinet-calls-for-greater-role-by-national-team-investors-to-steady-sinking-markets",
+                  "title": "China cabinet calls for greater role by 'national team' investors to steady sinking markets"
+                },
+                {
+                  "outlet": "The Standard",
+                  "url": "https://www.thestandard.com.hk/finance/article/349865/What-is-Chinas-national-team-and-can-it-stop-the-stock-market-slide",
+                  "title": "What is China's 'national team' and can it stop the stock market slide?"
+                }
+              ]
+            },
+            {
+              "title_ko": "EU 장기예산 정상회의 합의 불발",
+              "title_orig": "EU budget summit collapses as row over money exposes clash over Europe's strategic tasks",
+              "summary": "EU 정상들이 브뤼셀 정상회의에서 EU 예산에 합의하지 못한 채 회의가 결렬됐다. 재원 배분을 둘러싼 갈등이 유럽의 전략 과제를 둘러싼 이견으로 이어졌다는 분석이 나왔다.",
+              "published": "2026-11-27",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/27/europe-today-eu-leaders-unable-to-find-an-agreement-on-eus-budget",
+                  "title": "Europe Today: EU leaders unable to find an agreement on EU's budget"
+                },
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/27/eu-budget-summit-collapses-as-row-over-money-exposes-clash-over-europes-strategic-tasks",
+                  "title": "EU budget summit collapses as row over money exposes clash over Europe's strategic tasks"
+                }
+              ]
+            },
+            {
+              "title_ko": "이란, 쿠웨이트 드론 공격 책임 부인…이탈리아인 2명 사망",
+              "title_orig": "Iran denies responsibility for Kuwait drone strike that killed two Italians",
+              "summary": "쿠웨이트에서 드론 공격으로 이탈리아인 2명이 숨졌고, 이란은 책임이 없다고 부인했다. 하루 앞서 쿠웨이트군은 이란 드론을 요격했다고 밝혔으며 이 과정에서 4명이 다쳤고 이라크를 거쳐 걸프로 가는 민항기 항로가 우회됐다.",
+              "published": "2026-11-27",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/27/iran-denies-responsibility-for-kuwait-drone-strike-that-killed-two-italians",
+                  "title": "Iran denies responsibility for Kuwait drone strike that killed two Italians"
+                },
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/26/civilian-flights-diverted-as-kuwait-army-intercepts-iranian-drone-attack",
+                  "title": "Civilian flights diverted as Kuwait army intercepts Iranian drone attack"
+                }
+              ]
+            },
+            {
+              "title_ko": "일본·중국, 센카쿠(댜오위다오) 인근 해경선 접근 두고 서로 영해 침범 주장",
+              "title_orig": "Japan and China trade accusations over ships incident",
+              "summary": "일본 해상보안청은 26일 오전 중국 해경선 2척이 센카쿠 인근 일본 영해에 들어와 일본 어선에 접근했다며 거듭 퇴거를 경고했다고 밝혔다. 올해 중국 선박이 이 해역에서 일본 어선에 접근한 것은 다섯 번째다. 중국 외교부 궈자쿤 대변인은 엄중히 항의했다면서 중국 해경이 법에 따라 필요한 통제 조치를 했다고 맞섰다. 7월에도 양국 해경이 대치한 바 있다.",
+              "published": "2026-11-27",
+              "event_date": "2026-11-26",
+              "links": [
+                {
+                  "outlet": "Taipei Times",
+                  "url": "https://www.taipeitimes.com/News/front/archives/2026/11/27/2003868473",
+                  "title": "Japan and China trade accusations over ships incident"
+                }
+              ]
+            },
+            {
+              "title_ko": "이재명 대통령 지지율 41%, 2주 연속 상승…부정 평가 50%",
+              "title_orig": "Lee's approval rating rises for 2nd straight week: poll",
+              "summary": "한국갤럽이 24~26일 성인 1,000명을 조사한 결과 이재명 대통령의 직무 긍정 평가는 41%로 1%포인트 올라 2주 연속 상승했고, 부정 평가는 50%였다. 긍정률은 10월 중순 이후 7주째 39~41% 범위에 머물렀다. 정당 지지도는 더불어민주당 37%, 국민의힘 30%로 격차가 7%포인트로 좁혀졌으며, 대법원의 한덕수 전 총리 형량 일부 파기에 대해서는 46%가 부정적으로 답했다.",
+              "published": "2026-11-27",
+              "event_date": "2026-11-26",
+              "figure": "41% (한국갤럽, 11월 4주차 직무 긍정률)",
+              "source": "한국갤럽",
+              "links": [
+                {
+                  "outlet": "The Korea Herald",
+                  "url": "https://www.koreaherald.com/article/10951463",
+                  "title": "Lee's approval rating rises for 2nd straight week: poll"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "asia-pacific",
+      "part": "2. 권역별 뉴스",
+      "name": "1) 아시아-태평양",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "이재명 대통령 지지율 41%, 2주 연속 상승…부정 평가 50%",
+              "title_orig": "Lee's approval rating rises for 2nd straight week: poll",
+              "summary": "한국갤럽이 24~26일 성인 1,000명을 조사한 결과 이재명 대통령의 직무 긍정 평가는 41%로 1%포인트 올라 2주 연속 상승했고, 부정 평가는 50%였다. 긍정률은 10월 중순 이후 7주째 39~41% 범위에 머물렀다. 정당 지지도는 더불어민주당 37%, 국민의힘 30%로 격차가 7%포인트로 좁혀졌으며, 대법원의 한덕수 전 총리 형량 일부 파기에 대해서는 46%가 부정적으로 답했다.",
+              "published": "2026-11-27",
+              "event_date": "2026-11-26",
+              "figure": "41% (한국갤럽, 11월 4주차 직무 긍정률)",
+              "source": "한국갤럽",
+              "links": [
+                {
+                  "outlet": "The Korea Herald",
+                  "url": "https://www.koreaherald.com/article/10951463",
+                  "title": "Lee's approval rating rises for 2nd straight week: poll"
+                }
+              ]
+            },
+            {
+              "title_ko": "민주당 윤리심판원, 최민희 의원 당원 자격 2년 정지 결정",
+              "title_orig": "DP lawmaker handed 2-yr suspension of party membership over remarks on Lee",
+              "summary": "더불어민주당 윤리심판원이 27일 이재명 대통령 관련 발언을 이유로 최고위원인 최민희 의원에게 당원 자격 정지 2년을 의결했다고 여러 관계자가 전했다. 징계가 확정되면 2028년 총선에서 민주당 공천을 받을 수 없다. 최 의원은 결정을 받아들이기 어렵다는 입장이며 통보 후 7일 안에 재심을 청구할 수 있다. 사안은 김민석 대표 측과 정청래 전 대표 측 사이의 당내 갈등과 맞물려 있다.",
+              "published": "2026-11-27",
+              "event_date": "2026-11-27",
+              "links": [
+                {
+                  "outlet": "The Korea Herald",
+                  "url": "https://www.koreaherald.com/article/10952259",
+                  "title": "DP lawmaker handed 2-yr suspension of party membership over remarks on Lee"
+                }
+              ]
+            },
+            {
+              "title_ko": "일본·중국, 센카쿠(댜오위다오) 인근 해경선 접근 두고 서로 영해 침범 주장",
+              "title_orig": "Japan and China trade accusations over ships incident",
+              "summary": "일본 해상보안청은 26일 오전 중국 해경선 2척이 센카쿠 인근 일본 영해에 들어와 일본 어선에 접근했다며 거듭 퇴거를 경고했다고 밝혔다. 올해 중국 선박이 이 해역에서 일본 어선에 접근한 것은 다섯 번째다. 중국 외교부 궈자쿤 대변인은 엄중히 항의했다면서 중국 해경이 법에 따라 필요한 통제 조치를 했다고 맞섰다. 7월에도 양국 해경이 대치한 바 있다.",
+              "published": "2026-11-27",
+              "event_date": "2026-11-26",
+              "links": [
+                {
+                  "outlet": "Taipei Times",
+                  "url": "https://www.taipeitimes.com/News/front/archives/2026/11/27/2003868473",
+                  "title": "Japan and China trade accusations over ships incident"
+                }
+              ]
+            },
+            {
+              "title_ko": "한국 'K-라이스벨트' 사업, 아프리카 8개국 참여 농가 생산성 2배 이상",
+              "title_orig": "South Korea reviews African rice aid program as farm productivity doubles",
+              "summary": "한국 정부는 27일 서울에서 열린 성과 점검 회의에서 K-라이스벨트 사업이 참여 8개국 쌀 농가의 평균 생산성을 두 배 넘게 끌어올렸다고 밝혔다. 이 사업은 2023년 가나에서 시작해 감비아·기니·세네갈·우간다·카메룬·케냐로 넓어졌고 올해 시에라리온이 합류했다. 내년부터 가나를 시작으로 종자 생산 단지가 문을 열 예정이다.",
+              "published": "2026-11-27",
+              "event_date": "2026-11-27",
+              "links": [
+                {
+                  "outlet": "The Korea Herald",
+                  "url": "https://www.koreaherald.com/article/10951963",
+                  "title": "South Korea reviews African rice aid program as farm productivity doubles"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [],
+          "note": ""
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [],
+          "note": ""
+        },
+        {
+          "name": "사건사고",
+          "items": [],
+          "note": ""
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "china",
+      "part": "2. 권역별 뉴스",
+      "name": "2) 중국",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [
+            {
+              "title_ko": "중국 국무원, '국가대표팀' 투자자 역할 확대 촉구…상하이 지수 4% 급등",
+              "title_orig": "China cabinet calls for greater role by 'national team' investors to steady sinking markets",
+              "summary": "리창 총리가 27일 주재한 국무원 상무회의는 국유 자금 투자자인 이른바 '국가대표팀'이 더 큰 역할을 하라고 주문했다. 중앙후이진은 사실상 안정기금 역할을 하며 시장 혼란기에 유동성을 공급하게 된다. 이날 중국 대표 지수는 4% 올라 2년 만에 최대 상승폭을 기록했지만 시장은 여전히 16개월 저점 부근이다. 로이터는 해설 기사에서 CSI300이 6월 말 이후 약 20% 하락했고, 전문가들은 이 조치의 효과를 신호 효과 중심으로 보면서 반등 지속에는 회의적이라고 전했다.",
+              "published": "2026-11-27",
+              "event_date": "2026-11-27",
+              "links": [
+                {
+                  "outlet": "The Standard",
+                  "url": "https://www.thestandard.com.hk/finance/article/349834/China-cabinet-calls-for-greater-role-by-national-team-investors-to-steady-sinking-markets",
+                  "title": "China cabinet calls for greater role by 'national team' investors to steady sinking markets"
+                },
+                {
+                  "outlet": "The Standard",
+                  "url": "https://www.thestandard.com.hk/finance/article/349865/What-is-Chinas-national-team-and-can-it-stop-the-stock-market-slide",
+                  "title": "What is China's 'national team' and can it stop the stock market slide?"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [],
+          "note": ""
+        },
+        {
+          "name": "사건사고",
+          "items": [],
+          "note": ""
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "usa",
+      "part": "2. 권역별 뉴스",
+      "name": "3) 미국",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [],
+          "note": ""
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [],
+          "note": ""
+        },
+        {
+          "name": "사건사고",
+          "items": [],
+          "note": ""
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "eu-east",
+      "part": "2. 권역별 뉴스",
+      "name": "4) 유럽 (1) 동유럽",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "에스토니아, 12월 1일부터 러시아 국경 폐쇄 확인",
+              "title_orig": "Estonia confirms closure of border with Russia from 1 December",
+              "summary": "에스토니아 외무장관 마르구스 차크나는 바쿠에서 열린 자국 대사관 개소식에서 12월 1일 러시아와의 국경을 닫을 것이라고 확인했다. 러시아의 행동에 대응하고 유럽의 안보를 지키기 위한 조치라는 설명이다. 그는 아제르바이잔에 대한 EU 비자 자유화도 지지한다고 밝혔다.",
+              "published": "2026-11-27",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/27/estonia-will-close-border-with-russia-to-secure-europe-foreign-minister-says-during-baku-v",
+                  "title": "Estonia confirms closure of border with Russia from 1 December"
+                }
+              ]
+            },
+            {
+              "title_ko": "세르비아 학생운동, 대선 후보로 사이치치 교수 추대",
+              "title_orig": "Serbia's student movement backs Professor Saičić for President",
+              "summary": "세르비아 학생운동이 12월 27일로 예정된 대통령 선거에 화학자인 라도미르 사이치치 교수를 후보로 내세웠다. 후보 등록 마감은 12월 6일이다. 부치치 대통령은 대선을 개인적으로 외면하겠다는 입장이며 집권 세르비아진보당은 참여 여부를 아직 정하지 않았다.",
+              "published": "2026-11-27",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/27/serbias-student-movement-puts-forward-professor-saicic-as-its-presidential-candidate",
+                  "title": "Serbia's student movement backs Professor Saičić for President"
+                }
+              ]
+            },
+            {
+              "title_ko": "아제르바이잔·아르메니아 시민사회, 딜리잔서 5차 '평화의 다리' 대화",
+              "title_orig": "Azerbaijani and Armenian civil societies seek 'new history' for region",
+              "summary": "양국 시민사회 대표 약 60명이 아르메니아 딜리잔에서 5차 '평화의 다리' 대화를 열었고, 이는 2025년 출범 이후 가장 큰 규모다. 도로·인프라, 경제, 인도주의, 교육 등을 논의했으며 무역·환경 감시·청년 교류·언론 협력을 다룰 6개 전문위원회로 형식을 넓히기로 했다.",
+              "published": "2026-11-27",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/27/azerbaijani-and-armenian-civil-societies-seek-new-history-in-new-round-of-peace-talks",
+                  "title": "Azerbaijani and Armenian civil societies seek 'new history' for region"
+                }
+              ]
+            },
+            {
+              "title_ko": "라트비아 영공에 드론 진입, 나토 전투기 긴급 발진",
+              "title_orig": "NATO jets scrambled after drone briefly enters Latvian airspace",
+              "summary": "드론 한 대가 잠시 라트비아 영공에 들어와 나토 전투기가 긴급 발진했다. 앞서 폴란드 상공 감시를 위해 나토가 공중조기경보통제기(AWACS)를 투입한 데 이어 동쪽 측면의 경계가 이어지고 있다.",
+              "published": "2026-11-27",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/27/nato-jets-scrambled-after-drone-briefly-enters-latvian-airspace",
+                  "title": "NATO jets scrambled after drone briefly enters Latvian airspace"
+                },
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/26/nato-deploys-awacs-airborne-radar-to-monitor-polish-airspace",
+                  "title": "NATO deploys AWACS airborne radar to monitor Polish airspace"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [],
+          "note": ""
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [],
+          "note": ""
+        },
+        {
+          "name": "사건사고",
+          "items": [
+            {
+              "title_ko": "러시아, 우크라이나에 미사일·드론 공습 잇따라…사상자 발생",
+              "title_orig": "Russia launches ballistic missile and drone barrage on Ukraine, killing at least three",
+              "summary": "러시아가 26일 탄도미사일과 드론으로 우크라이나를 공습해 최소 3명이 숨졌다. 27일에도 에너지·철도·민간 시설에 드론 공격이 이어져 사망자가 나왔다.",
+              "published": "2026-11-27",
+              "event_date": "2026-11-26",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/26/russia-launches-ballistic-missile-and-drone-barrage-on-ukraine-killing-at-least-three",
+                  "title": "Russia launches ballistic missile and drone barrage on Ukraine, killing at least three"
+                },
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/27/russian-drone-strikes-hit-ukraines-energy-rail-and-civilian-infrastructure-causing-deaths",
+                  "title": "Russian drone strikes hit Ukraine's energy, rail and civilian infrastructure, causing deaths"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "eu-west",
+      "part": "2. 권역별 뉴스",
+      "name": "4) 유럽 (2) 서유럽",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "EU 장기예산 정상회의 합의 불발",
+              "title_orig": "EU budget summit collapses as row over money exposes clash over Europe's strategic tasks",
+              "summary": "EU 정상들이 브뤼셀 정상회의에서 EU 예산에 합의하지 못한 채 회의가 결렬됐다. 재원 배분을 둘러싼 갈등이 유럽의 전략 과제를 둘러싼 이견으로 이어졌다는 분석이 나왔다.",
+              "published": "2026-11-27",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/27/europe-today-eu-leaders-unable-to-find-an-agreement-on-eus-budget",
+                  "title": "Europe Today: EU leaders unable to find an agreement on EU's budget"
+                },
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/27/eu-budget-summit-collapses-as-row-over-money-exposes-clash-over-europes-strategic-tasks",
+                  "title": "EU budget summit collapses as row over money exposes clash over Europe's strategic tasks"
+                }
+              ]
+            },
+            {
+              "title_ko": "스페인 총선 앞두고 복스 '캐스팅보트' 가능성·주거 문제 부상",
+              "title_orig": "Spain election: Is Vox set to be the kingmaker and how crucial is the housing issue",
+              "summary": "스페인 총선을 앞두고 극우 정당 복스가 정권 구성의 열쇠를 쥘지, 주거난이 선거에서 얼마나 중요한지를 짚었다. 유권자들이 무엇을 가장 우려하는지도 함께 다뤘다.",
+              "published": "2026-11-27",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/27/spain-general-election-is-vox-set-to-be-the-kingmaker-and-how-crucial-is-the-housing-issue",
+                  "title": "Spain general election: Is Vox set to be the kingmaker and how crucial is the housing issue"
+                },
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/27/spain-election-2026-what-are-voters-worried-about",
+                  "title": "Spain election 2026: What are voters worried about?"
+                }
+              ]
+            },
+            {
+              "title_ko": "영국·EU 식품 협정에 탈퇴 시 위약 조항",
+              "title_orig": "UK-EU food deal carries exit penalty, legal text shows",
+              "summary": "영국과 EU가 마련한 식품 관련 협정의 법률 문안에 한쪽이 빠질 경우 부담하는 탈퇴 위약 조항이 들어 있는 것으로 나타났다.",
+              "published": "2026-11-26",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/26/uk-eu-food-deal-carries-exit-penalty-legal-text-shows",
+                  "title": "UK-EU food deal carries exit penalty, legal text shows"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [
+            {
+              "title_ko": "독일 연방의회, 사상 최대 2027년 예산 승인…신규 차입 2,100억 유로",
+              "title_orig": "German Bundestag approves record 2027 budget as borrowing hits €210bn",
+              "summary": "독일 연방의회가 사상 최대 규모의 2027년 예산을 통과시켰고, 신규 차입 규모는 2,100억 유로에 이른다.",
+              "published": "2026-11-27",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/27/german-bundestag-approves-record-2027-budget-as-borrowing-hits-210bn",
+                  "title": "German Bundestag approves record 2027 budget as borrowing hits €210bn"
+                }
+              ]
+            },
+            {
+              "title_ko": "차기 ECB 총재는 물가 안정 최우선 과제로 삼아야…이코노미스트",
+              "title_orig": "New ECB chief should prioritise inflation, economist says",
+              "summary": "한 이코노미스트가 새 유럽중앙은행 총재가 무엇보다 물가 안정을 우선해야 한다고 주장했다.",
+              "published": "2026-11-27",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/27/new-ecb-chief-should-prioritise-inflation-economist-says",
+                  "title": "New ECB chief should prioritise inflation, economist says"
+                }
+              ]
+            },
+            {
+              "title_ko": "벨기에 농민, 브뤼셀서 EU 보조금 삭감 반대 트랙터 시위",
+              "title_orig": "Belgium: Farmers and tractors descend on Brussels to defend EU subsidies",
+              "summary": "벨기에 농민들이 트랙터를 몰고 브뤼셀로 모여 EU 보조금을 지키라고 요구했다. EU 예산 논의가 진행되는 가운데 열린 시위다.",
+              "published": "2026-11-26",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/video/2026/11/26/belgium-farmers-and-tractors-descend-on-brussels-to-defend-eu-subsidies",
+                  "title": "Belgium: Farmers and tractors descend on Brussels to defend EU subsidies"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [
+            {
+              "title_ko": "포르투갈 의회, 공영방송에 투우 중계 재개 지시…8만6천 명 청원 논란",
+              "title_orig": "Portugal's parliament orders public TV to air bullfights again, sparking 86,000-name petition",
+              "summary": "포르투갈 의회가 공영방송에 투우 중계를 다시 편성하라고 결정했고, 이에 반발하는 8만6천 명 규모의 청원이 제출됐다.",
+              "published": "2026-11-27",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/27/portugals-parliament-orders-public-tv-to-air-bullfights-again-sparking-86000-name-petition",
+                  "title": "Portugal's parliament orders public TV to air bullfights again, sparking 86,000-name petition"
+                }
+              ]
+            },
+            {
+              "title_ko": "영국, 스리랑카 난민을 에스와티니로 비밀 이송…BBC 보도",
+              "title_orig": "UK sent Sri Lankan refugee to Eswatini in secret deal, the BBC says",
+              "summary": "BBC 보도에 따르면 영국이 비밀 합의에 따라 스리랑카 출신 난민을 에스와티니로 보냈다.",
+              "published": "2026-11-26",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/26/uk-sent-sri-lankan-refugee-to-eswatini-in-secret-deal-the-bbc-says",
+                  "title": "UK sent Sri Lankan refugee to Eswatini in secret deal, the BBC says"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사건사고",
+          "items": [
+            {
+              "title_ko": "이비사 앞바다서 디젤 7천 톤 실은 선박 침몰, 선원 1명 사망",
+              "title_orig": "Ship transporting 7,000 tonnes of diesel sinks off Ibiza, one crewman dead",
+              "summary": "디젤 약 7천 톤을 싣고 가던 선박이 스페인 이비사 앞바다에서 침몰해 선원 1명이 숨졌다.",
+              "published": "2026-11-26",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/26/ship-transporting-7000-tonnes-of-diesel-sinks-off-ibiza-one-crewman-dead",
+                  "title": "Ship transporting 7,000 tonnes of diesel sinks off Ibiza, one crewman dead"
+                }
+              ]
+            },
+            {
+              "title_ko": "마르세유전 앞두고 레프스키 팬 나치 경례 포착",
+              "title_orig": "Video shows Levski fan caught giving Nazi salute before Marseille match",
+              "summary": "유로파리그 마르세유 경기를 앞두고 불가리아 레프스키 팬이 나치식 경례를 하는 모습이 영상에 담겼다.",
+              "published": "2026-11-27",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/video/2026/11/27/video-shows-levski-fan-caught-giving-nazi-salute-before-marseille-match",
+                  "title": "Video shows Levski fan caught giving Nazi salute before Marseille match"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "middle-east",
+      "part": "2. 권역별 뉴스",
+      "name": "5) 중동",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "이란, 쿠웨이트 드론 공격 책임 부인…이탈리아인 2명 사망",
+              "title_orig": "Iran denies responsibility for Kuwait drone strike that killed two Italians",
+              "summary": "쿠웨이트에서 드론 공격으로 이탈리아인 2명이 숨졌고, 이란은 책임이 없다고 부인했다. 하루 앞서 쿠웨이트군은 이란 드론을 요격했다고 밝혔으며 이 과정에서 4명이 다쳤고 이라크를 거쳐 걸프로 가는 민항기 항로가 우회됐다.",
+              "published": "2026-11-27",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/27/iran-denies-responsibility-for-kuwait-drone-strike-that-killed-two-italians",
+                  "title": "Iran denies responsibility for Kuwait drone strike that killed two Italians"
+                },
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/26/civilian-flights-diverted-as-kuwait-army-intercepts-iranian-drone-attack",
+                  "title": "Civilian flights diverted as Kuwait army intercepts Iranian drone attack"
+                }
+              ]
+            },
+            {
+              "title_ko": "네타냐후 부패 재판부, 핵심 혐의 철회 검토 권고",
+              "title_orig": "Judges in Netanyahu corruption trial urge dropping key charges",
+              "summary": "네타냐후 총리 부패 재판의 재판부가 검찰에 핵심 혐의를 철회하는 방안을 검토하라고 권고했다. 이스라엘은 10월 27일 총선 이후에도 새 정부 구성에 어려움을 겪고 있다.",
+              "published": "2026-11-26",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/26/judges-in-netanyahu-corruption-trial-urges-dropping-key-charges",
+                  "title": "Judges in Netanyahu corruption trial urge dropping key charges"
+                }
+              ]
+            },
+            {
+              "title_ko": "이스라엘군, 레바논 베카 계곡 헤즈볼라 로켓·발사대 타격",
+              "title_orig": "Nov. 26: Yashar, UTJ reportedly reach agreement on key principles of Haredi draft law",
+              "summary": "이스라엘군은 레바논 베카 계곡의 헤즈볼라 로켓과 발사대를 공습했다고 밝혔다. 하마스 수장은 이어지는 가자 공습을 받아들일 수 없다며 대응을 논의하겠다고 했고, 이란 외무장관은 카타르와 파키스탄 중재자들이 이란·미국 사이 메시지를 계속 전달하고 있다고 말했다.",
+              "published": "2026-11-26",
+              "links": [
+                {
+                  "outlet": "The Times of Israel",
+                  "url": "https://www.timesofisrael.com/liveblog-november-26-2026/",
+                  "title": "Nov. 26: Yashar, UTJ reportedly reach agreement on key principles of Haredi draft law"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [],
+          "note": ""
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [
+            {
+              "title_ko": "이라크 법원, 프랑스 국적 IS 가담자 8명에 종신형",
+              "title_orig": "Iraq sentences eight French nationals to life for joining Islamic State",
+              "summary": "이라크 법원이 이슬람국가(IS)에 가담한 프랑스 국적자 8명에게 종신형을, 2명에게 징역 15년을 선고했다. 다른 프랑스인 10명에 대한 선고는 미뤄졌다.",
+              "published": "2026-11-26",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/26/iraq-sentences-eight-french-nationals-to-life-for-joining-islamic-state",
+                  "title": "Iraq sentences eight French nationals to life for joining Islamic State"
+                }
+              ]
+            },
+            {
+              "title_ko": "수감된 이란 쌍둥이 형제, 구타·고문…가족 \"한 명은 사형 위기\"",
+              "title_orig": "Relatives say jailed Iranian twins beaten and tortured, one faces execution",
+              "summary": "가족들은 이란에 수감된 쌍둥이가 구타와 고문을 당했고 그중 한 명은 처형될 위기에 놓여 있다고 주장했다.",
+              "published": "2026-11-27",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/27/relatives-say-jailed-iranian-twins-beaten-and-tortured-one-faces-execution",
+                  "title": "Relatives say jailed Iranian twins beaten and tortured, one faces execution"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사건사고",
+          "items": [
+            {
+              "title_ko": "튀르키예 베식타시 유로파리그 경기, 이스라엘 구단과 충돌",
+              "title_orig": "Clashes erupt at Besiktas Europa League match against Israeli club",
+              "summary": "베식타시와 이스라엘 구단의 유로파리그 경기에서 충돌이 벌어졌다.",
+              "published": "2026-11-27",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/27/clashes-erupt-at-besiktas-europa-league-match-against-israeli-club",
+                  "title": "Clashes erupt at Besiktas Europa League match against Israeli club"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "africa",
+      "part": "2. 권역별 뉴스",
+      "name": "6) 아프리카",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "라마포사 불참 속 ANC 연정 협상, 지방으로 무게 이동",
+              "title_orig": "Watch — Ramaphosa's absence leaves ANC coalition talks to the provinces",
+              "summary": "데일리 마버릭의 대담에서 남아공 연정 협상이 가우텡 등 지방 정치로 무게가 옮겨가는 흐름을 짚었다. 한 논객은 협상의 중요한 국면에 라마포사 대통령이 자리를 비워 영향력이 줄었다고 평가했다. 요하네스버그·츠와니·에쿠르훌레니 등 대도시 운영과 ANC, 액션SA, MK당의 협상 입지도 다뤘다.",
+              "published": "2026-11-27",
+              "links": [
+                {
+                  "outlet": "Daily Maverick",
+                  "url": "https://www.dailymaverick.co.za/video/2026-11-27-watch-ramaphosas-absence-leaves-anc-coalition-talks-to-the-provinces/",
+                  "title": "Watch — Ramaphosa's absence leaves ANC coalition talks to the provinces"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [],
+          "note": ""
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [],
+          "note": ""
+        },
+        {
+          "name": "사건사고",
+          "items": [
+            {
+              "title_ko": "카이로 순환도로서 유조차 화재, 31명 사망",
+              "title_orig": "Wreckage and burnt vehicles as fuel tanker fire kills 31 on Cairo highway",
+              "summary": "이집트 카이로 기자 순환도로에서 연료 유조차 사고로 불이 나 최소 31명이 숨지고 21명이 다쳤다. 이집트의 도로 안전 문제가 다시 부각됐다.",
+              "published": "2026-11-26",
+              "links": [
+                {
+                  "outlet": "Euronews",
+                  "url": "https://www.euronews.com/video/2026/11/26/wreckage-and-burnt-vehicles-as-fuel-tanker-fire-kills-31-on-cairo-highway",
+                  "title": "Wreckage and burnt vehicles as fuel tanker fire kills 31 on Cairo highway"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "economy",
+      "part": "3. 경제",
+      "name": "경제",
+      "dashboard": [
+        {
+          "id": "kr",
+          "name": "한국",
+          "en": "KOREA",
+          "tables": [
+            {
+              "name": "주요 거시경제 지표",
+              "rows": [
+                {
+                  "name": "기준금리",
+                  "value": "3.25%",
+                  "change": "인상 +0.25%p (직전 3.00%, 금통위원 2인은 동결 주장)",
+                  "period": "2026-11-26 금융통화위원회",
+                  "source": "한국은행 (The Korea Times 보도)",
+                  "url": "https://www.koreatimes.co.kr/economy/20261126/bok-raises-key-rate-by-quarter-point-to-325-as-inflation-concerns-mount"
+                },
+                {
+                  "name": "소비자물가 상승률(전년동월비)",
+                  "value": "2.8%",
+                  "change": "전월 2.9%",
+                  "period": "2026년 10월",
+                  "source": "국가데이터처",
+                  "url": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156787698"
+                },
+                {
+                  "name": "근원물가(식료품·에너지 제외, 전년동월비)",
+                  "value": "2.8%",
+                  "change": "전월비 +0.4%",
+                  "period": "2026년 10월",
+                  "source": "국가데이터처",
+                  "url": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156787698"
+                },
+                {
+                  "name": "근원물가(농산물·석유류 제외, 전년동월비)",
+                  "value": "2.8%",
+                  "change": "전월비 +0.4%",
+                  "period": "2026년 10월",
+                  "source": "국가데이터처",
+                  "url": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156787698"
+                },
+                {
+                  "name": "실질 GDP 성장률(전기비·속보)",
+                  "value": "+1.0%",
+                  "change": "전년동기비 +3.4%",
+                  "period": "2026년 3분기",
+                  "source": "한국은행",
+                  "url": "https://ceoscoredaily.com/page/view/2026102711492273431"
+                },
+                {
+                  "name": "실업률(원계열)",
+                  "value": "2.0%",
+                  "change": "전년동월비 -0.2%p",
+                  "period": "2026년 10월",
+                  "source": "국가데이터처",
+                  "url": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156788701"
+                },
+                {
+                  "name": "취업자 증감(전년동월비)",
+                  "value": "+13.9만 명",
+                  "change": "전월 +11.3만 명",
+                  "period": "2026년 10월",
+                  "source": "국가데이터처",
+                  "url": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156788701"
+                },
+                {
+                  "name": "수출(금액)",
+                  "value": "1,152.8억 달러",
+                  "change": "전년동월비 +93.7%, 전월 1,211억 달러",
+                  "period": "2026년 10월",
+                  "source": "산업통상부 (메트로신문 보도)",
+                  "url": "https://www.metroseoul.co.kr/article/20261101500171"
+                },
+                {
+                  "name": "무역수지",
+                  "value": "+425억 달러",
+                  "change": "두 달 연속 400억 달러 초과 흑자",
+                  "period": "2026년 10월",
+                  "source": "산업통상부 (메트로신문 보도)",
+                  "url": "https://www.metroseoul.co.kr/article/20261101500171"
+                },
+                {
+                  "name": "경상수지",
+                  "value": "600억 달러 초과",
+                  "change": "월간 사상 최대",
+                  "period": "2026년 9월",
+                  "source": "한국은행 (The Korea Times 보도)",
+                  "url": "https://www.koreatimes.co.kr/economy/20261105/korea-posts-record-high-current-account-surplus-of-over-60-bil-in-sept-on-chip-supercycle"
+                }
+              ]
+            },
+            {
+              "name": "주식시장·환율",
+              "rows": [
+                {
+                  "name": "코스피",
+                  "value": "4,915.68",
+                  "change": "+4.34% (+204.47, 전 거래일 4,711.21)",
+                  "period": "2026-11-27 종가",
+                  "source": "The Korea Herald (연합뉴스 기사)",
+                  "url": "https://www.koreaherald.com/article/10952169"
+                },
+                {
+                  "name": "코스닥",
+                  "value": "708.99",
+                  "change": "+8.13% (+53.28, 전 거래일 655.71)",
+                  "period": "2026-11-27 종가",
+                  "source": "The Korea Times",
+                  "url": "https://www.koreatimes.co.kr/economy/20261127/kospi-surges-over-4-kosdaq-gains-top-8-on-hopes-for-market-stabilization-fund"
+                },
+                {
+                  "name": "원/달러 환율",
+                  "value": "1,337.9원",
+                  "change": "-4.8원 (원화 강세, 전일 1,342.7원)",
+                  "period": "2026-11-27 종가",
+                  "source": "The Korea Times",
+                  "url": "https://www.koreatimes.co.kr/economy/20261127/kospi-surges-over-4-kosdaq-gains-top-8-on-hopes-for-market-stabilization-fund"
+                },
+                {
+                  "name": "국고채 3년물 금리",
+                  "value": "3.686%",
+                  "change": "+6.3bp",
+                  "period": "2026-11-27",
+                  "source": "The Korea Herald (연합뉴스 기사)",
+                  "url": "https://www.koreaherald.com/article/10952169"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "us",
+          "name": "미국",
+          "en": "UNITED STATES",
+          "tables": [
+            {
+              "name": "주요 거시경제 지표",
+              "rows": [
+                {
+                  "name": "연방기금금리 목표 범위",
+                  "value": "3.75~4.00%",
+                  "change": "동결 (10-2 표결, 2명은 0.25%p 인상 선호)",
+                  "period": "2026-10-28 FOMC",
+                  "source": "연방준비제도",
+                  "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
+                },
+                {
+                  "name": "CPI(전월비, 계절조정)",
+                  "value": "+0.4%",
+                  "change": "전년동월비는 미발표 (2025년 10월 자료 미수집)",
+                  "period": "2026년 10월",
+                  "source": "미 노동통계국(BLS)",
+                  "url": "https://www.bls.gov/news.release/archives/cpi_11102026.htm"
+                },
+                {
+                  "name": "근원 CPI(전월비, 계절조정)",
+                  "value": "+0.3%",
+                  "change": "8·9월에도 +0.3%",
+                  "period": "2026년 10월",
+                  "source": "미 노동통계국(BLS)",
+                  "url": "https://www.bls.gov/news.release/archives/cpi_11102026.htm"
+                },
+                {
+                  "name": "근원 PCE 물가(식품·에너지 제외, 전년동월비)",
+                  "value": "3.3%",
+                  "change": "전월 3.1%, 시장 예상 3.2%",
+                  "period": "2026년 10월",
+                  "source": "미 경제분석국(BEA) (Fox Business 보도)",
+                  "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026"
+                },
+                {
+                  "name": "PCE 물가(전년동월비)",
+                  "value": "3.8%",
+                  "change": "전월비 +0.3%, 시장 예상과 일치",
+                  "period": "2026년 10월",
+                  "source": "미 경제분석국(BEA) (Fox Business 보도)",
+                  "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026"
+                },
+                {
+                  "name": "실질 GDP 성장률(전기비 연율)",
+                  "value": "+4.3%",
+                  "change": "직전 발표(속보) +3.4%",
+                  "period": "2026년 3분기 (잠정)",
+                  "source": "미 경제분석국(BEA) (Fox Business 보도)",
+                  "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026"
+                },
+                {
+                  "name": "실업률",
+                  "value": "4.1%",
+                  "change": "전월 4.2%",
+                  "period": "2026년 10월",
+                  "source": "미 노동통계국(BLS)",
+                  "url": "https://www.bls.gov/news.release/archives/empsit_11062026.htm"
+                },
+                {
+                  "name": "비농업 고용 증감",
+                  "value": "+16.5만 명",
+                  "change": "전월 +6.0만 명 (수정치)",
+                  "period": "2026년 10월 (잠정)",
+                  "source": "미 노동통계국(BLS)",
+                  "url": "https://www.bls.gov/news.release/archives/empsit_11062026.htm"
+                }
+              ]
+            },
+            {
+              "name": "주식시장",
+              "rows": [
+                {
+                  "name": "S&P 500",
+                  "value": "7,298.34",
+                  "change": "+1.61% (+115.56)",
+                  "period": "2026-11-27 종가 (조기 폐장)",
+                  "source": "로이터 (The Korea Times 게재)",
+                  "url": "https://www.koreatimes.co.kr/world/20261128/wall-street-ends-higher-as-battered-ai-stocks-gain-in-volatile-week"
+                },
+                {
+                  "name": "다우존스 산업평균",
+                  "value": "50,780.64",
+                  "change": "+1.19% (+597.69)",
+                  "period": "2026-11-27 종가 (조기 폐장)",
+                  "source": "로이터 (The Korea Times 게재)",
+                  "url": "https://www.koreatimes.co.kr/world/20261128/wall-street-ends-higher-as-battered-ai-stocks-gain-in-volatile-week"
+                },
+                {
+                  "name": "나스닥 종합",
+                  "value": "24,129.50",
+                  "change": "+2.31% (+543.70)",
+                  "period": "2026-11-27 종가 (조기 폐장)",
+                  "source": "로이터 (The Korea Times 게재)",
+                  "url": "https://www.koreatimes.co.kr/world/20261128/wall-street-ends-higher-as-battered-ai-stocks-gain-in-volatile-week"
+                },
+                {
+                  "name": "러셀 2000",
+                  "value": "2,750.30",
+                  "change": "+1.71% (+46.24)",
+                  "period": "2026-11-27 종가 (조기 폐장)",
+                  "source": "Yahoo Finance",
+                  "url": "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html"
+                },
+                {
+                  "name": "VIX",
+                  "value": "23.81",
+                  "change": "-11.16% (-2.99)",
+                  "period": "2026-11-27 종가 (조기 폐장)",
+                  "source": "Seoul Economic Daily",
+                  "url": "https://en.sedaily.com/world/2026/11/28/wall-street-rallies-on-ai-bargain-hunting-chip-index-jumps"
+                },
+                {
+                  "name": "미 국채 10년물 금리",
+                  "value": "4.93%",
+                  "change": "+0.07%p",
+                  "period": "2026-11-27 장 마감 무렵",
+                  "source": "Seoul Economic Daily",
+                  "url": "https://en.sedaily.com/world/2026/11/28/wall-street-rallies-on-ai-bargain-hunting-chip-index-jumps"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "world",
+          "name": "세계",
+          "en": "WORLD",
+          "tables": [
+            {
+              "name": "주요 거시경제 지표",
+              "rows": [
+                {
+                  "name": "유로존 소비자물가(HICP, 전년동월비·속보)",
+                  "value": "4.0%",
+                  "change": "전월 3.8%, 근원 2.5%",
+                  "period": "2026년 10월",
+                  "source": "유로스타트 (Il Sole 24 Ore 보도)",
+                  "url": "https://en.ilsole24ore.com/art/eurozone-inflation-estimated-at-4-per-cent-year-on-year-in-october-growth-at-38-per-cent-AJ8ecI4B"
+                },
+                {
+                  "name": "ECB 예금금리",
+                  "value": "2.50%",
+                  "change": "동결",
+                  "period": "2026년 10월 정책회의",
+                  "source": "유럽중앙은행 (Il Sole 24 Ore 보도)",
+                  "url": "https://en.ilsole24ore.com/art/eurozone-inflation-estimated-at-4-per-cent-year-on-year-in-october-growth-at-38-per-cent-AJ8ecI4B"
+                },
+                {
+                  "name": "중국 소비자물가(CPI, 전년동월비)",
+                  "value": "+0.7%",
+                  "change": "전월비 0.0%",
+                  "period": "2026년 10월",
+                  "source": "중국 국가통계국",
+                  "url": "https://www.stats.gov.cn/english/PressRelease/202611/t20261111_1965808.html"
+                },
+                {
+                  "name": "중국 실질 GDP 성장률(전년동기비)",
+                  "value": "+4.5%",
+                  "change": "직전 분기 +4.3%",
+                  "period": "2026년 3분기",
+                  "source": "AFP (쿠웨이트타임스 보도)",
+                  "url": "https://kuwaittimes.com/article/51892/business/chinas-third-quarter-growth-narrowly-beats-forecasts/"
+                },
+                {
+                  "name": "일본은행 정책금리",
+                  "value": "1.25%",
+                  "change": "동결 (8-1 표결, 6·9월 인상 이후)",
+                  "period": "2026-10-30 금융정책결정회의",
+                  "source": "일본은행 (The Herald Business 보도)",
+                  "url": "https://biz.heraldcorp.com/article/10920811"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "groups": [
+        {
+          "name": "헤드라인",
+          "items": [
+            {
+              "title_ko": "한국은행, 기준금리 3.25%로 0.25%p 인상…2027년 성장률 전망 4.1%로 대폭 상향",
+              "title_orig": "BOK sharply upgrades 2027 growth forecast to 4.1% from 2.9% on chip boom",
+              "summary": "한국은행이 26일 금융통화위원회에서 기준금리를 3.00%에서 3.25%로 올렸다. 7명 중 2명은 동결을 주장했고, 신현송 총재는 물가 압력에 선제 대응하는 조치라며 물가가 상당 기간 목표 2%를 웃돌 것이라고 말했다. 한은은 반도체 호황을 반영해 올해 성장률 전망을 3.9%, 내년을 4.1%로 올렸고 물가 전망은 올해 2.7%, 내년 2.4%로 제시했다.",
+              "published": "2026-11-26",
+              "event_date": "2026-11-26",
+              "figure": "기준금리 3.25% (직전 3.00%)",
+              "source": "한국은행",
+              "links": [
+                {
+                  "outlet": "The Korea Times",
+                  "url": "https://www.koreatimes.co.kr/economy/20261126/bok-raises-key-rate-by-quarter-point-to-325-as-inflation-concerns-mount",
+                  "title": "BOK sharply upgrades 2027 growth forecast to 4.1% from 2.9% on chip boom"
+                }
+              ]
+            },
+            {
+              "title_ko": "코스피 4.34%·코스닥 8.13% 급등…증시 안정 정책 기대에 외국인 1조 원 넘게 순매수",
+              "title_orig": "Seoul shares rally over 4 pct on hopes of policy support",
+              "summary": "27일 코스피는 4,915.68로 4.34% 올랐고 코스닥은 708.99로 8% 넘게 뛰었다. 당국이 10조 원 규모 시장안정기금 가동 등 부양책을 검토 중이라는 기대가 반영됐고 외국인은 1조 원대 순매수에 나섰다. 원/달러 환율은 1,337.9원으로 내렸다.",
+              "published": "2026-11-27",
+              "event_date": "2026-11-27",
+              "links": [
+                {
+                  "outlet": "UPI",
+                  "url": "https://www.upi.com/Top_News/World-News/2026/11/27/korea-KOSPI-Korea-Stock-Index-rally-policy-support/2011795765973/",
+                  "title": "Seoul shares rally over 4 pct on hopes of policy support"
+                }
+              ]
+            },
+            {
+              "title_ko": "월가, 낙폭 컸던 AI주 반등에 한 주 상승 마감…12월 연준 인상 기대 거의 반영",
+              "title_orig": "Wall Street ends higher as battered AI stocks gain in volatile week",
+              "summary": "추수감사절 다음 날 단축 거래된 27일 뉴욕증시는 다우 1.19%, S&P 500 1.61%, 나스닥 2.31% 오르며 한 주를 상승으로 마치고, 반도체와 AI 관련주가 반등을 이끌었다. 투자자들은 예상보다 빠른 3분기 성장과 10월 물가 가속으로 12월 금리 인상을 거의 반영하고 있으며, S&P 500과 나스닥은 2008년 이후 최악의 11월을 향하고 있다. 바이오 기업 버텍스는 FDA의 심사 기간 연장 소식에 하락했다.",
+              "published": "2026-11-28",
+              "event_date": "2026-11-27",
+              "source": "로이터",
+              "links": [
+                {
+                  "outlet": "The Korea Times",
+                  "url": "https://www.koreatimes.co.kr/world/20261128/wall-street-ends-higher-as-battered-ai-stocks-gain-in-volatile-week",
+                  "title": "Wall Street ends higher as battered AI stocks gain in volatile week"
+                }
+              ]
+            },
+            {
+              "title_ko": "금융당국, 30일 긴급 시장안정 회의…10조 원대 증시안정기금 확대·가동 논의",
+              "title_orig": "'Didn't Spend a Single Won in Six Years'… Financial Services Commission Holds Emergency Meeting on the 30th, Launches 10 Trillion Won Market Stabilization Fund",
+              "summary": "금융위원회가 30일 5대 금융지주 회장과 산업은행장 등이 참석하는 긴급 시장안정 회의를 열어 증시안정기금 확대와 가동 방안을 논의한다. 기금은 금융회사 출자 10조 원과 증권 유관기관 7,600억 원을 합쳐 10조 7,600억 원 규모로, 필요할 때 자금을 납입받는 방식이며 2020년 이후 실제로 집행된 적은 없다.",
+              "published": "2026-11-26",
+              "event_date": "2026-11-30",
+              "links": [
+                {
+                  "outlet": "EDAILY",
+                  "url": "https://en.edaily.co.kr/news/eda202611265652/",
+                  "title": "'Didn't Spend a Single Won in Six Years'… Financial Services Commission Holds Emergency Meeting on the 30th, Launches 10 Trillion Won Market Stabilization Fund"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "한국 주식시장",
+          "items": [
+            {
+              "title_ko": "코스피 4,915.68 마감…외국인 1.13조 원 순매수, 코스닥 매수 사이드카 발동",
+              "title_orig": "KOSPI surges over 4%, Kosdaq gains top 8% on hopes for market stabilization fund",
+              "summary": "코스피는 4.34% 올랐고 코스닥은 12거래일 만에 700선을 되찾았다. 외국인은 9월 7일 이후 가장 큰 1조 1,300억 원을 순매수한 반면 개인은 1조 7,700억 원어치를 팔았다. 코스닥에서는 오전 10시 22분 프로그램 매수호가를 5분간 멈추는 매수 사이드카가 발동됐다. 시장은 전날 6% 넘게 급락한 뒤 정부의 시장 안정화 조치 기대에 반등했다.",
+              "published": "2026-11-27",
+              "event_date": "2026-11-27",
+              "figure": "코스피 4,915.68 (+4.34%), 코스닥 708.99 (+8.13%)",
+              "source": "한국거래소",
+              "links": [
+                {
+                  "outlet": "The Korea Times",
+                  "url": "https://www.koreatimes.co.kr/economy/20261127/kospi-surges-over-4-kosdaq-gains-top-8-on-hopes-for-market-stabilization-fund",
+                  "title": "KOSPI surges over 4%, Kosdaq gains top 8% on hopes for market stabilization fund"
+                }
+              ]
+            },
+            {
+              "title_ko": "코스피, 한은 금리 인상에도 0.29% 상승 마감…장중 4,800선 넘었다 반납",
+              "title_orig": "KOSPI edges up despite BOK rate hike",
+              "summary": "26일 코스피는 4,711.21로 0.29% 올랐다. 한은의 금리 인상 소식에도 장 초반 4,800을 넘기도 했으나 상승분을 대부분 반납했다. 기관이 7,509억 원을 순매수했고 외국인은 1,136억 원 순매도, 개인은 1조 400억 원어치를 팔았다. 코스닥은 655.71로 0.78% 올랐고 원/달러 환율은 1,342.7원에 마쳤다.",
+              "published": "2026-11-26",
+              "event_date": "2026-11-26",
+              "figure": "코스피 4,711.21 (+0.29%)",
+              "source": "한국거래소",
+              "links": [
+                {
+                  "outlet": "The Korea Times",
+                  "url": "https://www.koreatimes.co.kr/economy/20261126/kospi-edges-up-despite-bok-rate-hike",
+                  "title": "KOSPI edges up despite BOK rate hike"
+                }
+              ]
+            },
+            {
+              "title_ko": "삼성전자 4.55%·SK하이닉스 5.41% 상승…국고채 3년물 3.686%로 올라",
+              "title_orig": "Seoul shares rally over 4% on hopes of policy support",
+              "summary": "27일 삼성전자는 17만 9,100원, SK하이닉스는 111만 원으로 마감했다. 거래량은 1억 7,590만 주, 거래대금은 12조 8,000억 원이었고 상승 종목이 781개로 하락 종목 109개를 크게 웃돌았다. 국고채 3년물 금리는 6.3bp 올라 3.686%를 기록했으며, 당국은 다음 주 시장안정기금 확대를 논의할 예정이다.",
+              "published": "2026-11-27",
+              "event_date": "2026-11-27",
+              "source": "한국거래소",
+              "links": [
+                {
+                  "outlet": "The Korea Herald",
+                  "url": "https://www.koreaherald.com/article/10952169",
+                  "title": "Seoul shares rally over 4% on hopes of policy support"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "미국 주식시장",
+          "items": [
+            {
+              "title_ko": "3분기 성장률 4.3%로 상향에 국채금리 상승…트럼프 \"가짜\" 반발, 연휴 주간 뉴욕증시 상승",
+              "title_orig": "Stock market today: Dow, S&P 500, Nasdaq end holiday week with gains as AI stocks rebound",
+              "summary": "미국 3분기 GDP 성장률이 3.4%에서 4.3%로 상향 수정되면서 국채금리가 올랐고, 트럼프 대통령은 이 수정치를 \"가짜\"라며 조사를 요구했다. 젠슨 황이 엔비디아 CEO로 복귀한 가운데 AI·반도체주 반등이 이어졌고 마이크론은 약 7% 올랐다. 필라델피아 반도체지수는 하루 5% 가까이 오르고도 주간으로는 하락세를 유지했다.",
+              "published": "2026-11-27",
+              "event_date": "2026-11-27",
+              "links": [
+                {
+                  "outlet": "Yahoo Finance",
+                  "url": "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html",
+                  "title": "Stock market today: Dow, S&P 500, Nasdaq end holiday week with gains as AI stocks rebound"
+                }
+              ]
+            },
+            {
+              "title_ko": "필라델피아 반도체지수 4.69%↑…앤트로픽 10.8% 올라 IPO 공모가 웃돌아",
+              "title_orig": "Wall Street Rallies on AI Bargain Hunting; Chip Index Jumps 4.7%",
+              "summary": "AI 저가 매수세에 27일 필라델피아 반도체지수가 4.69% 올랐고 마이크론 7.34%, AMD 4.89%, 브로드컴 3.81%가 상승했다. 앤트로픽은 10.77% 올라 91.71달러로 공모가를 웃돌았다. 변동성지수(VIX)는 11% 넘게 내려 23.81을 기록했고 10년물 국채금리는 4.93% 안팎이었다.",
+              "published": "2026-11-28",
+              "event_date": "2026-11-27",
+              "links": [
+                {
+                  "outlet": "Seoul Economic Daily",
+                  "url": "https://en.sedaily.com/world/2026/11/28/wall-street-rallies-on-ai-bargain-hunting-chip-index-jumps",
+                  "title": "Wall Street Rallies on AI Bargain Hunting; Chip Index Jumps 4.7%"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "주요 기업",
+          "items": [
+            {
+              "title_ko": "머스크·스페이스X, 트럼프 계좌 어린이에 주식 지급…총 약 178억 달러 규모 추정",
+              "title_orig": "Elon Musk And SpaceX's Stock Pledge To Trump Accounts Could Be Worth Nearly $18 Billion",
+              "summary": "스페이스X가 25일 트럼프 계좌를 가진 어린이 1인당 신주 1주를 기부하고 머스크가 같은 수량을 더 얹겠다고 밝혔다. 스페이스X 몫은 12월, 머스크 몫은 락업이 풀리는 내년 6월에 이전된다. 포브스는 계좌 약 7,000만 개와 25일 종가 127.44달러를 가정해 총 가치를 약 178억 달러로 추정했다.",
+              "published": "2026-11-26",
+              "event_date": "2026-11-25",
+              "links": [
+                {
+                  "outlet": "Forbes",
+                  "url": "https://www.forbes.com/sites/saradorn/2026/11/26/elon-musk-and-spacexs-stock-pledge-to-trump-accounts-could-be-worth-nearly-18-billion/",
+                  "title": "Elon Musk And SpaceX's Stock Pledge To Trump Accounts Could Be Worth Nearly $18 Billion"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "tech",
+      "part": "4. 기술과학",
+      "name": "기술과학",
+      "groups": [
+        {
+          "name": "주요 기사",
+          "items": [
+            {
+              "title_ko": "상하이 데이터센터서 엔비디아 블랙웰 칩 포착…수출통제 대상 메가스피드 연계 의혹",
+              "title_orig": "Nvidia Blackwell chips found at China data center linked to Alice Huang: Report",
+              "summary": "블룸버그 보도에 따르면 중국 업체 두 곳이 상하이 데이터센터에 엔비디아 블랙웰 계열 서버를 설치했고, 이를 담보로 각각 9,600만 위안과 9,000만 위안 대출을 받았다. 이 시설은 미국 수출 블랙리스트에 오른 메가스피드와 연계된 것으로 알려졌다. 블룸버그는 메가스피드가 이 장비를 빼돌렸다는 증거는 찾지 못했다고 밝혔고, 메가스피드는 혐의를 부인하고 있다.",
+              "published": "2026-11-27",
+              "event_date": "2026-11-27",
+              "links": [
+                {
+                  "outlet": "Anadolu Agency",
+                  "url": "https://www.aa.com.tr/en/science-technology/nvidia-blackwell-chips-found-at-china-data-center-linked-to-alice-huang-report/4140762",
+                  "title": "Nvidia Blackwell chips found at China data center linked to Alice Huang: Report"
+                },
+                {
+                  "outlet": "Business Today",
+                  "url": "https://www.businesstoday.in/world/story/nvidia-blackwell-chips-shanghai-data-centre-alice-huang-megaspeed-570043-2026-11-27",
+                  "title": "Nvidia Blackwell chips surface at Shanghai data centre linked to blacklisted Megaspeed: Report"
+                }
+              ]
+            },
+            {
+              "title_ko": "한은 \"반도체·AI 호황이 2027년 성장 1.2%p 끌어올려\"…칩 충격 땐 성장률 3.4%로 둔화 가능",
+              "title_orig": "BOK projects $540b current account surplus next year, raises growth forecast to 4.1%",
+              "summary": "한국은행은 반도체·AI 호황이 내년 성장률을 1.2%p 끌어올린다고 보고 2027년 성장률 전망을 2.9%에서 4.1%로 올렸다. 올해 경상수지 흑자는 5,000억 달러, 내년은 5,400억 달러로 전망했다. 반도체 충격이 겹치면 내년 성장률이 약 3.4%로 0.7%p 낮아질 수 있다는 하방 시나리오도 제시했다.",
+              "published": "2026-11-26",
+              "event_date": "2026-11-26",
+              "links": [
+                {
+                  "outlet": "The Herald Business",
+                  "url": "https://mbiz.heraldcorp.com/article/10950707",
+                  "title": "BOK projects $540b current account surplus next year, raises growth forecast to 4.1%"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        }
+      ],
+      "note": ""
+    }
+  ]
+}

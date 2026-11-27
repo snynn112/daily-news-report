@@ -1,0 +1,171 @@
+{
+  "date": "2026-11-28",
+  "part": 1,
+  "generatedAt": "2026-11-28T05:10:00+09:00",
+  "sections": [
+    {
+      "id": "asia-pacific",
+      "part": "2. 권역별 뉴스",
+      "name": "1) 아시아-태평양",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [
+            {
+              "title_ko": "이재명 대통령 지지율 41%, 2주 연속 상승…부정 평가 50%",
+              "title_orig": "Lee's approval rating rises for 2nd straight week: poll",
+              "summary": "한국갤럽이 24~26일 성인 1,000명을 조사한 결과 이재명 대통령의 직무 긍정 평가는 41%로 1%포인트 올라 2주 연속 상승했고, 부정 평가는 50%였다. 긍정률은 10월 중순 이후 7주째 39~41% 범위에 머물렀다. 정당 지지도는 더불어민주당 37%, 국민의힘 30%로 격차가 7%포인트로 좁혀졌으며, 대법원의 한덕수 전 총리 형량 일부 파기에 대해서는 46%가 부정적으로 답했다.",
+              "published": "2026-11-27",
+              "event_date": "2026-11-26",
+              "figure": "41% (한국갤럽, 11월 4주차 직무 긍정률)",
+              "source": "한국갤럽",
+              "links": [
+                {
+                  "outlet": "The Korea Herald",
+                  "url": "https://www.koreaherald.com/article/10951463",
+                  "title": "Lee's approval rating rises for 2nd straight week: poll"
+                }
+              ]
+            },
+            {
+              "title_ko": "민주당 윤리심판원, 최민희 의원 당원 자격 2년 정지 결정",
+              "title_orig": "DP lawmaker handed 2-yr suspension of party membership over remarks on Lee",
+              "summary": "더불어민주당 윤리심판원이 27일 이재명 대통령 관련 발언을 이유로 최고위원인 최민희 의원에게 당원 자격 정지 2년을 의결했다고 여러 관계자가 전했다. 징계가 확정되면 2028년 총선에서 민주당 공천을 받을 수 없다. 최 의원은 결정을 받아들이기 어렵다는 입장이며 통보 후 7일 안에 재심을 청구할 수 있다. 사안은 김민석 대표 측과 정청래 전 대표 측 사이의 당내 갈등과 맞물려 있다.",
+              "published": "2026-11-27",
+              "event_date": "2026-11-27",
+              "links": [
+                {
+                  "outlet": "The Korea Herald",
+                  "url": "https://www.koreaherald.com/article/10952259",
+                  "title": "DP lawmaker handed 2-yr suspension of party membership over remarks on Lee"
+                }
+              ]
+            },
+            {
+              "title_ko": "일본·중국, 센카쿠(댜오위다오) 인근 해경선 접근 두고 서로 영해 침범 주장",
+              "title_orig": "Japan and China trade accusations over ships incident",
+              "summary": "일본 해상보안청은 26일 오전 중국 해경선 2척이 센카쿠 인근 일본 영해에 들어와 일본 어선에 접근했다며 거듭 퇴거를 경고했다고 밝혔다. 올해 중국 선박이 이 해역에서 일본 어선에 접근한 것은 다섯 번째다. 중국 외교부 궈자쿤 대변인은 엄중히 항의했다면서 중국 해경이 법에 따라 필요한 통제 조치를 했다고 맞섰다. 7월에도 양국 해경이 대치한 바 있다.",
+              "published": "2026-11-27",
+              "event_date": "2026-11-26",
+              "links": [
+                {
+                  "outlet": "Taipei Times",
+                  "url": "https://www.taipeitimes.com/News/front/archives/2026/11/27/2003868473",
+                  "title": "Japan and China trade accusations over ships incident"
+                }
+              ]
+            },
+            {
+              "title_ko": "한국 'K-라이스벨트' 사업, 아프리카 8개국 참여 농가 생산성 2배 이상",
+              "title_orig": "South Korea reviews African rice aid program as farm productivity doubles",
+              "summary": "한국 정부는 27일 서울에서 열린 성과 점검 회의에서 K-라이스벨트 사업이 참여 8개국 쌀 농가의 평균 생산성을 두 배 넘게 끌어올렸다고 밝혔다. 이 사업은 2023년 가나에서 시작해 감비아·기니·세네갈·우간다·카메룬·케냐로 넓어졌고 올해 시에라리온이 합류했다. 내년부터 가나를 시작으로 종자 생산 단지가 문을 열 예정이다.",
+              "published": "2026-11-27",
+              "event_date": "2026-11-27",
+              "links": [
+                {
+                  "outlet": "The Korea Herald",
+                  "url": "https://www.koreaherald.com/article/10951963",
+                  "title": "South Korea reviews African rice aid program as farm productivity doubles"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [],
+          "note": ""
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [],
+          "note": ""
+        },
+        {
+          "name": "사건사고",
+          "items": [],
+          "note": ""
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "china",
+      "part": "2. 권역별 뉴스",
+      "name": "2) 중국",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [
+            {
+              "title_ko": "중국 국무원, '국가대표팀' 투자자 역할 확대 촉구…상하이 지수 4% 급등",
+              "title_orig": "China cabinet calls for greater role by 'national team' investors to steady sinking markets",
+              "summary": "리창 총리가 27일 주재한 국무원 상무회의는 국유 자금 투자자인 이른바 '국가대표팀'이 더 큰 역할을 하라고 주문했다. 중앙후이진은 사실상 안정기금 역할을 하며 시장 혼란기에 유동성을 공급하게 된다. 이날 중국 대표 지수는 4% 올라 2년 만에 최대 상승폭을 기록했지만 시장은 여전히 16개월 저점 부근이다. 로이터는 해설 기사에서 CSI300이 6월 말 이후 약 20% 하락했고, 전문가들은 이 조치의 효과를 신호 효과 중심으로 보면서 반등 지속에는 회의적이라고 전했다.",
+              "published": "2026-11-27",
+              "event_date": "2026-11-27",
+              "links": [
+                {
+                  "outlet": "The Standard",
+                  "url": "https://www.thestandard.com.hk/finance/article/349834/China-cabinet-calls-for-greater-role-by-national-team-investors-to-steady-sinking-markets",
+                  "title": "China cabinet calls for greater role by 'national team' investors to steady sinking markets"
+                },
+                {
+                  "outlet": "The Standard",
+                  "url": "https://www.thestandard.com.hk/finance/article/349865/What-is-Chinas-national-team-and-can-it-stop-the-stock-market-slide",
+                  "title": "What is China's 'national team' and can it stop the stock market slide?"
+                }
+              ]
+            }
+          ],
+          "note": ""
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [],
+          "note": ""
+        },
+        {
+          "name": "사건사고",
+          "items": [],
+          "note": ""
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "usa",
+      "part": "2. 권역별 뉴스",
+      "name": "3) 미국",
+      "groups": [
+        {
+          "name": "정치 및 외교",
+          "items": [],
+          "note": ""
+        },
+        {
+          "name": "경제",
+          "items": [],
+          "note": ""
+        },
+        {
+          "name": "사회 및 문화",
+          "items": [],
+          "note": ""
+        },
+        {
+          "name": "사건사고",
+          "items": [],
+          "note": ""
+        }
+      ],
+      "note": ""
+    }
+  ],
+  "notes": []
+}

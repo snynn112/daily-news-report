@@ -1,7 +1,7 @@
 # Daily News Report 작성 지침
 
-이 저장소는 스케줄러 앱(https://workingtorchscheduletracker.netlify.app)의 `Daily News Report` 탭이 읽는 리포트 보관함이다.
-매일 새벽 Claude 예약 작업 3개가 이 지침에 따라 리포트를 만들어 올린다. 예약 작업은 이 파일을 먼저 끝까지 읽고 그대로 따른다.
+이 저장소는 스케줄러 앱(https://workingtorch-scheduler.netlify.app)의 `Daily News Report` 탭이 읽는 리포트 보관함이다.
+매일 새벽 Claude 예약 작업 4개가 이 지침에 따라 리포트를 만들어 올린다. 예약 작업은 이 파일을 먼저 끝까지 읽고 그대로 따른다.
 
 - 날짜 기준: 한국 시간(Asia/Seoul). `DATE`는 실행 시점의 한국 날짜 `YYYY-MM-DD`.
 - 리포트 제목: `YYYY. MM. DD. Daily News Report` (예: `2026. 11. 22. Daily News Report`)
@@ -11,18 +11,19 @@
 
 | 단계 | 시각(KST) | 담당 | 결과 파일 |
 |---|---|---|---|
-| part1 | 04:43 | 권역 ① 아시아-태평양, ② 중국, ③ 미국 | `parts/DATE-part1.json` |
-| part2 | 05:17 | 권역 ④ 유럽(동유럽, 서유럽), ⑤ 중동, ⑥ 아프리카 | `parts/DATE-part2.json` |
-| part3 | 05:51 | 헤드라인, 경제, 기술과학 + part1·part2를 합쳐 최종 리포트 완성 | `reports/DATE.json`, `index.json` |
+| part1 | 04:13 | 권역 ② 중국, ③ 미국 (주요국 심층, 3-1절) | `parts/DATE-part1.json` |
+| part2 | 04:47 | 권역 ① 아시아-태평양, ④ 유럽(동유럽, 서유럽) (주요국 심층, 3-1절) | `parts/DATE-part2.json` |
+| part3 | 05:21 | 권역 ⑤ 중남미, ⑥ 중동, ⑦ 아프리카 | `parts/DATE-part3.json` |
+| part4 | 05:55 | 헤드라인, 경제, 기술과학 + part1~3을 합쳐 최종 리포트 완성 | `reports/DATE.json`, `index.json` |
 
 공통 절차:
 1. `git pull` 로 최신 상태를 받는다.
-2. **멱등성:** `reports/DATE.json`이 이미 있고 `status`가 `complete`면 아무것도 하지 않고 끝낸다. 자기 단계의 `parts/` 파일이 이미 있으면 그 단계는 다시 하지 않는다(part3은 합치기만 다시 할 수 있다).
+2. **멱등성:** `reports/DATE.json`이 이미 있고 `status`가 `complete`면 아무것도 하지 않고 끝낸다. 자기 단계의 `parts/` 파일이 이미 있으면 그 단계는 다시 하지 않는다(part4는 합치기만 다시 할 수 있다).
 3. 조사·작성 후 결과 파일과 `runs/DATE.json`(자기 단계 항목만 갱신)을 커밋하고 `main`에 푸시한다. 커밋 메시지: `DATE partN` 형식.
 4. 푸시가 충돌하면 `git pull --rebase` 후 한 번 더 푸시한다.
 
-part3 추가 절차:
-- `parts/DATE-part1.json`, `parts/DATE-part2.json`이 없으면 빠진 권역을 직접 조사해 채운다(그룹당 최소 3건 목표). 시간이 모자라 못 채운 권역은 그룹 `items`를 비워 두고 `status`를 `partial`로 하며, 사유는 `runs/DATE.json`과 리포트 최상위 `notes`에만 적는다.
+part4 추가 절차:
+- `parts/DATE-part1.json`~`parts/DATE-part3.json` 중 없는 것이 있으면 빠진 권역을 직접 조사해 채운다(그룹당 최소 3건 목표). 시간이 모자라 못 채운 권역은 그룹 `items`를 비워 두고 `status`를 `partial`로 하며, 사유는 `runs/DATE.json`과 리포트 최상위 `notes`에만 적는다.
 - 최종 `reports/DATE.json`을 만들고 `index.json`의 `dates` 맨 앞에 DATE를 추가(중복 금지), `latest`와 `updated`를 갱신한다.
 - 마지막 응답(예약 작업 알림에 표시됨)은 한국어 3줄 이내: 상태, 기사 수, 빈 칸 수.
 
@@ -37,14 +38,17 @@ part3 추가 절차:
 | 국제 전반 | Reuters, BBC, The Guardian, The New York Times, The Washington Post, The Wall Street Journal, Financial Times, The Economist, Bloomberg, Al Jazeera, Euronews, NPR, PBS NewsHour, CNN, ABC News, CBS News, NBC News, DW, France 24, Le Monde |
 | 아시아-태평양·중국 | South China Morning Post, Nikkei Asia, NHK, Kyodo, The Japan Times, Caixin, The Straits Times, ABC(호주), The Hindu, Channel NewsAsia |
 | 한국 | Korea JoongAng Daily, The Korea Herald, The Korea Times, KBS, 조선·중앙·동아·한겨레·경향, 한국경제·매일경제, 정부 정책브리핑(korea.kr) |
-| 미국 정치 | The Hill, Axios, NPR, PBS, 주요 방송사 본사 기사 |
+| 미국 정치 | The Hill, Axios, NPR, PBS, NYT, Washington Post, 주요 방송사 본사 기사, 여론조사 기관(Gallup, Pew Research, YouGov, Ipsos, Quinnipiac 등) |
+| 중국 내정 | SCMP, Caixin, Reuters, Bloomberg, FT, Nikkei Asia, BBC, 신화·인민일보(당국 발표 확인용, 단독 출처 금지) |
+| 영국·독일·프랑스 등 서유럽 내정 | BBC, The Guardian, FT, The Times, Sky News, DW, Der Spiegel, FAZ, Tagesschau, Le Monde, France 24, Le Figaro, 여론조사 기관(YouGov, Ipsos, Infratest dimap, Forsa, IFOP, Elabe 등) |
+| 중남미 | Reuters, BBC Mundo, El País, MercoPress, Americas Quarterly, Buenos Aires Times, Folha de S.Paulo, O Globo, El Universal, Clarín, La Nación |
 | 중동·아프리카 | Al Jazeera, BBC, Reuters, The National, Times of Israel, Haaretz, Africa News, Daily Maverick, The East African |
 | 경제·시장 | Bloomberg, Reuters, Financial Times, WSJ, CNBC, Nikkei, 각국 정부·중앙은행·통계기관 발표 |
 | 기술과학 | TLDR(우선), WIRED, Ars Technica, The Verge, MIT Technology Review, Nature·Science 뉴스 |
 
 - **접근이 막힌 매체:** AP News, POLITICO, 연합뉴스는 Claude의 검색·열람 도구에서 차단되어 있다. 웹 검색 `allowed_domains`에 넣지 않는다(검색 요청 전체가 거부됨). 일반 검색 결과에 이들 원문 주소가 직접 나오면 쓰되, **재게재 사이트·캐시·미러로 우회하지 않는다.**
 - 검색은 기본적으로 `allowed_domains` 없이 하고 결과에서 신뢰 매체 기사만 고른다. 특정 매체를 좁혀 찾고 싶으면 접근 가능한 도메인만 `allowed_domains`에 넣는다.
-- **한 매체 쏠림 금지:** 한 매체가 리포트 전체 링크의 25%를 넘지 않게 하고, 한 그룹(3~5건)의 기사가 모두 같은 매체에서 나오지 않게 한다. 권역 기사는 가능하면 그 지역 사정에 밝은 매체와 국제 통신·방송을 섞는다.
+- **한 매체 쏠림 금지:** 한 매체가 리포트 전체 링크의 25%를 넘지 않게 하고, 한 그룹의 기사가 모두 같은 매체에서 나오지 않게 한다. 권역 기사는 가능하면 그 지역 사정에 밝은 매체와 국제 통신·방송을 섞는다.
 - 유료 기사(Bloomberg, FT, WSJ 등)는 공개된 제목·요약만 이용하고 구독 제한을 우회하지 않는다. 링크는 원문 주소.
 
 ### 2-2. 쓰지 않는 출처
@@ -60,7 +64,13 @@ part3 추가 절차:
 
 - 직전 24시간 보도를 우선하고, 최대 48시간까지만 쓴다. 그보다 오래된 기사는 쓰지 않는다(큰 사건의 최신 후속 보도는 예외). 48시간 안에 3건이 정말 없으면 있는 만큼만 쓴다.
 
-### 2-4. 웹페이지 여는 방법 (중요)
+### 2-4. 최신 기사 찾는 법
+
+- **최신 뉴스는 웹 검색 `mode: "extended"`로 찾는다.** 기본(standard) 검색 색인은 며칠 늦을 수 있어 24~48시간 안 기사가 잘 나오지 않는다. 검색어에 날짜(예: `November 27 2026`)나 `today`, 사건 핵심어를 넣는다.
+- 지시문의 시작 주소가 `PROVENANCE_REQUIRED`나 시간초과로 열리지 않으면 다시 시도하지 말고 바로 검색으로 넘어간다. 검색 결과에 나온 기사 주소는 열 수 있다.
+- 3-1절 주요국은 나라·그룹마다 따로 검색한다(예: `UK politics poll`, `Bundestag bill vote`, `Assemblée nationale budget`, `China State Council policy`, `US Senate bill`). 여러 나라를 한 검색어로 묶지 않는다.
+
+### 2-5. 웹페이지 여는 방법 (중요)
 
 - **주소를 직접 만들거나 추측해서 열지 않는다.** 자동 실행에서는 권한 확인을 받을 수 없어 실패한다(PROVENANCE_REQUIRED).
 - 웹페이지는 (1) 예약 작업 지시문에 적힌 주소, (2) 웹 검색 결과에 나온 주소, (3) 이미 연 페이지 안의 링크만 연다.
@@ -69,7 +79,7 @@ part3 추가 절차:
 
 ## 3. 기사 선정·작성 원칙
 
-- 세부 카테고리(그룹)마다 **중요도순 최소 3개, 최대 5개**. 검색 범위가 넓으니 여러 매체를 충분히 확인한 뒤 고른다. 검색이 부족하다는 이유로 줄이지 않는다.
+- 세부 카테고리(그룹)마다 **중요도순 최소 3개, 최대 5개**. 단 `china`, `usa`, `asia-pacific`, `eu-west` 섹션의 그룹은 **최대 8개**까지 쓴다(3-1절). 검색 범위가 넓으니 여러 매체를 충분히 확인한 뒤 고른다. 검색이 부족하다는 이유로 줄이지 않는다.
 - 정말 관련 보도가 없을 때만 `items`를 빈 배열로 둔다(앱에서 그 칸은 자동으로 숨겨진다).
 - **앱에는 기사만 보인다.** 섹션·그룹의 `note`는 항상 빈 문자열 `""`로 둔다. 조사 경위·빈 칸 사유·대체 내역 같은 작업 메모는 `runs/DATE.json`의 `notes`에만 적는다.
 - **요약에도 작업 메모를 쓰지 않는다.** "확인하지 못했다", "~로 대체함", "배경으로 포함함", "며칠 전 기사로", "재게재본" 같은 조사 과정 설명이나 매체 사정은 `summary`·`title_ko`에 넣지 않는다. 요약은 뉴스 내용만 담는다.
@@ -79,6 +89,20 @@ part3 추가 절차:
 - 경제 지표 수치는 경제 섹션의 `dashboard` 표에 모은다(4절 '경제 지표표'). 기사 항목의 `figure`·`source`는 기사 내용상 꼭 필요한 수치에만 쓴다.
 - `title_orig`은 원문 제목 그대로, `title_ko`는 한국어 제목. 링크는 반드시 **기사 페이지로 직접 연결되는 URL**(홈페이지·검색 결과 링크 금지). 링크는 실제로 열어 보거나 검색 결과에서 확인한 것만 쓴다.
 - 요약(`summary`)은 한국어 2~3문장, 자기 말로 쓴다. 원문 문장을 옮겨 적지 않는다(인용은 15단어 미만, 기사당 1회 이내).
+
+### 3-1. 주요국 국내 상황 심층 조사
+
+미국, 중국, 영국, 독일, 프랑스와 그 밖의 OECD 회원국(일본, 이탈리아, 스페인, 캐나다, 호주, 네덜란드, 폴란드, 멕시코, 칠레, 이스라엘, 튀르키예 등)은 **한국 뉴스를 다루듯 국내 정치·경제·사회문화를 자세히** 조사한다. 따로 섹션을 만들지 않고, 각 나라가 속한 권역 섹션의 그룹에 넣는다(캐나다는 `usa` 섹션, 멕시코·칠레·콜롬비아·코스타리카는 `latam`, 튀르키예는 `eu-east`, 이스라엘은 `middle-east`). 뉴스거리가 있을 때만 넣고, 없는데 억지로 채우지 않는다.
+
+- **정치 및 외교** 그룹에서 국내 정치를 빠뜨리지 않는다.
+  - 선거: 대선·총선·지방선거·보궐선거·국민투표 일정과 결과, 후보 등록·경선·후보 토론, 당 대표·지도부 경선
+  - 여론: 대통령·총리 국정 지지율, 정당 지지도, 주요 쟁점 여론. 조사 기관명, 조사 기간, 수치를 함께 쓰고, 조사 하나를 대세처럼 단정하지 않는다(가능하면 여러 조사를 비교).
+  - 입법·정책 갈등: 법안 발의·상정·표결·거부권, 예산안·부채한도·셧다운, 연정 협상과 붕괴, 불신임, 개각, 위헌 판결·주요 소송, 여야 충돌
+  - 중국: 당·정 인사, 중앙위 전체회의·전인대 입법, 반부패 조사, 지방 정책, 홍콩·대만 관련 국내 조치
+- **경제** 그룹: 예산·세제·재정 적자, 고용·임금·물가 대책, 부동산, 산업·통상 정책, 파업과 노사 협상, 대형 기업 이슈
+- **사회 및 문화** 그룹: 이민·난민, 교육, 보건·의료, 치안·사법 제도, 시위, 인권, 문화·종교 논쟁
+- 정치 기사는 중립적으로 쓴다. 각 진영의 주장은 누가 한 말인지 밝혀 전하고, 평가나 전망은 출처가 한 것만 옮긴다.
+- 이 나라들의 그룹은 최대 8개까지 쓸 수 있다(3절).
 
 ## 4. 파일 형식
 
@@ -99,7 +123,7 @@ part3 추가 절차:
 
 ### 그룹 (group)
 ```json
-{ "name": "정치 및 외교", "items": [ /* item 3~5개 */ ], "note": "" }
+{ "name": "정치 및 외교", "items": [ /* item 3~5개, 주요국 섹션은 3~8개 */ ], "note": "" }
 ```
 
 ### 섹션 (section)
@@ -116,8 +140,9 @@ part3 추가 절차:
 | usa | 2. 권역별 뉴스 | 3) 미국 | (같음) |
 | eu-east | 2. 권역별 뉴스 | 4) 유럽 (1) 동유럽 | (같음) |
 | eu-west | 2. 권역별 뉴스 | 4) 유럽 (2) 서유럽 | (같음) |
-| middle-east | 2. 권역별 뉴스 | 5) 중동 | (같음) |
-| africa | 2. 권역별 뉴스 | 6) 아프리카 | (같음) |
+| latam | 2. 권역별 뉴스 | 5) 중남미 | (같음) — 중앙아메리카·카리브·남아메리카 |
+| middle-east | 2. 권역별 뉴스 | 6) 중동 | (같음) |
+| africa | 2. 권역별 뉴스 | 7) 아프리카 | (같음) |
 | economy | 3. 경제 | 경제 | (맨 앞에 `dashboard` 지표표) + 헤드라인 · 한국 주식시장 · 미국 주식시장 · 주요 기업 |
 | tech | 4. 기술과학 | 기술과학 | 주요 기사 (TLDR 우선, WIRED 보완, 5~8개) |
 
@@ -163,7 +188,7 @@ row: `{ "name": "소비자물가 상승률(전년동월비)", "value": "2.8%", "
   "status": "complete | partial | failed",
   "counts": { "items": 0, "emptyGroups": 0 },
   "notes": ["(앱에는 표시되지 않는 작업 기록) TLDR 2026-11-21호 없음(주말): 직전 호와 Ars Technica로 보완"],
-  "sections": [ /* 위 표 순서대로 10개 */ ]
+  "sections": [ /* 위 표 순서대로 11개 */ ]
 }
 ```
 
@@ -173,7 +198,8 @@ row: `{ "name": "소비자물가 상승률(전년동월비)", "value": "2.8%", "
   "date": "DATE",
   "part1": { "status": "ok | partial | failed", "startedAt": "", "finishedAt": "", "notes": [] },
   "part2": { "status": "", "startedAt": "", "finishedAt": "", "notes": [] },
-  "part3": { "status": "", "startedAt": "", "finishedAt": "", "notes": [] }
+  "part3": { "status": "", "startedAt": "", "finishedAt": "", "notes": [] },
+  "part4": { "status": "", "startedAt": "", "finishedAt": "", "notes": [] }
 }
 ```
 
@@ -185,7 +211,7 @@ row: `{ "name": "소비자물가 상승률(전년동월비)", "value": "2.8%", "
 ## 5. 점검 (푸시 전)
 
 - JSON이 문법적으로 올바른지 확인한다(`python3 -m json.tool`).
-- 그룹마다 items 3~5개인지 확인한다. 모든 섹션·그룹의 `note`가 빈 문자열인지, `summary`에 조사 과정 메모가 섞이지 않았는지 확인한다.
+- 그룹마다 items 3~5개(china·usa·asia-pacific·eu-west는 3~8개)인지 확인한다. 모든 섹션·그룹의 `note`가 빈 문자열인지, `summary`에 조사 과정 메모가 섞이지 않았는지 확인한다.
 - 모든 item에 `links`가 1개 이상 있고 URL이 `https://`로 시작하며 기사 페이지 주소인지 확인한다.
 - 링크 도메인 분포를 세어 한 매체가 25%를 넘지 않는지, 2-2의 '쓰지 않는 출처'가 섞이지 않았는지 확인하고, 걸리면 2-1의 신뢰 매체 기사로 바꾼다.
 - 경제 `dashboard`에 한국·미국·세계 표가 모두 있고, 각 행에 `value`·`period`·`source`·`url`이 있는지 확인한다.
